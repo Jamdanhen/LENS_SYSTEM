@@ -4,6 +4,7 @@ Version: 0.1
 Package: Version One Draft Package
 Status: Internal system baseline draft; not final rules
 Date: 2026-08-21
+Updated: 2026-08-22
 Authority: C:\LENS-SYSTEM
 
 ---
@@ -468,7 +469,7 @@ Classification defines possibility and permission.
 
 It may establish:
 
-- available Attribute Expressions;
+- available Derived Attributes;
 - innate capabilities;
 - default assumptions;
 - natural limitations;
@@ -846,7 +847,7 @@ Attribute
 ↓
 Scale
 ↓
-Attribute Expression
+Derived Attribute
 ↓
 Skill
 ↓
@@ -870,8 +871,8 @@ How much broad potential is available through this locus?
 Scale
 At what natural scope or magnitude is it expressed?
 
-Attribute Expression
-How does the Attribute generally manifest?
+Derived Attribute
+What focused part of the Attribute is being expressed?
 
 Skill
 What has the character learned to do?
@@ -938,7 +939,7 @@ horror, fantasy, science-fiction, and extraordinary-character use.
 
 ---
 
-## Attribute Expression, Skill, and Specialization
+## Derived Attribute, Skill, and Specialization
 
 Status:
 
@@ -949,7 +950,7 @@ WORKING LOCK FOR CURRENT CONSTRUCTION TESTS
 Current stable narrowing layers:
 
 ```text
-Attribute Expression
+Derived Attribute
 Skill
 Specialization
 ```
@@ -970,11 +971,78 @@ x1.0, x1.1, x1.2, x1.3, x1.4, x1.5, x1.6, x1.7, x1.8, x1.9, x2.0
 The exact mapping between zero investment, rank numbering, and displayed
 character-sheet values still needs formal wording.
 
+### Rank Ceiling and Heroic Over-Cap Question
+
+Status:
+
+```text
+RETAINED FOR LATER MATHEMATICAL TESTING
+NOT ADOPTED
+```
+
+The current working construction language distinguishes:
+
+```text
+Attribute Rating
+Currently rated from 1 to 10 as the broad numerical base.
+
+Stable Lens Rank
+Currently rated from 0 to 10, producing modifiers from x1.0 through x2.0.
+```
+
+The current `10` ceiling may be:
+
+```text
+an absolute universal maximum;
+
+a standard campaign maximum;
+
+or a normal maximum that particular campaign realities, Classifications, or
+permission-bearing Lenses may exceed.
+```
+
+The third possibility must be tested because heroic characters may need to
+develop extreme Attribute Ratings, Derived Attributes, or HOLT Axes without
+changing their natural Scale.
+
+Under that possibility:
+
+```text
+A character does not become god-Scale merely because one or more capabilities
+exceed Rank 10.
+
+The character remains inside the existing Scale frame but may focus enough
+capability to meaningfully affect, resist, or challenge something operating at
+a higher Scale.
+```
+
+This may allow heroic or mythic characters to threaten higher-Scale opposition
+without granting them the opposition's natural scope, perspective, reach, or
+routine capability.
+
+Required tests:
+
+- whether Attribute Ratings may exceed 10;
+- whether stable Lens ranks may exceed 10 and continue adding x0.1 per rank;
+- whether Derived Attribute and HOLT Axis ceilings remain
+  linked above Rank 10;
+- whether over-cap access comes from campaign calibration, Classification,
+  another Lens, or a common rule;
+- how over-cap stacks interact with Difficulty and cross-Scale opposition;
+- whether multiplication across several over-cap Lenses inflates Final
+  Expression too quickly;
+- whether Overflow or another effect procedure is required above ordinary
+  success thresholds;
+- how advancement cost and maximum rank should scale.
+
+No over-cap progression, cost, permission rule, or maximum is currently
+selected.
+
 Conceptual distinction:
 
 ```text
-Attribute Expression
-Broad manifestation of an Attribute.
+Derived Attribute
+Stable, focused capability within a parent Attribute.
 
 Skill
 Learned field of action.
@@ -982,6 +1050,236 @@ Learned field of action.
 Specialization
 Narrow mastered application.
 ```
+
+### Derived Attribute Chassis
+
+Status:
+
+```text
+LOCKED FOR THE CURRENT SYSTEM BASELINE
+SUBJECT TO DELIBERATE REVISION DURING DEVELOPMENT
+```
+
+`Derived Attribute` is the adopted name for the stable construction layer
+previously called `Attribute Expression`.
+
+This is a terminology refinement, not an additional layer.
+
+`Expression` remains the broader system term for the action or capability
+ultimately produced through the full Lens stack.
+
+Current stack:
+
+```text
+Character
+↓
+Classification
+↓
+Attribute
+↓
+Scale
+↓
+Derived Attribute
+↓
+Skill
+↓
+Specialization
+=
+Base Expression
+```
+
+The current chassis contains five Derived Attributes beneath each of the four
+working Attributes.
+
+```text
+MIGHT
+
+Strength
+Physical force generated.
+
+Toughness
+Physical coherence under direct trauma, impact, or deformation.
+
+Resistance
+Maintenance of bodily function against imposed physical, environmental, or
+systemic conditions.
+
+Vigor
+Sustained active physical exertion and output.
+
+Resilience
+Return toward physical baseline after disruption.
+
+MOBILITY
+
+Movement
+Physical relocation through an available movement form.
+
+Maneuverability
+Alteration of course, direction, orientation, or bodily configuration during
+movement.
+
+Stability
+Maintenance of orientation, footing, trajectory, or position against
+disruption.
+
+Coordination
+Synchronization of deliberate physical movements.
+
+Responsiveness
+Physical adjustment to developing circumstances.
+
+PSYCHE
+
+Cognition
+Deliberate thought, reasoning, analysis, comparison, and calculation.
+
+Learning
+Acquisition, comprehension, retention, and recall of information.
+
+Awareness
+Reception of and attention to information.
+
+Insight
+Interpretation of information and recognition of meaning, relationships, and
+patterns.
+
+Resolve
+Maintenance of internal direction against fear, distraction, coercion,
+temptation, pain, or confusion.
+
+INFLUENCE
+
+Presence
+The degree to which the Character registers outwardly before communicating a
+specific message or attempting a specific change.
+
+Projection
+Deliberate outward transmission of internal content or capability.
+
+Connection
+Establishment and maintenance of a meaningful outward relationship.
+
+Manipulation
+Change imposed upon an external attitude, belief, emotion, decision, or other
+applicable state.
+
+Control
+Direction, regulation, or maintenance of an external actor, relationship, or
+effect when access is available.
+```
+
+### In-Game Use Criterion
+
+Each Derived Attribute must earn its place through recognizable in-game use.
+
+A Derived Attribute should:
+
+- support recurring actions that a player may reasonably attempt;
+- perform a distinct function from neighboring Derived Attributes;
+- apply across multiple Skills, situations, and genres;
+- measure something belonging to the Character rather than the player's own
+  creativity or knowledge;
+- remain broader than a Skill or technique;
+- remain narrower than its parent Attribute;
+- support both ordinary and extraordinary applications when another Lens
+  supplies any required permission.
+
+### Latent Use Rule
+
+All twenty Derived Attributes establish a consistent system vocabulary.
+
+They are not twenty mandatory separate ratings on every character.
+
+```text
+An undeveloped Derived Attribute remains part of its parent Attribute.
+
+The Character uses the parent Attribute normally.
+
+A Derived Attribute becomes separately relevant when the Character invests in
+that narrower focus or another Lens specifically modifies it.
+```
+
+The absence of separate investment does not create a deficiency.
+
+Exact rating math, advancement cost, character-sheet display, and Higher-Order
+Lens routing remain unresolved.
+
+### Permission Boundary
+
+A Derived Attribute focuses capability.
+
+It does not independently grant an extraordinary permission.
+
+Examples:
+
+```text
+High Strength does not by itself permit catching a mountain.
+
+High Resilience does not by itself permit supernatural regeneration.
+
+High Movement does not by itself permit flight.
+
+High Projection does not by itself permit telepathy or energy projection.
+
+High Control does not by itself permit control of minds, water, spirits, or
+another otherwise unavailable subject.
+```
+
+Classification, a Higher-Order Lens, an Artifact, or another applicable Lens
+must establish any extraordinary permission.
+
+### Derivative Locus Inheritance Rule
+
+Status:
+
+```text
+LOCKED
+```
+
+```text
+A derivative inherits the locus of its parent Attribute.
+
+Its name does not extend its applicability beyond that locus.
+```
+
+A derivative focuses a narrower part of the parent Attribute.
+
+It does not become a free-standing keyword that may be moved to another
+Attribute because the same word can be used metaphorically in ordinary
+language.
+
+Examples:
+
+```text
+Might → Resistance
+
+Applies to internal physical resistance.
+
+It does not resist fear, telepathy, coercion, deception, or another mental or
+social influence merely because all of those things may be "resisted."
+
+Might → Strength
+
+Does not become strength of will merely because both expressions use the word
+"strength."
+
+Mobility → Precision
+
+Does not become precise reasoning merely because both expressions use the word
+"precision."
+
+Influence → Presence
+
+Does not apply to an action merely because the Character is physically
+present.
+```
+
+Cross-locus expression remains possible only when another applicable Lens
+establishes the relationship to the other locus.
+
+Wordplay, metaphor, or a shared label does not establish that relationship by
+itself.
 
 ---
 
@@ -1552,6 +1850,101 @@ Exposure is not automatic Dissonance.
 No Primary/Secondary multiplier formula, contribution limit, team formula, or
 stacking ceiling is adopted.
 
+### Combined Axes Within One HOLT
+
+Status:
+
+```text
+CONCEPTUALLY LOCKED
+```
+
+A single manifestation uses its applicable Axis.
+
+When one manifestation genuinely requires several Axes from the same HOLT, the
+Axis Ranks do not stack. The lowest required Axis Rank controls the HOLT
+contribution to the combined manifestation.
+
+Example:
+
+```text
+Sea → Movement Rank 4
+Sea → Control Rank 2
+
+Ride a wave:
+Movement Rank 4 applies.
+
+Ride the wave while using it to attack:
+Movement and Control are both required.
+The controlling HOLT contribution is Rank 2.
+```
+
+This bottleneck rule preserves the mechanical relevance of each Derived
+Attribute. Adding another manifestation may expand what an action accomplishes,
+but it does not create a free stacked modifier.
+
+An Open, unranked required Axis permits the combined manifestation without
+providing a HOLT-derived modifier. A Closed required Axis prevents the combined
+manifestation.
+
+Only Axes genuinely required by the declared manifestation count. Helpful
+wording does not force unrelated Axes into the bottleneck.
+
+### Compound HOLTs
+
+Status:
+
+```text
+ACTIVE DESIGN QUESTION
+NO FINAL PROCEDURE OR MATH
+```
+
+Combining separate HOLTs is not the same as combining several Axes from one
+HOLT.
+
+Current distinctions:
+
+```text
+Primary function
+The principal objective supplied by one HOLT Axis.
+
+Secondary function
+An independently rated effect supplied by another HOLT Axis.
+
+Contextual Resonance
+A contribution that meaningfully agrees with the current objective,
+opposition, or resistance.
+
+Compound exposure
+The additional counterable relationships created by each contributor and by
+their combination.
+```
+
+Example:
+
+```text
+Protection barrier expressed through Fire against ordinary arrows:
+Protection supplies defense.
+Fire may supply heat, ignition, threat, or another secondary effect.
+Fire does not automatically improve defense merely because it is the medium.
+
+The same barrier against a frost attack:
+Fire may also become contextual Resonance because it directly answers the
+current resistance.
+```
+
+Compound capability may increase while compound exposure also increases.
+
+Still unresolved:
+
+- whether compound construction increases chance, effect, available outcomes,
+  or some controlled combination;
+- when a secondary HOLT contributes a modifier rather than only permission or
+  effect;
+- how independently rated secondary effects are resolved;
+- how often contextual alignment creates Resonance;
+- how countering one HOLT changes the residual Expression;
+- whether the relationship between HOLTs can itself be disrupted.
+
 ---
 
 ## Permission Architecture
@@ -1659,8 +2052,7 @@ deriving those permission-bearing Lenses.
 Status:
 
 ```text
-WORKING CANDIDATE
-NOT ADOPTED
+SUPERSEDED BY HOLD, HOLT, AXIS, AND ACCESS ARCHITECTURE
 ```
 
 An Expression Constraint may define the bounded channel through which a broad
@@ -1683,183 +2075,349 @@ Possible functions:
 - establish counters and vulnerabilities;
 - provide a path for broadening, redirection, damage, or restoration.
 
-No mechanical value or mandatory stack position is adopted.
+The useful functions of this candidate are now handled by HOLT thematic
+permission, Axis Access, Access Conditions, and limitations. Expression
+Constraint is not retained as a separate formal layer.
 
 ---
 
-## Generic High-Order Lens Slot
+## Higher-Order Lens Architecture
 
 Status:
 
 ```text
-SETTING-FACING POSITION
-UNNAMED AND UNRESOLVED IN THE GENERIC ENGINE
+CONCEPTUALLY LOCKED
+NUMERICAL VALUES AND PROVISIONING UNRESOLVED
 ```
 
-MOTURPG uses Domain as a high-order setting Lens.
+LENS distinguishes the setting-facing definition of extraordinary capability
+from the character-facing theme expressed through that definition.
 
-Domain is not a universal LENS term.
+The selected architecture is:
 
-Theme was used during discussion as neutral shorthand.
+```text
+Setting
+↓
+HOLD
+Higher-Order Lens Definition
+↓
+HOLT
+Higher-Order Lens Theme
+↓
+Axis
+HOLT relationship to a Derived Attribute
+↓
+Expression
+```
 
-Theme is not adopted as Domain's replacement.
+This architecture replaces the earlier unresolved comparison among a universal
+high-order multiplier, an Attribute matrix, an emergent identity, and bespoke
+power packages.
 
-Other settings might use concepts such as:
-
-- origin;
-- tradition;
-- bloodline;
-- mutation;
-- oath;
-- technology;
-- psionics;
-- divine gift.
-
-These examples identify a possible setting-facing position, not a universal
-list or mandatory layer.
-
----
-
-## High-Order Lens Models Under Test
+### HOLD: Higher-Order Lens Definition
 
 Status:
 
 ```text
-UNRESOLVED
+LOCKED
 ```
 
-### Model A: Attribute Matrix
+A HOLD is the setting-facing definition under which one or more HOLTs exist.
+
+A HOLD may establish:
+
+- how its HOLTs are accessed or acquired;
+- which HOLT themes are permitted;
+- starting HOLT Ranks;
+- HOLT Rank limits;
+- character-creation allocation;
+- advancement rate and cost;
+- training, study, transformation, milestone, or other requirements;
+- available limitations and Access Conditions;
+- shared weaknesses, vulnerabilities, counters, or methods of disruption;
+- how its HOLTs may be removed, replaced, transformed, or restored;
+- the category's meaning within the setting.
+
+A HOLD is mechanical without being a numerical modifier.
 
 ```text
-One high-order concept has a separate rating through each Attribute.
+A HOLD governs access, construction, limits, and setting behavior.
+
+A HOLD does not multiply an Expression.
 ```
 
-Potential value:
+Possible HOLDs are setting dependent.
 
-- differentiated manifestations;
-- uneven character investment;
-- clear Attribute relationship.
+Examples may include:
 
-Risks:
+- Domain;
+- Cybernetics;
+- Sorcery;
+- Mutation;
+- Bloodline;
+- Divine Gift;
+- Oath;
+- Transformation;
+- Artifact Relationship;
+- Creature Nature;
+- a setting-specific class or tradition.
 
-- repeated bookkeeping;
-- unclear relationship to the overall concept;
-- four ratings may duplicate narrower Expressions.
+These are examples of how a setting may define extraordinary capability. They
+are not a mandatory universal list.
 
-### Model B: One Rated High-Order Lens
-
-```text
-One rating multiplies all compatible Attribute Expressions equally.
-Narrower channels determine how it manifests.
-```
-
-Potential value:
-
-- one coherent concept;
-- direct contribution to Base Expression;
-- supports characters whose capabilities share one unifying Lens.
-
-Risks:
-
-- broad multiplier may be too efficient;
-- it may repeat an Attribute;
-- permission, connection, authority, and magnitude may be conflated;
-- it does not yet solve Strength multiplied through Might.
-
-Current assessment:
-
-```text
-Strongest early model, but not adopted.
-```
-
-### Model C: Emergent High-Order Identity
-
-```text
-Narrow Expressions share tags or alignment.
-Repeated alignment creates an emergent coherent identity or Resonance.
-```
-
-Potential value:
-
-- flexible bottom-up construction;
-- avoids paying for an empty top-level label.
-
-Risks:
-
-- the high-order concept may contribute no rating;
-- coherence may become cosmetic;
-- tag recognition and stacking require another procedure.
-
-### Model D: Bespoke Power Catalogue
-
-```text
-Characters purchase discrete power packages with individual permissions and
-rules.
-```
-
-Potential value:
-
-- immediate clarity;
-- explicit permission boundaries.
-
-Risks:
-
-- abandons the one-system principle;
-- creates a book of powers;
-- requires extensive bespoke content;
-- makes the common Lens grammar secondary.
-
-Current assessment:
-
-```text
-Not preferred.
-Retained only as a comparison model.
-```
-
----
-
-## Attribute and High-Order Lens Collision
+### HOLT: Higher-Order Lens Theme
 
 Status:
 
 ```text
-ACTIVE DESIGN PROBLEM
+LOCKED
 ```
 
-Strength is the primary diagnostic case.
+A HOLT is the character-facing, rated Higher-Order Lens that defines a coherent
+field of extraordinary possibility.
 
-Might already includes internal physical capacity such as:
+Examples may include:
 
-- strength;
-- endurance;
-- toughness;
-- durability;
-- recovery-related physical capacity.
+- Sea;
+- Strength;
+- Fire;
+- Perception;
+- Protection;
+- Predation.
 
-A rated Strength high-order Lens multiplied through Might may count the same
-concept twice.
+The examples are not a universal catalogue.
 
-Strength also maps poorly across Mobility, Psyche, and Influence unless its
-meaning is stretched until it becomes a different concept.
+Possessing a HOLT grants thematic permission. Its identity determines what
+kinds of manifestations are coherent, applicable, limited, vulnerable, or
+counterable.
 
-Therefore:
+A HOLT Rank measures the character's overall potential within that Theme and
+sets the maximum Rank of any Axis beneath it.
 
 ```text
-Strength has not been accepted as proof that every extraordinary capability
-needs a rated high-order Lens.
+No Axis Rank may exceed its parent HOLT Rank.
 ```
 
-The same test must be applied to every proposed high-order concept:
+The parent HOLT Rank is not a universal multiplier across every compatible
+Expression. It raises development potential without automatically increasing
+every Axis.
+
+The applicable HOLD and campaign profile determine:
+
+- how many Axis Ranks accompany HOLT acquisition or advancement;
+- whether HOLT acquisition includes any Axis Ranks;
+- starting allocations;
+- advancement cost and speed;
+- setting-specific HOLT and Axis Rank ceilings.
+
+This permits the same engine to support generous, rapidly advancing mythic
+characters and narrower, slower, study-based characters without changing the
+underlying architecture.
+
+### Axis
+
+Status:
 
 ```text
-Does this Lens contribute a distinct permission or coherence?
-
-Or does it merely rename an Attribute or narrower Expression?
+LOCKED
 ```
 
----
+An Axis is the relationship through which a HOLT expresses through one Derived
+Attribute.
 
-## Extraordinary Capability Test Cases
+```text
+HOLT
+→ Axis
+→ Derived Attribute
+```
+
+A HOLT may possess an Axis for any Derived Attribute with which it has a
+coherent thematic relationship.
+
+Examples:
+
+```text
+Sea → Movement
+Sea → Awareness
+Sea → Connection
+Sea → Control
+
+Strength → Strength
+Strength → Movement
+Strength → Stability
+Strength → Projection
+```
+
+Sea and Strength use the same Axis procedure. Their different breadth emerges
+from thematic coherence, available Axes, Access, limitations, and character
+investment rather than separate broad-theme and focused-theme rules.
+
+An Axis is either ranked or unranked.
+
+```text
+Unranked Axis
+The HOLT grants no numerical modifier through the Axis.
+
+Ranked Axis
+The Axis has a numerical Rank.
+The Axis Rank supplies the HOLT-derived modifier when Access permits.
+```
+
+No additional Investment, Development, Focused, or Unfocused status is used.
+Rank itself communicates whether numerical development exists.
+
+### Access
+
+Status:
+
+```text
+LOCKED
+```
+
+Access records whether a HOLT may express through an Axis.
+
+The selected Access states are:
+
+```text
+Open
+The HOLT may express through the Axis.
+
+Condition
+The HOLT may express through the Axis only while its stated Access Condition
+is satisfied.
+
+Closed
+The HOLT cannot express through the Axis.
+```
+
+Access and Rank are independent.
+
+A ranked Axis may have Open or Condition Access. An unranked Axis may also have
+Open or Condition Access.
+
+An Open, unranked Axis grants thematic permission without a HOLT-derived
+modifier. Narrative framing and extraordinary access are not separate rules:
+the HOLT changes what kind of action may be attempted, while the appropriate
+Derived Attribute, Skill, Specialization, Scale, Difficulty, and other Lenses
+still resolve the attempt.
+
+A Closed Axis removes the HOLT's thematic permission through that Derived
+Attribute. Clever narration does not reopen it.
+
+### Limitations and Compensation
+
+Status:
+
+```text
+CONCEPTUALLY LOCKED
+VALUES UNRESOLVED
+```
+
+The same limitation procedure may apply to:
+
+- one Axis;
+- several Axes;
+- an entire HOLT.
+
+The procedure is:
+
+1. Identify the affected HOLT structure.
+2. State whether the limitation closes Access or imposes a Condition.
+3. Identify whether it affects one Axis, several Axes, or the entire HOLT.
+4. Value the meaningful loss of access under the applicable HOLD.
+5. Return development value appropriate to that loss.
+
+Closing an Axis may return HOLD-defined development value that must remain
+inside the same HOLT. Reinvestment may not exceed the parent HOLT Rank.
+
+The applicable HOLD determines the numerical value returned by closed or
+conditional access. Conditional value depends upon how meaningfully the
+condition limits play, including:
+
+- frequency;
+- character control;
+- preparation;
+- vulnerability to disruption;
+- affected scope;
+- duration;
+- consequence.
+
+A condition that is almost always satisfied should return little or no value.
+A severe, unreliable, or externally controlled condition may approach the
+value of closing the affected structure.
+
+Exact compensation requires setting-specific mathematical testing. Tests must
+also determine whether larger starting allocations already account for a
+high-powered setting before that setting grants larger limitation returns.
+
+### Changing Limitations
+
+Status:
+
+```text
+CONCEPTUALLY LOCKED
+COSTS UNRESOLVED
+```
+
+Buying off, replacing, or transforming a limitation requires both mechanical
+cost and narrative change.
+
+- Buying off a limitation repays the value originally received.
+- Replacing a limitation exchanges it for one of equivalent value.
+- Transforming a limitation compares the old and new values and pays any
+  difference.
+- The applicable HOLD determines costs and narrative requirements.
+
+A character cannot remove a limitation merely because the player can afford
+it. The fiction must explain the change through an event, process, discovery,
+transformation, training, or other development permitted by the HOLD and
+setting.
+
+### Ranks Above 10
+
+Status:
+
+```text
+SETTING-PERMITTED POSSIBILITY
+MATHEMATICALLY UNVALIDATED
+```
+
+A HOLD or campaign profile may permit HOLT and Axis Ranks above 10.
+
+Exceeding Rank 10 represents exceptional focus within a HOLT or Axis. It does
+not automatically increase the character's Scale.
+
+The Scale tests must determine whether over-Rank-10 capability can cross a
+Scale boundary for a specific Expression without making Scale irrelevant.
+
+Desired behavior:
+
+- ordinary characters remain overwhelmed by major Scale differences;
+- highly ranked characters may meaningfully attempt some cross-Scale actions;
+- such attempts remain difficult and potentially costly;
+- one exceptional Axis does not raise every other capability;
+- Scale continues to govern the character's ordinary frame.
+
+### Character-Sheet Display
+
+Status:
+
+```text
+DEFERRED TO CHARACTER-SHEET DEVELOPMENT
+```
+
+The architecture determines what must eventually be recorded:
+
+- applicable HOLD, when necessary;
+- HOLT name and Rank;
+- Axis and Axis Rank;
+- Access;
+- Access Condition;
+- limitations and weaknesses.
+
+Final layout is not a current system-architecture question.
+
+### Extraordinary Capability Tests
 
 Status:
 
@@ -1867,7 +2425,8 @@ Status:
 ACTIVE TEST SET
 ```
 
-The permission architecture must generate and distinguish:
+The HOLD, HOLT, Axis, Rank, and Access architecture must generate and
+distinguish:
 
 ```text
 Ordinary strength
@@ -1889,13 +2448,13 @@ External control of a medium
 The tests must show:
 
 - where permission enters;
-- what rating increases Base Expression;
-- what remains an Attribute Expression;
+- how Axis Rank affects an Expression;
+- what remains a Derived Attribute;
 - what Scale changes;
 - what narrower Skills and Specializations do;
-- how two characters with related concepts differ;
+- how two characters with related HOLTs differ;
 - how counters remain specific;
-- how the system avoids a bespoke package for each item.
+- how the system avoids a bespoke package for each capability.
 
 Paragon is not an adopted layer or multiplier.
 
@@ -2179,8 +2738,10 @@ Do not use as current rules:
 - fixed Overflow bands from the old MOTURPG prototype;
 - raw opposing rating subtraction as an adopted procedure;
 - Paragon as an adopted universal multiplier;
-- Theme as an adopted replacement for Domain;
-- Strength as a proven generic high-order Lens;
+- HOLD and HOLT as interchangeable terms;
+- a universal HOLT multiplier across all compatible Expressions;
+- Channel, Pathway, Focused, Unfocused, Invested, or Developed as adopted Axis
+  terminology;
 - bespoke named powers as the default permission solution.
 
 ---
@@ -2211,30 +2772,24 @@ Does direct roll pressure use:
 - a common ladder that aggregates before multiplication;
 - another method?
 
-### Conflict 3: Permission Entry
+### Resolved Architecture: Extraordinary Permission
 
-Where does an extraordinary permission enter without requiring a power
-catalogue or allowing Specialization to manufacture it?
+Extraordinary permission enters through a character's HOLT and the Access of
+the applicable Axis. Axis Rank supplies numerical development without allowing
+Skill or Specialization to manufacture permission.
 
-### Conflict 4: High-Order Rating
+### Resolved Architecture: Higher-Order Rating
 
-Does a rated high-order Lens represent:
+The HOLT Rank caps Axis Rank. The Axis Rank supplies the HOLT-derived modifier.
+The parent HOLT Rank is not a universal Expression multiplier.
 
-- connection;
-- permission;
-- authority;
-- concentration;
-- coherence;
-- magnitude;
-- a multiplier;
-- some controlled combination?
+### Active Test: Attribute Collision
 
-### Conflict 5: Attribute Collision
+The Axis structure prevents a HOLT from automatically multiplying an entire
+Attribute. Strength and similar HOLTs still require use tests confirming that
+each Axis grants coherent thematic permission rather than synonym stacking.
 
-How does the engine prevent a high-order Lens from merely repeating an
-Attribute or Attribute Expression?
-
-### Conflict 6: Effect Above 100
+### Conflict 3: Effect Above 100
 
 Does Overflow or another procedure preserve meaningful excess capability?
 
@@ -2248,7 +2803,7 @@ Status:
 ACTIVE
 ```
 
-### Test 1: Permission Boundary
+### Test 1: HOLD, HOLT, Axis, and Access
 
 Build:
 
@@ -2257,35 +2812,34 @@ Build:
 - a character with extraordinary toughness;
 - a character with impossible strength.
 
-Use the same shared grammar.
+Use the same HOLD, HOLT, Axis, and Access grammar.
 
 Identify exactly where qualitative permission enters.
 
-### Test 2: Strength and Might
+### Test 2: Strength HOLT and Might
 
 Compare:
 
-- Strength as an Attribute Expression;
-- Strength as a rated high-order Lens;
+- Strength as a Derived Attribute;
+- Strength as a HOLT expressed through several Axes;
 - extraordinary strength through Classification and Scale;
-- extraordinary strength through another unnamed permission-bearing Lens.
+- ranked, unranked, Open, Condition, and Closed Strength Axes.
 
 Reject any model that counts the same contribution twice.
 
-### Test 3: Rated High-Order Models
+### Test 3: HOLD Provisioning and Limitation Value
 
-Build the same neutral characters under Models A, B, and C.
+Build the same HOLT under grounded, heroic, and mythic HOLD profiles.
 
 Compare:
 
-- Base Expression values;
-- coherence;
-- construction speed;
-- table speed;
-- permission clarity;
-- counterplay;
-- optimization abuse;
-- Attribute duplication.
+- starting Axis Ranks;
+- Axis Ranks received with HOLT acquisition or advancement;
+- closed-Axis compensation;
+- conditional-access compensation;
+- advancement speed;
+- whether higher starting allocation already accounts for setting power;
+- limitation-dumping exploits.
 
 ### Test 4: Fire and Ice
 
@@ -2299,6 +2853,8 @@ constraints, vulnerabilities, and counters without separate subsystems.
 Build one character emphasizing internal physical and movement expressions.
 
 Build another emphasizing awareness and external control.
+
+Use one Sea HOLT with different Axis Ranks and Access states.
 
 Test whether one unifying concept can produce distinct characters.
 
@@ -2338,6 +2894,10 @@ Test Scale simultaneously as:
 
 Do not create a separate perception subsystem unless the existing Scale and
 Lens grammar fail.
+
+Also test whether setting-permitted HOLT and Axis Ranks above 10 allow a highly
+focused Expression to cross a Scale boundary without replacing Scale or raising
+the character's entire frame.
 
 ### Test 10: Resonance and Dissonance Ladder
 
@@ -2395,6 +2955,31 @@ Each counted Lens must make a fictionally distinct contribution.
 
 Named capabilities should use the common grammar rather than bespoke power
 subsystems.
+
+HOLD means Higher-Order Lens Definition.
+
+A HOLD defines setting-facing access, construction, limits, limitations,
+weaknesses, and advancement without multiplying Expressions.
+
+HOLT means Higher-Order Lens Theme.
+
+A HOLT grants coherent thematic permission. Its Rank caps the Rank of every
+Axis beneath it and does not automatically multiply all compatible
+Expressions.
+
+An Axis is the relationship through which a HOLT expresses through one Derived
+Attribute.
+
+An Axis is ranked or unranked. No separate investment or development status is
+used.
+
+Axis Access is Open, Condition, or Closed.
+
+An Open, unranked Axis grants thematic permission without a HOLT-derived
+modifier.
+
+HOLDs and campaign profiles determine Axis allocation, limitation value,
+advancement, and whether HOLT or Axis Ranks may exceed 10.
 
 Settings implement and name generic Lens positions.
 

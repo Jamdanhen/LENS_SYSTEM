@@ -39,7 +39,7 @@ C:\LENS-System\docs\math\lens-scale-x1.6-test-record-v0.1.md
 Current waypoint:
 
 ```text
-C:\LENS-System\waypoints\lens-current-development-waypoint-v0.2.md
+C:\LENS-System\waypoints\lens-current-development-waypoint-v0.3.md
 ```
 
 ## Current Locked State
@@ -57,36 +57,39 @@ Scale progression.
 
 ## Next Decision
 
-Resolve the permission architecture for extraordinary Expressions without
-allowing narrow training to manufacture powers, duplicating Attributes through
-high-order Lenses, or creating a bespoke power catalogue.
+Determine what compound construction increases by default when several HOLTs
+contribute to one Expression:
+
+- chance of success;
+- effect;
+- available outcomes;
+- or some controlled combination.
 
 ## Recommended Next Action
 
-Build the same ordinary-strength, extraordinary-strength, toughness, and
-regeneration test characters under the competing high-order Lens models.
+Use one compound Expression with a primary HOLT, a secondary HOLT, contextual
+Resonance, and separately counterable components. Compare what changes when the
+secondary HOLT:
 
-For each model, identify:
-
-- where permission enters;
-- which rating modifies Base Expression;
-- whether any layer duplicates Might or another Attribute;
-- how narrower Skills and Specializations remain useful;
-- how the capability is countered without a bespoke power subsystem.
+- supplies only permission or form;
+- supplies an independently rated secondary effect;
+- directly agrees with the current resistance;
+- is partially countered or removed.
 
 ## Test Sequence
 
 Use this sequence unless the user changes direction:
 
-1. Test permission entry and the Attribute/high-order-Lens collision.
-2. Compare the rated high-order Lens models with identical characters.
-3. Resolve the Expression Rank / Expression Rating conflict for Load.
-4. Reconcile one Relevant Dissonance with total relevant Dissonance pooling.
-5. Build the Resonance / Dissonance value ladder.
-6. Test Counter-Lens doctrine with objective scene conditions.
-7. Test Expression vs Dissonance and Expression vs Expression.
-8. Revisit Overflow only after opposition is clearer.
-9. Build a minimum generic test packet.
+1. Resolve compound HOLT capability, contextual Resonance, and exposure.
+2. Test HOLD provisioning and limitation compensation by setting profile.
+3. Test HOLT and Axis Ranks above 10 against Scale boundaries.
+4. Resolve the Expression Rank / Expression Rating conflict for Load.
+5. Reconcile one Relevant Dissonance with total relevant Dissonance pooling.
+6. Build the Resonance / Dissonance value ladder.
+7. Test Counter-Lens doctrine with objective scene conditions.
+8. Test Expression vs Dissonance and Expression vs Expression.
+9. Revisit Overflow only after opposition is clearer.
+10. Build a minimum generic test packet.
 
 ## Output Format
 

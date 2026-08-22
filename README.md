@@ -89,7 +89,13 @@ docs\math\lens-scale-x1.6-test-record-v0.1.md
 Current waypoint:
 
 ```text
-waypoints\lens-current-development-waypoint-v0.2.md
+waypoints\lens-current-development-waypoint-v0.3.md
+```
+
+Current Derived Attribute research record:
+
+```text
+docs\research\lens-derivative-attribute-survey-v0.1.md
 ```
 
 Independence waypoint:

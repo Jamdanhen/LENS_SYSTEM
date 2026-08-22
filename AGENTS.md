@@ -94,6 +94,7 @@ Known waypoints:
 - `lens-project-independence-waypoint-v0.1.md`
 - `lens-current-development-waypoint-v0.1.md`
 - `lens-current-development-waypoint-v0.2.md`
+- `lens-current-development-waypoint-v0.3.md`
 
 When the user says `establish waypoint` or `create a waypoint`, follow the
 Crucible Registry Project Waypoint Synchronization Rule and do not stop at local
@@ -125,7 +126,7 @@ C:\LENS-System\docs\math\lens-scale-x1.6-test-record-v0.1.md
 Current active development waypoint:
 
 ```text
-C:\LENS-System\waypoints\lens-current-development-waypoint-v0.2.md
+C:\LENS-System\waypoints\lens-current-development-waypoint-v0.3.md
 ```
 
 ## Output Rules

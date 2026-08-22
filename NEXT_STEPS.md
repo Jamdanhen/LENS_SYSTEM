@@ -18,6 +18,18 @@ Current system reference:
 C:\LENS-System\docs\system\lens-system-working-reference-v0.2.md
 ```
 
+Current system-neutral baseline draft:
+
+```text
+C:\LENS-System\docs\system\lens-system-baseline-draft-v0.1.md
+```
+
+Current source extraction record:
+
+```text
+C:\LENS-System\docs\extraction\lens-source-extraction-record-v0.1.md
+```
+
 Current Scale math record:
 
 ```text
@@ -27,7 +39,7 @@ C:\LENS-System\docs\math\lens-scale-x1.6-test-record-v0.1.md
 Current waypoint:
 
 ```text
-C:\LENS-System\waypoints\lens-current-development-waypoint-v0.1.md
+C:\LENS-System\waypoints\lens-current-development-waypoint-v0.2.md
 ```
 
 ## Current Locked State
@@ -45,28 +57,36 @@ Scale progression.
 
 ## Next Decision
 
-Decide how Resonance and Dissonance values modify the current fixed math.
+Resolve the permission architecture for extraordinary Expressions without
+allowing narrow training to manufacture powers, duplicating Attributes through
+high-order Lenses, or creating a bespoke power catalogue.
 
 ## Recommended Next Action
 
-Build and test a Resonance / Dissonance value ladder while holding fixed:
+Build the same ordinary-strength, extraordinary-strength, toughness, and
+regeneration test characters under the competing high-order Lens models.
 
-- Difficulty curve
-- Human baselines
-- rounding rule
-- Scale x1.6
+For each model, identify:
+
+- where permission enters;
+- which rating modifies Base Expression;
+- whether any layer duplicates Might or another Attribute;
+- how narrower Skills and Specializations remain useful;
+- how the capability is countered without a bespoke power subsystem.
 
 ## Test Sequence
 
 Use this sequence unless the user changes direction:
 
-1. Build Resonance / Dissonance value ladder.
-2. Test Counter-Lens doctrine with objective scene conditions.
-3. Test Expression vs Dissonance.
-4. Test Expression vs Expression.
-5. Revisit Overflow only after opposition is clearer.
-6. Revisit Load only after Dissonance values are clearer.
-7. Build a minimum generic test packet.
+1. Test permission entry and the Attribute/high-order-Lens collision.
+2. Compare the rated high-order Lens models with identical characters.
+3. Resolve the Expression Rank / Expression Rating conflict for Load.
+4. Reconcile one Relevant Dissonance with total relevant Dissonance pooling.
+5. Build the Resonance / Dissonance value ladder.
+6. Test Counter-Lens doctrine with objective scene conditions.
+7. Test Expression vs Dissonance and Expression vs Expression.
+8. Revisit Overflow only after opposition is clearer.
+9. Build a minimum generic test packet.
 
 ## Output Format
 
@@ -89,4 +109,3 @@ Crucible Registry Project Waypoint Synchronization Rule.
 
 Because LENS has a GitHub remote, a waypoint is not complete until committed
 changes have been pushed to `origin/main`, or a blocker has been recorded.
-

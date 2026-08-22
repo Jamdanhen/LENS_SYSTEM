@@ -65,6 +65,21 @@ Current system reference:
 docs\system\lens-system-working-reference-v0.2.md
 ```
 
+Current system-neutral baseline draft:
+
+```text
+docs\system\lens-system-baseline-draft-v0.1.md
+```
+
+Current source extraction record:
+
+```text
+docs\extraction\lens-source-extraction-record-v0.1.md
+```
+
+The baseline draft is not yet a replacement for the working reference. It is
+the current consolidation artifact for evaluating the standalone system.
+
 Current Scale math record:
 
 ```text
@@ -74,7 +89,7 @@ docs\math\lens-scale-x1.6-test-record-v0.1.md
 Current waypoint:
 
 ```text
-waypoints\lens-current-development-waypoint-v0.1.md
+waypoints\lens-current-development-waypoint-v0.2.md
 ```
 
 Independence waypoint:
@@ -86,4 +101,3 @@ waypoints\lens-project-independence-waypoint-v0.1.md
 ## Current Status
 
 Active standalone system project.
-

@@ -1,0 +1,82 @@
+{
+  "status": "Diagnostic candidate comparison; no teamwork formula adopted",
+  "assumptions": [
+    "Ratings are illustrative complete, same-frame applicable Expressions, not new character builds.",
+    "Help valuations are fictional fixtures, not derived from helper ranks, Effects, or headcount.",
+    "Success enumeration includes guaranteed01 and failing00. Continuation magnitude cannot change individual success status.",
+    "Effect examples use ordinary rolls only; no opposed cancellation, special Effect distribution, or encounter model is claimed.",
+    "The preparation branch assumes a failure merely fails to establish help; this is not a universal failure consequence.",
+    "All uncertainty and required contributions are declared before choosing resolution scope."
+  ],
+  "rows": [
+    {
+      "lead": 20,
+      "assessedHelp": 0,
+      "rating": 20,
+      "successPct": 20,
+      "effectsOnOrdinaryRoll10": 2
+    },
+    {
+      "lead": 20,
+      "assessedHelp": 0.2,
+      "rating": 24,
+      "successPct": 24,
+      "effectsOnOrdinaryRoll10": 2
+    },
+    {
+      "lead": 20,
+      "assessedHelp": 0.5,
+      "rating": 30,
+      "successPct": 30,
+      "effectsOnOrdinaryRoll10": 3
+    },
+    {
+      "lead": 80,
+      "assessedHelp": 0,
+      "rating": 80,
+      "successPct": 80,
+      "effectsOnOrdinaryRoll10": 8
+    },
+    {
+      "lead": 80,
+      "assessedHelp": 0.2,
+      "rating": 96,
+      "successPct": 96,
+      "effectsOnOrdinaryRoll10": 9
+    },
+    {
+      "lead": 80,
+      "assessedHelp": 0.5,
+      "rating": 120,
+      "successPct": 99,
+      "effectsOnOrdinaryRoll10": 12
+    }
+  ],
+  "lead80Helper40": {
+    "reliableEstablishedHelp20": 96,
+    "sumFullRatings": {
+      "rating": 120,
+      "successPct": 99
+    },
+    "meanFullRatings": {
+      "rating": 60,
+      "successPct": 60
+    },
+    "bothIndependentActivitiesRequiredPct": 32,
+    "uncertainPreparationThenLeadAttemptPct": 86.4,
+    "leadUnassistedPct": 80
+  },
+  "duplicateDescriptionControl": {
+    "oneEstablishedBenefit20": 96,
+    "sameBenefitDescribedTwice": 96,
+    "distinctAdditionalBenefit10": 104
+  },
+  "scopeCounterexample": {
+    "description": "One operator must reset a local control while another independently crosses a hazardous shaft to reach the second control.",
+    "leadRating": 80,
+    "secondRating": 40,
+    "requiredSuccessPct": 32,
+    "wronglySubstitutedLeadPlusHelpPct": 96,
+    "conclusion": "Lead-plus-help cannot stand in for every independently consequential required activity."
+  }
+}

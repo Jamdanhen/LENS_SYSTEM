@@ -1,0 +1,83 @@
+{
+  "status": "Unadopted cross-character formula comparison, not a team rule",
+  "assumptions": [
+    "Same-frame applicable participant calculations; shared context is not included twice.",
+    "Mean of full contributions is an experimental extension, not the adopted two-Axis modifier mean.",
+    "Probability concerns individual success only; Effects illustrated with ordinary roll30.",
+    "Physical layer arrays are synthetic legal-rank arithmetic controls, not repriced complete characters.",
+    "No lifting-capacity, team Scale, or shared Difficulty formula is established."
+  ],
+  "comparisons": [
+    {
+      "a": 80,
+      "b": 40,
+      "mean": 60,
+      "bottleneck": 40,
+      "sum": 120,
+      "meanSuccessPct": 60,
+      "meanEffectsAt30": 4,
+      "bottleneckEffectsAt30": 2,
+      "sumEffectsAt30": 10
+    },
+    {
+      "a": 80,
+      "b": 80,
+      "mean": 80,
+      "bottleneck": 80,
+      "sum": 160,
+      "meanSuccessPct": 80,
+      "meanEffectsAt30": 6,
+      "bottleneckEffectsAt30": 6,
+      "sumEffectsAt30": 14
+    },
+    {
+      "a": 40,
+      "b": 80,
+      "mean": 60,
+      "bottleneck": 40,
+      "sum": 120,
+      "meanSuccessPct": 60,
+      "meanEffectsAt30": 4,
+      "bottleneckEffectsAt30": 2,
+      "sumEffectsAt30": 10
+    },
+    {
+      "a": 20,
+      "b": 16,
+      "mean": 18,
+      "bottleneck": 16,
+      "sum": 36,
+      "meanSuccessPct": 18,
+      "meanEffectsAt30": 0,
+      "bottleneckEffectsAt30": 0,
+      "sumEffectsAt30": 1
+    }
+  ],
+  "layerMixing": {
+    "physical": [
+      10,
+      2,
+      1,
+      1,
+      1,
+      1
+    ],
+    "practiced": [
+      1,
+      1,
+      2,
+      2,
+      2,
+      2
+    ],
+    "meanIntact": 18,
+    "mixedLayerMean": 41.765625,
+    "bestLayerMix": 320
+  },
+  "sharedLift": {
+    "soloExecution": 80,
+    "equalPartnersMean": 80,
+    "unequalPartnersMean": 60,
+    "finding": "A mean alone does not quantify the added physical support or reduced burden of a shared load."
+  }
+}

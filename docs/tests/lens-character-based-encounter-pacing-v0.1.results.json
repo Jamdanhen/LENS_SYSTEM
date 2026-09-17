@@ -1,0 +1,1730 @@
+{
+  "status": "Character-based diagnostic; unchanged allocations and rules",
+  "source": "C:\\LENS-SYSTEM\\docs\\tests\\lens-low-rating-build-trace-v0.1.results.json",
+  "sourceHash": "8bfe4c4f83bf1395b8ca7b15a24019a6e623b2cbd4a29c4bf4f5f7c0950c8265",
+  "trialsPerScenario": 20000,
+  "totalEncounters": 720000,
+  "maxRounds": 1000,
+  "seed": "0x21ba5401 mixed with fixture index and trial index; balanced persistent initiative",
+  "caveats": [
+    "Ranged exposed exchanges, no armor or mitigation, no cover, no paid spending, one attack action and open feasible defense.",
+    "Firearms expertise on defense is conditional on evading the observed weapon use; no permission to dodge a fired bullet.",
+    "Narrow defense additionally assumes the opposing weapon is the familiar revolver and those recognitions genuinely help.",
+    "D3 is distinct shot difficulty only, not a repeated penalty for opposition or a distance table.",
+    "Recoverable-load mode maps own complications to temporary physical disruption; not every actual 00 must impose Load.",
+    "Output-only control retains special rolls but ignores complication consequences; it is not an adopted or complete encounter model.",
+    "No automatic ranged counter-effects, no instant wound recovery, no routine mandatory recovery roll.",
+    "Unlimited ammunition and exposure until function loss isolate attrition; long civilian fights are not literal equipment simulations."
+  ],
+  "firstShotChecks": [
+    {
+      "id": "guide-signature-no-field",
+      "offensiveFirstShotDownPct": 87.55490251005124,
+      "omittedProbabilityBound": 2.0000000000000004e-12
+    },
+    {
+      "id": "guide-signature-field",
+      "offensiveFirstShotDownPct": 83.86578963836796,
+      "omittedProbabilityBound": 2.0000000000000004e-12
+    },
+    {
+      "id": "guide-signature-narrow-defense",
+      "offensiveFirstShotDownPct": 44.203419262519525,
+      "omittedProbabilityBound": 2.0000000000000004e-12
+    }
+  ],
+  "results": [
+    {
+      "config": {
+        "id": "guide-signature-no-field",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 15.679999999999998,
+            "recovery": 6,
+            "difficulty": 1
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 15.679999999999998,
+            "recovery": 6,
+            "difficulty": 1
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "attack"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 9985,
+        "B": 10015,
+        "both": 0,
+        "censored": 0
+      },
+      "median": 1,
+      "p90": 2,
+      "meanResolved": 1.114,
+      "restrictedMean": 1.114,
+      "firstMoverWinPct": 98.38,
+      "aWinPct": 49.93,
+      "resolvedByFivePct": 100,
+      "firstAttackDownPct": 87.35,
+      "noRemainderPct": 6.27,
+      "terminal00Pct": 1.27,
+      "terminal01Pct": 1.62,
+      "compNeededPct": 0.29,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanDamage": 14.9,
+      "meanComplications": 0.168
+    },
+    {
+      "config": {
+        "id": "guide-signature-no-field",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 15.679999999999998,
+            "recovery": 6,
+            "difficulty": 1
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 15.679999999999998,
+            "recovery": 6,
+            "difficulty": 1
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "recover-band"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 9984,
+        "B": 10016,
+        "both": 0,
+        "censored": 0
+      },
+      "median": 1,
+      "p90": 2,
+      "meanResolved": 1.114,
+      "restrictedMean": 1.114,
+      "firstMoverWinPct": 98.36,
+      "aWinPct": 49.92,
+      "resolvedByFivePct": 100,
+      "firstAttackDownPct": 87.35,
+      "noRemainderPct": 6.25,
+      "terminal00Pct": 1.27,
+      "terminal01Pct": 1.62,
+      "compNeededPct": 0.29,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": 0,
+      "meanRecovered": 0,
+      "meanDamage": 14.899,
+      "meanComplications": 0.168
+    },
+    {
+      "config": {
+        "id": "guide-signature-no-field",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 15.679999999999998,
+            "recovery": 6,
+            "difficulty": 1
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 15.679999999999998,
+            "recovery": 6,
+            "difficulty": 1
+          }
+        ],
+        "complication": "output-only-control",
+        "policy": "attack"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 9985,
+        "B": 10015,
+        "both": 0,
+        "censored": 0
+      },
+      "median": 1,
+      "p90": 2,
+      "meanResolved": 1.117,
+      "restrictedMean": 1.117,
+      "firstMoverWinPct": 98.46,
+      "aWinPct": 49.93,
+      "resolvedByFivePct": 100,
+      "firstAttackDownPct": 87.35,
+      "noRemainderPct": 6.26,
+      "terminal00Pct": 0.99,
+      "terminal01Pct": 1.62,
+      "compNeededPct": 0,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanDamage": 14.94,
+      "meanComplications": 0
+    },
+    {
+      "config": {
+        "id": "guide-signature-field",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "attack"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 10021,
+        "B": 9978,
+        "both": 1,
+        "censored": 0
+      },
+      "median": 1,
+      "p90": 2,
+      "meanResolved": 1.147,
+      "restrictedMean": 1.147,
+      "firstMoverWinPct": 97.98,
+      "aWinPct": 50.11,
+      "resolvedByFivePct": 99.99,
+      "firstAttackDownPct": 84.08,
+      "noRemainderPct": 7.35,
+      "terminal00Pct": 1.48,
+      "terminal01Pct": 1.42,
+      "compNeededPct": 0.41,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanDamage": 15.007,
+      "meanComplications": 0.174
+    },
+    {
+      "config": {
+        "id": "guide-signature-field",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "recover-band"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 10020,
+        "B": 9979,
+        "both": 1,
+        "censored": 0
+      },
+      "median": 1,
+      "p90": 2,
+      "meanResolved": 1.147,
+      "restrictedMean": 1.147,
+      "firstMoverWinPct": 97.97,
+      "aWinPct": 50.1,
+      "resolvedByFivePct": 99.98,
+      "firstAttackDownPct": 84.08,
+      "noRemainderPct": 7.36,
+      "terminal00Pct": 1.48,
+      "terminal01Pct": 1.42,
+      "compNeededPct": 0.42,
+      "meanRecoveryActions": 0.001,
+      "recoveryBandGainPct": 0,
+      "meanRecovered": 0,
+      "meanDamage": 15.006,
+      "meanComplications": 0.175
+    },
+    {
+      "config": {
+        "id": "guide-signature-field",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1
+          }
+        ],
+        "complication": "output-only-control",
+        "policy": "attack"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 10022,
+        "B": 9978,
+        "both": 0,
+        "censored": 0
+      },
+      "median": 1,
+      "p90": 2,
+      "meanResolved": 1.151,
+      "restrictedMean": 1.151,
+      "firstMoverWinPct": 98.09,
+      "aWinPct": 50.11,
+      "resolvedByFivePct": 99.99,
+      "firstAttackDownPct": 84.08,
+      "noRemainderPct": 7.35,
+      "terminal00Pct": 1.07,
+      "terminal01Pct": 1.42,
+      "compNeededPct": 0,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanDamage": 15.059,
+      "meanComplications": 0
+    },
+    {
+      "config": {
+        "id": "guide-signature-narrow-defense",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 91.16351999999999,
+            "recovery": 6,
+            "difficulty": 1
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 91.16351999999999,
+            "recovery": 6,
+            "difficulty": 1
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "attack"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 10007,
+        "B": 9993,
+        "both": 0,
+        "censored": 0
+      },
+      "median": 2,
+      "p90": 2,
+      "meanResolved": 1.557,
+      "restrictedMean": 1.557,
+      "firstMoverWinPct": 86.85,
+      "aWinPct": 50.04,
+      "resolvedByFivePct": 99.95,
+      "firstAttackDownPct": 43.73,
+      "noRemainderPct": 18.29,
+      "terminal00Pct": 2.62,
+      "terminal01Pct": 2,
+      "compNeededPct": 0.86,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanDamage": 16.439,
+      "meanComplications": 0.232
+    },
+    {
+      "config": {
+        "id": "guide-signature-narrow-defense",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 91.16351999999999,
+            "recovery": 6,
+            "difficulty": 1
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 91.16351999999999,
+            "recovery": 6,
+            "difficulty": 1
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "recover-band"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 10004,
+        "B": 9996,
+        "both": 0,
+        "censored": 0
+      },
+      "median": 2,
+      "p90": 2,
+      "meanResolved": 1.565,
+      "restrictedMean": 1.565,
+      "firstMoverWinPct": 86.75,
+      "aWinPct": 50.02,
+      "resolvedByFivePct": 99.86,
+      "firstAttackDownPct": 43.73,
+      "noRemainderPct": 18.42,
+      "terminal00Pct": 2.63,
+      "terminal01Pct": 2,
+      "compNeededPct": 0.88,
+      "meanRecoveryActions": 0.011,
+      "recoveryBandGainPct": 2.33,
+      "meanRecovered": 0.001,
+      "meanDamage": 16.439,
+      "meanComplications": 0.233
+    },
+    {
+      "config": {
+        "id": "guide-signature-narrow-defense",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 91.16351999999999,
+            "recovery": 6,
+            "difficulty": 1
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 91.16351999999999,
+            "recovery": 6,
+            "difficulty": 1
+          }
+        ],
+        "complication": "output-only-control",
+        "policy": "attack"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 10010,
+        "B": 9990,
+        "both": 0,
+        "censored": 0
+      },
+      "median": 2,
+      "p90": 2,
+      "meanResolved": 1.565,
+      "restrictedMean": 1.565,
+      "firstMoverWinPct": 87.01,
+      "aWinPct": 50.05,
+      "resolvedByFivePct": 99.95,
+      "firstAttackDownPct": 43.73,
+      "noRemainderPct": 18.27,
+      "terminal00Pct": 1.76,
+      "terminal01Pct": 1.99,
+      "compNeededPct": 0,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanDamage": 16.55,
+      "meanComplications": 0
+    },
+    {
+      "config": {
+        "id": "guide-other-handgun",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 100.15583999999998,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1
+          },
+          {
+            "id": "B",
+            "attack": 100.15583999999998,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "attack"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 9945,
+        "B": 10051,
+        "both": 4,
+        "censored": 0
+      },
+      "median": 2,
+      "p90": 4,
+      "meanResolved": 2.482,
+      "restrictedMean": 2.482,
+      "firstMoverWinPct": 72,
+      "aWinPct": 49.73,
+      "resolvedByFivePct": 97.31,
+      "firstAttackDownPct": 7.23,
+      "noRemainderPct": 29.01,
+      "terminal00Pct": 6.19,
+      "terminal01Pct": 3.77,
+      "compNeededPct": 5.16,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanDamage": 14.344,
+      "meanComplications": 0.851
+    },
+    {
+      "config": {
+        "id": "guide-other-handgun",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 100.15583999999998,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1
+          },
+          {
+            "id": "B",
+            "attack": 100.15583999999998,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "recover-band"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 9935,
+        "B": 10061,
+        "both": 4,
+        "censored": 0
+      },
+      "median": 2,
+      "p90": 4,
+      "meanResolved": 2.496,
+      "restrictedMean": 2.496,
+      "firstMoverWinPct": 71.85,
+      "aWinPct": 49.68,
+      "resolvedByFivePct": 97.2,
+      "firstAttackDownPct": 7.23,
+      "noRemainderPct": 28.95,
+      "terminal00Pct": 6.22,
+      "terminal01Pct": 3.76,
+      "compNeededPct": 5.17,
+      "meanRecoveryActions": 0.036,
+      "recoveryBandGainPct": 1.52,
+      "meanRecovered": 0.002,
+      "meanDamage": 14.34,
+      "meanComplications": 0.855
+    },
+    {
+      "config": {
+        "id": "guide-other-handgun",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 100.15583999999998,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1
+          },
+          {
+            "id": "B",
+            "attack": 100.15583999999998,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1
+          }
+        ],
+        "complication": "output-only-control",
+        "policy": "attack"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 9914,
+        "B": 10086,
+        "both": 0,
+        "censored": 0
+      },
+      "median": 2,
+      "p90": 4,
+      "meanResolved": 2.583,
+      "restrictedMean": 2.583,
+      "firstMoverWinPct": 72.86,
+      "aWinPct": 49.57,
+      "resolvedByFivePct": 96.69,
+      "firstAttackDownPct": 7.23,
+      "noRemainderPct": 29.48,
+      "terminal00Pct": 1.06,
+      "terminal01Pct": 3.89,
+      "compNeededPct": 0,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanDamage": 14.83,
+      "meanComplications": 0
+    },
+    {
+      "config": {
+        "id": "guide-broad-firearm",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 58.91519999999999,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1
+          },
+          {
+            "id": "B",
+            "attack": 58.91519999999999,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "attack"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 10003,
+        "B": 9976,
+        "both": 21,
+        "censored": 0
+      },
+      "median": 5,
+      "p90": 9,
+      "meanResolved": 5.479,
+      "restrictedMean": 5.479,
+      "firstMoverWinPct": 56.97,
+      "aWinPct": 50.02,
+      "resolvedByFivePct": 59.92,
+      "firstAttackDownPct": 0.6,
+      "noRemainderPct": 59.69,
+      "terminal00Pct": 17.63,
+      "terminal01Pct": 8.02,
+      "compNeededPct": 16.8,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanDamage": 12.716,
+      "meanComplications": 2.381
+    },
+    {
+      "config": {
+        "id": "guide-broad-firearm",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 58.91519999999999,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1
+          },
+          {
+            "id": "B",
+            "attack": 58.91519999999999,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "recover-band"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 10000,
+        "B": 9979,
+        "both": 21,
+        "censored": 0
+      },
+      "median": 5,
+      "p90": 9,
+      "meanResolved": 5.515,
+      "restrictedMean": 5.515,
+      "firstMoverWinPct": 56.94,
+      "aWinPct": 50,
+      "resolvedByFivePct": 59.84,
+      "firstAttackDownPct": 0.6,
+      "noRemainderPct": 59.58,
+      "terminal00Pct": 17.68,
+      "terminal01Pct": 8.01,
+      "compNeededPct": 16.83,
+      "meanRecoveryActions": 0.119,
+      "recoveryBandGainPct": 1.18,
+      "meanRecovered": 0.006,
+      "meanDamage": 12.703,
+      "meanComplications": 2.391
+    },
+    {
+      "config": {
+        "id": "guide-broad-firearm",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 58.91519999999999,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1
+          },
+          {
+            "id": "B",
+            "attack": 58.91519999999999,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1
+          }
+        ],
+        "complication": "output-only-control",
+        "policy": "attack"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 10026,
+        "B": 9974,
+        "both": 0,
+        "censored": 0
+      },
+      "median": 5,
+      "p90": 11,
+      "meanResolved": 6.225,
+      "restrictedMean": 6.225,
+      "firstMoverWinPct": 57.8,
+      "aWinPct": 50.13,
+      "resolvedByFivePct": 51.43,
+      "firstAttackDownPct": 0.6,
+      "noRemainderPct": 60.48,
+      "terminal00Pct": 1.11,
+      "terminal01Pct": 9.15,
+      "compNeededPct": 0,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanDamage": 14.143,
+      "meanComplications": 0
+    },
+    {
+      "config": {
+        "id": "guide-broad-firearm-D3",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 58.91519999999999,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 0.3528
+          },
+          {
+            "id": "B",
+            "attack": 58.91519999999999,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 0.3528
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "attack"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 9947,
+        "B": 9997,
+        "both": 56,
+        "censored": 0
+      },
+      "median": 15,
+      "p90": 35,
+      "meanResolved": 17.512,
+      "restrictedMean": 17.512,
+      "firstMoverWinPct": 51.17,
+      "aWinPct": 49.74,
+      "resolvedByFivePct": 18.83,
+      "firstAttackDownPct": 0.28,
+      "noRemainderPct": 86.6,
+      "terminal00Pct": 62.16,
+      "terminal01Pct": 16.1,
+      "compNeededPct": 61.72,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanDamage": 8.193,
+      "meanComplications": 8.611
+    },
+    {
+      "config": {
+        "id": "guide-broad-firearm-D3",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 58.91519999999999,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 0.3528
+          },
+          {
+            "id": "B",
+            "attack": 58.91519999999999,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 0.3528
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "recover-band"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 9931,
+        "B": 10014,
+        "both": 55,
+        "censored": 0
+      },
+      "median": 15,
+      "p90": 35,
+      "meanResolved": 17.581,
+      "restrictedMean": 17.581,
+      "firstMoverWinPct": 51.17,
+      "aWinPct": 49.66,
+      "resolvedByFivePct": 18.8,
+      "firstAttackDownPct": 0.28,
+      "noRemainderPct": 86.51,
+      "terminal00Pct": 62.19,
+      "terminal01Pct": 15.99,
+      "compNeededPct": 61.73,
+      "meanRecoveryActions": 0.405,
+      "recoveryBandGainPct": 0.95,
+      "meanRecovered": 0.022,
+      "meanDamage": 8.182,
+      "meanComplications": 8.613
+    },
+    {
+      "config": {
+        "id": "guide-broad-firearm-D3",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 58.91519999999999,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 0.3528
+          },
+          {
+            "id": "B",
+            "attack": 58.91519999999999,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 0.3528
+          }
+        ],
+        "complication": "output-only-control",
+        "policy": "attack"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 10080,
+        "B": 9920,
+        "both": 0,
+        "censored": 0
+      },
+      "median": 31,
+      "p90": 58,
+      "meanResolved": 33.657,
+      "restrictedMean": 33.657,
+      "firstMoverWinPct": 51.77,
+      "aWinPct": 50.4,
+      "resolvedByFivePct": 3.25,
+      "firstAttackDownPct": 0.28,
+      "noRemainderPct": 87.53,
+      "terminal00Pct": 1.13,
+      "terminal01Pct": 36.11,
+      "compNeededPct": 0,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanDamage": 14.672,
+      "meanComplications": 0
+    },
+    {
+      "config": {
+        "id": "guide-signature-D3",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 0.3528
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 0.3528
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "attack"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 10054,
+        "B": 9938,
+        "both": 8,
+        "censored": 0
+      },
+      "median": 4,
+      "p90": 8,
+      "meanResolved": 4.912,
+      "restrictedMean": 4.912,
+      "firstMoverWinPct": 58.88,
+      "aWinPct": 50.27,
+      "resolvedByFivePct": 67.99,
+      "firstAttackDownPct": 0.65,
+      "noRemainderPct": 56.5,
+      "terminal00Pct": 15.61,
+      "terminal01Pct": 6.88,
+      "compNeededPct": 14.67,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanDamage": 12.85,
+      "meanComplications": 2.104
+    },
+    {
+      "config": {
+        "id": "guide-signature-D3",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 0.3528
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 0.3528
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "recover-band"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 10060,
+        "B": 9932,
+        "both": 8,
+        "censored": 0
+      },
+      "median": 4,
+      "p90": 8,
+      "meanResolved": 4.93,
+      "restrictedMean": 4.93,
+      "firstMoverWinPct": 58.7,
+      "aWinPct": 50.3,
+      "resolvedByFivePct": 67.98,
+      "firstAttackDownPct": 0.65,
+      "noRemainderPct": 56.31,
+      "terminal00Pct": 15.6,
+      "terminal01Pct": 6.85,
+      "compNeededPct": 14.67,
+      "meanRecoveryActions": 0.097,
+      "recoveryBandGainPct": 1.14,
+      "meanRecovered": 0.005,
+      "meanDamage": 12.839,
+      "meanComplications": 2.109
+    },
+    {
+      "config": {
+        "id": "guide-signature-D3",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 0.3528
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 0.3528
+          }
+        ],
+        "complication": "output-only-control",
+        "policy": "attack"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 10057,
+        "B": 9943,
+        "both": 0,
+        "censored": 0
+      },
+      "median": 5,
+      "p90": 9,
+      "meanResolved": 5.473,
+      "restrictedMean": 5.473,
+      "firstMoverWinPct": 59.81,
+      "aWinPct": 50.29,
+      "resolvedByFivePct": 61.37,
+      "firstAttackDownPct": 0.65,
+      "noRemainderPct": 57.08,
+      "terminal00Pct": 1.21,
+      "terminal01Pct": 7.66,
+      "compNeededPct": 0,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanDamage": 14.115,
+      "meanComplications": 0
+    },
+    {
+      "config": {
+        "id": "guide-v-shopkeeper",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1
+          },
+          {
+            "id": "A",
+            "attack": 6.24,
+            "defense": 4.8,
+            "recovery": 3.3000000000000003,
+            "difficulty": 1
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "attack"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 19890,
+        "B": 110,
+        "both": 0,
+        "censored": 0
+      },
+      "median": 1,
+      "p90": 2,
+      "meanResolved": 1.121,
+      "restrictedMean": 1.121,
+      "firstMoverWinPct": 50.45,
+      "aWinPct": 99.45,
+      "resolvedByFivePct": 99.89,
+      "firstAttackDownPct": 44.66,
+      "noRemainderPct": 35.53,
+      "terminal00Pct": 2.28,
+      "terminal01Pct": 1.72,
+      "compNeededPct": 1.27,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanDamage": 14.705,
+      "meanComplications": 0.332
+    },
+    {
+      "config": {
+        "id": "guide-v-shopkeeper",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1
+          },
+          {
+            "id": "A",
+            "attack": 6.24,
+            "defense": 4.8,
+            "recovery": 3.3000000000000003,
+            "difficulty": 1
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "recover-band"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 19878,
+        "B": 122,
+        "both": 0,
+        "censored": 0
+      },
+      "median": 1,
+      "p90": 2,
+      "meanResolved": 1.143,
+      "restrictedMean": 1.143,
+      "firstMoverWinPct": 50.48,
+      "aWinPct": 99.39,
+      "resolvedByFivePct": 99.83,
+      "firstAttackDownPct": 44.66,
+      "noRemainderPct": 36.28,
+      "terminal00Pct": 2.33,
+      "terminal01Pct": 1.72,
+      "compNeededPct": 1.33,
+      "meanRecoveryActions": 0.025,
+      "recoveryBandGainPct": 1.19,
+      "meanRecovered": 0.001,
+      "meanDamage": 14.698,
+      "meanComplications": 0.339
+    },
+    {
+      "config": {
+        "id": "guide-v-shopkeeper",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1
+          },
+          {
+            "id": "A",
+            "attack": 6.24,
+            "defense": 4.8,
+            "recovery": 3.3000000000000003,
+            "difficulty": 1
+          }
+        ],
+        "complication": "output-only-control",
+        "policy": "attack"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 19990,
+        "B": 10,
+        "both": 0,
+        "censored": 0
+      },
+      "median": 1,
+      "p90": 2,
+      "meanResolved": 1.122,
+      "restrictedMean": 1.122,
+      "firstMoverWinPct": 50.05,
+      "aWinPct": 99.95,
+      "resolvedByFivePct": 99.91,
+      "firstAttackDownPct": 44.66,
+      "noRemainderPct": 35.22,
+      "terminal00Pct": 1.02,
+      "terminal01Pct": 1.72,
+      "compNeededPct": 0,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanDamage": 14.889,
+      "meanComplications": 0
+    },
+    {
+      "config": {
+        "id": "guide-v-clinician",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1
+          },
+          {
+            "id": "C",
+            "attack": 14.28,
+            "defense": 8.4,
+            "recovery": 3.3000000000000003,
+            "difficulty": 1
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "attack"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 19877,
+        "B": 120,
+        "both": 3,
+        "censored": 0
+      },
+      "median": 1,
+      "p90": 2,
+      "meanResolved": 1.121,
+      "restrictedMean": 1.121,
+      "firstMoverWinPct": 50.5,
+      "aWinPct": 99.39,
+      "resolvedByFivePct": 99.9,
+      "firstAttackDownPct": 44.52,
+      "noRemainderPct": 33.43,
+      "terminal00Pct": 2.25,
+      "terminal01Pct": 1.5,
+      "compNeededPct": 1.15,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanDamage": 14.754,
+      "meanComplications": 0.328
+    },
+    {
+      "config": {
+        "id": "guide-v-clinician",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1
+          },
+          {
+            "id": "C",
+            "attack": 14.28,
+            "defense": 8.4,
+            "recovery": 3.3000000000000003,
+            "difficulty": 1
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "recover-band"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 19858,
+        "B": 139,
+        "both": 3,
+        "censored": 0
+      },
+      "median": 1,
+      "p90": 2,
+      "meanResolved": 1.133,
+      "restrictedMean": 1.133,
+      "firstMoverWinPct": 50.54,
+      "aWinPct": 99.29,
+      "resolvedByFivePct": 99.84,
+      "firstAttackDownPct": 44.52,
+      "noRemainderPct": 33.78,
+      "terminal00Pct": 2.28,
+      "terminal01Pct": 1.53,
+      "compNeededPct": 1.18,
+      "meanRecoveryActions": 0.018,
+      "recoveryBandGainPct": 1.14,
+      "meanRecovered": 0.001,
+      "meanDamage": 14.748,
+      "meanComplications": 0.333
+    },
+    {
+      "config": {
+        "id": "guide-v-clinician",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1
+          },
+          {
+            "id": "C",
+            "attack": 14.28,
+            "defense": 8.4,
+            "recovery": 3.3000000000000003,
+            "difficulty": 1
+          }
+        ],
+        "complication": "output-only-control",
+        "policy": "attack"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 19971,
+        "B": 29,
+        "both": 0,
+        "censored": 0
+      },
+      "median": 1,
+      "p90": 2,
+      "meanResolved": 1.12,
+      "restrictedMean": 1.12,
+      "firstMoverWinPct": 50.11,
+      "aWinPct": 99.86,
+      "resolvedByFivePct": 99.93,
+      "firstAttackDownPct": 44.52,
+      "noRemainderPct": 33.08,
+      "terminal00Pct": 1.13,
+      "terminal01Pct": 1.5,
+      "compNeededPct": 0,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanDamage": 14.933,
+      "meanComplications": 0
+    },
+    {
+      "config": {
+        "id": "shopkeeper-v-clinician",
+        "pair": [
+          {
+            "id": "A",
+            "attack": 6.24,
+            "defense": 4.8,
+            "recovery": 3.3000000000000003,
+            "difficulty": 1
+          },
+          {
+            "id": "C",
+            "attack": 14.28,
+            "defense": 8.4,
+            "recovery": 3.3000000000000003,
+            "difficulty": 1
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "attack"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 8910,
+        "B": 11011,
+        "both": 79,
+        "censored": 0
+      },
+      "median": 15,
+      "p90": 43,
+      "meanResolved": 19.814,
+      "restrictedMean": 19.814,
+      "firstMoverWinPct": 49.92,
+      "aWinPct": 44.55,
+      "resolvedByFivePct": 19.33,
+      "firstAttackDownPct": 0.18,
+      "noRemainderPct": 91.32,
+      "terminal00Pct": 76.19,
+      "terminal01Pct": 14.72,
+      "compNeededPct": 75.95,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanDamage": 5.942,
+      "meanComplications": 10.972
+    },
+    {
+      "config": {
+        "id": "shopkeeper-v-clinician",
+        "pair": [
+          {
+            "id": "A",
+            "attack": 6.24,
+            "defense": 4.8,
+            "recovery": 3.3000000000000003,
+            "difficulty": 1
+          },
+          {
+            "id": "C",
+            "attack": 14.28,
+            "defense": 8.4,
+            "recovery": 3.3000000000000003,
+            "difficulty": 1
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "recover-band"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 8951,
+        "B": 10970,
+        "both": 79,
+        "censored": 0
+      },
+      "median": 15,
+      "p90": 43,
+      "meanResolved": 19.887,
+      "restrictedMean": 19.887,
+      "firstMoverWinPct": 49.83,
+      "aWinPct": 44.76,
+      "resolvedByFivePct": 19.27,
+      "firstAttackDownPct": 0.18,
+      "noRemainderPct": 91.29,
+      "terminal00Pct": 76.15,
+      "terminal01Pct": 14.68,
+      "compNeededPct": 75.93,
+      "meanRecoveryActions": 0.281,
+      "recoveryBandGainPct": 1.07,
+      "meanRecovered": 0.016,
+      "meanDamage": 5.94,
+      "meanComplications": 10.971
+    },
+    {
+      "config": {
+        "id": "shopkeeper-v-clinician",
+        "pair": [
+          {
+            "id": "A",
+            "attack": 6.24,
+            "defense": 4.8,
+            "recovery": 3.3000000000000003,
+            "difficulty": 1
+          },
+          {
+            "id": "C",
+            "attack": 14.28,
+            "defense": 8.4,
+            "recovery": 3.3000000000000003,
+            "difficulty": 1
+          }
+        ],
+        "complication": "output-only-control",
+        "policy": "attack"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 4569,
+        "B": 15431,
+        "both": 0,
+        "censored": 0
+      },
+      "median": 46,
+      "p90": 90,
+      "meanResolved": 50.734,
+      "restrictedMean": 50.734,
+      "firstMoverWinPct": 50.41,
+      "aWinPct": 22.85,
+      "resolvedByFivePct": 2.27,
+      "firstAttackDownPct": 0.18,
+      "noRemainderPct": 92.21,
+      "terminal00Pct": 1.15,
+      "terminal01Pct": 47.05,
+      "compNeededPct": 0,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanDamage": 14.088,
+      "meanComplications": 0
+    },
+    {
+      "config": {
+        "id": "shopkeeper-v-shopkeeper",
+        "pair": [
+          {
+            "id": "A",
+            "attack": 6.24,
+            "defense": 4.8,
+            "recovery": 3.3000000000000003,
+            "difficulty": 1
+          },
+          {
+            "id": "A",
+            "attack": 6.24,
+            "defense": 4.8,
+            "recovery": 3.3000000000000003,
+            "difficulty": 1
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "attack"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 9922,
+        "B": 9994,
+        "both": 84,
+        "censored": 0
+      },
+      "median": 16,
+      "p90": 48,
+      "meanResolved": 21.742,
+      "restrictedMean": 21.742,
+      "firstMoverWinPct": 49.75,
+      "aWinPct": 49.61,
+      "resolvedByFivePct": 18.86,
+      "firstAttackDownPct": 0.14,
+      "noRemainderPct": 94.73,
+      "terminal00Pct": 84.23,
+      "terminal01Pct": 12.97,
+      "compNeededPct": 84.07,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanDamage": 4.391,
+      "meanComplications": 12.247
+    },
+    {
+      "config": {
+        "id": "shopkeeper-v-shopkeeper",
+        "pair": [
+          {
+            "id": "A",
+            "attack": 6.24,
+            "defense": 4.8,
+            "recovery": 3.3000000000000003,
+            "difficulty": 1
+          },
+          {
+            "id": "A",
+            "attack": 6.24,
+            "defense": 4.8,
+            "recovery": 3.3000000000000003,
+            "difficulty": 1
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "recover-band"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 9936,
+        "B": 9982,
+        "both": 82,
+        "censored": 0
+      },
+      "median": 16,
+      "p90": 48,
+      "meanResolved": 21.797,
+      "restrictedMean": 21.797,
+      "firstMoverWinPct": 49.7,
+      "aWinPct": 49.68,
+      "resolvedByFivePct": 18.82,
+      "firstAttackDownPct": 0.14,
+      "noRemainderPct": 94.71,
+      "terminal00Pct": 84.24,
+      "terminal01Pct": 13,
+      "compNeededPct": 84.07,
+      "meanRecoveryActions": 0.201,
+      "recoveryBandGainPct": 1.09,
+      "meanRecovered": 0.011,
+      "meanDamage": 4.39,
+      "meanComplications": 12.244
+    },
+    {
+      "config": {
+        "id": "shopkeeper-v-shopkeeper",
+        "pair": [
+          {
+            "id": "A",
+            "attack": 6.24,
+            "defense": 4.8,
+            "recovery": 3.3000000000000003,
+            "difficulty": 1
+          },
+          {
+            "id": "A",
+            "attack": 6.24,
+            "defense": 4.8,
+            "recovery": 3.3000000000000003,
+            "difficulty": 1
+          }
+        ],
+        "complication": "output-only-control",
+        "policy": "attack"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 10005,
+        "B": 9995,
+        "both": 0,
+        "censored": 0
+      },
+      "median": 71,
+      "p90": 156,
+      "meanResolved": 81.684,
+      "restrictedMean": 81.684,
+      "firstMoverWinPct": 49.7,
+      "aWinPct": 50.03,
+      "resolvedByFivePct": 1.53,
+      "firstAttackDownPct": 0.14,
+      "noRemainderPct": 95.53,
+      "terminal00Pct": 0.95,
+      "terminal01Pct": 71.75,
+      "compNeededPct": 0,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanDamage": 15.188,
+      "meanComplications": 0
+    },
+    {
+      "config": {
+        "id": "clinician-v-clinician",
+        "pair": [
+          {
+            "id": "C",
+            "attack": 14.28,
+            "defense": 8.4,
+            "recovery": 3.3000000000000003,
+            "difficulty": 1
+          },
+          {
+            "id": "C",
+            "attack": 14.28,
+            "defense": 8.4,
+            "recovery": 3.3000000000000003,
+            "difficulty": 1
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "attack"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 9924,
+        "B": 10004,
+        "both": 72,
+        "censored": 0
+      },
+      "median": 15,
+      "p90": 41,
+      "meanResolved": 19.07,
+      "restrictedMean": 19.07,
+      "firstMoverWinPct": 49.8,
+      "aWinPct": 49.62,
+      "resolvedByFivePct": 19.76,
+      "firstAttackDownPct": 0.21,
+      "noRemainderPct": 88.66,
+      "terminal00Pct": 72.84,
+      "terminal01Pct": 16.29,
+      "compNeededPct": 72.62,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanDamage": 6.997,
+      "meanComplications": 10.386
+    },
+    {
+      "config": {
+        "id": "clinician-v-clinician",
+        "pair": [
+          {
+            "id": "C",
+            "attack": 14.28,
+            "defense": 8.4,
+            "recovery": 3.3000000000000003,
+            "difficulty": 1
+          },
+          {
+            "id": "C",
+            "attack": 14.28,
+            "defense": 8.4,
+            "recovery": 3.3000000000000003,
+            "difficulty": 1
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "recover-band"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 9919,
+        "B": 10009,
+        "both": 72,
+        "censored": 0
+      },
+      "median": 15,
+      "p90": 41,
+      "meanResolved": 19.108,
+      "restrictedMean": 19.108,
+      "firstMoverWinPct": 49.78,
+      "aWinPct": 49.6,
+      "resolvedByFivePct": 19.76,
+      "firstAttackDownPct": 0.21,
+      "noRemainderPct": 88.63,
+      "terminal00Pct": 72.78,
+      "terminal01Pct": 16.25,
+      "compNeededPct": 72.57,
+      "meanRecoveryActions": 0.179,
+      "recoveryBandGainPct": 0.86,
+      "meanRecovered": 0.009,
+      "meanDamage": 6.994,
+      "meanComplications": 10.38
+    },
+    {
+      "config": {
+        "id": "clinician-v-clinician",
+        "pair": [
+          {
+            "id": "C",
+            "attack": 14.28,
+            "defense": 8.4,
+            "recovery": 3.3000000000000003,
+            "difficulty": 1
+          },
+          {
+            "id": "C",
+            "attack": 14.28,
+            "defense": 8.4,
+            "recovery": 3.3000000000000003,
+            "difficulty": 1
+          }
+        ],
+        "complication": "output-only-control",
+        "policy": "attack"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 10038,
+        "B": 9962,
+        "both": 0,
+        "censored": 0
+      },
+      "median": 42,
+      "p90": 84,
+      "meanResolved": 46.548,
+      "restrictedMean": 46.548,
+      "firstMoverWinPct": 50.8,
+      "aWinPct": 50.19,
+      "resolvedByFivePct": 2.79,
+      "firstAttackDownPct": 0.21,
+      "noRemainderPct": 90.18,
+      "terminal00Pct": 1.11,
+      "terminal01Pct": 49.63,
+      "compNeededPct": 0,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanDamage": 15.108,
+      "meanComplications": 0
+    }
+  ]
+}

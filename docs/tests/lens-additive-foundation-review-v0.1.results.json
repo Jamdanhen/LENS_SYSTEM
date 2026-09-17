@@ -1,0 +1,3946 @@
+{
+  "status": "Package 1 review only; no adoption or repricing.",
+  "input": "lens-low-rating-build-trace-v0.1.results.json",
+  "sourceHash": "8bfe4c4f83bf1395b8ca7b15a24019a6e623b2cbd4a29c4bf4f5f7c0950c8265",
+  "budgets": [
+    {
+      "id": "A",
+      "name": "Experienced local shopkeeper",
+      "attribute": 1260,
+      "derived": 1040,
+      "training": 770,
+      "total": 3070,
+      "unspent": 5
+    },
+    {
+      "id": "B",
+      "name": "Expedition security guide",
+      "attribute": 1260,
+      "derived": 1040,
+      "training": 775,
+      "total": 3075,
+      "unspent": 0
+    },
+    {
+      "id": "C",
+      "name": "Medical specialist",
+      "attribute": 1260,
+      "derived": 1040,
+      "training": 775,
+      "total": 3075,
+      "unspent": 0
+    }
+  ],
+  "pairs": [
+    {
+      "a": 1,
+      "d": 0,
+      "old": 1,
+      "proposed": 1,
+      "gain": 0,
+      "ratio": 1,
+      "equivalentDifficultySteps": 0
+    },
+    {
+      "a": 1,
+      "d": 1,
+      "old": 1.1,
+      "proposed": 2,
+      "gain": 0.8999999999999999,
+      "ratio": 1.8181818181818181,
+      "equivalentDifficultySteps": 1.1703347932081998
+    },
+    {
+      "a": 2,
+      "d": 0,
+      "old": 2,
+      "proposed": 2,
+      "gain": 0,
+      "ratio": 1,
+      "equivalentDifficultySteps": 0
+    },
+    {
+      "a": 2,
+      "d": 1,
+      "old": 2.2,
+      "proposed": 3,
+      "gain": 0.7999999999999998,
+      "ratio": 1.3636363636363635,
+      "equivalentDifficultySteps": 0.6071639985818751
+    },
+    {
+      "a": 2,
+      "d": 2,
+      "old": 2.4,
+      "proposed": 4,
+      "gain": 1.6,
+      "ratio": 1.6666666666666667,
+      "equivalentDifficultySteps": 1
+    },
+    {
+      "a": 3,
+      "d": 0,
+      "old": 3,
+      "proposed": 3,
+      "gain": 0,
+      "ratio": 1,
+      "equivalentDifficultySteps": 0
+    },
+    {
+      "a": 3,
+      "d": 1,
+      "old": 3.3000000000000003,
+      "proposed": 4,
+      "gain": 0.6999999999999997,
+      "ratio": 1.212121212121212,
+      "equivalentDifficultySteps": 0.3765901389778002
+    },
+    {
+      "a": 3,
+      "d": 2,
+      "old": 3.5999999999999996,
+      "proposed": 5,
+      "gain": 1.4000000000000004,
+      "ratio": 1.388888888888889,
+      "equivalentDifficultySteps": 0.6430845511432761
+    },
+    {
+      "a": 3,
+      "d": 3,
+      "old": 3.9000000000000004,
+      "proposed": 6,
+      "gain": 2.0999999999999996,
+      "ratio": 1.5384615384615383,
+      "equivalentDifficultySteps": 0.8433071796919018
+    },
+    {
+      "a": 4,
+      "d": 0,
+      "old": 4,
+      "proposed": 4,
+      "gain": 0,
+      "ratio": 1,
+      "equivalentDifficultySteps": 0
+    },
+    {
+      "a": 4,
+      "d": 1,
+      "old": 4.4,
+      "proposed": 5,
+      "gain": 0.5999999999999996,
+      "ratio": 1.1363636363636362,
+      "equivalentDifficultySteps": 0.2502485497251509
+    },
+    {
+      "a": 4,
+      "d": 2,
+      "old": 4.8,
+      "proposed": 6,
+      "gain": 1.2000000000000002,
+      "ratio": 1.25,
+      "equivalentDifficultySteps": 0.4368292053736753
+    },
+    {
+      "a": 4,
+      "d": 3,
+      "old": 5.2,
+      "proposed": 7,
+      "gain": 1.7999999999999998,
+      "ratio": 1.346153846153846,
+      "equivalentDifficultySteps": 0.5819040972856571
+    },
+    {
+      "a": 4,
+      "d": 4,
+      "old": 5.6,
+      "proposed": 8,
+      "gain": 2.4000000000000004,
+      "ratio": 1.4285714285714286,
+      "equivalentDifficultySteps": 0.6982322877799201
+    },
+    {
+      "a": 5,
+      "d": 0,
+      "old": 5,
+      "proposed": 5,
+      "gain": 0,
+      "ratio": 1,
+      "equivalentDifficultySteps": 0
+    },
+    {
+      "a": 5,
+      "d": 1,
+      "old": 5.5,
+      "proposed": 6,
+      "gain": 0.5,
+      "ratio": 1.0909090909090908,
+      "equivalentDifficultySteps": 0.17033479320819978
+    },
+    {
+      "a": 5,
+      "d": 2,
+      "old": 6,
+      "proposed": 7,
+      "gain": 1,
+      "ratio": 1.1666666666666667,
+      "equivalentDifficultySteps": 0.30176771222008003
+    },
+    {
+      "a": 5,
+      "d": 3,
+      "old": 6.5,
+      "proposed": 8,
+      "gain": 1.5,
+      "ratio": 1.2307692307692308,
+      "equivalentDifficultySteps": 0.4064779743182268
+    },
+    {
+      "a": 5,
+      "d": 4,
+      "old": 7,
+      "proposed": 9,
+      "gain": 2,
+      "ratio": 1.2857142857142858,
+      "equivalentDifficultySteps": 0.4919769420103196
+    },
+    {
+      "a": 5,
+      "d": 5,
+      "old": 7.5,
+      "proposed": 10,
+      "gain": 2.5,
+      "ratio": 1.3333333333333333,
+      "equivalentDifficultySteps": 0.5631707946263245
+    },
+    {
+      "a": 6,
+      "d": 0,
+      "old": 6,
+      "proposed": 6,
+      "gain": 0,
+      "ratio": 1,
+      "equivalentDifficultySteps": 0
+    },
+    {
+      "a": 6,
+      "d": 1,
+      "old": 6.6000000000000005,
+      "proposed": 7,
+      "gain": 0.39999999999999947,
+      "ratio": 1.0606060606060606,
+      "equivalentDifficultySteps": 0.11518705657155569
+    },
+    {
+      "a": 6,
+      "d": 2,
+      "old": 7.199999999999999,
+      "proposed": 8,
+      "gain": 0.8000000000000007,
+      "ratio": 1.1111111111111112,
+      "equivalentDifficultySteps": 0.20625534576960067
+    },
+    {
+      "a": 6,
+      "d": 3,
+      "old": 7.800000000000001,
+      "proposed": 9,
+      "gain": 1.1999999999999993,
+      "ratio": 1.1538461538461537,
+      "equivalentDifficultySteps": 0.2801363850655772
+    },
+    {
+      "a": 6,
+      "d": 4,
+      "old": 8.399999999999999,
+      "proposed": 10,
+      "gain": 1.6000000000000014,
+      "ratio": 1.1904761904761907,
+      "equivalentDifficultySteps": 0.3413168389231963
+    },
+    {
+      "a": 6,
+      "d": 5,
+      "old": 9,
+      "proposed": 11,
+      "gain": 2,
+      "ratio": 1.2222222222222223,
+      "equivalentDifficultySteps": 0.39283600141812486
+    },
+    {
+      "a": 6,
+      "d": 6,
+      "old": 9.600000000000001,
+      "proposed": 12,
+      "gain": 2.3999999999999986,
+      "ratio": 1.2499999999999998,
+      "equivalentDifficultySteps": 0.4368292053736749
+    },
+    {
+      "a": 7,
+      "d": 0,
+      "old": 7,
+      "proposed": 7,
+      "gain": 0,
+      "ratio": 1,
+      "equivalentDifficultySteps": 0
+    },
+    {
+      "a": 7,
+      "d": 1,
+      "old": 7.700000000000001,
+      "proposed": 8,
+      "gain": 0.29999999999999893,
+      "ratio": 1.0389610389610389,
+      "equivalentDifficultySteps": 0.07482242675772038
+    },
+    {
+      "a": 7,
+      "d": 2,
+      "old": 8.4,
+      "proposed": 9,
+      "gain": 0.5999999999999996,
+      "ratio": 1.0714285714285714,
+      "equivalentDifficultySteps": 0.13506149315359534
+    },
+    {
+      "a": 7,
+      "d": 3,
+      "old": 9.1,
+      "proposed": 10,
+      "gain": 0.9000000000000004,
+      "ratio": 1.098901098901099,
+      "equivalentDifficultySteps": 0.1846240186150982
+    },
+    {
+      "a": 7,
+      "d": 4,
+      "old": 9.799999999999999,
+      "proposed": 11,
+      "gain": 1.200000000000001,
+      "ratio": 1.1224489795918369,
+      "equivalentDifficultySteps": 0.2261297823516404
+    },
+    {
+      "a": 7,
+      "d": 5,
+      "old": 10.5,
+      "proposed": 12,
+      "gain": 1.5,
+      "ratio": 1.1428571428571428,
+      "equivalentDifficultySteps": 0.2614030824062446
+    },
+    {
+      "a": 7,
+      "d": 6,
+      "old": 11.200000000000001,
+      "proposed": 13,
+      "gain": 1.799999999999999,
+      "ratio": 1.1607142857142856,
+      "equivalentDifficultySteps": 0.2917543134616931
+    },
+    {
+      "a": 7,
+      "d": 7,
+      "old": 11.9,
+      "proposed": 14,
+      "gain": 2.0999999999999996,
+      "ratio": 1.1764705882352942,
+      "equivalentDifficultySteps": 0.31814952488018666
+    },
+    {
+      "a": 8,
+      "d": 0,
+      "old": 8,
+      "proposed": 8,
+      "gain": 0,
+      "ratio": 1,
+      "equivalentDifficultySteps": 0
+    },
+    {
+      "a": 8,
+      "d": 1,
+      "old": 8.8,
+      "proposed": 9,
+      "gain": 0.1999999999999993,
+      "ratio": 1.0227272727272727,
+      "equivalentDifficultySteps": 0.043993203955550585
+    },
+    {
+      "a": 8,
+      "d": 2,
+      "old": 9.6,
+      "proposed": 10,
+      "gain": 0.40000000000000036,
+      "ratio": 1.0416666666666667,
+      "equivalentDifficultySteps": 0.07991375651695139
+    },
+    {
+      "a": 8,
+      "d": 3,
+      "old": 10.4,
+      "proposed": 11,
+      "gain": 0.5999999999999996,
+      "ratio": 1.0576923076923077,
+      "equivalentDifficultySteps": 0.10980159185737748
+    },
+    {
+      "a": 8,
+      "d": 4,
+      "old": 11.2,
+      "proposed": 12,
+      "gain": 0.8000000000000007,
+      "ratio": 1.0714285714285714,
+      "equivalentDifficultySteps": 0.13506149315359534
+    },
+    {
+      "a": 8,
+      "d": 5,
+      "old": 12,
+      "proposed": 13,
+      "gain": 1,
+      "ratio": 1.0833333333333333,
+      "equivalentDifficultySteps": 0.1566928203080978
+    },
+    {
+      "a": 8,
+      "d": 6,
+      "old": 12.8,
+      "proposed": 14,
+      "gain": 1.1999999999999993,
+      "ratio": 1.09375,
+      "equivalentDifficultySteps": 0.17542612296743063
+    },
+    {
+      "a": 8,
+      "d": 7,
+      "old": 13.6,
+      "proposed": 15,
+      "gain": 1.4000000000000004,
+      "ratio": 1.1029411764705883,
+      "equivalentDifficultySteps": 0.19180793562753745
+    },
+    {
+      "a": 8,
+      "d": 8,
+      "old": 14.4,
+      "proposed": 16,
+      "gain": 1.5999999999999996,
+      "ratio": 1.1111111111111112,
+      "equivalentDifficultySteps": 0.20625534576960067
+    },
+    {
+      "a": 9,
+      "d": 0,
+      "old": 9,
+      "proposed": 9,
+      "gain": 0,
+      "ratio": 1,
+      "equivalentDifficultySteps": 0
+    },
+    {
+      "a": 9,
+      "d": 1,
+      "old": 9.9,
+      "proposed": 10,
+      "gain": 0.09999999999999964,
+      "ratio": 1.0101010101010102,
+      "equivalentDifficultySteps": 0.019674690121076553
+    },
+    {
+      "a": 9,
+      "d": 2,
+      "old": 10.799999999999999,
+      "proposed": 11,
+      "gain": 0.20000000000000107,
+      "ratio": 1.0185185185185186,
+      "equivalentDifficultySteps": 0.035920552561400795
+    },
+    {
+      "a": 9,
+      "d": 3,
+      "old": 11.700000000000001,
+      "proposed": 12,
+      "gain": 0.29999999999999893,
+      "ratio": 1.0256410256410255,
+      "equivalentDifficultySteps": 0.04956252546150245
+    },
+    {
+      "a": 9,
+      "d": 4,
+      "old": 12.6,
+      "proposed": 13,
+      "gain": 0.40000000000000036,
+      "ratio": 1.0317460317460319,
+      "equivalentDifficultySteps": 0.061180453857618784
+    },
+    {
+      "a": 9,
+      "d": 5,
+      "old": 13.5,
+      "proposed": 14,
+      "gain": 0.5,
+      "ratio": 1.037037037037037,
+      "equivalentDifficultySteps": 0.07119385261600505
+    },
+    {
+      "a": 9,
+      "d": 6,
+      "old": 14.4,
+      "proposed": 15,
+      "gain": 0.5999999999999996,
+      "ratio": 1.0416666666666667,
+      "equivalentDifficultySteps": 0.07991375651695139
+    },
+    {
+      "a": 9,
+      "d": 7,
+      "old": 15.299999999999999,
+      "proposed": 16,
+      "gain": 0.7000000000000011,
+      "ratio": 1.0457516339869282,
+      "equivalentDifficultySteps": 0.08757566527611198
+    },
+    {
+      "a": 9,
+      "d": 8,
+      "old": 16.2,
+      "proposed": 17,
+      "gain": 0.8000000000000007,
+      "ratio": 1.0493827160493827,
+      "equivalentDifficultySteps": 0.09436116665901449
+    },
+    {
+      "a": 9,
+      "d": 9,
+      "old": 17.099999999999998,
+      "proposed": 18,
+      "gain": 0.9000000000000021,
+      "ratio": 1.0526315789473686,
+      "equivalentDifficultySteps": 0.10041253218544133
+    },
+    {
+      "a": 10,
+      "d": 0,
+      "old": 10,
+      "proposed": 10,
+      "gain": 0,
+      "ratio": 1,
+      "equivalentDifficultySteps": 0
+    },
+    {
+      "a": 10,
+      "d": 1,
+      "old": 11,
+      "proposed": 11,
+      "gain": 0,
+      "ratio": 1,
+      "equivalentDifficultySteps": 0
+    },
+    {
+      "a": 10,
+      "d": 2,
+      "old": 12,
+      "proposed": 12,
+      "gain": 0,
+      "ratio": 1,
+      "equivalentDifficultySteps": 0
+    },
+    {
+      "a": 10,
+      "d": 3,
+      "old": 13,
+      "proposed": 13,
+      "gain": 0,
+      "ratio": 1,
+      "equivalentDifficultySteps": 0
+    },
+    {
+      "a": 10,
+      "d": 4,
+      "old": 14,
+      "proposed": 14,
+      "gain": 0,
+      "ratio": 1,
+      "equivalentDifficultySteps": 0
+    },
+    {
+      "a": 10,
+      "d": 5,
+      "old": 15,
+      "proposed": 15,
+      "gain": 0,
+      "ratio": 1,
+      "equivalentDifficultySteps": 0
+    },
+    {
+      "a": 10,
+      "d": 6,
+      "old": 16,
+      "proposed": 16,
+      "gain": 0,
+      "ratio": 1,
+      "equivalentDifficultySteps": 0
+    },
+    {
+      "a": 10,
+      "d": 7,
+      "old": 17,
+      "proposed": 17,
+      "gain": 0,
+      "ratio": 1,
+      "equivalentDifficultySteps": 0
+    },
+    {
+      "a": 10,
+      "d": 8,
+      "old": 18,
+      "proposed": 18,
+      "gain": 0,
+      "ratio": 1,
+      "equivalentDifficultySteps": 0
+    },
+    {
+      "a": 10,
+      "d": 9,
+      "old": 19,
+      "proposed": 19,
+      "gain": 0,
+      "ratio": 1,
+      "equivalentDifficultySteps": 0
+    },
+    {
+      "a": 10,
+      "d": 10,
+      "old": 20,
+      "proposed": 20,
+      "gain": 0,
+      "ratio": 1,
+      "equivalentDifficultySteps": 0
+    }
+  ],
+  "controlled": [
+    {
+      "name": "All ranks 1",
+      "ranks": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "models": {
+        "current": [
+          {
+            "difficulty": 1,
+            "rating": 1,
+            "successPct": 1,
+            "meanEffects": 0.05554535246000002,
+            "meanEffectsOnSuccess": 5.554535246000002,
+            "atLeast3Pct": 0.7999999998999995,
+            "atLeast10Pct": 0.09999999989999996
+          },
+          {
+            "difficulty": 2,
+            "rating": 0,
+            "successPct": 1,
+            "meanEffects": 0.05463525145000003,
+            "meanEffectsOnSuccess": 5.463525145000003,
+            "atLeast3Pct": 0.7899999998999995,
+            "atLeast10Pct": 0.08999999989999997
+          },
+          {
+            "difficulty": 3,
+            "rating": 0,
+            "successPct": 1,
+            "meanEffects": 0.05463525145000003,
+            "meanEffectsOnSuccess": 5.463525145000003,
+            "atLeast3Pct": 0.7899999998999995,
+            "atLeast10Pct": 0.08999999989999997
+          },
+          {
+            "difficulty": 4,
+            "rating": 0,
+            "successPct": 1,
+            "meanEffects": 0.05463525145000003,
+            "meanEffectsOnSuccess": 5.463525145000003,
+            "atLeast3Pct": 0.7899999998999995,
+            "atLeast10Pct": 0.08999999989999997
+          },
+          {
+            "difficulty": 5,
+            "rating": 0,
+            "successPct": 1,
+            "meanEffects": 0.05463525145000003,
+            "meanEffectsOnSuccess": 5.463525145000003,
+            "atLeast3Pct": 0.7899999998999995,
+            "atLeast10Pct": 0.08999999989999997
+          }
+        ],
+        "additive": [
+          {
+            "difficulty": 1,
+            "rating": 2,
+            "successPct": 2,
+            "meanEffects": 0.06645545346999993,
+            "meanEffectsOnSuccess": 3.3227726734999963,
+            "atLeast3Pct": 0.8099999998999997,
+            "atLeast10Pct": 0.10999999989999998
+          },
+          {
+            "difficulty": 2,
+            "rating": 1,
+            "successPct": 1,
+            "meanEffects": 0.05554535246000002,
+            "meanEffectsOnSuccess": 5.554535246000002,
+            "atLeast3Pct": 0.7999999998999995,
+            "atLeast10Pct": 0.09999999989999996
+          },
+          {
+            "difficulty": 3,
+            "rating": 1,
+            "successPct": 1,
+            "meanEffects": 0.05554535246000002,
+            "meanEffectsOnSuccess": 5.554535246000002,
+            "atLeast3Pct": 0.7999999998999995,
+            "atLeast10Pct": 0.09999999989999996
+          },
+          {
+            "difficulty": 4,
+            "rating": 0,
+            "successPct": 1,
+            "meanEffects": 0.05463525145000003,
+            "meanEffectsOnSuccess": 5.463525145000003,
+            "atLeast3Pct": 0.7899999998999995,
+            "atLeast10Pct": 0.08999999989999997
+          },
+          {
+            "difficulty": 5,
+            "rating": 0,
+            "successPct": 1,
+            "meanEffects": 0.05463525145000003,
+            "meanEffectsOnSuccess": 5.463525145000003,
+            "atLeast3Pct": 0.7899999998999995,
+            "atLeast10Pct": 0.08999999989999997
+          }
+        ]
+      }
+    },
+    {
+      "name": "All ranks 3",
+      "ranks": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "models": {
+        "current": [
+          {
+            "difficulty": 1,
+            "rating": 10,
+            "successPct": 10,
+            "meanEffects": 0.15453525144900024,
+            "meanEffectsOnSuccess": 1.5453525144900022,
+            "atLeast3Pct": 0.8899999998999994,
+            "atLeast10Pct": 0.1899999999
+          },
+          {
+            "difficulty": 2,
+            "rating": 6,
+            "successPct": 6,
+            "meanEffects": 0.110494847409,
+            "meanEffectsOnSuccess": 1.8415807901499999,
+            "atLeast3Pct": 0.8499999998999996,
+            "atLeast10Pct": 0.1499999999
+          },
+          {
+            "difficulty": 3,
+            "rating": 3,
+            "successPct": 3,
+            "meanEffects": 0.07746455447999995,
+            "meanEffectsOnSuccess": 2.5821518159999983,
+            "atLeast3Pct": 0.8199999998999995,
+            "atLeast10Pct": 0.11999999989999997
+          },
+          {
+            "difficulty": 4,
+            "rating": 2,
+            "successPct": 2,
+            "meanEffects": 0.06645545346999993,
+            "meanEffectsOnSuccess": 3.3227726734999963,
+            "atLeast3Pct": 0.8099999998999997,
+            "atLeast10Pct": 0.10999999989999998
+          },
+          {
+            "difficulty": 5,
+            "rating": 1,
+            "successPct": 1,
+            "meanEffects": 0.05554535246000002,
+            "meanEffectsOnSuccess": 5.554535246000002,
+            "atLeast3Pct": 0.7999999998999995,
+            "atLeast10Pct": 0.09999999989999996
+          }
+        ],
+        "additive": [
+          {
+            "difficulty": 1,
+            "rating": 16,
+            "successPct": 16,
+            "meanEffects": 0.27049484740799984,
+            "meanEffectsOnSuccess": 1.690592796299999,
+            "atLeast3Pct": 0.9499999998999997,
+            "atLeast10Pct": 0.24999999989999983
+          },
+          {
+            "difficulty": 2,
+            "rating": 10,
+            "successPct": 10,
+            "meanEffects": 0.15453525144900024,
+            "meanEffectsOnSuccess": 1.5453525144900022,
+            "atLeast3Pct": 0.8899999998999994,
+            "atLeast10Pct": 0.1899999999
+          },
+          {
+            "difficulty": 3,
+            "rating": 6,
+            "successPct": 6,
+            "meanEffects": 0.110494847409,
+            "meanEffectsOnSuccess": 1.8415807901499999,
+            "atLeast3Pct": 0.8499999998999996,
+            "atLeast10Pct": 0.1499999999
+          },
+          {
+            "difficulty": 4,
+            "rating": 3,
+            "successPct": 3,
+            "meanEffects": 0.07746455447999995,
+            "meanEffectsOnSuccess": 2.5821518159999983,
+            "atLeast3Pct": 0.8199999998999995,
+            "atLeast10Pct": 0.11999999989999997
+          },
+          {
+            "difficulty": 5,
+            "rating": 2,
+            "successPct": 2,
+            "meanEffects": 0.06645545346999993,
+            "meanEffectsOnSuccess": 3.3227726734999963,
+            "atLeast3Pct": 0.8099999998999997,
+            "atLeast10Pct": 0.10999999989999998
+          }
+        ]
+      }
+    },
+    {
+      "name": "All ranks 5",
+      "ranks": [
+        5,
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "models": {
+        "current": [
+          {
+            "difficulty": 1,
+            "rating": 37,
+            "successPct": 37,
+            "meanEffects": 0.9315049484160005,
+            "meanEffectsOnSuccess": 2.5175809416648662,
+            "atLeast3Pct": 16.999999999900016,
+            "atLeast10Pct": 0.45999999990000023
+          },
+          {
+            "difficulty": 2,
+            "rating": 22,
+            "successPct": 22,
+            "meanEffects": 0.4064554534679998,
+            "meanEffectsOnSuccess": 1.8475247884909083,
+            "atLeast3Pct": 1.999999999899999,
+            "atLeast10Pct": 0.3099999998999998
+          },
+          {
+            "difficulty": 3,
+            "rating": 13,
+            "successPct": 13,
+            "meanEffects": 0.20746455447900025,
+            "meanEffectsOnSuccess": 1.595881188300002,
+            "atLeast3Pct": 0.9199999998999996,
+            "atLeast10Pct": 0.2199999998999998
+          },
+          {
+            "difficulty": 4,
+            "rating": 8,
+            "successPct": 8,
+            "meanEffects": 0.13251504942900025,
+            "meanEffectsOnSuccess": 1.6564381178625032,
+            "atLeast3Pct": 0.8699999998999995,
+            "atLeast10Pct": 0.1699999999
+          },
+          {
+            "difficulty": 5,
+            "rating": 4,
+            "successPct": 4,
+            "meanEffects": 0.08847464548999995,
+            "meanEffectsOnSuccess": 2.2118661372499986,
+            "atLeast3Pct": 0.8299999998999996,
+            "atLeast10Pct": 0.1299999999
+          }
+        ],
+        "additive": [
+          {
+            "difficulty": 1,
+            "rating": 49,
+            "successPct": 49,
+            "meanEffects": 1.503525150435,
+            "meanEffectsOnSuccess": 3.068418674357143,
+            "atLeast3Pct": 28.99999999990004,
+            "atLeast10Pct": 0.5799999999000003
+          },
+          {
+            "difficulty": 2,
+            "rating": 29,
+            "successPct": 29,
+            "meanEffects": 0.6235251504370005,
+            "meanEffectsOnSuccess": 2.1500867256448295,
+            "atLeast3Pct": 8.9999999999,
+            "atLeast10Pct": 0.37999999989999983
+          },
+          {
+            "difficulty": 3,
+            "rating": 17,
+            "successPct": 17,
+            "meanEffects": 0.2915049484179999,
+            "meanEffectsOnSuccess": 1.714734990694117,
+            "atLeast3Pct": 0.9599999998999995,
+            "atLeast10Pct": 0.25999999989999983
+          },
+          {
+            "difficulty": 4,
+            "rating": 10,
+            "successPct": 10,
+            "meanEffects": 0.15453525144900024,
+            "meanEffectsOnSuccess": 1.5453525144900022,
+            "atLeast3Pct": 0.8899999998999994,
+            "atLeast10Pct": 0.1899999999
+          },
+          {
+            "difficulty": 5,
+            "rating": 6,
+            "successPct": 6,
+            "meanEffects": 0.110494847409,
+            "meanEffectsOnSuccess": 1.8415807901499999,
+            "atLeast3Pct": 0.8499999998999996,
+            "atLeast10Pct": 0.1499999999
+          }
+        ]
+      }
+    },
+    {
+      "name": "Rank-5 foundation, Task and Field only",
+      "ranks": [
+        5,
+        5,
+        5,
+        5,
+        0,
+        0
+      ],
+      "models": {
+        "current": [
+          {
+            "difficulty": 1,
+            "rating": 16,
+            "successPct": 16,
+            "meanEffects": 0.27049484740799984,
+            "meanEffectsOnSuccess": 1.690592796299999,
+            "atLeast3Pct": 0.9499999998999997,
+            "atLeast10Pct": 0.24999999989999983
+          },
+          {
+            "difficulty": 2,
+            "rating": 9,
+            "successPct": 9,
+            "meanEffects": 0.14352515043900024,
+            "meanEffectsOnSuccess": 1.5947238937666695,
+            "atLeast3Pct": 0.8799999998999993,
+            "atLeast10Pct": 0.17999999989999999
+          },
+          {
+            "difficulty": 3,
+            "rating": 5,
+            "successPct": 5,
+            "meanEffects": 0.09948474639999999,
+            "meanEffectsOnSuccess": 1.9896949279999998,
+            "atLeast3Pct": 0.8399999998999995,
+            "atLeast10Pct": 0.1399999999
+          },
+          {
+            "difficulty": 4,
+            "rating": 3,
+            "successPct": 3,
+            "meanEffects": 0.07746455447999995,
+            "meanEffectsOnSuccess": 2.5821518159999983,
+            "atLeast3Pct": 0.8199999998999995,
+            "atLeast10Pct": 0.11999999989999997
+          },
+          {
+            "difficulty": 5,
+            "rating": 2,
+            "successPct": 2,
+            "meanEffects": 0.06645545346999993,
+            "meanEffectsOnSuccess": 3.3227726734999963,
+            "atLeast3Pct": 0.8099999998999997,
+            "atLeast10Pct": 0.10999999989999998
+          }
+        ],
+        "additive": [
+          {
+            "difficulty": 1,
+            "rating": 22,
+            "successPct": 22,
+            "meanEffects": 0.4064554534679998,
+            "meanEffectsOnSuccess": 1.8475247884909083,
+            "atLeast3Pct": 1.999999999899999,
+            "atLeast10Pct": 0.3099999998999998
+          },
+          {
+            "difficulty": 2,
+            "rating": 13,
+            "successPct": 13,
+            "meanEffects": 0.20746455447900025,
+            "meanEffectsOnSuccess": 1.595881188300002,
+            "atLeast3Pct": 0.9199999998999996,
+            "atLeast10Pct": 0.2199999998999998
+          },
+          {
+            "difficulty": 3,
+            "rating": 7,
+            "successPct": 7,
+            "meanEffects": 0.12150494841899999,
+            "meanEffectsOnSuccess": 1.7357849774142855,
+            "atLeast3Pct": 0.8599999998999994,
+            "atLeast10Pct": 0.1599999999
+          },
+          {
+            "difficulty": 4,
+            "rating": 4,
+            "successPct": 4,
+            "meanEffects": 0.08847464548999995,
+            "meanEffectsOnSuccess": 2.2118661372499986,
+            "atLeast3Pct": 0.8299999998999996,
+            "atLeast10Pct": 0.1299999999
+          },
+          {
+            "difficulty": 5,
+            "rating": 2,
+            "successPct": 2,
+            "meanEffects": 0.06645545346999993,
+            "meanEffectsOnSuccess": 3.3227726734999963,
+            "atLeast3Pct": 0.8099999998999997,
+            "atLeast10Pct": 0.10999999989999998
+          }
+        ]
+      }
+    },
+    {
+      "name": "All ranks 8",
+      "ranks": [
+        8,
+        8,
+        8,
+        8,
+        8,
+        8
+      ],
+      "models": {
+        "current": [
+          {
+            "difficulty": 1,
+            "rating": 148,
+            "successPct": 99,
+            "meanEffects": 10.302515049415,
+            "meanEffectsOnSuccess": 10.40658085799495,
+            "atLeast3Pct": 98.99999999989987,
+            "atLeast10Pct": 57.99999999989988
+          },
+          {
+            "difficulty": 2,
+            "rating": 88,
+            "successPct": 88,
+            "meanEffects": 4.3725150494210006,
+            "meanEffectsOnSuccess": 4.968767101614773,
+            "atLeast3Pct": 67.99999999989987,
+            "atLeast10Pct": 0.9699999998999996
+          },
+          {
+            "difficulty": 3,
+            "rating": 53,
+            "successPct": 53,
+            "meanEffects": 1.7274645544750002,
+            "meanEffectsOnSuccess": 3.2593670839150946,
+            "atLeast3Pct": 32.99999999990004,
+            "atLeast10Pct": 0.6199999999000003
+          },
+          {
+            "difficulty": 4,
+            "rating": 31,
+            "successPct": 31,
+            "meanEffects": 0.6855453524570004,
+            "meanEffectsOnSuccess": 2.2114366208290335,
+            "atLeast3Pct": 10.9999999999,
+            "atLeast10Pct": 0.3999999999000003
+          },
+          {
+            "difficulty": 5,
+            "rating": 19,
+            "successPct": 19,
+            "meanEffects": 0.33352515043799985,
+            "meanEffectsOnSuccess": 1.7553955286210519,
+            "atLeast3Pct": 0.9799999998999994,
+            "atLeast10Pct": 0.2799999998999998
+          }
+        ],
+        "additive": [
+          {
+            "difficulty": 1,
+            "rating": 164,
+            "successPct": 99,
+            "meanEffects": 11.878474645473997,
+            "meanEffectsOnSuccess": 11.998459237852522,
+            "atLeast3Pct": 98.99999999989988,
+            "atLeast10Pct": 73.99999999989988
+          },
+          {
+            "difficulty": 2,
+            "rating": 98,
+            "successPct": 98,
+            "meanEffects": 5.352515049420002,
+            "meanEffectsOnSuccess": 5.461750050428574,
+            "atLeast3Pct": 77.99999999989987,
+            "atLeast10Pct": 7.999999999900001
+          },
+          {
+            "difficulty": 3,
+            "rating": 59,
+            "successPct": 59,
+            "meanEffects": 2.0935251504339996,
+            "meanEffectsOnSuccess": 3.5483477125999996,
+            "atLeast3Pct": 38.999999999900034,
+            "atLeast10Pct": 0.6799999999000003
+          },
+          {
+            "difficulty": 4,
+            "rating": 35,
+            "successPct": 35,
+            "meanEffects": 0.8494847463970004,
+            "meanEffectsOnSuccess": 2.4270992754200016,
+            "atLeast3Pct": 14.999999999900012,
+            "atLeast10Pct": 0.43999999990000027
+          },
+          {
+            "difficulty": 5,
+            "rating": 21,
+            "successPct": 21,
+            "meanEffects": 0.37554535245799986,
+            "meanEffectsOnSuccess": 1.7883112021809517,
+            "atLeast3Pct": 0.9999999998999997,
+            "atLeast10Pct": 0.29999999989999987
+          }
+        ]
+      }
+    },
+    {
+      "name": "All ranks 10",
+      "ranks": [
+        10,
+        10,
+        10,
+        10,
+        10,
+        10
+      ],
+      "models": {
+        "current": [
+          {
+            "difficulty": 1,
+            "rating": 313,
+            "successPct": 99,
+            "meanEffects": 26.62746455444899,
+            "meanEffectsOnSuccess": 26.896428842877768,
+            "atLeast3Pct": 98.99999999989988,
+            "atLeast10Pct": 98.99999999989988
+          },
+          {
+            "difficulty": 2,
+            "rating": 188,
+            "successPct": 99,
+            "meanEffects": 14.262515049410993,
+            "meanEffectsOnSuccess": 14.406580857990903,
+            "atLeast3Pct": 98.99999999989987,
+            "atLeast10Pct": 97.99999999989987
+          },
+          {
+            "difficulty": 3,
+            "rating": 112,
+            "successPct": 99,
+            "meanEffects": 6.726455453459,
+            "meanEffectsOnSuccess": 6.794399447938384,
+            "atLeast3Pct": 91.99999999989986,
+            "atLeast10Pct": 21.999999999900012
+          },
+          {
+            "difficulty": 4,
+            "rating": 67,
+            "successPct": 67,
+            "meanEffects": 2.641504948413,
+            "meanEffectsOnSuccess": 3.9425446991238804,
+            "atLeast3Pct": 46.99999999990003,
+            "atLeast10Pct": 0.7599999999000002
+          },
+          {
+            "difficulty": 5,
+            "rating": 40,
+            "successPct": 40,
+            "meanEffects": 1.0545352514460002,
+            "meanEffectsOnSuccess": 2.6363381286150003,
+            "atLeast3Pct": 19.99999999990001,
+            "atLeast10Pct": 0.4899999999000002
+          }
+        ],
+        "additive": [
+          {
+            "difficulty": 1,
+            "rating": 313,
+            "successPct": 99,
+            "meanEffects": 26.62746455444899,
+            "meanEffectsOnSuccess": 26.896428842877768,
+            "atLeast3Pct": 98.99999999989988,
+            "atLeast10Pct": 98.99999999989988
+          },
+          {
+            "difficulty": 2,
+            "rating": 188,
+            "successPct": 99,
+            "meanEffects": 14.262515049410993,
+            "meanEffectsOnSuccess": 14.406580857990903,
+            "atLeast3Pct": 98.99999999989987,
+            "atLeast10Pct": 97.99999999989987
+          },
+          {
+            "difficulty": 3,
+            "rating": 112,
+            "successPct": 99,
+            "meanEffects": 6.726455453459,
+            "meanEffectsOnSuccess": 6.794399447938384,
+            "atLeast3Pct": 91.99999999989986,
+            "atLeast10Pct": 21.999999999900012
+          },
+          {
+            "difficulty": 4,
+            "rating": 67,
+            "successPct": 67,
+            "meanEffects": 2.641504948413,
+            "meanEffectsOnSuccess": 3.9425446991238804,
+            "atLeast3Pct": 46.99999999990003,
+            "atLeast10Pct": 0.7599999999000002
+          },
+          {
+            "difficulty": 5,
+            "rating": 40,
+            "successPct": 40,
+            "meanEffects": 1.0545352514460002,
+            "meanEffectsOnSuccess": 2.6363381286150003,
+            "atLeast3Pct": 19.99999999990001,
+            "atLeast10Pct": 0.4899999999000002
+          }
+        ]
+      }
+    }
+  ],
+  "buildRoutes": [
+    {
+      "id": "shop-ledger",
+      "person": "A",
+      "route": {
+        "attribute": "Psyche",
+        "derived": "Cognition",
+        "task": "Inference",
+        "field": "Bookkeeping",
+        "specialty": null,
+        "precision": null
+      },
+      "ranks": [
+        6,
+        6,
+        9,
+        9,
+        0,
+        0
+      ],
+      "equipment": 11,
+      "models": {
+        "current": {
+          "raw": 38.1216,
+          "probes": [
+            {
+              "difficulty": null,
+              "rating": 38,
+              "successPct": 38,
+              "meanEffects": 0.9725150494260005,
+              "meanEffectsOnSuccess": 2.5592501300684223,
+              "atLeast3Pct": 17.999999999900016,
+              "atLeast10Pct": 0.46999999990000024
+            },
+            {
+              "difficulty": 1,
+              "rating": 37,
+              "successPct": 37,
+              "meanEffects": 0.9315049484160005,
+              "meanEffectsOnSuccess": 2.5175809416648662,
+              "atLeast3Pct": 16.999999999900016,
+              "atLeast10Pct": 0.45999999990000023
+            },
+            {
+              "difficulty": 2,
+              "rating": 22,
+              "successPct": 22,
+              "meanEffects": 0.4064554534679998,
+              "meanEffectsOnSuccess": 1.8475247884909083,
+              "atLeast3Pct": 1.999999999899999,
+              "atLeast10Pct": 0.3099999998999998
+            },
+            {
+              "difficulty": 3,
+              "rating": 13,
+              "successPct": 13,
+              "meanEffects": 0.20746455447900025,
+              "meanEffectsOnSuccess": 1.595881188300002,
+              "atLeast3Pct": 0.9199999998999996,
+              "atLeast10Pct": 0.2199999998999998
+            }
+          ]
+        },
+        "additive": {
+          "raw": 47.652,
+          "probes": [
+            {
+              "difficulty": null,
+              "rating": 47,
+              "successPct": 47,
+              "meanEffects": 1.4015049484150004,
+              "meanEffectsOnSuccess": 2.9819254221595757,
+              "atLeast3Pct": 26.99999999990003,
+              "atLeast10Pct": 0.5599999999000003
+            },
+            {
+              "difficulty": 1,
+              "rating": 46,
+              "successPct": 46,
+              "meanEffects": 1.3504948474050003,
+              "meanEffectsOnSuccess": 2.9358583639239133,
+              "atLeast3Pct": 25.999999999900037,
+              "atLeast10Pct": 0.5499999999000003
+            },
+            {
+              "difficulty": 2,
+              "rating": 28,
+              "successPct": 28,
+              "meanEffects": 0.5925150494270004,
+              "meanEffectsOnSuccess": 2.116125176525001,
+              "atLeast3Pct": 7.999999999900001,
+              "atLeast10Pct": 0.3699999998999998
+            },
+            {
+              "difficulty": 3,
+              "rating": 16,
+              "successPct": 16,
+              "meanEffects": 0.27049484740799984,
+              "meanEffectsOnSuccess": 1.690592796299999,
+              "atLeast3Pct": 0.9499999998999997,
+              "atLeast10Pct": 0.24999999989999983
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "shop-retail",
+      "person": "A",
+      "route": {
+        "attribute": "Psyche",
+        "derived": "Cognition",
+        "task": "Planning",
+        "field": "Retail commerce",
+        "specialty": null,
+        "precision": null
+      },
+      "ranks": [
+        6,
+        6,
+        9,
+        10,
+        0,
+        0
+      ],
+      "equipment": 11,
+      "models": {
+        "current": {
+          "raw": 40.128,
+          "probes": [
+            {
+              "difficulty": null,
+              "rating": 40,
+              "successPct": 40,
+              "meanEffects": 1.0545352514460002,
+              "meanEffectsOnSuccess": 2.6363381286150003,
+              "atLeast3Pct": 19.99999999990001,
+              "atLeast10Pct": 0.4899999999000002
+            },
+            {
+              "difficulty": 1,
+              "rating": 39,
+              "successPct": 39,
+              "meanEffects": 1.0135251504360003,
+              "meanEffectsOnSuccess": 2.5987824370153856,
+              "atLeast3Pct": 18.999999999900012,
+              "atLeast10Pct": 0.47999999990000025
+            },
+            {
+              "difficulty": 2,
+              "rating": 23,
+              "successPct": 23,
+              "meanEffects": 0.4374645544779998,
+              "meanEffectsOnSuccess": 1.90201980207826,
+              "atLeast3Pct": 2.9999999999,
+              "atLeast10Pct": 0.3199999998999998
+            },
+            {
+              "difficulty": 3,
+              "rating": 14,
+              "successPct": 14,
+              "meanEffects": 0.22847464548900023,
+              "meanEffectsOnSuccess": 1.6319617534928585,
+              "atLeast3Pct": 0.9299999998999997,
+              "atLeast10Pct": 0.22999999989999984
+            }
+          ]
+        },
+        "additive": {
+          "raw": 50.16,
+          "probes": [
+            {
+              "difficulty": null,
+              "rating": 50,
+              "successPct": 50,
+              "meanEffects": 1.5545352514450002,
+              "meanEffectsOnSuccess": 3.1090705028900003,
+              "atLeast3Pct": 29.99999999990004,
+              "atLeast10Pct": 0.5899999999000002
+            },
+            {
+              "difficulty": 1,
+              "rating": 49,
+              "successPct": 49,
+              "meanEffects": 1.503525150435,
+              "meanEffectsOnSuccess": 3.068418674357143,
+              "atLeast3Pct": 28.99999999990004,
+              "atLeast10Pct": 0.5799999999000003
+            },
+            {
+              "difficulty": 2,
+              "rating": 29,
+              "successPct": 29,
+              "meanEffects": 0.6235251504370005,
+              "meanEffectsOnSuccess": 2.1500867256448295,
+              "atLeast3Pct": 8.9999999999,
+              "atLeast10Pct": 0.37999999989999983
+            },
+            {
+              "difficulty": 3,
+              "rating": 17,
+              "successPct": 17,
+              "meanEffects": 0.2915049484179999,
+              "meanEffectsOnSuccess": 1.714734990694117,
+              "atLeast3Pct": 0.9599999998999995,
+              "atLeast10Pct": 0.25999999989999983
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "shop-assets",
+      "person": "A",
+      "route": {
+        "attribute": "Leverage",
+        "derived": "Assets",
+        "task": "Planning",
+        "field": "Retail commerce"
+      },
+      "ranks": [
+        7,
+        3,
+        9,
+        10,
+        0,
+        0
+      ],
+      "equipment": 10,
+      "models": {
+        "current": {
+          "raw": 34.58,
+          "probes": [
+            {
+              "difficulty": null,
+              "rating": 34,
+              "successPct": 34,
+              "meanEffects": 0.8084746454870003,
+              "meanEffectsOnSuccess": 2.3778666043735304,
+              "atLeast3Pct": 13.999999999900012,
+              "atLeast10Pct": 0.4299999999000002
+            },
+            {
+              "difficulty": 1,
+              "rating": 33,
+              "successPct": 33,
+              "meanEffects": 0.7674645544770002,
+              "meanEffectsOnSuccess": 2.325650165081819,
+              "atLeast3Pct": 12.99999999990001,
+              "atLeast10Pct": 0.41999999990000025
+            },
+            {
+              "difficulty": 2,
+              "rating": 20,
+              "successPct": 20,
+              "meanEffects": 0.35453525144799986,
+              "meanEffectsOnSuccess": 1.7726762572399992,
+              "atLeast3Pct": 0.9899999998999995,
+              "atLeast10Pct": 0.28999999989999986
+            },
+            {
+              "difficulty": 3,
+              "rating": 12,
+              "successPct": 12,
+              "meanEffects": 0.18645545346900022,
+              "meanEffectsOnSuccess": 1.5537954455750018,
+              "atLeast3Pct": 0.9099999998999998,
+              "atLeast10Pct": 0.20999999989999976
+            }
+          ]
+        },
+        "additive": {
+          "raw": 38,
+          "probes": [
+            {
+              "difficulty": null,
+              "rating": 38,
+              "successPct": 38,
+              "meanEffects": 0.9725150494260005,
+              "meanEffectsOnSuccess": 2.5592501300684223,
+              "atLeast3Pct": 17.999999999900016,
+              "atLeast10Pct": 0.46999999990000024
+            },
+            {
+              "difficulty": 1,
+              "rating": 37,
+              "successPct": 37,
+              "meanEffects": 0.9315049484160005,
+              "meanEffectsOnSuccess": 2.5175809416648662,
+              "atLeast3Pct": 16.999999999900016,
+              "atLeast10Pct": 0.45999999990000023
+            },
+            {
+              "difficulty": 2,
+              "rating": 22,
+              "successPct": 22,
+              "meanEffects": 0.4064554534679998,
+              "meanEffectsOnSuccess": 1.8475247884909083,
+              "atLeast3Pct": 1.999999999899999,
+              "atLeast10Pct": 0.3099999998999998
+            },
+            {
+              "difficulty": 3,
+              "rating": 13,
+              "successPct": 13,
+              "meanEffects": 0.20746455447900025,
+              "meanEffectsOnSuccess": 1.595881188300002,
+              "atLeast3Pct": 0.9199999998999996,
+              "atLeast10Pct": 0.2199999998999998
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "shop-persuade",
+      "person": "A",
+      "route": {
+        "attribute": "Influence",
+        "derived": "Manipulation",
+        "task": "Persuade",
+        "field": "Retail commerce"
+      },
+      "ranks": [
+        6,
+        1,
+        6,
+        10,
+        0,
+        0
+      ],
+      "equipment": 10,
+      "models": {
+        "current": {
+          "raw": 21.12,
+          "probes": [
+            {
+              "difficulty": null,
+              "rating": 21,
+              "successPct": 21,
+              "meanEffects": 0.37554535245799986,
+              "meanEffectsOnSuccess": 1.7883112021809517,
+              "atLeast3Pct": 0.9999999998999997,
+              "atLeast10Pct": 0.29999999989999987
+            },
+            {
+              "difficulty": 1,
+              "rating": 20,
+              "successPct": 20,
+              "meanEffects": 0.35453525144799986,
+              "meanEffectsOnSuccess": 1.7726762572399992,
+              "atLeast3Pct": 0.9899999998999995,
+              "atLeast10Pct": 0.28999999989999986
+            },
+            {
+              "difficulty": 2,
+              "rating": 12,
+              "successPct": 12,
+              "meanEffects": 0.18645545346900022,
+              "meanEffectsOnSuccess": 1.5537954455750018,
+              "atLeast3Pct": 0.9099999998999998,
+              "atLeast10Pct": 0.20999999989999976
+            },
+            {
+              "difficulty": 3,
+              "rating": 7,
+              "successPct": 7,
+              "meanEffects": 0.12150494841899999,
+              "meanEffectsOnSuccess": 1.7357849774142855,
+              "atLeast3Pct": 0.8599999998999994,
+              "atLeast10Pct": 0.1599999999
+            }
+          ]
+        },
+        "additive": {
+          "raw": 22.4,
+          "probes": [
+            {
+              "difficulty": null,
+              "rating": 22,
+              "successPct": 22,
+              "meanEffects": 0.4064554534679998,
+              "meanEffectsOnSuccess": 1.8475247884909083,
+              "atLeast3Pct": 1.999999999899999,
+              "atLeast10Pct": 0.3099999998999998
+            },
+            {
+              "difficulty": 1,
+              "rating": 21,
+              "successPct": 21,
+              "meanEffects": 0.37554535245799986,
+              "meanEffectsOnSuccess": 1.7883112021809517,
+              "atLeast3Pct": 0.9999999998999997,
+              "atLeast10Pct": 0.29999999989999987
+            },
+            {
+              "difficulty": 2,
+              "rating": 13,
+              "successPct": 13,
+              "meanEffects": 0.20746455447900025,
+              "meanEffectsOnSuccess": 1.595881188300002,
+              "atLeast3Pct": 0.9199999998999996,
+              "atLeast10Pct": 0.2199999998999998
+            },
+            {
+              "difficulty": 3,
+              "rating": 7,
+              "successPct": 7,
+              "meanEffects": 0.12150494841899999,
+              "meanEffectsOnSuccess": 1.7357849774142855,
+              "atLeast3Pct": 0.8599999998999994,
+              "atLeast10Pct": 0.1599999999
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "shop-firearm",
+      "person": "A",
+      "route": {
+        "attribute": "Mobility",
+        "derived": "Coordination",
+        "task": "Discharge",
+        "field": "Firearms",
+        "specialty": null,
+        "precision": null
+      },
+      "ranks": [
+        4,
+        3,
+        0,
+        0,
+        0,
+        0
+      ],
+      "equipment": 12,
+      "models": {
+        "current": {
+          "raw": 6.24,
+          "probes": [
+            {
+              "difficulty": null,
+              "rating": 6,
+              "successPct": 6,
+              "meanEffects": 0.110494847409,
+              "meanEffectsOnSuccess": 1.8415807901499999,
+              "atLeast3Pct": 0.8499999998999996,
+              "atLeast10Pct": 0.1499999999
+            },
+            {
+              "difficulty": 1,
+              "rating": 6,
+              "successPct": 6,
+              "meanEffects": 0.110494847409,
+              "meanEffectsOnSuccess": 1.8415807901499999,
+              "atLeast3Pct": 0.8499999998999996,
+              "atLeast10Pct": 0.1499999999
+            },
+            {
+              "difficulty": 2,
+              "rating": 3,
+              "successPct": 3,
+              "meanEffects": 0.07746455447999995,
+              "meanEffectsOnSuccess": 2.5821518159999983,
+              "atLeast3Pct": 0.8199999998999995,
+              "atLeast10Pct": 0.11999999989999997
+            },
+            {
+              "difficulty": 3,
+              "rating": 2,
+              "successPct": 2,
+              "meanEffects": 0.06645545346999993,
+              "meanEffectsOnSuccess": 3.3227726734999963,
+              "atLeast3Pct": 0.8099999998999997,
+              "atLeast10Pct": 0.10999999989999998
+            }
+          ]
+        },
+        "additive": {
+          "raw": 8.4,
+          "probes": [
+            {
+              "difficulty": null,
+              "rating": 8,
+              "successPct": 8,
+              "meanEffects": 0.13251504942900025,
+              "meanEffectsOnSuccess": 1.6564381178625032,
+              "atLeast3Pct": 0.8699999998999995,
+              "atLeast10Pct": 0.1699999999
+            },
+            {
+              "difficulty": 1,
+              "rating": 8,
+              "successPct": 8,
+              "meanEffects": 0.13251504942900025,
+              "meanEffectsOnSuccess": 1.6564381178625032,
+              "atLeast3Pct": 0.8699999998999995,
+              "atLeast10Pct": 0.1699999999
+            },
+            {
+              "difficulty": 2,
+              "rating": 4,
+              "successPct": 4,
+              "meanEffects": 0.08847464548999995,
+              "meanEffectsOnSuccess": 2.2118661372499986,
+              "atLeast3Pct": 0.8299999998999996,
+              "atLeast10Pct": 0.1299999999
+            },
+            {
+              "difficulty": 3,
+              "rating": 2,
+              "successPct": 2,
+              "meanEffects": 0.06645545346999993,
+              "meanEffectsOnSuccess": 3.3227726734999963,
+              "atLeast3Pct": 0.8099999998999997,
+              "atLeast10Pct": 0.10999999989999998
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "guide-signature",
+      "person": "B",
+      "route": {
+        "attribute": "Mobility",
+        "derived": "Coordination",
+        "task": "Discharge",
+        "field": "Firearms",
+        "specialty": "Handguns",
+        "precision": "Revolvers"
+      },
+      "ranks": [
+        8,
+        7,
+        9,
+        9,
+        7,
+        8
+      ],
+      "equipment": 12,
+      "models": {
+        "current": {
+          "raw": 180.280512,
+          "probes": [
+            {
+              "difficulty": null,
+              "rating": 180,
+              "successPct": 99,
+              "meanEffects": 13.464535251431993,
+              "meanEffectsOnSuccess": 13.600540658012115,
+              "atLeast3Pct": 98.99999999989988,
+              "atLeast10Pct": 89.99999999989988
+            },
+            {
+              "difficulty": 1,
+              "rating": 176,
+              "successPct": 99,
+              "meanEffects": 13.070494847391991,
+              "meanEffectsOnSuccess": 13.2025200478707,
+              "atLeast3Pct": 98.99999999989988,
+              "atLeast10Pct": 85.99999999989988
+            },
+            {
+              "difficulty": 2,
+              "rating": 106,
+              "successPct": 99,
+              "meanEffects": 6.140494847399001,
+              "meanEffectsOnSuccess": 6.202520047877779,
+              "atLeast3Pct": 85.99999999989988,
+              "atLeast10Pct": 15.999999999900014
+            },
+            {
+              "difficulty": 3,
+              "rating": 63,
+              "successPct": 63,
+              "meanEffects": 2.3574645544740007,
+              "meanEffectsOnSuccess": 3.7420072293238107,
+              "atLeast3Pct": 42.99999999990004,
+              "atLeast10Pct": 0.7199999999000003
+            }
+          ]
+        },
+        "additive": {
+          "raw": 198.8388,
+          "probes": [
+            {
+              "difficulty": null,
+              "rating": 198,
+              "successPct": 99,
+              "meanEffects": 15.252515049409991,
+              "meanEffectsOnSuccess": 15.40658085798989,
+              "atLeast3Pct": 98.99999999989987,
+              "atLeast10Pct": 98.99999999989987
+            },
+            {
+              "difficulty": 1,
+              "rating": 194,
+              "successPct": 99,
+              "meanEffects": 14.848474645470993,
+              "meanEffectsOnSuccess": 14.998459237849488,
+              "atLeast3Pct": 98.99999999989988,
+              "atLeast10Pct": 98.99999999989988
+            },
+            {
+              "difficulty": 2,
+              "rating": 116,
+              "successPct": 99,
+              "meanEffects": 7.130494847398,
+              "meanEffectsOnSuccess": 7.202520047876768,
+              "atLeast3Pct": 95.99999999989987,
+              "atLeast10Pct": 25.999999999900037
+            },
+            {
+              "difficulty": 3,
+              "rating": 70,
+              "successPct": 70,
+              "meanEffects": 2.8545352514430005,
+              "meanEffectsOnSuccess": 4.0779075020614295,
+              "atLeast3Pct": 49.999999999900034,
+              "atLeast10Pct": 0.7899999998999995
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "guide-handgun",
+      "person": "B",
+      "route": {
+        "attribute": "Mobility",
+        "derived": "Coordination",
+        "task": "Discharge",
+        "field": "Firearms",
+        "specialty": "Handguns",
+        "precision": null
+      },
+      "ranks": [
+        8,
+        7,
+        9,
+        9,
+        7,
+        0
+      ],
+      "equipment": 12,
+      "models": {
+        "current": {
+          "raw": 100.15584,
+          "probes": [
+            {
+              "difficulty": null,
+              "rating": 100,
+              "successPct": 99,
+              "meanEffects": 5.544535251440002,
+              "meanEffectsOnSuccess": 5.600540658020204,
+              "atLeast3Pct": 79.99999999989988,
+              "atLeast10Pct": 9.9999999999
+            },
+            {
+              "difficulty": 1,
+              "rating": 98,
+              "successPct": 98,
+              "meanEffects": 5.352515049420002,
+              "meanEffectsOnSuccess": 5.461750050428574,
+              "atLeast3Pct": 77.99999999989987,
+              "atLeast10Pct": 7.999999999900001
+            },
+            {
+              "difficulty": 2,
+              "rating": 58,
+              "successPct": 58,
+              "meanEffects": 2.032515049424,
+              "meanEffectsOnSuccess": 3.504336292110345,
+              "atLeast3Pct": 37.999999999900034,
+              "atLeast10Pct": 0.6699999999000003
+            },
+            {
+              "difficulty": 3,
+              "rating": 35,
+              "successPct": 35,
+              "meanEffects": 0.8494847463970004,
+              "meanEffectsOnSuccess": 2.4270992754200016,
+              "atLeast3Pct": 14.999999999900012,
+              "atLeast10Pct": 0.43999999990000027
+            }
+          ]
+        },
+        "additive": {
+          "raw": 110.466,
+          "probes": [
+            {
+              "difficulty": null,
+              "rating": 110,
+              "successPct": 99,
+              "meanEffects": 6.534535251438999,
+              "meanEffectsOnSuccess": 6.600540658019192,
+              "atLeast3Pct": 89.99999999989988,
+              "atLeast10Pct": 19.99999999990001
+            },
+            {
+              "difficulty": 1,
+              "rating": 108,
+              "successPct": 99,
+              "meanEffects": 6.342515049419001,
+              "meanEffectsOnSuccess": 6.406580857998991,
+              "atLeast3Pct": 87.99999999989987,
+              "atLeast10Pct": 17.999999999900016
+            },
+            {
+              "difficulty": 2,
+              "rating": 64,
+              "successPct": 64,
+              "meanEffects": 2.428474645484,
+              "meanEffectsOnSuccess": 3.79449163356875,
+              "atLeast3Pct": 43.99999999990003,
+              "atLeast10Pct": 0.7299999999000002
+            },
+            {
+              "difficulty": 3,
+              "rating": 38,
+              "successPct": 38,
+              "meanEffects": 0.9725150494260005,
+              "meanEffectsOnSuccess": 2.5592501300684223,
+              "atLeast3Pct": 17.999999999900016,
+              "atLeast10Pct": 0.46999999990000024
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "guide-broad",
+      "person": "B",
+      "route": {
+        "attribute": "Mobility",
+        "derived": "Coordination",
+        "task": "Discharge",
+        "field": "Firearms",
+        "specialty": null,
+        "precision": null
+      },
+      "ranks": [
+        8,
+        7,
+        9,
+        9,
+        0,
+        0
+      ],
+      "equipment": 12,
+      "models": {
+        "current": {
+          "raw": 58.9152,
+          "probes": [
+            {
+              "difficulty": null,
+              "rating": 58,
+              "successPct": 58,
+              "meanEffects": 2.032515049424,
+              "meanEffectsOnSuccess": 3.504336292110345,
+              "atLeast3Pct": 37.999999999900034,
+              "atLeast10Pct": 0.6699999999000003
+            },
+            {
+              "difficulty": 1,
+              "rating": 57,
+              "successPct": 57,
+              "meanEffects": 1.9715049484140001,
+              "meanEffectsOnSuccess": 3.458780611252632,
+              "atLeast3Pct": 36.99999999990003,
+              "atLeast10Pct": 0.6599999999000002
+            },
+            {
+              "difficulty": 2,
+              "rating": 34,
+              "successPct": 34,
+              "meanEffects": 0.8084746454870003,
+              "meanEffectsOnSuccess": 2.3778666043735304,
+              "atLeast3Pct": 13.999999999900012,
+              "atLeast10Pct": 0.4299999999000002
+            },
+            {
+              "difficulty": 3,
+              "rating": 20,
+              "successPct": 20,
+              "meanEffects": 0.35453525144799986,
+              "meanEffectsOnSuccess": 1.7726762572399992,
+              "atLeast3Pct": 0.9899999998999995,
+              "atLeast10Pct": 0.28999999989999986
+            }
+          ]
+        },
+        "additive": {
+          "raw": 64.98,
+          "probes": [
+            {
+              "difficulty": null,
+              "rating": 64,
+              "successPct": 64,
+              "meanEffects": 2.428474645484,
+              "meanEffectsOnSuccess": 3.79449163356875,
+              "atLeast3Pct": 43.99999999990003,
+              "atLeast10Pct": 0.7299999999000002
+            },
+            {
+              "difficulty": 1,
+              "rating": 63,
+              "successPct": 63,
+              "meanEffects": 2.3574645544740007,
+              "meanEffectsOnSuccess": 3.7420072293238107,
+              "atLeast3Pct": 42.99999999990004,
+              "atLeast10Pct": 0.7199999999000003
+            },
+            {
+              "difficulty": 2,
+              "rating": 38,
+              "successPct": 38,
+              "meanEffects": 0.9725150494260005,
+              "meanEffectsOnSuccess": 2.5592501300684223,
+              "atLeast3Pct": 17.999999999900016,
+              "atLeast10Pct": 0.46999999990000024
+            },
+            {
+              "difficulty": 3,
+              "rating": 22,
+              "successPct": 22,
+              "meanEffects": 0.4064554534679998,
+              "meanEffectsOnSuccess": 1.8475247884909083,
+              "atLeast3Pct": 1.999999999899999,
+              "atLeast10Pct": 0.3099999998999998
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "guide-dodge",
+      "person": "B",
+      "route": {
+        "attribute": "Mobility",
+        "derived": "Responsiveness",
+        "task": "Dodge"
+      },
+      "ranks": [
+        8,
+        4,
+        4,
+        0,
+        0,
+        0
+      ],
+      "equipment": 10,
+      "models": {
+        "current": {
+          "raw": 15.68,
+          "probes": [
+            {
+              "difficulty": null,
+              "rating": 15,
+              "successPct": 15,
+              "meanEffects": 0.24948474639900026,
+              "meanEffectsOnSuccess": 1.6632316426600018,
+              "atLeast3Pct": 0.9399999998999996,
+              "atLeast10Pct": 0.23999999989999982
+            },
+            {
+              "difficulty": 1,
+              "rating": 15,
+              "successPct": 15,
+              "meanEffects": 0.24948474639900026,
+              "meanEffectsOnSuccess": 1.6632316426600018,
+              "atLeast3Pct": 0.9399999998999996,
+              "atLeast10Pct": 0.23999999989999982
+            },
+            {
+              "difficulty": 2,
+              "rating": 9,
+              "successPct": 9,
+              "meanEffects": 0.14352515043900024,
+              "meanEffectsOnSuccess": 1.5947238937666695,
+              "atLeast3Pct": 0.8799999998999993,
+              "atLeast10Pct": 0.17999999989999999
+            },
+            {
+              "difficulty": 3,
+              "rating": 5,
+              "successPct": 5,
+              "meanEffects": 0.09948474639999999,
+              "meanEffectsOnSuccess": 1.9896949279999998,
+              "atLeast3Pct": 0.8399999998999995,
+              "atLeast10Pct": 0.1399999999
+            }
+          ]
+        },
+        "additive": {
+          "raw": 16.8,
+          "probes": [
+            {
+              "difficulty": null,
+              "rating": 16,
+              "successPct": 16,
+              "meanEffects": 0.27049484740799984,
+              "meanEffectsOnSuccess": 1.690592796299999,
+              "atLeast3Pct": 0.9499999998999997,
+              "atLeast10Pct": 0.24999999989999983
+            },
+            {
+              "difficulty": 1,
+              "rating": 16,
+              "successPct": 16,
+              "meanEffects": 0.27049484740799984,
+              "meanEffectsOnSuccess": 1.690592796299999,
+              "atLeast3Pct": 0.9499999998999997,
+              "atLeast10Pct": 0.24999999989999983
+            },
+            {
+              "difficulty": 2,
+              "rating": 9,
+              "successPct": 9,
+              "meanEffects": 0.14352515043900024,
+              "meanEffectsOnSuccess": 1.5947238937666695,
+              "atLeast3Pct": 0.8799999998999993,
+              "atLeast10Pct": 0.17999999989999999
+            },
+            {
+              "difficulty": 3,
+              "rating": 5,
+              "successPct": 5,
+              "meanEffects": 0.09948474639999999,
+              "meanEffectsOnSuccess": 1.9896949279999998,
+              "atLeast3Pct": 0.8399999998999995,
+              "atLeast10Pct": 0.1399999999
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "guide-dodge-field",
+      "person": "B",
+      "route": {
+        "attribute": "Mobility",
+        "derived": "Responsiveness",
+        "task": "Dodge",
+        "field": "Firearms"
+      },
+      "ranks": [
+        8,
+        4,
+        4,
+        9,
+        0,
+        0
+      ],
+      "equipment": 10,
+      "models": {
+        "current": {
+          "raw": 29.792,
+          "probes": [
+            {
+              "difficulty": null,
+              "rating": 29,
+              "successPct": 29,
+              "meanEffects": 0.6235251504370005,
+              "meanEffectsOnSuccess": 2.1500867256448295,
+              "atLeast3Pct": 8.9999999999,
+              "atLeast10Pct": 0.37999999989999983
+            },
+            {
+              "difficulty": 1,
+              "rating": 29,
+              "successPct": 29,
+              "meanEffects": 0.6235251504370005,
+              "meanEffectsOnSuccess": 2.1500867256448295,
+              "atLeast3Pct": 8.9999999999,
+              "atLeast10Pct": 0.37999999989999983
+            },
+            {
+              "difficulty": 2,
+              "rating": 17,
+              "successPct": 17,
+              "meanEffects": 0.2915049484179999,
+              "meanEffectsOnSuccess": 1.714734990694117,
+              "atLeast3Pct": 0.9599999998999995,
+              "atLeast10Pct": 0.25999999989999983
+            },
+            {
+              "difficulty": 3,
+              "rating": 10,
+              "successPct": 10,
+              "meanEffects": 0.15453525144900024,
+              "meanEffectsOnSuccess": 1.5453525144900022,
+              "atLeast3Pct": 0.8899999998999994,
+              "atLeast10Pct": 0.1899999999
+            }
+          ]
+        },
+        "additive": {
+          "raw": 31.92,
+          "probes": [
+            {
+              "difficulty": null,
+              "rating": 31,
+              "successPct": 31,
+              "meanEffects": 0.6855453524570004,
+              "meanEffectsOnSuccess": 2.2114366208290335,
+              "atLeast3Pct": 10.9999999999,
+              "atLeast10Pct": 0.3999999999000003
+            },
+            {
+              "difficulty": 1,
+              "rating": 31,
+              "successPct": 31,
+              "meanEffects": 0.6855453524570004,
+              "meanEffectsOnSuccess": 2.2114366208290335,
+              "atLeast3Pct": 10.9999999999,
+              "atLeast10Pct": 0.3999999999000003
+            },
+            {
+              "difficulty": 2,
+              "rating": 18,
+              "successPct": 18,
+              "meanEffects": 0.31251504942799985,
+              "meanEffectsOnSuccess": 1.7361947190444436,
+              "atLeast3Pct": 0.9699999998999996,
+              "atLeast10Pct": 0.2699999998999998
+            },
+            {
+              "difficulty": 3,
+              "rating": 11,
+              "successPct": 11,
+              "meanEffects": 0.1655453524590002,
+              "meanEffectsOnSuccess": 1.5049577496272746,
+              "atLeast3Pct": 0.8999999998999996,
+              "atLeast10Pct": 0.19999999989999984
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "guide-recover",
+      "person": "B",
+      "route": {
+        "attribute": "Might",
+        "derived": "Resilience",
+        "task": "Recover"
+      },
+      "ranks": [
+        5,
+        2,
+        0,
+        0,
+        0,
+        0
+      ],
+      "equipment": 10,
+      "models": {
+        "current": {
+          "raw": 6,
+          "probes": [
+            {
+              "difficulty": null,
+              "rating": 6,
+              "successPct": 6,
+              "meanEffects": 0.110494847409,
+              "meanEffectsOnSuccess": 1.8415807901499999,
+              "atLeast3Pct": 0.8499999998999996,
+              "atLeast10Pct": 0.1499999999
+            },
+            {
+              "difficulty": 1,
+              "rating": 5,
+              "successPct": 5,
+              "meanEffects": 0.09948474639999999,
+              "meanEffectsOnSuccess": 1.9896949279999998,
+              "atLeast3Pct": 0.8399999998999995,
+              "atLeast10Pct": 0.1399999999
+            },
+            {
+              "difficulty": 2,
+              "rating": 3,
+              "successPct": 3,
+              "meanEffects": 0.07746455447999995,
+              "meanEffectsOnSuccess": 2.5821518159999983,
+              "atLeast3Pct": 0.8199999998999995,
+              "atLeast10Pct": 0.11999999989999997
+            },
+            {
+              "difficulty": 3,
+              "rating": 2,
+              "successPct": 2,
+              "meanEffects": 0.06645545346999993,
+              "meanEffectsOnSuccess": 3.3227726734999963,
+              "atLeast3Pct": 0.8099999998999997,
+              "atLeast10Pct": 0.10999999989999998
+            }
+          ]
+        },
+        "additive": {
+          "raw": 7,
+          "probes": [
+            {
+              "difficulty": null,
+              "rating": 7,
+              "successPct": 7,
+              "meanEffects": 0.12150494841899999,
+              "meanEffectsOnSuccess": 1.7357849774142855,
+              "atLeast3Pct": 0.8599999998999994,
+              "atLeast10Pct": 0.1599999999
+            },
+            {
+              "difficulty": 1,
+              "rating": 6,
+              "successPct": 6,
+              "meanEffects": 0.110494847409,
+              "meanEffectsOnSuccess": 1.8415807901499999,
+              "atLeast3Pct": 0.8499999998999996,
+              "atLeast10Pct": 0.1499999999
+            },
+            {
+              "difficulty": 2,
+              "rating": 4,
+              "successPct": 4,
+              "meanEffects": 0.08847464548999995,
+              "meanEffectsOnSuccess": 2.2118661372499986,
+              "atLeast3Pct": 0.8299999998999996,
+              "atLeast10Pct": 0.1299999999
+            },
+            {
+              "difficulty": 3,
+              "rating": 2,
+              "successPct": 2,
+              "meanEffects": 0.06645545346999993,
+              "meanEffectsOnSuccess": 3.3227726734999963,
+              "atLeast3Pct": 0.8099999998999997,
+              "atLeast10Pct": 0.10999999989999998
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "medical-narrow",
+      "person": "C",
+      "route": {
+        "attribute": "Mobility",
+        "derived": "Coordination",
+        "task": "Treat",
+        "field": "Medicine",
+        "specialty": "Surgery",
+        "precision": "Neurosurgery"
+      },
+      "ranks": [
+        7,
+        7,
+        9,
+        10,
+        10,
+        10
+      ],
+      "equipment": 12,
+      "models": {
+        "current": {
+          "raw": 217.056,
+          "probes": [
+            {
+              "difficulty": null,
+              "rating": 217,
+              "successPct": 99,
+              "meanEffects": 17.131504948398007,
+              "meanEffectsOnSuccess": 17.30455045292728,
+              "atLeast3Pct": 98.99999999989987,
+              "atLeast10Pct": 98.99999999989987
+            },
+            {
+              "difficulty": 1,
+              "rating": 212,
+              "successPct": 99,
+              "meanEffects": 16.626455453449008,
+              "meanEffectsOnSuccess": 16.794399447928292,
+              "atLeast3Pct": 98.99999999989987,
+              "atLeast10Pct": 98.99999999989987
+            },
+            {
+              "difficulty": 2,
+              "rating": 127,
+              "successPct": 99,
+              "meanEffects": 8.221504948407004,
+              "meanEffectsOnSuccess": 8.304550452936368,
+              "atLeast3Pct": 98.99999999989987,
+              "atLeast10Pct": 36.99999999990003
+            },
+            {
+              "difficulty": 3,
+              "rating": 76,
+              "successPct": 76,
+              "meanEffects": 3.3304948474020004,
+              "meanEffectsOnSuccess": 4.382230062371053,
+              "atLeast3Pct": 55.999999999899885,
+              "atLeast10Pct": 0.8499999998999996
+            }
+          ]
+        },
+        "additive": {
+          "raw": 255.36,
+          "probes": [
+            {
+              "difficulty": null,
+              "rating": 255,
+              "successPct": 99,
+              "meanEffects": 20.88948474637501,
+              "meanEffectsOnSuccess": 21.10048964280304,
+              "atLeast3Pct": 98.99999999989988,
+              "atLeast10Pct": 98.99999999989988
+            },
+            {
+              "difficulty": 1,
+              "rating": 250,
+              "successPct": 99,
+              "meanEffects": 20.39453525142501,
+              "meanEffectsOnSuccess": 20.60054065800506,
+              "atLeast3Pct": 98.99999999989988,
+              "atLeast10Pct": 98.99999999989988
+            },
+            {
+              "difficulty": 2,
+              "rating": 150,
+              "successPct": 99,
+              "meanEffects": 10.494535251434998,
+              "meanEffectsOnSuccess": 10.60054065801515,
+              "atLeast3Pct": 98.99999999989988,
+              "atLeast10Pct": 59.99999999989989
+            },
+            {
+              "difficulty": 3,
+              "rating": 90,
+              "successPct": 90,
+              "meanEffects": 4.554535251441002,
+              "meanEffectsOnSuccess": 5.0605947238233355,
+              "atLeast3Pct": 69.99999999989988,
+              "atLeast10Pct": 0.9899999998999995
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "medical-broad",
+      "person": "C",
+      "route": {
+        "attribute": "Mobility",
+        "derived": "Coordination",
+        "task": "Treat",
+        "field": "Medicine",
+        "specialty": null,
+        "precision": null
+      },
+      "ranks": [
+        7,
+        7,
+        9,
+        10,
+        0,
+        0
+      ],
+      "equipment": 12,
+      "models": {
+        "current": {
+          "raw": 54.264,
+          "probes": [
+            {
+              "difficulty": null,
+              "rating": 54,
+              "successPct": 54,
+              "meanEffects": 1.7884746454850002,
+              "meanEffectsOnSuccess": 3.3119900842314816,
+              "atLeast3Pct": 33.99999999990003,
+              "atLeast10Pct": 0.6299999999000002
+            },
+            {
+              "difficulty": 1,
+              "rating": 53,
+              "successPct": 53,
+              "meanEffects": 1.7274645544750002,
+              "meanEffectsOnSuccess": 3.2593670839150946,
+              "atLeast3Pct": 32.99999999990004,
+              "atLeast10Pct": 0.6199999999000003
+            },
+            {
+              "difficulty": 2,
+              "rating": 31,
+              "successPct": 31,
+              "meanEffects": 0.6855453524570004,
+              "meanEffectsOnSuccess": 2.2114366208290335,
+              "atLeast3Pct": 10.9999999999,
+              "atLeast10Pct": 0.3999999999000003
+            },
+            {
+              "difficulty": 3,
+              "rating": 19,
+              "successPct": 19,
+              "meanEffects": 0.33352515043799985,
+              "meanEffectsOnSuccess": 1.7553955286210519,
+              "atLeast3Pct": 0.9799999998999994,
+              "atLeast10Pct": 0.2799999998999998
+            }
+          ]
+        },
+        "additive": {
+          "raw": 63.84,
+          "probes": [
+            {
+              "difficulty": null,
+              "rating": 63,
+              "successPct": 63,
+              "meanEffects": 2.3574645544740007,
+              "meanEffectsOnSuccess": 3.7420072293238107,
+              "atLeast3Pct": 42.99999999990004,
+              "atLeast10Pct": 0.7199999999000003
+            },
+            {
+              "difficulty": 1,
+              "rating": 62,
+              "successPct": 62,
+              "meanEffects": 2.286455453464,
+              "meanEffectsOnSuccess": 3.6878313765548385,
+              "atLeast3Pct": 41.99999999990002,
+              "atLeast10Pct": 0.7099999999000003
+            },
+            {
+              "difficulty": 2,
+              "rating": 37,
+              "successPct": 37,
+              "meanEffects": 0.9315049484160005,
+              "meanEffectsOnSuccess": 2.5175809416648662,
+              "atLeast3Pct": 16.999999999900016,
+              "atLeast10Pct": 0.45999999990000023
+            },
+            {
+              "difficulty": 3,
+              "rating": 22,
+              "successPct": 22,
+              "meanEffects": 0.4064554534679998,
+              "meanEffectsOnSuccess": 1.8475247884909083,
+              "atLeast3Pct": 1.999999999899999,
+              "atLeast10Pct": 0.3099999998999998
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "medical-firearm",
+      "person": "C",
+      "route": {
+        "attribute": "Mobility",
+        "derived": "Coordination",
+        "task": "Discharge",
+        "field": "Firearms",
+        "specialty": null,
+        "precision": null
+      },
+      "ranks": [
+        7,
+        7,
+        0,
+        0,
+        0,
+        0
+      ],
+      "equipment": 12,
+      "models": {
+        "current": {
+          "raw": 14.28,
+          "probes": [
+            {
+              "difficulty": null,
+              "rating": 14,
+              "successPct": 14,
+              "meanEffects": 0.22847464548900023,
+              "meanEffectsOnSuccess": 1.6319617534928585,
+              "atLeast3Pct": 0.9299999998999997,
+              "atLeast10Pct": 0.22999999989999984
+            },
+            {
+              "difficulty": 1,
+              "rating": 13,
+              "successPct": 13,
+              "meanEffects": 0.20746455447900025,
+              "meanEffectsOnSuccess": 1.595881188300002,
+              "atLeast3Pct": 0.9199999998999996,
+              "atLeast10Pct": 0.2199999998999998
+            },
+            {
+              "difficulty": 2,
+              "rating": 8,
+              "successPct": 8,
+              "meanEffects": 0.13251504942900025,
+              "meanEffectsOnSuccess": 1.6564381178625032,
+              "atLeast3Pct": 0.8699999998999995,
+              "atLeast10Pct": 0.1699999999
+            },
+            {
+              "difficulty": 3,
+              "rating": 5,
+              "successPct": 5,
+              "meanEffects": 0.09948474639999999,
+              "meanEffectsOnSuccess": 1.9896949279999998,
+              "atLeast3Pct": 0.8399999998999995,
+              "atLeast10Pct": 0.1399999999
+            }
+          ]
+        },
+        "additive": {
+          "raw": 16.8,
+          "probes": [
+            {
+              "difficulty": null,
+              "rating": 16,
+              "successPct": 16,
+              "meanEffects": 0.27049484740799984,
+              "meanEffectsOnSuccess": 1.690592796299999,
+              "atLeast3Pct": 0.9499999998999997,
+              "atLeast10Pct": 0.24999999989999983
+            },
+            {
+              "difficulty": 1,
+              "rating": 16,
+              "successPct": 16,
+              "meanEffects": 0.27049484740799984,
+              "meanEffectsOnSuccess": 1.690592796299999,
+              "atLeast3Pct": 0.9499999998999997,
+              "atLeast10Pct": 0.24999999989999983
+            },
+            {
+              "difficulty": 2,
+              "rating": 9,
+              "successPct": 9,
+              "meanEffects": 0.14352515043900024,
+              "meanEffectsOnSuccess": 1.5947238937666695,
+              "atLeast3Pct": 0.8799999998999993,
+              "atLeast10Pct": 0.17999999989999999
+            },
+            {
+              "difficulty": 3,
+              "rating": 5,
+              "successPct": 5,
+              "meanEffects": 0.09948474639999999,
+              "meanEffectsOnSuccess": 1.9896949279999998,
+              "atLeast3Pct": 0.8399999998999995,
+              "atLeast10Pct": 0.1399999999
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "medical-dodge",
+      "person": "C",
+      "route": {
+        "attribute": "Mobility",
+        "derived": "Responsiveness",
+        "task": "Dodge"
+      },
+      "ranks": [
+        7,
+        2,
+        0,
+        0,
+        0,
+        0
+      ],
+      "equipment": 10,
+      "models": {
+        "current": {
+          "raw": 8.4,
+          "probes": [
+            {
+              "difficulty": null,
+              "rating": 8,
+              "successPct": 8,
+              "meanEffects": 0.13251504942900025,
+              "meanEffectsOnSuccess": 1.6564381178625032,
+              "atLeast3Pct": 0.8699999998999995,
+              "atLeast10Pct": 0.1699999999
+            },
+            {
+              "difficulty": 1,
+              "rating": 8,
+              "successPct": 8,
+              "meanEffects": 0.13251504942900025,
+              "meanEffectsOnSuccess": 1.6564381178625032,
+              "atLeast3Pct": 0.8699999998999995,
+              "atLeast10Pct": 0.1699999999
+            },
+            {
+              "difficulty": 2,
+              "rating": 4,
+              "successPct": 4,
+              "meanEffects": 0.08847464548999995,
+              "meanEffectsOnSuccess": 2.2118661372499986,
+              "atLeast3Pct": 0.8299999998999996,
+              "atLeast10Pct": 0.1299999999
+            },
+            {
+              "difficulty": 3,
+              "rating": 2,
+              "successPct": 2,
+              "meanEffects": 0.06645545346999993,
+              "meanEffectsOnSuccess": 3.3227726734999963,
+              "atLeast3Pct": 0.8099999998999997,
+              "atLeast10Pct": 0.10999999989999998
+            }
+          ]
+        },
+        "additive": {
+          "raw": 9,
+          "probes": [
+            {
+              "difficulty": null,
+              "rating": 9,
+              "successPct": 9,
+              "meanEffects": 0.14352515043900024,
+              "meanEffectsOnSuccess": 1.5947238937666695,
+              "atLeast3Pct": 0.8799999998999993,
+              "atLeast10Pct": 0.17999999989999999
+            },
+            {
+              "difficulty": 1,
+              "rating": 8,
+              "successPct": 8,
+              "meanEffects": 0.13251504942900025,
+              "meanEffectsOnSuccess": 1.6564381178625032,
+              "atLeast3Pct": 0.8699999998999995,
+              "atLeast10Pct": 0.1699999999
+            },
+            {
+              "difficulty": 2,
+              "rating": 5,
+              "successPct": 5,
+              "meanEffects": 0.09948474639999999,
+              "meanEffectsOnSuccess": 1.9896949279999998,
+              "atLeast3Pct": 0.8399999998999995,
+              "atLeast10Pct": 0.1399999999
+            },
+            {
+              "difficulty": 3,
+              "rating": 3,
+              "successPct": 3,
+              "meanEffects": 0.07746455447999995,
+              "meanEffectsOnSuccess": 2.5821518159999983,
+              "atLeast3Pct": 0.8199999998999995,
+              "atLeast10Pct": 0.11999999989999997
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "medical-recover",
+      "person": "C",
+      "route": {
+        "attribute": "Might",
+        "derived": "Resilience",
+        "task": "Recover"
+      },
+      "ranks": [
+        3,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "equipment": 10,
+      "models": {
+        "current": {
+          "raw": 3.3,
+          "probes": [
+            {
+              "difficulty": null,
+              "rating": 3,
+              "successPct": 3,
+              "meanEffects": 0.07746455447999995,
+              "meanEffectsOnSuccess": 2.5821518159999983,
+              "atLeast3Pct": 0.8199999998999995,
+              "atLeast10Pct": 0.11999999989999997
+            },
+            {
+              "difficulty": 1,
+              "rating": 3,
+              "successPct": 3,
+              "meanEffects": 0.07746455447999995,
+              "meanEffectsOnSuccess": 2.5821518159999983,
+              "atLeast3Pct": 0.8199999998999995,
+              "atLeast10Pct": 0.11999999989999997
+            },
+            {
+              "difficulty": 2,
+              "rating": 1,
+              "successPct": 1,
+              "meanEffects": 0.05554535246000002,
+              "meanEffectsOnSuccess": 5.554535246000002,
+              "atLeast3Pct": 0.7999999998999995,
+              "atLeast10Pct": 0.09999999989999996
+            },
+            {
+              "difficulty": 3,
+              "rating": 1,
+              "successPct": 1,
+              "meanEffects": 0.05554535246000002,
+              "meanEffectsOnSuccess": 5.554535246000002,
+              "atLeast3Pct": 0.7999999998999995,
+              "atLeast10Pct": 0.09999999989999996
+            }
+          ]
+        },
+        "additive": {
+          "raw": 4,
+          "probes": [
+            {
+              "difficulty": null,
+              "rating": 4,
+              "successPct": 4,
+              "meanEffects": 0.08847464548999995,
+              "meanEffectsOnSuccess": 2.2118661372499986,
+              "atLeast3Pct": 0.8299999998999996,
+              "atLeast10Pct": 0.1299999999
+            },
+            {
+              "difficulty": 1,
+              "rating": 3,
+              "successPct": 3,
+              "meanEffects": 0.07746455447999995,
+              "meanEffectsOnSuccess": 2.5821518159999983,
+              "atLeast3Pct": 0.8199999998999995,
+              "atLeast10Pct": 0.11999999989999997
+            },
+            {
+              "difficulty": 2,
+              "rating": 2,
+              "successPct": 2,
+              "meanEffects": 0.06645545346999993,
+              "meanEffectsOnSuccess": 3.3227726734999963,
+              "atLeast3Pct": 0.8099999998999997,
+              "atLeast10Pct": 0.10999999989999998
+            },
+            {
+              "difficulty": 3,
+              "rating": 1,
+              "successPct": 1,
+              "meanEffects": 0.05554535246000002,
+              "meanEffectsOnSuccess": 5.554535246000002,
+              "atLeast3Pct": 0.7999999998999995,
+              "atLeast10Pct": 0.09999999989999996
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "shop-dodge",
+      "person": "A",
+      "route": {
+        "attribute": "Mobility",
+        "derived": "Responsiveness",
+        "task": "Dodge"
+      },
+      "ranks": [
+        4,
+        2,
+        0,
+        0,
+        0,
+        0
+      ],
+      "equipment": 10,
+      "models": {
+        "current": {
+          "raw": 4.8,
+          "probes": [
+            {
+              "difficulty": null,
+              "rating": 4,
+              "successPct": 4,
+              "meanEffects": 0.08847464548999995,
+              "meanEffectsOnSuccess": 2.2118661372499986,
+              "atLeast3Pct": 0.8299999998999996,
+              "atLeast10Pct": 0.1299999999
+            },
+            {
+              "difficulty": 1,
+              "rating": 4,
+              "successPct": 4,
+              "meanEffects": 0.08847464548999995,
+              "meanEffectsOnSuccess": 2.2118661372499986,
+              "atLeast3Pct": 0.8299999998999996,
+              "atLeast10Pct": 0.1299999999
+            },
+            {
+              "difficulty": 2,
+              "rating": 2,
+              "successPct": 2,
+              "meanEffects": 0.06645545346999993,
+              "meanEffectsOnSuccess": 3.3227726734999963,
+              "atLeast3Pct": 0.8099999998999997,
+              "atLeast10Pct": 0.10999999989999998
+            },
+            {
+              "difficulty": 3,
+              "rating": 1,
+              "successPct": 1,
+              "meanEffects": 0.05554535246000002,
+              "meanEffectsOnSuccess": 5.554535246000002,
+              "atLeast3Pct": 0.7999999998999995,
+              "atLeast10Pct": 0.09999999989999996
+            }
+          ]
+        },
+        "additive": {
+          "raw": 6,
+          "probes": [
+            {
+              "difficulty": null,
+              "rating": 6,
+              "successPct": 6,
+              "meanEffects": 0.110494847409,
+              "meanEffectsOnSuccess": 1.8415807901499999,
+              "atLeast3Pct": 0.8499999998999996,
+              "atLeast10Pct": 0.1499999999
+            },
+            {
+              "difficulty": 1,
+              "rating": 5,
+              "successPct": 5,
+              "meanEffects": 0.09948474639999999,
+              "meanEffectsOnSuccess": 1.9896949279999998,
+              "atLeast3Pct": 0.8399999998999995,
+              "atLeast10Pct": 0.1399999999
+            },
+            {
+              "difficulty": 2,
+              "rating": 3,
+              "successPct": 3,
+              "meanEffects": 0.07746455447999995,
+              "meanEffectsOnSuccess": 2.5821518159999983,
+              "atLeast3Pct": 0.8199999998999995,
+              "atLeast10Pct": 0.11999999989999997
+            },
+            {
+              "difficulty": 3,
+              "rating": 2,
+              "successPct": 2,
+              "meanEffects": 0.06645545346999993,
+              "meanEffectsOnSuccess": 3.3227726734999963,
+              "atLeast3Pct": 0.8099999998999997,
+              "atLeast10Pct": 0.10999999989999998
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "shop-recover",
+      "person": "A",
+      "route": {
+        "attribute": "Might",
+        "derived": "Resilience",
+        "task": "Recover"
+      },
+      "ranks": [
+        3,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "equipment": 10,
+      "models": {
+        "current": {
+          "raw": 3.3,
+          "probes": [
+            {
+              "difficulty": null,
+              "rating": 3,
+              "successPct": 3,
+              "meanEffects": 0.07746455447999995,
+              "meanEffectsOnSuccess": 2.5821518159999983,
+              "atLeast3Pct": 0.8199999998999995,
+              "atLeast10Pct": 0.11999999989999997
+            },
+            {
+              "difficulty": 1,
+              "rating": 3,
+              "successPct": 3,
+              "meanEffects": 0.07746455447999995,
+              "meanEffectsOnSuccess": 2.5821518159999983,
+              "atLeast3Pct": 0.8199999998999995,
+              "atLeast10Pct": 0.11999999989999997
+            },
+            {
+              "difficulty": 2,
+              "rating": 1,
+              "successPct": 1,
+              "meanEffects": 0.05554535246000002,
+              "meanEffectsOnSuccess": 5.554535246000002,
+              "atLeast3Pct": 0.7999999998999995,
+              "atLeast10Pct": 0.09999999989999996
+            },
+            {
+              "difficulty": 3,
+              "rating": 1,
+              "successPct": 1,
+              "meanEffects": 0.05554535246000002,
+              "meanEffectsOnSuccess": 5.554535246000002,
+              "atLeast3Pct": 0.7999999998999995,
+              "atLeast10Pct": 0.09999999989999996
+            }
+          ]
+        },
+        "additive": {
+          "raw": 4,
+          "probes": [
+            {
+              "difficulty": null,
+              "rating": 4,
+              "successPct": 4,
+              "meanEffects": 0.08847464548999995,
+              "meanEffectsOnSuccess": 2.2118661372499986,
+              "atLeast3Pct": 0.8299999998999996,
+              "atLeast10Pct": 0.1299999999
+            },
+            {
+              "difficulty": 1,
+              "rating": 3,
+              "successPct": 3,
+              "meanEffects": 0.07746455447999995,
+              "meanEffectsOnSuccess": 2.5821518159999983,
+              "atLeast3Pct": 0.8199999998999995,
+              "atLeast10Pct": 0.11999999989999997
+            },
+            {
+              "difficulty": 2,
+              "rating": 2,
+              "successPct": 2,
+              "meanEffects": 0.06645545346999993,
+              "meanEffectsOnSuccess": 3.3227726734999963,
+              "atLeast3Pct": 0.8099999998999997,
+              "atLeast10Pct": 0.10999999989999998
+            },
+            {
+              "difficulty": 3,
+              "rating": 1,
+              "successPct": 1,
+              "meanEffects": 0.05554535246000002,
+              "meanEffectsOnSuccess": 5.554535246000002,
+              "atLeast3Pct": 0.7999999998999995,
+              "atLeast10Pct": 0.09999999989999996
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "impairment": [
+    {
+      "fn": 100,
+      "models": {
+        "current": [
+          {
+            "difficulty": 1,
+            "rating": 37,
+            "successPct": 37,
+            "meanEffects": 0.9315049484160005,
+            "meanEffectsOnSuccess": 2.5175809416648662,
+            "atLeast3Pct": 16.999999999900016,
+            "atLeast10Pct": 0.45999999990000023
+          },
+          {
+            "difficulty": 3,
+            "rating": 13,
+            "successPct": 13,
+            "meanEffects": 0.20746455447900025,
+            "meanEffectsOnSuccess": 1.595881188300002,
+            "atLeast3Pct": 0.9199999998999996,
+            "atLeast10Pct": 0.2199999998999998
+          }
+        ],
+        "additive": [
+          {
+            "difficulty": 1,
+            "rating": 49,
+            "successPct": 49,
+            "meanEffects": 1.503525150435,
+            "meanEffectsOnSuccess": 3.068418674357143,
+            "atLeast3Pct": 28.99999999990004,
+            "atLeast10Pct": 0.5799999999000003
+          },
+          {
+            "difficulty": 3,
+            "rating": 17,
+            "successPct": 17,
+            "meanEffects": 0.2915049484179999,
+            "meanEffectsOnSuccess": 1.714734990694117,
+            "atLeast3Pct": 0.9599999998999995,
+            "atLeast10Pct": 0.25999999989999983
+          }
+        ]
+      }
+    },
+    {
+      "fn": 75,
+      "models": {
+        "current": [
+          {
+            "difficulty": 1,
+            "rating": 27,
+            "successPct": 27,
+            "meanEffects": 0.5615049484170005,
+            "meanEffectsOnSuccess": 2.0796479571000015,
+            "atLeast3Pct": 6.999999999900003,
+            "atLeast10Pct": 0.3599999998999998
+          },
+          {
+            "difficulty": 3,
+            "rating": 10,
+            "successPct": 10,
+            "meanEffects": 0.15453525144900024,
+            "meanEffectsOnSuccess": 1.5453525144900022,
+            "atLeast3Pct": 0.8899999998999994,
+            "atLeast10Pct": 0.1899999999
+          }
+        ],
+        "additive": [
+          {
+            "difficulty": 1,
+            "rating": 37,
+            "successPct": 37,
+            "meanEffects": 0.9315049484160005,
+            "meanEffectsOnSuccess": 2.5175809416648662,
+            "atLeast3Pct": 16.999999999900016,
+            "atLeast10Pct": 0.45999999990000023
+          },
+          {
+            "difficulty": 3,
+            "rating": 13,
+            "successPct": 13,
+            "meanEffects": 0.20746455447900025,
+            "meanEffectsOnSuccess": 1.595881188300002,
+            "atLeast3Pct": 0.9199999998999996,
+            "atLeast10Pct": 0.2199999998999998
+          }
+        ]
+      }
+    },
+    {
+      "fn": 50,
+      "models": {
+        "current": [
+          {
+            "difficulty": 1,
+            "rating": 18,
+            "successPct": 18,
+            "meanEffects": 0.31251504942799985,
+            "meanEffectsOnSuccess": 1.7361947190444436,
+            "atLeast3Pct": 0.9699999998999996,
+            "atLeast10Pct": 0.2699999998999998
+          },
+          {
+            "difficulty": 3,
+            "rating": 6,
+            "successPct": 6,
+            "meanEffects": 0.110494847409,
+            "meanEffectsOnSuccess": 1.8415807901499999,
+            "atLeast3Pct": 0.8499999998999996,
+            "atLeast10Pct": 0.1499999999
+          }
+        ],
+        "additive": [
+          {
+            "difficulty": 1,
+            "rating": 24,
+            "successPct": 24,
+            "meanEffects": 0.4684746454879998,
+            "meanEffectsOnSuccess": 1.9519776895333325,
+            "atLeast3Pct": 3.9999999999000058,
+            "atLeast10Pct": 0.32999999989999984
+          },
+          {
+            "difficulty": 3,
+            "rating": 8,
+            "successPct": 8,
+            "meanEffects": 0.13251504942900025,
+            "meanEffectsOnSuccess": 1.6564381178625032,
+            "atLeast3Pct": 0.8699999998999995,
+            "atLeast10Pct": 0.1699999999
+          }
+        ]
+      }
+    },
+    {
+      "fn": 25,
+      "models": {
+        "current": [
+          {
+            "difficulty": 1,
+            "rating": 9,
+            "successPct": 9,
+            "meanEffects": 0.14352515043900024,
+            "meanEffectsOnSuccess": 1.5947238937666695,
+            "atLeast3Pct": 0.8799999998999993,
+            "atLeast10Pct": 0.17999999989999999
+          },
+          {
+            "difficulty": 3,
+            "rating": 3,
+            "successPct": 3,
+            "meanEffects": 0.07746455447999995,
+            "meanEffectsOnSuccess": 2.5821518159999983,
+            "atLeast3Pct": 0.8199999998999995,
+            "atLeast10Pct": 0.11999999989999997
+          }
+        ],
+        "additive": [
+          {
+            "difficulty": 1,
+            "rating": 12,
+            "successPct": 12,
+            "meanEffects": 0.18645545346900022,
+            "meanEffectsOnSuccess": 1.5537954455750018,
+            "atLeast3Pct": 0.9099999998999998,
+            "atLeast10Pct": 0.20999999989999976
+          },
+          {
+            "difficulty": 3,
+            "rating": 4,
+            "successPct": 4,
+            "meanEffects": 0.08847464548999995,
+            "meanEffectsOnSuccess": 2.2118661372499986,
+            "atLeast3Pct": 0.8299999998999996,
+            "atLeast10Pct": 0.1299999999
+          }
+        ]
+      }
+    },
+    {
+      "fn": 0,
+      "models": {
+        "current": [
+          {
+            "difficulty": 1,
+            "rating": 0,
+            "successPct": 1,
+            "meanEffects": 0.05463525145000003,
+            "meanEffectsOnSuccess": 5.463525145000003,
+            "atLeast3Pct": 0.7899999998999995,
+            "atLeast10Pct": 0.08999999989999997
+          },
+          {
+            "difficulty": 3,
+            "rating": 0,
+            "successPct": 1,
+            "meanEffects": 0.05463525145000003,
+            "meanEffectsOnSuccess": 5.463525145000003,
+            "atLeast3Pct": 0.7899999998999995,
+            "atLeast10Pct": 0.08999999989999997
+          }
+        ],
+        "additive": [
+          {
+            "difficulty": 1,
+            "rating": 0,
+            "successPct": 1,
+            "meanEffects": 0.05463525145000003,
+            "meanEffectsOnSuccess": 5.463525145000003,
+            "atLeast3Pct": 0.7899999998999995,
+            "atLeast10Pct": 0.08999999989999997
+          },
+          {
+            "difficulty": 3,
+            "rating": 0,
+            "successPct": 1,
+            "meanEffects": 0.05463525145000003,
+            "meanEffectsOnSuccess": 5.463525145000003,
+            "atLeast3Pct": 0.7899999998999995,
+            "atLeast10Pct": 0.08999999989999997
+          }
+        ]
+      }
+    }
+  ],
+  "opposedResults": [
+    {
+      "id": "mid-mirror-D1",
+      "models": {
+        "current": {
+          "attackRating": 37,
+          "defenseRating": 37,
+          "mitigation": 0,
+          "remainderPct": 28.472129202820728,
+          "meanRemainder": 0.6875623151637039,
+          "potentialCounterPct": 28.472129202820852,
+          "atLeast10RemainderPct": 0.37147375727671667,
+          "successfulAttackCanceledPct": 8.527870797041768
+        },
+        "additive": {
+          "attackRating": 49,
+          "defenseRating": 49,
+          "mitigation": 0,
+          "remainderPct": 34.672923242620776,
+          "meanRemainder": 0.9826617151430772,
+          "potentialCounterPct": 34.67292324262095,
+          "atLeast10RemainderPct": 0.4342677970767348,
+          "successfulAttackCanceledPct": 14.327076757229818
+        }
+      }
+    },
+    {
+      "id": "mid-mirror-D3",
+      "models": {
+        "current": {
+          "attackRating": 13,
+          "defenseRating": 13,
+          "mitigation": 0,
+          "remainderPct": 11.632917360845138,
+          "meanRemainder": 0.18936112506635766,
+          "potentialCounterPct": 11.632917360845132,
+          "atLeast10RemainderPct": 0.20386191530053746,
+          "successfulAttackCanceledPct": 1.3670826390419337
+        },
+        "additive": {
+          "attackRating": 17,
+          "defenseRating": 17,
+          "mitigation": 0,
+          "remainderPct": 14.872129202821425,
+          "meanRemainder": 0.2573623151650637,
+          "potentialCounterPct": 14.872129202821464,
+          "atLeast10RemainderPct": 0.23547375727671702,
+          "successfulAttackCanceledPct": 2.1278707970617274
+        }
+      }
+    },
+    {
+      "id": "mid-mirror-neutral-mitigation2",
+      "models": {
+        "current": {
+          "attackRating": 37,
+          "defenseRating": 37,
+          "mitigation": 2,
+          "remainderPct": 11.640446034504484,
+          "meanRemainder": 0.20722864199836943,
+          "potentialCounterPct": 28.472129202820852,
+          "atLeast10RemainderPct": 0.18729553945297564,
+          "successfulAttackCanceledPct": 8.527870797041768
+        },
+        "additive": {
+          "attackRating": 50,
+          "defenseRating": 50,
+          "mitigation": 2,
+          "remainderPct": 18.261934123907615,
+          "meanRemainder": 0.3913976801496264,
+          "potentialCounterPct": 35.093617292223925,
+          "atLeast10RemainderPct": 0.25380745004997385,
+          "successfulAttackCanceledPct": 14.906382707625868
+        }
+      }
+    },
+    {
+      "id": "peak-v-mid-max-training",
+      "models": {
+        "current": {
+          "attackRating": 320,
+          "defenseRating": 120,
+          "mitigation": 0,
+          "remainderPct": 98.9948054012357,
+          "meanRemainder": 19.875402195091777,
+          "potentialCounterPct": 0.9942411634114081,
+          "atLeast10RemainderPct": 98.56697373786939,
+          "successfulAttackCanceledPct": 0.005194598565826836
+        },
+        "additive": {
+          "attackRating": 320,
+          "defenseRating": 160,
+          "mitigation": 0,
+          "remainderPct": 98.90355789628525,
+          "meanRemainder": 15.956086612111992,
+          "potentialCounterPct": 1.0488282421292037,
+          "atLeast10RemainderPct": 92.8202440937148,
+          "successfulAttackCanceledPct": 0.09644210351632201
+        }
+      }
+    },
+    {
+      "id": "guide-signature-field-defense",
+      "models": {
+        "current": {
+          "attackRating": 180,
+          "defenseRating": 29,
+          "mitigation": 0,
+          "remainderPct": 98.8609925596523,
+          "meanRemainder": 12.849346572800142,
+          "potentialCounterPct": 0.3824826876727455,
+          "atLeast10RemainderPct": 83.86578963836796,
+          "successfulAttackCanceledPct": 0.139007440148996
+        },
+        "additive": {
+          "attackRating": 198,
+          "defenseRating": 31,
+          "mitigation": 0,
+          "remainderPct": 98.9312796683636,
+          "meanRemainder": 14.574612973048385,
+          "potentialCounterPct": 0.3480371631202895,
+          "atLeast10RemainderPct": 94.97855991539616,
+          "successfulAttackCanceledPct": 0.06872033143812423
+        }
+      }
+    },
+    {
+      "id": "guide-broad-D3-field-defense",
+      "models": {
+        "current": {
+          "attackRating": 20,
+          "defenseRating": 29,
+          "mitigation": 0,
+          "remainderPct": 15.373914331829322,
+          "meanRemainder": 0.2763283624148616,
+          "potentialCounterPct": 25.916184677871428,
+          "atLeast10RemainderPct": 0.23472923232721088,
+          "successfulAttackCanceledPct": 4.626085668050706
+        },
+        "additive": {
+          "attackRating": 22,
+          "defenseRating": 31,
+          "mitigation": 0,
+          "remainderPct": 16.67469847063933,
+          "meanRemainder": 0.31051992090661423,
+          "potentialCounterPct": 27.395400539061495,
+          "atLeast10RemainderPct": 0.2469450935172912,
+          "successfulAttackCanceledPct": 5.325301529238794
+        }
+      }
+    }
+  ],
+  "marginal": [
+    {
+      "a": 3,
+      "d": 2,
+      "model": "current",
+      "purchase": "Attribute",
+      "cost": 60,
+      "gainPct": 33.33333333333333
+    },
+    {
+      "a": 3,
+      "d": 2,
+      "model": "current",
+      "purchase": "Derived",
+      "cost": 20,
+      "gainPct": 8.333333333333348
+    },
+    {
+      "a": 3,
+      "d": 2,
+      "model": "current",
+      "purchase": "Task",
+      "cost": 20,
+      "gainPct": 13.33333333333333
+    },
+    {
+      "a": 3,
+      "d": 2,
+      "model": "current",
+      "purchase": "Field",
+      "cost": 20,
+      "gainPct": 13.33333333333333
+    },
+    {
+      "a": 3,
+      "d": 2,
+      "model": "current",
+      "purchase": "Specialty",
+      "cost": 20,
+      "gainPct": 30.76923076923077
+    },
+    {
+      "a": 3,
+      "d": 2,
+      "model": "current",
+      "purchase": "Precision",
+      "cost": 20,
+      "gainPct": 30.76923076923077
+    },
+    {
+      "a": 3,
+      "d": 2,
+      "model": "additive",
+      "purchase": "Attribute",
+      "cost": 60,
+      "gainPct": 20.000000000000018
+    },
+    {
+      "a": 3,
+      "d": 2,
+      "model": "additive",
+      "purchase": "Derived",
+      "cost": 20,
+      "gainPct": 20.000000000000018
+    },
+    {
+      "a": 3,
+      "d": 2,
+      "model": "additive",
+      "purchase": "Task",
+      "cost": 20,
+      "gainPct": 13.33333333333333
+    },
+    {
+      "a": 3,
+      "d": 2,
+      "model": "additive",
+      "purchase": "Field",
+      "cost": 20,
+      "gainPct": 13.33333333333333
+    },
+    {
+      "a": 3,
+      "d": 2,
+      "model": "additive",
+      "purchase": "Specialty",
+      "cost": 20,
+      "gainPct": 30.76923076923077
+    },
+    {
+      "a": 3,
+      "d": 2,
+      "model": "additive",
+      "purchase": "Precision",
+      "cost": 20,
+      "gainPct": 30.76923076923077
+    },
+    {
+      "a": 6,
+      "d": 3,
+      "model": "current",
+      "purchase": "Attribute",
+      "cost": 60,
+      "gainPct": 16.66666666666665
+    },
+    {
+      "a": 6,
+      "d": 3,
+      "model": "current",
+      "purchase": "Derived",
+      "cost": 20,
+      "gainPct": 7.692307692307687
+    },
+    {
+      "a": 6,
+      "d": 3,
+      "model": "current",
+      "purchase": "Task",
+      "cost": 20,
+      "gainPct": 13.33333333333333
+    },
+    {
+      "a": 6,
+      "d": 3,
+      "model": "current",
+      "purchase": "Field",
+      "cost": 20,
+      "gainPct": 13.33333333333333
+    },
+    {
+      "a": 6,
+      "d": 3,
+      "model": "current",
+      "purchase": "Specialty",
+      "cost": 20,
+      "gainPct": 30.76923076923077
+    },
+    {
+      "a": 6,
+      "d": 3,
+      "model": "current",
+      "purchase": "Precision",
+      "cost": 20,
+      "gainPct": 30.76923076923077
+    },
+    {
+      "a": 6,
+      "d": 3,
+      "model": "additive",
+      "purchase": "Attribute",
+      "cost": 60,
+      "gainPct": 11.111111111111116
+    },
+    {
+      "a": 6,
+      "d": 3,
+      "model": "additive",
+      "purchase": "Derived",
+      "cost": 20,
+      "gainPct": 11.111111111111116
+    },
+    {
+      "a": 6,
+      "d": 3,
+      "model": "additive",
+      "purchase": "Task",
+      "cost": 20,
+      "gainPct": 13.333333333333353
+    },
+    {
+      "a": 6,
+      "d": 3,
+      "model": "additive",
+      "purchase": "Field",
+      "cost": 20,
+      "gainPct": 13.333333333333353
+    },
+    {
+      "a": 6,
+      "d": 3,
+      "model": "additive",
+      "purchase": "Specialty",
+      "cost": 20,
+      "gainPct": 30.76923076923077
+    },
+    {
+      "a": 6,
+      "d": 3,
+      "model": "additive",
+      "purchase": "Precision",
+      "cost": 20,
+      "gainPct": 30.76923076923077
+    },
+    {
+      "a": 9,
+      "d": 3,
+      "model": "current",
+      "purchase": "Attribute",
+      "cost": 60,
+      "gainPct": 11.111111111111116
+    },
+    {
+      "a": 9,
+      "d": 3,
+      "model": "current",
+      "purchase": "Derived",
+      "cost": 20,
+      "gainPct": 7.692307692307687
+    },
+    {
+      "a": 9,
+      "d": 3,
+      "model": "current",
+      "purchase": "Task",
+      "cost": 20,
+      "gainPct": 13.33333333333333
+    },
+    {
+      "a": 9,
+      "d": 3,
+      "model": "current",
+      "purchase": "Field",
+      "cost": 20,
+      "gainPct": 13.33333333333333
+    },
+    {
+      "a": 9,
+      "d": 3,
+      "model": "current",
+      "purchase": "Specialty",
+      "cost": 20,
+      "gainPct": 30.76923076923077
+    },
+    {
+      "a": 9,
+      "d": 3,
+      "model": "current",
+      "purchase": "Precision",
+      "cost": 20,
+      "gainPct": 30.76923076923077
+    },
+    {
+      "a": 9,
+      "d": 3,
+      "model": "additive",
+      "purchase": "Attribute",
+      "cost": 60,
+      "gainPct": 8.333333333333325
+    },
+    {
+      "a": 9,
+      "d": 3,
+      "model": "additive",
+      "purchase": "Derived",
+      "cost": 20,
+      "gainPct": 8.333333333333325
+    },
+    {
+      "a": 9,
+      "d": 3,
+      "model": "additive",
+      "purchase": "Task",
+      "cost": 20,
+      "gainPct": 13.33333333333333
+    },
+    {
+      "a": 9,
+      "d": 3,
+      "model": "additive",
+      "purchase": "Field",
+      "cost": 20,
+      "gainPct": 13.33333333333333
+    },
+    {
+      "a": 9,
+      "d": 3,
+      "model": "additive",
+      "purchase": "Specialty",
+      "cost": 20,
+      "gainPct": 30.76923076923077
+    },
+    {
+      "a": 9,
+      "d": 3,
+      "model": "additive",
+      "purchase": "Precision",
+      "cost": 20,
+      "gainPct": 30.76923076923077
+    }
+  ],
+  "encounters": [
+    {
+      "id": "guide-signature-mirror",
+      "model": "current",
+      "complication": "recoverable-load",
+      "trials": 10000,
+      "censored": 0,
+      "medianCompletedRounds": 1,
+      "p90CompletedRounds": 2,
+      "complicationNeededPct": 0.33,
+      "firstAttackDownPct": 83.72
+    },
+    {
+      "id": "guide-signature-mirror",
+      "model": "current",
+      "complication": "output-only-control",
+      "trials": 10000,
+      "censored": 0,
+      "medianCompletedRounds": 1,
+      "p90CompletedRounds": 2,
+      "complicationNeededPct": 0,
+      "firstAttackDownPct": 83.72
+    },
+    {
+      "id": "guide-signature-mirror",
+      "model": "additive",
+      "complication": "recoverable-load",
+      "trials": 10000,
+      "censored": 0,
+      "medianCompletedRounds": 1,
+      "p90CompletedRounds": 1,
+      "complicationNeededPct": 0.05,
+      "firstAttackDownPct": 94.6
+    },
+    {
+      "id": "guide-signature-mirror",
+      "model": "additive",
+      "complication": "output-only-control",
+      "trials": 10000,
+      "censored": 0,
+      "medianCompletedRounds": 1,
+      "p90CompletedRounds": 1,
+      "complicationNeededPct": 0,
+      "firstAttackDownPct": 94.6
+    },
+    {
+      "id": "guide-broad-D3-mirror",
+      "model": "current",
+      "complication": "recoverable-load",
+      "trials": 10000,
+      "censored": 0,
+      "medianCompletedRounds": 15,
+      "p90CompletedRounds": 35,
+      "complicationNeededPct": 61.86000000000001,
+      "firstAttackDownPct": 0.26
+    },
+    {
+      "id": "guide-broad-D3-mirror",
+      "model": "current",
+      "complication": "output-only-control",
+      "trials": 10000,
+      "censored": 0,
+      "medianCompletedRounds": 31,
+      "p90CompletedRounds": 59,
+      "complicationNeededPct": 0,
+      "firstAttackDownPct": 0.26
+    },
+    {
+      "id": "guide-broad-D3-mirror",
+      "model": "additive",
+      "complication": "recoverable-load",
+      "trials": 10000,
+      "censored": 0,
+      "medianCompletedRounds": 14,
+      "p90CompletedRounds": 33,
+      "complicationNeededPct": 57.489999999999995,
+      "firstAttackDownPct": 0.29
+    },
+    {
+      "id": "guide-broad-D3-mirror",
+      "model": "additive",
+      "complication": "output-only-control",
+      "trials": 10000,
+      "censored": 0,
+      "medianCompletedRounds": 27,
+      "p90CompletedRounds": 52,
+      "complicationNeededPct": 0,
+      "firstAttackDownPct": 0.29
+    },
+    {
+      "id": "shopkeeper-firearm-mirror",
+      "model": "current",
+      "complication": "recoverable-load",
+      "trials": 10000,
+      "censored": 0,
+      "medianCompletedRounds": 16,
+      "p90CompletedRounds": 48,
+      "complicationNeededPct": 84.16,
+      "firstAttackDownPct": 0.13
+    },
+    {
+      "id": "shopkeeper-firearm-mirror",
+      "model": "current",
+      "complication": "output-only-control",
+      "trials": 10000,
+      "censored": 0,
+      "medianCompletedRounds": 71,
+      "p90CompletedRounds": 155,
+      "complicationNeededPct": 0,
+      "firstAttackDownPct": 0.13
+    },
+    {
+      "id": "shopkeeper-firearm-mirror",
+      "model": "additive",
+      "complication": "recoverable-load",
+      "trials": 10000,
+      "censored": 0,
+      "medianCompletedRounds": 16,
+      "p90CompletedRounds": 46,
+      "complicationNeededPct": 81.39,
+      "firstAttackDownPct": 0.15
+    },
+    {
+      "id": "shopkeeper-firearm-mirror",
+      "model": "additive",
+      "complication": "output-only-control",
+      "trials": 10000,
+      "censored": 0,
+      "medianCompletedRounds": 63,
+      "p90CompletedRounds": 130,
+      "complicationNeededPct": 0,
+      "firstAttackDownPct": 0.15
+    }
+  ],
+  "distributionOmittedMassPerActor": 1e-12,
+  "notes": [
+    "Only foundation changes. Same input ranks and costs in both models.",
+    "None of the controlled all-equal-rank routes is asserted to be a complete character.",
+    "Opposed neutral tests do not charge D1 merely for active opposition.",
+    "Effect distributions include repeated 01 through five terminal depths; initial 00 always supplies zero successful Effects.",
+    "Potential counter frequency is not automatic retaliation; actual fiction and matching mitigation remain necessary.",
+    "Encounter control omits complication consequences but retains special rolls; it is not an alternative playable rule.",
+    "No awarded-point or HOLT-system changes evaluated."
+  ]
+}

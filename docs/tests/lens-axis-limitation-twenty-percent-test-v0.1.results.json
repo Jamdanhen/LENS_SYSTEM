@@ -1,0 +1,154 @@
+{
+  "status": "Test candidate only. No Axis discount, sub-rank schedule, cap, refund, or reinvestment rule adopted.",
+  "controls": "HOLT acquisition stays 40 and is outside the 150-point Axis-only comparison. No whole-HOLT limitation discount stacked. Restricted route modeled as unavailable when a test demand is excluded; other ordinary or HOLT routes may remain. Synthetic opportunity counts are not Effect output, probability penalties, or automatic compensation. The rank-six fixture is a development ceiling, not a target-rating ceiling.",
+  "prices": [
+    {
+      "reductionPercent": 0,
+      "pricePerRank": 15,
+      "rank10Cost": 150
+    },
+    {
+      "reductionPercent": 20,
+      "pricePerRank": 12,
+      "rank10Cost": 120
+    },
+    {
+      "reductionPercent": 40,
+      "pricePerRank": 9,
+      "rank10Cost": 90
+    },
+    {
+      "reductionPercent": 60,
+      "pricePerRank": 6,
+      "rank10Cost": 60
+    },
+    {
+      "reductionPercent": 80,
+      "pricePerRank": 3,
+      "rank10Cost": 30
+    },
+    {
+      "reductionPercent": 100,
+      "pricePerRank": 0,
+      "rank10Cost": 0
+    }
+  ],
+  "scenarios": [
+    {
+      "name": "One target class of five, uniform opportunities",
+      "total": 3125,
+      "retained": 625,
+      "additiveDiscount": 80,
+      "retainedPercent": 20,
+      "unavailablePercent": 80
+    },
+    {
+      "name": "Four 20% restrictions, independent demands",
+      "total": 3125,
+      "retained": 1280,
+      "additiveDiscount": 80,
+      "retainedPercent": 40.96,
+      "unavailablePercent": 59.040000000000006
+    },
+    {
+      "name": "Four 20% restrictions, same demanding situations",
+      "total": 5,
+      "retained": 4,
+      "additiveDiscount": 80,
+      "retainedPercent": 80,
+      "unavailablePercent": 20
+    },
+    {
+      "name": "Four 20% restrictions, disjoint demanding situations",
+      "total": 5,
+      "retained": 1,
+      "additiveDiscount": 80,
+      "retainedPercent": 20,
+      "unavailablePercent": 80
+    },
+    {
+      "name": "Five 20% restrictions, independent demands",
+      "total": 3125,
+      "retained": 1024,
+      "additiveDiscount": 100,
+      "retainedPercent": 32.768,
+      "unavailablePercent": 67.232
+    }
+  ],
+  "rankCap": {
+    "maxRank": 6,
+    "reduction": 40,
+    "perRank": 9,
+    "sameSixRanksOrdinary": 90,
+    "sameSixRanksDiscounted": 54,
+    "actualDiscountOnSix": 36,
+    "unrestrictedTen": 150,
+    "restrictedMaxMultiplier": 1.6,
+    "unrestrictedMaxMultiplier": 2
+  },
+  "fixedBudget": [
+    {
+      "reductionPercent": 0,
+      "eligibleAxisBudget": 150,
+      "rank": 10,
+      "spent": 150,
+      "unspent": 0,
+      "applicableMultiplier": 2
+    },
+    {
+      "reductionPercent": 20,
+      "eligibleAxisBudget": 150,
+      "rank": 10,
+      "spent": 120,
+      "unspent": 30,
+      "applicableMultiplier": 2
+    },
+    {
+      "reductionPercent": 40,
+      "eligibleAxisBudget": 150,
+      "rank": 10,
+      "spent": 90,
+      "unspent": 60,
+      "applicableMultiplier": 2
+    },
+    {
+      "reductionPercent": 60,
+      "eligibleAxisBudget": 150,
+      "rank": 10,
+      "spent": 60,
+      "unspent": 90,
+      "applicableMultiplier": 2
+    },
+    {
+      "reductionPercent": 80,
+      "eligibleAxisBudget": 150,
+      "rank": 10,
+      "spent": 30,
+      "unspent": 120,
+      "applicableMultiplier": 2
+    }
+  ],
+  "targetMix": [
+    {
+      "eligibleSharePercent": 20,
+      "targetClassesAllowed": 1,
+      "targetClassesTotal": 5,
+      "excludedClassPercent": 80,
+      "unavailableOpportunityPercent": 80
+    },
+    {
+      "eligibleSharePercent": 60,
+      "targetClassesAllowed": 1,
+      "targetClassesTotal": 5,
+      "excludedClassPercent": 80,
+      "unavailableOpportunityPercent": 40
+    },
+    {
+      "eligibleSharePercent": 80,
+      "targetClassesAllowed": 1,
+      "targetClassesTotal": 5,
+      "excludedClassPercent": 80,
+      "unavailableOpportunityPercent": 20
+    }
+  ]
+}

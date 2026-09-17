@@ -1,0 +1,1714 @@
+{
+  "status": "Discussion control only; no adoption or balance changes",
+  "assumptions": "Additive A+D, Access-only HOLT 40, Axis 15, ordinary flat prices unchanged",
+  "scenarios": [
+    {
+      "gross": 10,
+      "spend": 0,
+      "net": 10,
+      "savedFraction": 1,
+      "timeFactorAgainstNoSpend": 1,
+      "targets": [
+        {
+          "target": "Specialty or Precision +1",
+          "cost": 5,
+          "sessions": 1
+        },
+        {
+          "target": "Task or Field +1",
+          "cost": 10,
+          "sessions": 1
+        },
+        {
+          "target": "Owned HOLT Axis +1",
+          "cost": 15,
+          "sessions": 2
+        },
+        {
+          "target": "Derived +1",
+          "cost": 20,
+          "sessions": 2
+        },
+        {
+          "target": "New Task or Field 0-3",
+          "cost": 30,
+          "sessions": 3
+        },
+        {
+          "target": "New unrestricted HOLT, no Axis ranks",
+          "cost": 40,
+          "sessions": 4
+        },
+        {
+          "target": "Specialty 0-10, eligible Field already held",
+          "cost": 50,
+          "sessions": 5
+        },
+        {
+          "target": "Attribute +1",
+          "cost": 60,
+          "sessions": 6
+        },
+        {
+          "target": "Another Axis 0-5 in owned HOLT",
+          "cost": 75,
+          "sessions": 8
+        },
+        {
+          "target": "Task or Field 0-10",
+          "cost": 100,
+          "sessions": 10
+        },
+        {
+          "target": "New HOLT and Axis 5",
+          "cost": 115,
+          "sessions": 12
+        },
+        {
+          "target": "Owned HOLT Axis 0-10",
+          "cost": 150,
+          "sessions": 15
+        },
+        {
+          "target": "New HOLT and Axis 10",
+          "cost": 190,
+          "sessions": 19
+        },
+        {
+          "target": "New HOLT and three Axes 5",
+          "cost": 265,
+          "sessions": 27
+        },
+        {
+          "target": "New HOLT and five Axes 5",
+          "cost": 415,
+          "sessions": 42
+        }
+      ]
+    },
+    {
+      "gross": 10,
+      "spend": 4,
+      "net": 6,
+      "savedFraction": 0.6,
+      "timeFactorAgainstNoSpend": 1.6666666666666667,
+      "targets": [
+        {
+          "target": "Specialty or Precision +1",
+          "cost": 5,
+          "sessions": 1
+        },
+        {
+          "target": "Task or Field +1",
+          "cost": 10,
+          "sessions": 2
+        },
+        {
+          "target": "Owned HOLT Axis +1",
+          "cost": 15,
+          "sessions": 3
+        },
+        {
+          "target": "Derived +1",
+          "cost": 20,
+          "sessions": 4
+        },
+        {
+          "target": "New Task or Field 0-3",
+          "cost": 30,
+          "sessions": 5
+        },
+        {
+          "target": "New unrestricted HOLT, no Axis ranks",
+          "cost": 40,
+          "sessions": 7
+        },
+        {
+          "target": "Specialty 0-10, eligible Field already held",
+          "cost": 50,
+          "sessions": 9
+        },
+        {
+          "target": "Attribute +1",
+          "cost": 60,
+          "sessions": 10
+        },
+        {
+          "target": "Another Axis 0-5 in owned HOLT",
+          "cost": 75,
+          "sessions": 13
+        },
+        {
+          "target": "Task or Field 0-10",
+          "cost": 100,
+          "sessions": 17
+        },
+        {
+          "target": "New HOLT and Axis 5",
+          "cost": 115,
+          "sessions": 20
+        },
+        {
+          "target": "Owned HOLT Axis 0-10",
+          "cost": 150,
+          "sessions": 25
+        },
+        {
+          "target": "New HOLT and Axis 10",
+          "cost": 190,
+          "sessions": 32
+        },
+        {
+          "target": "New HOLT and three Axes 5",
+          "cost": 265,
+          "sessions": 45
+        },
+        {
+          "target": "New HOLT and five Axes 5",
+          "cost": 415,
+          "sessions": 70
+        }
+      ]
+    },
+    {
+      "gross": 10,
+      "spend": 8,
+      "net": 2,
+      "savedFraction": 0.2,
+      "timeFactorAgainstNoSpend": 5,
+      "targets": [
+        {
+          "target": "Specialty or Precision +1",
+          "cost": 5,
+          "sessions": 3
+        },
+        {
+          "target": "Task or Field +1",
+          "cost": 10,
+          "sessions": 5
+        },
+        {
+          "target": "Owned HOLT Axis +1",
+          "cost": 15,
+          "sessions": 8
+        },
+        {
+          "target": "Derived +1",
+          "cost": 20,
+          "sessions": 10
+        },
+        {
+          "target": "New Task or Field 0-3",
+          "cost": 30,
+          "sessions": 15
+        },
+        {
+          "target": "New unrestricted HOLT, no Axis ranks",
+          "cost": 40,
+          "sessions": 20
+        },
+        {
+          "target": "Specialty 0-10, eligible Field already held",
+          "cost": 50,
+          "sessions": 25
+        },
+        {
+          "target": "Attribute +1",
+          "cost": 60,
+          "sessions": 30
+        },
+        {
+          "target": "Another Axis 0-5 in owned HOLT",
+          "cost": 75,
+          "sessions": 38
+        },
+        {
+          "target": "Task or Field 0-10",
+          "cost": 100,
+          "sessions": 50
+        },
+        {
+          "target": "New HOLT and Axis 5",
+          "cost": 115,
+          "sessions": 58
+        },
+        {
+          "target": "Owned HOLT Axis 0-10",
+          "cost": 150,
+          "sessions": 75
+        },
+        {
+          "target": "New HOLT and Axis 10",
+          "cost": 190,
+          "sessions": 95
+        },
+        {
+          "target": "New HOLT and three Axes 5",
+          "cost": 265,
+          "sessions": 133
+        },
+        {
+          "target": "New HOLT and five Axes 5",
+          "cost": 415,
+          "sessions": 208
+        }
+      ]
+    },
+    {
+      "gross": 14,
+      "spend": 0,
+      "net": 14,
+      "savedFraction": 1,
+      "timeFactorAgainstNoSpend": 1,
+      "targets": [
+        {
+          "target": "Specialty or Precision +1",
+          "cost": 5,
+          "sessions": 1
+        },
+        {
+          "target": "Task or Field +1",
+          "cost": 10,
+          "sessions": 1
+        },
+        {
+          "target": "Owned HOLT Axis +1",
+          "cost": 15,
+          "sessions": 2
+        },
+        {
+          "target": "Derived +1",
+          "cost": 20,
+          "sessions": 2
+        },
+        {
+          "target": "New Task or Field 0-3",
+          "cost": 30,
+          "sessions": 3
+        },
+        {
+          "target": "New unrestricted HOLT, no Axis ranks",
+          "cost": 40,
+          "sessions": 3
+        },
+        {
+          "target": "Specialty 0-10, eligible Field already held",
+          "cost": 50,
+          "sessions": 4
+        },
+        {
+          "target": "Attribute +1",
+          "cost": 60,
+          "sessions": 5
+        },
+        {
+          "target": "Another Axis 0-5 in owned HOLT",
+          "cost": 75,
+          "sessions": 6
+        },
+        {
+          "target": "Task or Field 0-10",
+          "cost": 100,
+          "sessions": 8
+        },
+        {
+          "target": "New HOLT and Axis 5",
+          "cost": 115,
+          "sessions": 9
+        },
+        {
+          "target": "Owned HOLT Axis 0-10",
+          "cost": 150,
+          "sessions": 11
+        },
+        {
+          "target": "New HOLT and Axis 10",
+          "cost": 190,
+          "sessions": 14
+        },
+        {
+          "target": "New HOLT and three Axes 5",
+          "cost": 265,
+          "sessions": 19
+        },
+        {
+          "target": "New HOLT and five Axes 5",
+          "cost": 415,
+          "sessions": 30
+        }
+      ]
+    },
+    {
+      "gross": 14,
+      "spend": 4,
+      "net": 10,
+      "savedFraction": 0.7142857142857143,
+      "timeFactorAgainstNoSpend": 1.4,
+      "targets": [
+        {
+          "target": "Specialty or Precision +1",
+          "cost": 5,
+          "sessions": 1
+        },
+        {
+          "target": "Task or Field +1",
+          "cost": 10,
+          "sessions": 1
+        },
+        {
+          "target": "Owned HOLT Axis +1",
+          "cost": 15,
+          "sessions": 2
+        },
+        {
+          "target": "Derived +1",
+          "cost": 20,
+          "sessions": 2
+        },
+        {
+          "target": "New Task or Field 0-3",
+          "cost": 30,
+          "sessions": 3
+        },
+        {
+          "target": "New unrestricted HOLT, no Axis ranks",
+          "cost": 40,
+          "sessions": 4
+        },
+        {
+          "target": "Specialty 0-10, eligible Field already held",
+          "cost": 50,
+          "sessions": 5
+        },
+        {
+          "target": "Attribute +1",
+          "cost": 60,
+          "sessions": 6
+        },
+        {
+          "target": "Another Axis 0-5 in owned HOLT",
+          "cost": 75,
+          "sessions": 8
+        },
+        {
+          "target": "Task or Field 0-10",
+          "cost": 100,
+          "sessions": 10
+        },
+        {
+          "target": "New HOLT and Axis 5",
+          "cost": 115,
+          "sessions": 12
+        },
+        {
+          "target": "Owned HOLT Axis 0-10",
+          "cost": 150,
+          "sessions": 15
+        },
+        {
+          "target": "New HOLT and Axis 10",
+          "cost": 190,
+          "sessions": 19
+        },
+        {
+          "target": "New HOLT and three Axes 5",
+          "cost": 265,
+          "sessions": 27
+        },
+        {
+          "target": "New HOLT and five Axes 5",
+          "cost": 415,
+          "sessions": 42
+        }
+      ]
+    },
+    {
+      "gross": 14,
+      "spend": 8,
+      "net": 6,
+      "savedFraction": 0.42857142857142855,
+      "timeFactorAgainstNoSpend": 2.3333333333333335,
+      "targets": [
+        {
+          "target": "Specialty or Precision +1",
+          "cost": 5,
+          "sessions": 1
+        },
+        {
+          "target": "Task or Field +1",
+          "cost": 10,
+          "sessions": 2
+        },
+        {
+          "target": "Owned HOLT Axis +1",
+          "cost": 15,
+          "sessions": 3
+        },
+        {
+          "target": "Derived +1",
+          "cost": 20,
+          "sessions": 4
+        },
+        {
+          "target": "New Task or Field 0-3",
+          "cost": 30,
+          "sessions": 5
+        },
+        {
+          "target": "New unrestricted HOLT, no Axis ranks",
+          "cost": 40,
+          "sessions": 7
+        },
+        {
+          "target": "Specialty 0-10, eligible Field already held",
+          "cost": 50,
+          "sessions": 9
+        },
+        {
+          "target": "Attribute +1",
+          "cost": 60,
+          "sessions": 10
+        },
+        {
+          "target": "Another Axis 0-5 in owned HOLT",
+          "cost": 75,
+          "sessions": 13
+        },
+        {
+          "target": "Task or Field 0-10",
+          "cost": 100,
+          "sessions": 17
+        },
+        {
+          "target": "New HOLT and Axis 5",
+          "cost": 115,
+          "sessions": 20
+        },
+        {
+          "target": "Owned HOLT Axis 0-10",
+          "cost": 150,
+          "sessions": 25
+        },
+        {
+          "target": "New HOLT and Axis 10",
+          "cost": 190,
+          "sessions": 32
+        },
+        {
+          "target": "New HOLT and three Axes 5",
+          "cost": 265,
+          "sessions": 45
+        },
+        {
+          "target": "New HOLT and five Axes 5",
+          "cost": 415,
+          "sessions": 70
+        }
+      ]
+    },
+    {
+      "gross": 17,
+      "spend": 0,
+      "net": 17,
+      "savedFraction": 1,
+      "timeFactorAgainstNoSpend": 1,
+      "targets": [
+        {
+          "target": "Specialty or Precision +1",
+          "cost": 5,
+          "sessions": 1
+        },
+        {
+          "target": "Task or Field +1",
+          "cost": 10,
+          "sessions": 1
+        },
+        {
+          "target": "Owned HOLT Axis +1",
+          "cost": 15,
+          "sessions": 1
+        },
+        {
+          "target": "Derived +1",
+          "cost": 20,
+          "sessions": 2
+        },
+        {
+          "target": "New Task or Field 0-3",
+          "cost": 30,
+          "sessions": 2
+        },
+        {
+          "target": "New unrestricted HOLT, no Axis ranks",
+          "cost": 40,
+          "sessions": 3
+        },
+        {
+          "target": "Specialty 0-10, eligible Field already held",
+          "cost": 50,
+          "sessions": 3
+        },
+        {
+          "target": "Attribute +1",
+          "cost": 60,
+          "sessions": 4
+        },
+        {
+          "target": "Another Axis 0-5 in owned HOLT",
+          "cost": 75,
+          "sessions": 5
+        },
+        {
+          "target": "Task or Field 0-10",
+          "cost": 100,
+          "sessions": 6
+        },
+        {
+          "target": "New HOLT and Axis 5",
+          "cost": 115,
+          "sessions": 7
+        },
+        {
+          "target": "Owned HOLT Axis 0-10",
+          "cost": 150,
+          "sessions": 9
+        },
+        {
+          "target": "New HOLT and Axis 10",
+          "cost": 190,
+          "sessions": 12
+        },
+        {
+          "target": "New HOLT and three Axes 5",
+          "cost": 265,
+          "sessions": 16
+        },
+        {
+          "target": "New HOLT and five Axes 5",
+          "cost": 415,
+          "sessions": 25
+        }
+      ]
+    },
+    {
+      "gross": 17,
+      "spend": 4,
+      "net": 13,
+      "savedFraction": 0.7647058823529411,
+      "timeFactorAgainstNoSpend": 1.3076923076923077,
+      "targets": [
+        {
+          "target": "Specialty or Precision +1",
+          "cost": 5,
+          "sessions": 1
+        },
+        {
+          "target": "Task or Field +1",
+          "cost": 10,
+          "sessions": 1
+        },
+        {
+          "target": "Owned HOLT Axis +1",
+          "cost": 15,
+          "sessions": 2
+        },
+        {
+          "target": "Derived +1",
+          "cost": 20,
+          "sessions": 2
+        },
+        {
+          "target": "New Task or Field 0-3",
+          "cost": 30,
+          "sessions": 3
+        },
+        {
+          "target": "New unrestricted HOLT, no Axis ranks",
+          "cost": 40,
+          "sessions": 4
+        },
+        {
+          "target": "Specialty 0-10, eligible Field already held",
+          "cost": 50,
+          "sessions": 4
+        },
+        {
+          "target": "Attribute +1",
+          "cost": 60,
+          "sessions": 5
+        },
+        {
+          "target": "Another Axis 0-5 in owned HOLT",
+          "cost": 75,
+          "sessions": 6
+        },
+        {
+          "target": "Task or Field 0-10",
+          "cost": 100,
+          "sessions": 8
+        },
+        {
+          "target": "New HOLT and Axis 5",
+          "cost": 115,
+          "sessions": 9
+        },
+        {
+          "target": "Owned HOLT Axis 0-10",
+          "cost": 150,
+          "sessions": 12
+        },
+        {
+          "target": "New HOLT and Axis 10",
+          "cost": 190,
+          "sessions": 15
+        },
+        {
+          "target": "New HOLT and three Axes 5",
+          "cost": 265,
+          "sessions": 21
+        },
+        {
+          "target": "New HOLT and five Axes 5",
+          "cost": 415,
+          "sessions": 32
+        }
+      ]
+    },
+    {
+      "gross": 17,
+      "spend": 8,
+      "net": 9,
+      "savedFraction": 0.5294117647058824,
+      "timeFactorAgainstNoSpend": 1.8888888888888888,
+      "targets": [
+        {
+          "target": "Specialty or Precision +1",
+          "cost": 5,
+          "sessions": 1
+        },
+        {
+          "target": "Task or Field +1",
+          "cost": 10,
+          "sessions": 2
+        },
+        {
+          "target": "Owned HOLT Axis +1",
+          "cost": 15,
+          "sessions": 2
+        },
+        {
+          "target": "Derived +1",
+          "cost": 20,
+          "sessions": 3
+        },
+        {
+          "target": "New Task or Field 0-3",
+          "cost": 30,
+          "sessions": 4
+        },
+        {
+          "target": "New unrestricted HOLT, no Axis ranks",
+          "cost": 40,
+          "sessions": 5
+        },
+        {
+          "target": "Specialty 0-10, eligible Field already held",
+          "cost": 50,
+          "sessions": 6
+        },
+        {
+          "target": "Attribute +1",
+          "cost": 60,
+          "sessions": 7
+        },
+        {
+          "target": "Another Axis 0-5 in owned HOLT",
+          "cost": 75,
+          "sessions": 9
+        },
+        {
+          "target": "Task or Field 0-10",
+          "cost": 100,
+          "sessions": 12
+        },
+        {
+          "target": "New HOLT and Axis 5",
+          "cost": 115,
+          "sessions": 13
+        },
+        {
+          "target": "Owned HOLT Axis 0-10",
+          "cost": 150,
+          "sessions": 17
+        },
+        {
+          "target": "New HOLT and Axis 10",
+          "cost": 190,
+          "sessions": 22
+        },
+        {
+          "target": "New HOLT and three Axes 5",
+          "cost": 265,
+          "sessions": 30
+        },
+        {
+          "target": "New HOLT and five Axes 5",
+          "cost": 415,
+          "sessions": 47
+        }
+      ]
+    },
+    {
+      "gross": 25,
+      "spend": 0,
+      "net": 25,
+      "savedFraction": 1,
+      "timeFactorAgainstNoSpend": 1,
+      "targets": [
+        {
+          "target": "Specialty or Precision +1",
+          "cost": 5,
+          "sessions": 1
+        },
+        {
+          "target": "Task or Field +1",
+          "cost": 10,
+          "sessions": 1
+        },
+        {
+          "target": "Owned HOLT Axis +1",
+          "cost": 15,
+          "sessions": 1
+        },
+        {
+          "target": "Derived +1",
+          "cost": 20,
+          "sessions": 1
+        },
+        {
+          "target": "New Task or Field 0-3",
+          "cost": 30,
+          "sessions": 2
+        },
+        {
+          "target": "New unrestricted HOLT, no Axis ranks",
+          "cost": 40,
+          "sessions": 2
+        },
+        {
+          "target": "Specialty 0-10, eligible Field already held",
+          "cost": 50,
+          "sessions": 2
+        },
+        {
+          "target": "Attribute +1",
+          "cost": 60,
+          "sessions": 3
+        },
+        {
+          "target": "Another Axis 0-5 in owned HOLT",
+          "cost": 75,
+          "sessions": 3
+        },
+        {
+          "target": "Task or Field 0-10",
+          "cost": 100,
+          "sessions": 4
+        },
+        {
+          "target": "New HOLT and Axis 5",
+          "cost": 115,
+          "sessions": 5
+        },
+        {
+          "target": "Owned HOLT Axis 0-10",
+          "cost": 150,
+          "sessions": 6
+        },
+        {
+          "target": "New HOLT and Axis 10",
+          "cost": 190,
+          "sessions": 8
+        },
+        {
+          "target": "New HOLT and three Axes 5",
+          "cost": 265,
+          "sessions": 11
+        },
+        {
+          "target": "New HOLT and five Axes 5",
+          "cost": 415,
+          "sessions": 17
+        }
+      ]
+    },
+    {
+      "gross": 25,
+      "spend": 4,
+      "net": 21,
+      "savedFraction": 0.84,
+      "timeFactorAgainstNoSpend": 1.1904761904761905,
+      "targets": [
+        {
+          "target": "Specialty or Precision +1",
+          "cost": 5,
+          "sessions": 1
+        },
+        {
+          "target": "Task or Field +1",
+          "cost": 10,
+          "sessions": 1
+        },
+        {
+          "target": "Owned HOLT Axis +1",
+          "cost": 15,
+          "sessions": 1
+        },
+        {
+          "target": "Derived +1",
+          "cost": 20,
+          "sessions": 1
+        },
+        {
+          "target": "New Task or Field 0-3",
+          "cost": 30,
+          "sessions": 2
+        },
+        {
+          "target": "New unrestricted HOLT, no Axis ranks",
+          "cost": 40,
+          "sessions": 2
+        },
+        {
+          "target": "Specialty 0-10, eligible Field already held",
+          "cost": 50,
+          "sessions": 3
+        },
+        {
+          "target": "Attribute +1",
+          "cost": 60,
+          "sessions": 3
+        },
+        {
+          "target": "Another Axis 0-5 in owned HOLT",
+          "cost": 75,
+          "sessions": 4
+        },
+        {
+          "target": "Task or Field 0-10",
+          "cost": 100,
+          "sessions": 5
+        },
+        {
+          "target": "New HOLT and Axis 5",
+          "cost": 115,
+          "sessions": 6
+        },
+        {
+          "target": "Owned HOLT Axis 0-10",
+          "cost": 150,
+          "sessions": 8
+        },
+        {
+          "target": "New HOLT and Axis 10",
+          "cost": 190,
+          "sessions": 10
+        },
+        {
+          "target": "New HOLT and three Axes 5",
+          "cost": 265,
+          "sessions": 13
+        },
+        {
+          "target": "New HOLT and five Axes 5",
+          "cost": 415,
+          "sessions": 20
+        }
+      ]
+    },
+    {
+      "gross": 25,
+      "spend": 8,
+      "net": 17,
+      "savedFraction": 0.68,
+      "timeFactorAgainstNoSpend": 1.4705882352941178,
+      "targets": [
+        {
+          "target": "Specialty or Precision +1",
+          "cost": 5,
+          "sessions": 1
+        },
+        {
+          "target": "Task or Field +1",
+          "cost": 10,
+          "sessions": 1
+        },
+        {
+          "target": "Owned HOLT Axis +1",
+          "cost": 15,
+          "sessions": 1
+        },
+        {
+          "target": "Derived +1",
+          "cost": 20,
+          "sessions": 2
+        },
+        {
+          "target": "New Task or Field 0-3",
+          "cost": 30,
+          "sessions": 2
+        },
+        {
+          "target": "New unrestricted HOLT, no Axis ranks",
+          "cost": 40,
+          "sessions": 3
+        },
+        {
+          "target": "Specialty 0-10, eligible Field already held",
+          "cost": 50,
+          "sessions": 3
+        },
+        {
+          "target": "Attribute +1",
+          "cost": 60,
+          "sessions": 4
+        },
+        {
+          "target": "Another Axis 0-5 in owned HOLT",
+          "cost": 75,
+          "sessions": 5
+        },
+        {
+          "target": "Task or Field 0-10",
+          "cost": 100,
+          "sessions": 6
+        },
+        {
+          "target": "New HOLT and Axis 5",
+          "cost": 115,
+          "sessions": 7
+        },
+        {
+          "target": "Owned HOLT Axis 0-10",
+          "cost": 150,
+          "sessions": 9
+        },
+        {
+          "target": "New HOLT and Axis 10",
+          "cost": 190,
+          "sessions": 12
+        },
+        {
+          "target": "New HOLT and three Axes 5",
+          "cost": 265,
+          "sessions": 16
+        },
+        {
+          "target": "New HOLT and five Axes 5",
+          "cost": 415,
+          "sessions": 25
+        }
+      ]
+    }
+  ],
+  "limitations": [
+    {
+      "axes": [],
+      "variants": [
+        {
+          "acquisition": 40,
+          "saved": 0,
+          "current": 40,
+          "candidate": 40,
+          "currentDiscountFraction": 0,
+          "candidateDiscountFraction": 0,
+          "sessionsAtNet10": 4,
+          "sessionsAtNet14": 3
+        },
+        {
+          "acquisition": 30,
+          "saved": 10,
+          "current": 30,
+          "candidate": 30,
+          "currentDiscountFraction": 0.25,
+          "candidateDiscountFraction": 0.25,
+          "sessionsAtNet10": 3,
+          "sessionsAtNet14": 3
+        },
+        {
+          "acquisition": 20,
+          "saved": 20,
+          "current": 20,
+          "candidate": 20,
+          "currentDiscountFraction": 0.5,
+          "candidateDiscountFraction": 0.5,
+          "sessionsAtNet10": 2,
+          "sessionsAtNet14": 2
+        },
+        {
+          "acquisition": 10,
+          "saved": 30,
+          "current": 10,
+          "candidate": 10,
+          "currentDiscountFraction": 0.75,
+          "candidateDiscountFraction": 0.75,
+          "sessionsAtNet10": 1,
+          "sessionsAtNet14": 1
+        }
+      ]
+    },
+    {
+      "axes": [
+        5
+      ],
+      "variants": [
+        {
+          "acquisition": 40,
+          "saved": 0,
+          "current": 275,
+          "candidate": 115,
+          "currentDiscountFraction": 0,
+          "candidateDiscountFraction": 0,
+          "sessionsAtNet10": 12,
+          "sessionsAtNet14": 9
+        },
+        {
+          "acquisition": 30,
+          "saved": 10,
+          "current": 265,
+          "candidate": 105,
+          "currentDiscountFraction": 0.03636363636363636,
+          "candidateDiscountFraction": 0.08695652173913043,
+          "sessionsAtNet10": 11,
+          "sessionsAtNet14": 8
+        },
+        {
+          "acquisition": 20,
+          "saved": 20,
+          "current": 255,
+          "candidate": 95,
+          "currentDiscountFraction": 0.07272727272727272,
+          "candidateDiscountFraction": 0.17391304347826086,
+          "sessionsAtNet10": 10,
+          "sessionsAtNet14": 7
+        },
+        {
+          "acquisition": 10,
+          "saved": 30,
+          "current": 245,
+          "candidate": 85,
+          "currentDiscountFraction": 0.10909090909090909,
+          "candidateDiscountFraction": 0.2608695652173913,
+          "sessionsAtNet10": 9,
+          "sessionsAtNet14": 7
+        }
+      ]
+    },
+    {
+      "axes": [
+        10
+      ],
+      "variants": [
+        {
+          "acquisition": 40,
+          "saved": 0,
+          "current": 550,
+          "candidate": 190,
+          "currentDiscountFraction": 0,
+          "candidateDiscountFraction": 0,
+          "sessionsAtNet10": 19,
+          "sessionsAtNet14": 14
+        },
+        {
+          "acquisition": 30,
+          "saved": 10,
+          "current": 540,
+          "candidate": 180,
+          "currentDiscountFraction": 0.01818181818181818,
+          "candidateDiscountFraction": 0.05263157894736842,
+          "sessionsAtNet10": 18,
+          "sessionsAtNet14": 13
+        },
+        {
+          "acquisition": 20,
+          "saved": 20,
+          "current": 530,
+          "candidate": 170,
+          "currentDiscountFraction": 0.03636363636363636,
+          "candidateDiscountFraction": 0.10526315789473684,
+          "sessionsAtNet10": 17,
+          "sessionsAtNet14": 13
+        },
+        {
+          "acquisition": 10,
+          "saved": 30,
+          "current": 520,
+          "candidate": 160,
+          "currentDiscountFraction": 0.05454545454545454,
+          "candidateDiscountFraction": 0.15789473684210525,
+          "sessionsAtNet10": 16,
+          "sessionsAtNet14": 12
+        }
+      ]
+    },
+    {
+      "axes": [
+        5,
+        5,
+        5
+      ],
+      "variants": [
+        {
+          "acquisition": 40,
+          "saved": 0,
+          "current": 425,
+          "candidate": 265,
+          "currentDiscountFraction": 0,
+          "candidateDiscountFraction": 0,
+          "sessionsAtNet10": 27,
+          "sessionsAtNet14": 19
+        },
+        {
+          "acquisition": 30,
+          "saved": 10,
+          "current": 415,
+          "candidate": 255,
+          "currentDiscountFraction": 0.023529411764705882,
+          "candidateDiscountFraction": 0.03773584905660377,
+          "sessionsAtNet10": 26,
+          "sessionsAtNet14": 19
+        },
+        {
+          "acquisition": 20,
+          "saved": 20,
+          "current": 405,
+          "candidate": 245,
+          "currentDiscountFraction": 0.047058823529411764,
+          "candidateDiscountFraction": 0.07547169811320754,
+          "sessionsAtNet10": 25,
+          "sessionsAtNet14": 18
+        },
+        {
+          "acquisition": 10,
+          "saved": 30,
+          "current": 395,
+          "candidate": 235,
+          "currentDiscountFraction": 0.07058823529411765,
+          "candidateDiscountFraction": 0.11320754716981132,
+          "sessionsAtNet10": 24,
+          "sessionsAtNet14": 17
+        }
+      ]
+    },
+    {
+      "axes": [
+        10,
+        10,
+        10,
+        10,
+        10
+      ],
+      "variants": [
+        {
+          "acquisition": 40,
+          "saved": 0,
+          "current": 1150,
+          "candidate": 790,
+          "currentDiscountFraction": 0,
+          "candidateDiscountFraction": 0,
+          "sessionsAtNet10": 79,
+          "sessionsAtNet14": 57
+        },
+        {
+          "acquisition": 30,
+          "saved": 10,
+          "current": 1140,
+          "candidate": 780,
+          "currentDiscountFraction": 0.008695652173913044,
+          "candidateDiscountFraction": 0.012658227848101266,
+          "sessionsAtNet10": 78,
+          "sessionsAtNet14": 56
+        },
+        {
+          "acquisition": 20,
+          "saved": 20,
+          "current": 1130,
+          "candidate": 770,
+          "currentDiscountFraction": 0.017391304347826087,
+          "candidateDiscountFraction": 0.02531645569620253,
+          "sessionsAtNet10": 77,
+          "sessionsAtNet14": 55
+        },
+        {
+          "acquisition": 10,
+          "saved": 30,
+          "current": 1120,
+          "candidate": 760,
+          "currentDiscountFraction": 0.02608695652173913,
+          "candidateDiscountFraction": 0.0379746835443038,
+          "sessionsAtNet10": 76,
+          "sessionsAtNet14": 55
+        }
+      ]
+    }
+  ],
+  "limitedBudgets": [
+    {
+      "budget": 125,
+      "variants": [
+        {
+          "acquisition": 40,
+          "axis": 5,
+          "spent": 115,
+          "remaining": 10,
+          "multiplier": 1.5
+        },
+        {
+          "acquisition": 30,
+          "axis": 6,
+          "spent": 120,
+          "remaining": 5,
+          "multiplier": 1.6
+        },
+        {
+          "acquisition": 20,
+          "axis": 7,
+          "spent": 125,
+          "remaining": 0,
+          "multiplier": 1.7
+        },
+        {
+          "acquisition": 10,
+          "axis": 7,
+          "spent": 115,
+          "remaining": 10,
+          "multiplier": 1.7
+        }
+      ]
+    },
+    {
+      "budget": 190,
+      "variants": [
+        {
+          "acquisition": 40,
+          "axis": 10,
+          "spent": 190,
+          "remaining": 0,
+          "multiplier": 2
+        },
+        {
+          "acquisition": 30,
+          "axis": 10,
+          "spent": 180,
+          "remaining": 10,
+          "multiplier": 2
+        },
+        {
+          "acquisition": 20,
+          "axis": 10,
+          "spent": 170,
+          "remaining": 20,
+          "multiplier": 2
+        },
+        {
+          "acquisition": 10,
+          "axis": 10,
+          "spent": 160,
+          "remaining": 30,
+          "multiplier": 2
+        }
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "every": null,
+      "net": 10,
+      "targets": [
+        {
+          "target": "Specialty or Precision +1",
+          "cost": 5,
+          "session": 1,
+          "balance": 10,
+          "remaining": 5
+        },
+        {
+          "target": "Task or Field +1",
+          "cost": 10,
+          "session": 1,
+          "balance": 10,
+          "remaining": 0
+        },
+        {
+          "target": "Owned HOLT Axis +1",
+          "cost": 15,
+          "session": 2,
+          "balance": 20,
+          "remaining": 5
+        },
+        {
+          "target": "Derived +1",
+          "cost": 20,
+          "session": 2,
+          "balance": 20,
+          "remaining": 0
+        },
+        {
+          "target": "New Task or Field 0-3",
+          "cost": 30,
+          "session": 3,
+          "balance": 30,
+          "remaining": 0
+        },
+        {
+          "target": "New unrestricted HOLT, no Axis ranks",
+          "cost": 40,
+          "session": 4,
+          "balance": 40,
+          "remaining": 0
+        },
+        {
+          "target": "Specialty 0-10, eligible Field already held",
+          "cost": 50,
+          "session": 5,
+          "balance": 50,
+          "remaining": 0
+        },
+        {
+          "target": "Attribute +1",
+          "cost": 60,
+          "session": 6,
+          "balance": 60,
+          "remaining": 0
+        },
+        {
+          "target": "Another Axis 0-5 in owned HOLT",
+          "cost": 75,
+          "session": 8,
+          "balance": 80,
+          "remaining": 5
+        },
+        {
+          "target": "Task or Field 0-10",
+          "cost": 100,
+          "session": 10,
+          "balance": 100,
+          "remaining": 0
+        },
+        {
+          "target": "New HOLT and Axis 5",
+          "cost": 115,
+          "session": 12,
+          "balance": 120,
+          "remaining": 5
+        },
+        {
+          "target": "Owned HOLT Axis 0-10",
+          "cost": 150,
+          "session": 15,
+          "balance": 150,
+          "remaining": 0
+        },
+        {
+          "target": "New HOLT and Axis 10",
+          "cost": 190,
+          "session": 19,
+          "balance": 190,
+          "remaining": 0
+        },
+        {
+          "target": "New HOLT and three Axes 5",
+          "cost": 265,
+          "session": 27,
+          "balance": 270,
+          "remaining": 5
+        },
+        {
+          "target": "New HOLT and five Axes 5",
+          "cost": 415,
+          "session": 42,
+          "balance": 420,
+          "remaining": 5
+        }
+      ]
+    },
+    {
+      "every": 4,
+      "net": 10,
+      "targets": [
+        {
+          "target": "Specialty or Precision +1",
+          "cost": 5,
+          "session": 1,
+          "balance": 10,
+          "remaining": 5
+        },
+        {
+          "target": "Task or Field +1",
+          "cost": 10,
+          "session": 1,
+          "balance": 10,
+          "remaining": 0
+        },
+        {
+          "target": "Owned HOLT Axis +1",
+          "cost": 15,
+          "session": 2,
+          "balance": 20,
+          "remaining": 5
+        },
+        {
+          "target": "Derived +1",
+          "cost": 20,
+          "session": 2,
+          "balance": 20,
+          "remaining": 0
+        },
+        {
+          "target": "New Task or Field 0-3",
+          "cost": 30,
+          "session": 3,
+          "balance": 30,
+          "remaining": 0
+        },
+        {
+          "target": "New unrestricted HOLT, no Axis ranks",
+          "cost": 40,
+          "session": 4,
+          "balance": 52.5,
+          "remaining": 12.5
+        },
+        {
+          "target": "Specialty 0-10, eligible Field already held",
+          "cost": 50,
+          "session": 4,
+          "balance": 52.5,
+          "remaining": 2.5
+        },
+        {
+          "target": "Attribute +1",
+          "cost": 60,
+          "session": 5,
+          "balance": 62.5,
+          "remaining": 2.5
+        },
+        {
+          "target": "Another Axis 0-5 in owned HOLT",
+          "cost": 75,
+          "session": 7,
+          "balance": 82.5,
+          "remaining": 7.5
+        },
+        {
+          "target": "Task or Field 0-10",
+          "cost": 100,
+          "session": 8,
+          "balance": 105,
+          "remaining": 5
+        },
+        {
+          "target": "New HOLT and Axis 5",
+          "cost": 115,
+          "session": 9,
+          "balance": 115,
+          "remaining": 0
+        },
+        {
+          "target": "Owned HOLT Axis 0-10",
+          "cost": 150,
+          "session": 12,
+          "balance": 157.5,
+          "remaining": 7.5
+        },
+        {
+          "target": "New HOLT and Axis 10",
+          "cost": 190,
+          "session": 16,
+          "balance": 210,
+          "remaining": 20
+        },
+        {
+          "target": "New HOLT and three Axes 5",
+          "cost": 265,
+          "session": 21,
+          "balance": 272.5,
+          "remaining": 7.5
+        },
+        {
+          "target": "New HOLT and five Axes 5",
+          "cost": 415,
+          "session": 32,
+          "balance": 420,
+          "remaining": 5
+        }
+      ]
+    },
+    {
+      "every": 6,
+      "net": 10,
+      "targets": [
+        {
+          "target": "Specialty or Precision +1",
+          "cost": 5,
+          "session": 1,
+          "balance": 10,
+          "remaining": 5
+        },
+        {
+          "target": "Task or Field +1",
+          "cost": 10,
+          "session": 1,
+          "balance": 10,
+          "remaining": 0
+        },
+        {
+          "target": "Owned HOLT Axis +1",
+          "cost": 15,
+          "session": 2,
+          "balance": 20,
+          "remaining": 5
+        },
+        {
+          "target": "Derived +1",
+          "cost": 20,
+          "session": 2,
+          "balance": 20,
+          "remaining": 0
+        },
+        {
+          "target": "New Task or Field 0-3",
+          "cost": 30,
+          "session": 3,
+          "balance": 30,
+          "remaining": 0
+        },
+        {
+          "target": "New unrestricted HOLT, no Axis ranks",
+          "cost": 40,
+          "session": 4,
+          "balance": 40,
+          "remaining": 0
+        },
+        {
+          "target": "Specialty 0-10, eligible Field already held",
+          "cost": 50,
+          "session": 5,
+          "balance": 50,
+          "remaining": 0
+        },
+        {
+          "target": "Attribute +1",
+          "cost": 60,
+          "session": 6,
+          "balance": 72.5,
+          "remaining": 12.5
+        },
+        {
+          "target": "Another Axis 0-5 in owned HOLT",
+          "cost": 75,
+          "session": 7,
+          "balance": 82.5,
+          "remaining": 7.5
+        },
+        {
+          "target": "Task or Field 0-10",
+          "cost": 100,
+          "session": 9,
+          "balance": 102.5,
+          "remaining": 2.5
+        },
+        {
+          "target": "New HOLT and Axis 5",
+          "cost": 115,
+          "session": 11,
+          "balance": 122.5,
+          "remaining": 7.5
+        },
+        {
+          "target": "Owned HOLT Axis 0-10",
+          "cost": 150,
+          "session": 13,
+          "balance": 155,
+          "remaining": 5
+        },
+        {
+          "target": "New HOLT and Axis 10",
+          "cost": 190,
+          "session": 17,
+          "balance": 195,
+          "remaining": 5
+        },
+        {
+          "target": "New HOLT and three Axes 5",
+          "cost": 265,
+          "session": 23,
+          "balance": 267.5,
+          "remaining": 2.5
+        },
+        {
+          "target": "New HOLT and five Axes 5",
+          "cost": 415,
+          "session": 36,
+          "balance": 435,
+          "remaining": 20
+        }
+      ]
+    }
+  ],
+  "opportunityGap": {
+    "sessions": 10,
+    "sharedPerSession": 11,
+    "individualNone": 110,
+    "individualOneMeaningful": 140,
+    "individualTwoMeaningful": 170
+  },
+  "ordinaryFixture": {
+    "ranks": [
+      5,
+      3,
+      5,
+      5,
+      5,
+      5
+    ],
+    "base": 40.5,
+    "purchases": [
+      {
+        "purchase": "Attribute +1",
+        "cost": 60,
+        "output": 45.5625,
+        "relativeIncrease": 0.125
+      },
+      {
+        "purchase": "Derived +1",
+        "cost": 20,
+        "output": 45.5625,
+        "relativeIncrease": 0.125
+      },
+      {
+        "purchase": "Task +1",
+        "cost": 10,
+        "output": 43.2,
+        "relativeIncrease": 0.06666666666666665
+      },
+      {
+        "purchase": "Field +1",
+        "cost": 10,
+        "output": 43.2,
+        "relativeIncrease": 0.06666666666666665
+      },
+      {
+        "purchase": "Specialty +1",
+        "cost": 5,
+        "output": 43.2,
+        "relativeIncrease": 0.06666666666666665
+      },
+      {
+        "purchase": "Owned HOLT Axis 0-1",
+        "cost": 15,
+        "output": 44.550000000000004,
+        "relativeIncrease": 0.10000000000000009
+      }
+    ]
+  }
+}

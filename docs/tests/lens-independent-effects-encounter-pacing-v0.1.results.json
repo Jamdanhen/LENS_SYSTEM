@@ -1,0 +1,1513 @@
+{
+  "seed": "0x17c0ffee mixed with trial index and Rating pair",
+  "trialsPerScenario": 20000,
+  "maxRounds": 500,
+  "totalEncounters": 460000,
+  "scenarios": [
+    {
+      "config": {
+        "bases": [
+          80,
+          80
+        ],
+        "policies": [
+          "attack",
+          "attack"
+        ],
+        "counters": "contact",
+        "complication": "staggered",
+        "dice": "full"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 9932,
+        "B": 10062,
+        "both": 6,
+        "censored": 0
+      },
+      "resolvedPct": 100,
+      "aWinPct": 49.66,
+      "bothDownPct": 0.03,
+      "medianResolvedRounds": 4,
+      "p90ResolvedRounds": 7,
+      "meanResolvedRounds": 4.18,
+      "restrictedMeanRounds": 4.18,
+      "byFivePct": 79.31,
+      "byTenPct": 98.64,
+      "meanActions": 7.81,
+      "meanRecoveryActions": 0,
+      "recoverySuccessPct": null,
+      "recoveryImprovesBandPct": null,
+      "meanStaggerRemoved": 0,
+      "meanWoundedAdded": 11.64,
+      "meanCounterStagger": 1.468,
+      "meanComplicationLevels": 1.235,
+      "counterShareAddedPct": 10.23,
+      "attackNoRemainderPct": 59.08,
+      "terminalExchange01Pct": 5.23,
+      "terminalExchange00Pct": 9.17,
+      "terminal00NeededForThresholdPct": 8.12,
+      "counterCrossedThresholdPct": 3.47,
+      "meanDisabledWounded": 10.337,
+      "meanDisabledStaggered": 2.195,
+      "meanByActor": {
+        "recoveryBy": [
+          0,
+          0
+        ],
+        "woundBy": [
+          5.848,
+          5.791
+        ],
+        "counterBy": [
+          0.735,
+          0.733
+        ],
+        "complicationBy": [
+          0.636,
+          0.599
+        ]
+      }
+    },
+    {
+      "config": {
+        "bases": [
+          80,
+          80
+        ],
+        "policies": [
+          "recover-band",
+          "recover-band"
+        ],
+        "counters": "contact",
+        "complication": "staggered",
+        "dice": "full"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 9989,
+        "B": 10007,
+        "both": 4,
+        "censored": 0
+      },
+      "resolvedPct": 100,
+      "aWinPct": 49.95,
+      "bothDownPct": 0.02,
+      "medianResolvedRounds": 4,
+      "p90ResolvedRounds": 7,
+      "meanResolvedRounds": 4.39,
+      "restrictedMeanRounds": 4.39,
+      "byFivePct": 76.14,
+      "byTenPct": 97.34,
+      "meanActions": 8.227,
+      "meanRecoveryActions": 0.827,
+      "recoverySuccessPct": 40.01,
+      "recoveryImprovesBandPct": 37.93,
+      "meanStaggerRemoved": 0.479,
+      "meanWoundedAdded": 11.939,
+      "meanCounterStagger": 1.442,
+      "meanComplicationLevels": 1.246,
+      "counterShareAddedPct": 9.86,
+      "attackNoRemainderPct": 56.45,
+      "terminalExchange01Pct": 4.98,
+      "terminalExchange00Pct": 9.35,
+      "terminal00NeededForThresholdPct": 8.2,
+      "counterCrossedThresholdPct": 2.79,
+      "meanDisabledWounded": 10.694,
+      "meanDisabledStaggered": 1.869,
+      "meanByActor": {
+        "recoveryBy": [
+          0.419,
+          0.408
+        ],
+        "woundBy": [
+          5.982,
+          5.958
+        ],
+        "counterBy": [
+          0.72,
+          0.722
+        ],
+        "complicationBy": [
+          0.621,
+          0.626
+        ]
+      }
+    },
+    {
+      "config": {
+        "bases": [
+          80,
+          80
+        ],
+        "policies": [
+          "recover-band",
+          "attack"
+        ],
+        "counters": "contact",
+        "complication": "staggered",
+        "dice": "full"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 10030,
+        "B": 9966,
+        "both": 4,
+        "censored": 0
+      },
+      "resolvedPct": 100,
+      "aWinPct": 50.15,
+      "bothDownPct": 0.02,
+      "medianResolvedRounds": 4,
+      "p90ResolvedRounds": 7,
+      "meanResolvedRounds": 4.287,
+      "restrictedMeanRounds": 4.287,
+      "byFivePct": 77.68,
+      "byTenPct": 97.92,
+      "meanActions": 8.024,
+      "meanRecoveryActions": 0.415,
+      "recoverySuccessPct": 39.31,
+      "recoveryImprovesBandPct": 36.87,
+      "meanStaggerRemoved": 0.234,
+      "meanWoundedAdded": 11.772,
+      "meanCounterStagger": 1.458,
+      "meanComplicationLevels": 1.235,
+      "counterShareAddedPct": 10.08,
+      "attackNoRemainderPct": 57.89,
+      "terminalExchange01Pct": 5.01,
+      "terminalExchange00Pct": 9.21,
+      "terminal00NeededForThresholdPct": 8.14,
+      "counterCrossedThresholdPct": 3.09,
+      "meanDisabledWounded": 10.494,
+      "meanDisabledStaggered": 2.036,
+      "meanByActor": {
+        "recoveryBy": [
+          0.415,
+          0
+        ],
+        "woundBy": [
+          5.982,
+          5.79
+        ],
+        "counterBy": [
+          0.691,
+          0.767
+        ],
+        "complicationBy": [
+          0.639,
+          0.596
+        ]
+      }
+    },
+    {
+      "config": {
+        "bases": [
+          80,
+          80
+        ],
+        "policies": [
+          "attack",
+          "recover-band"
+        ],
+        "counters": "contact",
+        "complication": "staggered",
+        "dice": "full"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 9884,
+        "B": 10111,
+        "both": 5,
+        "censored": 0
+      },
+      "resolvedPct": 100,
+      "aWinPct": 49.42,
+      "bothDownPct": 0.03,
+      "medianResolvedRounds": 4,
+      "p90ResolvedRounds": 7,
+      "meanResolvedRounds": 4.303,
+      "restrictedMeanRounds": 4.303,
+      "byFivePct": 77.46,
+      "byTenPct": 97.95,
+      "meanActions": 8.055,
+      "meanRecoveryActions": 0.402,
+      "recoverySuccessPct": 40.36,
+      "recoveryImprovesBandPct": 38.45,
+      "meanStaggerRemoved": 0.232,
+      "meanWoundedAdded": 11.773,
+      "meanCounterStagger": 1.46,
+      "meanComplicationLevels": 1.25,
+      "counterShareAddedPct": 10.08,
+      "attackNoRemainderPct": 58.01,
+      "terminalExchange01Pct": 5.15,
+      "terminalExchange00Pct": 9.34,
+      "terminal00NeededForThresholdPct": 8.25,
+      "counterCrossedThresholdPct": 3.22,
+      "meanDisabledWounded": 10.494,
+      "meanDisabledStaggered": 2.058,
+      "meanByActor": {
+        "recoveryBy": [
+          0,
+          0.402
+        ],
+        "woundBy": [
+          5.837,
+          5.936
+        ],
+        "counterBy": [
+          0.767,
+          0.693
+        ],
+        "complicationBy": [
+          0.62,
+          0.631
+        ]
+      }
+    },
+    {
+      "config": {
+        "bases": [
+          80,
+          20
+        ],
+        "policies": [
+          "attack",
+          "attack"
+        ],
+        "counters": "contact",
+        "complication": "staggered",
+        "dice": "full"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 19357,
+        "B": 637,
+        "both": 6,
+        "censored": 0
+      },
+      "resolvedPct": 100,
+      "aWinPct": 96.79,
+      "bothDownPct": 0.03,
+      "medianResolvedRounds": 3,
+      "p90ResolvedRounds": 6,
+      "meanResolvedRounds": 3.557,
+      "restrictedMeanRounds": 3.557,
+      "byFivePct": 89.51,
+      "byTenPct": 98.94,
+      "meanActions": 6.609,
+      "meanRecoveryActions": 0,
+      "recoverySuccessPct": null,
+      "recoveryImprovesBandPct": null,
+      "meanStaggerRemoved": 0,
+      "meanWoundedAdded": 11.716,
+      "meanCounterStagger": 0.297,
+      "meanComplicationLevels": 1.365,
+      "counterShareAddedPct": 2.22,
+      "attackNoRemainderPct": 58.7,
+      "terminalExchange01Pct": 3.72,
+      "terminalExchange00Pct": 8.59,
+      "terminal00NeededForThresholdPct": 7.61,
+      "counterCrossedThresholdPct": 0.81,
+      "meanDisabledWounded": 11.418,
+      "meanDisabledStaggered": 1.449,
+      "meanByActor": {
+        "recoveryBy": [
+          0,
+          0
+        ],
+        "woundBy": [
+          0.267,
+          11.45
+        ],
+        "counterBy": [
+          0.035,
+          0.262
+        ],
+        "complicationBy": [
+          0.479,
+          0.886
+        ]
+      }
+    },
+    {
+      "config": {
+        "bases": [
+          80,
+          20
+        ],
+        "policies": [
+          "recover-band",
+          "recover-band"
+        ],
+        "counters": "contact",
+        "complication": "staggered",
+        "dice": "full"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 19414,
+        "B": 581,
+        "both": 5,
+        "censored": 0
+      },
+      "resolvedPct": 100,
+      "aWinPct": 97.07,
+      "bothDownPct": 0.03,
+      "medianResolvedRounds": 3,
+      "p90ResolvedRounds": 6,
+      "meanResolvedRounds": 3.588,
+      "restrictedMeanRounds": 3.588,
+      "byFivePct": 88.88,
+      "byTenPct": 98.78,
+      "meanActions": 6.671,
+      "meanRecoveryActions": 0.321,
+      "recoverySuccessPct": 25.54,
+      "recoveryImprovesBandPct": 21.68,
+      "meanStaggerRemoved": 0.184,
+      "meanWoundedAdded": 11.765,
+      "meanCounterStagger": 0.294,
+      "meanComplicationLevels": 1.342,
+      "counterShareAddedPct": 2.19,
+      "attackNoRemainderPct": 57.28,
+      "terminalExchange01Pct": 3.52,
+      "terminalExchange00Pct": 8.37,
+      "terminal00NeededForThresholdPct": 7.36,
+      "counterCrossedThresholdPct": 0.78,
+      "meanDisabledWounded": 11.481,
+      "meanDisabledStaggered": 1.384,
+      "meanByActor": {
+        "recoveryBy": [
+          0.175,
+          0.147
+        ],
+        "woundBy": [
+          0.257,
+          11.507
+        ],
+        "counterBy": [
+          0.034,
+          0.26
+        ],
+        "complicationBy": [
+          0.48,
+          0.862
+        ]
+      }
+    },
+    {
+      "config": {
+        "bases": [
+          80,
+          20
+        ],
+        "policies": [
+          "recover-band",
+          "attack"
+        ],
+        "counters": "contact",
+        "complication": "staggered",
+        "dice": "full"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 19408,
+        "B": 587,
+        "both": 5,
+        "censored": 0
+      },
+      "resolvedPct": 100,
+      "aWinPct": 97.04,
+      "bothDownPct": 0.03,
+      "medianResolvedRounds": 3,
+      "p90ResolvedRounds": 6,
+      "meanResolvedRounds": 3.588,
+      "restrictedMeanRounds": 3.588,
+      "byFivePct": 88.91,
+      "byTenPct": 98.77,
+      "meanActions": 6.671,
+      "meanRecoveryActions": 0.176,
+      "recoverySuccessPct": 39.66,
+      "recoveryImprovesBandPct": 32.87,
+      "meanStaggerRemoved": 0.172,
+      "meanWoundedAdded": 11.764,
+      "meanCounterStagger": 0.303,
+      "meanComplicationLevels": 1.338,
+      "counterShareAddedPct": 2.26,
+      "attackNoRemainderPct": 58.24,
+      "terminalExchange01Pct": 3.56,
+      "terminalExchange00Pct": 8.33,
+      "terminal00NeededForThresholdPct": 7.35,
+      "counterCrossedThresholdPct": 0.8,
+      "meanDisabledWounded": 11.475,
+      "meanDisabledStaggered": 1.4,
+      "meanByActor": {
+        "recoveryBy": [
+          0.176,
+          0
+        ],
+        "woundBy": [
+          0.265,
+          11.499
+        ],
+        "counterBy": [
+          0.034,
+          0.268
+        ],
+        "complicationBy": [
+          0.482,
+          0.857
+        ]
+      }
+    },
+    {
+      "config": {
+        "bases": [
+          80,
+          20
+        ],
+        "policies": [
+          "attack",
+          "recover-band"
+        ],
+        "counters": "contact",
+        "complication": "staggered",
+        "dice": "full"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 19369,
+        "B": 625,
+        "both": 6,
+        "censored": 0
+      },
+      "resolvedPct": 100,
+      "aWinPct": 96.85,
+      "bothDownPct": 0.03,
+      "medianResolvedRounds": 3,
+      "p90ResolvedRounds": 6,
+      "meanResolvedRounds": 3.557,
+      "restrictedMeanRounds": 3.557,
+      "byFivePct": 89.45,
+      "byTenPct": 98.97,
+      "meanActions": 6.607,
+      "meanRecoveryActions": 0.143,
+      "recoverySuccessPct": 9.45,
+      "recoveryImprovesBandPct": 9,
+      "meanStaggerRemoved": 0.014,
+      "meanWoundedAdded": 11.715,
+      "meanCounterStagger": 0.288,
+      "meanComplicationLevels": 1.369,
+      "counterShareAddedPct": 2.15,
+      "attackNoRemainderPct": 57.79,
+      "terminalExchange01Pct": 3.65,
+      "terminalExchange00Pct": 8.63,
+      "terminal00NeededForThresholdPct": 7.63,
+      "counterCrossedThresholdPct": 0.79,
+      "meanDisabledWounded": 11.423,
+      "meanDisabledStaggered": 1.432,
+      "meanByActor": {
+        "recoveryBy": [
+          0,
+          0.143
+        ],
+        "woundBy": [
+          0.256,
+          11.46
+        ],
+        "counterBy": [
+          0.034,
+          0.254
+        ],
+        "complicationBy": [
+          0.478,
+          0.891
+        ]
+      }
+    },
+    {
+      "config": {
+        "bases": [
+          20,
+          20
+        ],
+        "policies": [
+          "attack",
+          "attack"
+        ],
+        "counters": "contact",
+        "complication": "staggered",
+        "dice": "full"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 9980,
+        "B": 9963,
+        "both": 57,
+        "censored": 0
+      },
+      "resolvedPct": 100,
+      "aWinPct": 49.9,
+      "bothDownPct": 0.29,
+      "medianResolvedRounds": 14,
+      "p90ResolvedRounds": 34,
+      "meanResolvedRounds": 16.634,
+      "restrictedMeanRounds": 16.634,
+      "byFivePct": 19.82,
+      "byTenPct": 38.46,
+      "meanActions": 32.757,
+      "meanRecoveryActions": 0,
+      "recoverySuccessPct": null,
+      "recoveryImprovesBandPct": null,
+      "meanStaggerRemoved": 0,
+      "meanWoundedAdded": 8.346,
+      "meanCounterStagger": 0.25,
+      "meanComplicationLevels": 8.539,
+      "counterShareAddedPct": 1.46,
+      "attackNoRemainderPct": 85.43,
+      "terminalExchange01Pct": 16.64,
+      "terminalExchange00Pct": 61.4,
+      "terminal00NeededForThresholdPct": 61,
+      "counterCrossedThresholdPct": 0.29,
+      "meanDisabledWounded": 5.788,
+      "meanDisabledStaggered": 8.61,
+      "meanByActor": {
+        "recoveryBy": [
+          0,
+          0
+        ],
+        "woundBy": [
+          4.149,
+          4.197
+        ],
+        "counterBy": [
+          0.124,
+          0.125
+        ],
+        "complicationBy": [
+          4.285,
+          4.254
+        ]
+      }
+    },
+    {
+      "config": {
+        "bases": [
+          20,
+          20
+        ],
+        "policies": [
+          "recover-band",
+          "recover-band"
+        ],
+        "counters": "contact",
+        "complication": "staggered",
+        "dice": "full"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 9954,
+        "B": 9986,
+        "both": 60,
+        "censored": 0
+      },
+      "resolvedPct": 100,
+      "aWinPct": 49.77,
+      "bothDownPct": 0.3,
+      "medianResolvedRounds": 14,
+      "p90ResolvedRounds": 34,
+      "meanResolvedRounds": 16.931,
+      "restrictedMeanRounds": 16.931,
+      "byFivePct": 19.84,
+      "byTenPct": 38.06,
+      "meanActions": 33.351,
+      "meanRecoveryActions": 0.97,
+      "recoverySuccessPct": 9.39,
+      "recoveryImprovesBandPct": 8.3,
+      "meanStaggerRemoved": 0.101,
+      "meanWoundedAdded": 8.358,
+      "meanCounterStagger": 0.247,
+      "meanComplicationLevels": 8.563,
+      "counterShareAddedPct": 1.44,
+      "attackNoRemainderPct": 85.22,
+      "terminalExchange01Pct": 16.41,
+      "terminalExchange00Pct": 61.52,
+      "terminal00NeededForThresholdPct": 61.05,
+      "counterCrossedThresholdPct": 0.29,
+      "meanDisabledWounded": 5.814,
+      "meanDisabledStaggered": 8.595,
+      "meanByActor": {
+        "recoveryBy": [
+          0.466,
+          0.504
+        ],
+        "woundBy": [
+          4.156,
+          4.202
+        ],
+        "counterBy": [
+          0.123,
+          0.124
+        ],
+        "complicationBy": [
+          4.321,
+          4.241
+        ]
+      }
+    },
+    {
+      "config": {
+        "bases": [
+          20,
+          20
+        ],
+        "policies": [
+          "recover-band",
+          "attack"
+        ],
+        "counters": "contact",
+        "complication": "staggered",
+        "dice": "full"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 9905,
+        "B": 10039,
+        "both": 56,
+        "censored": 0
+      },
+      "resolvedPct": 100,
+      "aWinPct": 49.53,
+      "bothDownPct": 0.28,
+      "medianResolvedRounds": 14,
+      "p90ResolvedRounds": 34,
+      "meanResolvedRounds": 16.783,
+      "restrictedMeanRounds": 16.783,
+      "byFivePct": 19.79,
+      "byTenPct": 38.22,
+      "meanActions": 33.054,
+      "meanRecoveryActions": 0.46,
+      "recoverySuccessPct": 9.95,
+      "recoveryImprovesBandPct": 8.87,
+      "meanStaggerRemoved": 0.051,
+      "meanWoundedAdded": 8.354,
+      "meanCounterStagger": 0.249,
+      "meanComplicationLevels": 8.553,
+      "counterShareAddedPct": 1.45,
+      "attackNoRemainderPct": 85.34,
+      "terminalExchange01Pct": 16.56,
+      "terminalExchange00Pct": 61.44,
+      "terminal00NeededForThresholdPct": 61,
+      "counterCrossedThresholdPct": 0.28,
+      "meanDisabledWounded": 5.808,
+      "meanDisabledStaggered": 8.607,
+      "meanByActor": {
+        "recoveryBy": [
+          0.46,
+          0
+        ],
+        "woundBy": [
+          4.191,
+          4.163
+        ],
+        "counterBy": [
+          0.122,
+          0.127
+        ],
+        "complicationBy": [
+          4.326,
+          4.227
+        ]
+      }
+    },
+    {
+      "config": {
+        "bases": [
+          20,
+          20
+        ],
+        "policies": [
+          "attack",
+          "recover-band"
+        ],
+        "counters": "contact",
+        "complication": "staggered",
+        "dice": "full"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 10023,
+        "B": 9916,
+        "both": 61,
+        "censored": 0
+      },
+      "resolvedPct": 100,
+      "aWinPct": 50.12,
+      "bothDownPct": 0.31,
+      "medianResolvedRounds": 14,
+      "p90ResolvedRounds": 34,
+      "meanResolvedRounds": 16.796,
+      "restrictedMeanRounds": 16.796,
+      "byFivePct": 19.87,
+      "byTenPct": 38.3,
+      "meanActions": 33.082,
+      "meanRecoveryActions": 0.492,
+      "recoverySuccessPct": 8.96,
+      "recoveryImprovesBandPct": 7.86,
+      "meanStaggerRemoved": 0.048,
+      "meanWoundedAdded": 8.349,
+      "meanCounterStagger": 0.247,
+      "meanComplicationLevels": 8.552,
+      "counterShareAddedPct": 1.44,
+      "attackNoRemainderPct": 85.33,
+      "terminalExchange01Pct": 16.49,
+      "terminalExchange00Pct": 61.49,
+      "terminal00NeededForThresholdPct": 61.07,
+      "counterCrossedThresholdPct": 0.3,
+      "meanDisabledWounded": 5.795,
+      "meanDisabledStaggered": 8.601,
+      "meanByActor": {
+        "recoveryBy": [
+          0,
+          0.492
+        ],
+        "woundBy": [
+          4.115,
+          4.234
+        ],
+        "counterBy": [
+          0.125,
+          0.123
+        ],
+        "complicationBy": [
+          4.282,
+          4.271
+        ]
+      }
+    },
+    {
+      "config": {
+        "bases": [
+          80,
+          80
+        ],
+        "policies": [
+          "attack",
+          "attack"
+        ],
+        "counters": "none",
+        "complication": "staggered",
+        "dice": "full"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 9933,
+        "B": 10060,
+        "both": 7,
+        "censored": 0
+      },
+      "resolvedPct": 100,
+      "aWinPct": 49.67,
+      "bothDownPct": 0.04,
+      "medianResolvedRounds": 4,
+      "p90ResolvedRounds": 8,
+      "meanResolvedRounds": 4.62,
+      "restrictedMeanRounds": 4.62,
+      "byFivePct": 71.43,
+      "byTenPct": 97.4,
+      "meanActions": 8.676,
+      "meanRecoveryActions": 0,
+      "recoverySuccessPct": null,
+      "recoveryImprovesBandPct": null,
+      "meanStaggerRemoved": 0,
+      "meanWoundedAdded": 12.881,
+      "meanCounterStagger": 0,
+      "meanComplicationLevels": 1.396,
+      "counterShareAddedPct": 0,
+      "attackNoRemainderPct": 59.15,
+      "terminalExchange01Pct": 5.47,
+      "terminalExchange00Pct": 10.32,
+      "terminal00NeededForThresholdPct": 9.09,
+      "counterCrossedThresholdPct": 0,
+      "meanDisabledWounded": 11.271,
+      "meanDisabledStaggered": 1.331,
+      "meanByActor": {
+        "recoveryBy": [
+          0,
+          0
+        ],
+        "woundBy": [
+          6.47,
+          6.411
+        ],
+        "counterBy": [
+          0,
+          0
+        ],
+        "complicationBy": [
+          0.701,
+          0.695
+        ]
+      }
+    },
+    {
+      "config": {
+        "bases": [
+          80,
+          80
+        ],
+        "policies": [
+          "recover-band",
+          "recover-band"
+        ],
+        "counters": "none",
+        "complication": "staggered",
+        "dice": "full"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 9931,
+        "B": 10062,
+        "both": 7,
+        "censored": 0
+      },
+      "resolvedPct": 100,
+      "aWinPct": 49.66,
+      "bothDownPct": 0.04,
+      "medianResolvedRounds": 4,
+      "p90ResolvedRounds": 8,
+      "meanResolvedRounds": 4.652,
+      "restrictedMeanRounds": 4.652,
+      "byFivePct": 70.91,
+      "byTenPct": 97.25,
+      "meanActions": 8.74,
+      "meanRecoveryActions": 0.112,
+      "recoverySuccessPct": 36.48,
+      "recoveryImprovesBandPct": 29.71,
+      "meanStaggerRemoved": 0.09,
+      "meanWoundedAdded": 12.927,
+      "meanCounterStagger": 0,
+      "meanComplicationLevels": 1.395,
+      "counterShareAddedPct": 0,
+      "attackNoRemainderPct": 58.89,
+      "terminalExchange01Pct": 5.47,
+      "terminalExchange00Pct": 10.3,
+      "terminal00NeededForThresholdPct": 9.09,
+      "counterCrossedThresholdPct": 0,
+      "meanDisabledWounded": 11.315,
+      "meanDisabledStaggered": 1.289,
+      "meanByActor": {
+        "recoveryBy": [
+          0.063,
+          0.05
+        ],
+        "woundBy": [
+          6.504,
+          6.423
+        ],
+        "counterBy": [
+          0,
+          0
+        ],
+        "complicationBy": [
+          0.698,
+          0.698
+        ]
+      }
+    },
+    {
+      "config": {
+        "bases": [
+          20,
+          20
+        ],
+        "policies": [
+          "attack",
+          "attack"
+        ],
+        "counters": "none",
+        "complication": "staggered",
+        "dice": "full"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 9980,
+        "B": 9962,
+        "both": 58,
+        "censored": 0
+      },
+      "resolvedPct": 100,
+      "aWinPct": 49.9,
+      "bothDownPct": 0.29,
+      "medianResolvedRounds": 14,
+      "p90ResolvedRounds": 34,
+      "meanResolvedRounds": 16.787,
+      "restrictedMeanRounds": 16.787,
+      "byFivePct": 19.76,
+      "byTenPct": 38.3,
+      "meanActions": 33.063,
+      "meanRecoveryActions": 0,
+      "recoverySuccessPct": null,
+      "recoveryImprovesBandPct": null,
+      "meanStaggerRemoved": 0,
+      "meanWoundedAdded": 8.472,
+      "meanCounterStagger": 0,
+      "meanComplicationLevels": 8.62,
+      "counterShareAddedPct": 0,
+      "attackNoRemainderPct": 85.36,
+      "terminalExchange01Pct": 16.68,
+      "terminalExchange00Pct": 61.94,
+      "terminal00NeededForThresholdPct": 61.51,
+      "counterCrossedThresholdPct": 0,
+      "meanDisabledWounded": 5.853,
+      "meanDisabledStaggered": 8.543,
+      "meanByActor": {
+        "recoveryBy": [
+          0,
+          0
+        ],
+        "woundBy": [
+          4.208,
+          4.264
+        ],
+        "counterBy": [
+          0,
+          0
+        ],
+        "complicationBy": [
+          4.329,
+          4.291
+        ]
+      }
+    },
+    {
+      "config": {
+        "bases": [
+          20,
+          20
+        ],
+        "policies": [
+          "recover-band",
+          "recover-band"
+        ],
+        "counters": "none",
+        "complication": "staggered",
+        "dice": "full"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 9977,
+        "B": 9965,
+        "both": 58,
+        "censored": 0
+      },
+      "resolvedPct": 100,
+      "aWinPct": 49.89,
+      "bothDownPct": 0.29,
+      "medianResolvedRounds": 14,
+      "p90ResolvedRounds": 34,
+      "meanResolvedRounds": 16.844,
+      "restrictedMeanRounds": 16.844,
+      "byFivePct": 19.83,
+      "byTenPct": 38.12,
+      "meanActions": 33.177,
+      "meanRecoveryActions": 0.269,
+      "recoverySuccessPct": 6.31,
+      "recoveryImprovesBandPct": 2.84,
+      "meanStaggerRemoved": 0.026,
+      "meanWoundedAdded": 8.47,
+      "meanCounterStagger": 0,
+      "meanComplicationLevels": 8.613,
+      "counterShareAddedPct": 0,
+      "attackNoRemainderPct": 85.28,
+      "terminalExchange01Pct": 16.59,
+      "terminalExchange00Pct": 61.88,
+      "terminal00NeededForThresholdPct": 61.43,
+      "counterCrossedThresholdPct": 0,
+      "meanDisabledWounded": 5.857,
+      "meanDisabledStaggered": 8.539,
+      "meanByActor": {
+        "recoveryBy": [
+          0.13,
+          0.139
+        ],
+        "woundBy": [
+          4.21,
+          4.26
+        ],
+        "counterBy": [
+          0,
+          0
+        ],
+        "complicationBy": [
+          4.328,
+          4.286
+        ]
+      }
+    },
+    {
+      "config": {
+        "bases": [
+          80,
+          80
+        ],
+        "policies": [
+          "recover-band",
+          "recover-band"
+        ],
+        "counters": "contact",
+        "complication": "wounded",
+        "dice": "full"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 9993,
+        "B": 10003,
+        "both": 4,
+        "censored": 0
+      },
+      "resolvedPct": 100,
+      "aWinPct": 49.97,
+      "bothDownPct": 0.02,
+      "medianResolvedRounds": 4,
+      "p90ResolvedRounds": 7,
+      "meanResolvedRounds": 4.357,
+      "restrictedMeanRounds": 4.357,
+      "byFivePct": 76.62,
+      "byTenPct": 97.52,
+      "meanActions": 8.16,
+      "meanRecoveryActions": 0.734,
+      "recoverySuccessPct": 40.22,
+      "recoveryImprovesBandPct": 38.77,
+      "meanStaggerRemoved": 0.395,
+      "meanWoundedAdded": 11.891,
+      "meanCounterStagger": 1.442,
+      "meanComplicationLevels": 1.24,
+      "counterShareAddedPct": 9.89,
+      "attackNoRemainderPct": 56.7,
+      "terminalExchange01Pct": 5.04,
+      "terminalExchange00Pct": 9.32,
+      "terminal00NeededForThresholdPct": 8.18,
+      "counterCrossedThresholdPct": 2.94,
+      "meanDisabledWounded": 11.833,
+      "meanDisabledStaggered": 0.718,
+      "meanByActor": {
+        "recoveryBy": [
+          0.369,
+          0.364
+        ],
+        "woundBy": [
+          5.949,
+          5.942
+        ],
+        "counterBy": [
+          0.72,
+          0.722
+        ],
+        "complicationBy": [
+          0.62,
+          0.62
+        ]
+      }
+    },
+    {
+      "config": {
+        "bases": [
+          80,
+          20
+        ],
+        "policies": [
+          "recover-band",
+          "recover-band"
+        ],
+        "counters": "contact",
+        "complication": "wounded",
+        "dice": "full"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 19372,
+        "B": 622,
+        "both": 6,
+        "censored": 0
+      },
+      "resolvedPct": 100,
+      "aWinPct": 96.86,
+      "bothDownPct": 0.03,
+      "medianResolvedRounds": 3,
+      "p90ResolvedRounds": 6,
+      "meanResolvedRounds": 3.559,
+      "restrictedMeanRounds": 3.559,
+      "byFivePct": 89.47,
+      "byTenPct": 98.93,
+      "meanActions": 6.61,
+      "meanRecoveryActions": 0.146,
+      "recoverySuccessPct": 10.54,
+      "recoveryImprovesBandPct": 10.12,
+      "meanStaggerRemoved": 0.016,
+      "meanWoundedAdded": 11.716,
+      "meanCounterStagger": 0.288,
+      "meanComplicationLevels": 1.369,
+      "counterShareAddedPct": 2.16,
+      "attackNoRemainderPct": 57.8,
+      "terminalExchange01Pct": 3.64,
+      "terminalExchange00Pct": 8.62,
+      "terminal00NeededForThresholdPct": 7.62,
+      "counterCrossedThresholdPct": 0.8,
+      "meanDisabledWounded": 12.617,
+      "meanDisabledStaggered": 0.238,
+      "meanByActor": {
+        "recoveryBy": [
+          0.005,
+          0.141
+        ],
+        "woundBy": [
+          0.256,
+          11.46
+        ],
+        "counterBy": [
+          0.034,
+          0.254
+        ],
+        "complicationBy": [
+          0.477,
+          0.891
+        ]
+      }
+    },
+    {
+      "config": {
+        "bases": [
+          80,
+          80
+        ],
+        "policies": [
+          "recover-band",
+          "recover-band"
+        ],
+        "counters": "contact",
+        "complication": "staggered",
+        "dice": "ordinary"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 10036,
+        "B": 9964,
+        "both": 0,
+        "censored": 0
+      },
+      "resolvedPct": 100,
+      "aWinPct": 50.18,
+      "bothDownPct": 0,
+      "medianResolvedRounds": 4,
+      "p90ResolvedRounds": 8,
+      "meanResolvedRounds": 4.73,
+      "restrictedMeanRounds": 4.73,
+      "byFivePct": 72.12,
+      "byTenPct": 96.66,
+      "meanActions": 8.905,
+      "meanRecoveryActions": 0.84,
+      "recoverySuccessPct": 40.04,
+      "recoveryImprovesBandPct": 38.4,
+      "meanStaggerRemoved": 0.452,
+      "meanWoundedAdded": 12.473,
+      "meanCounterStagger": 1.555,
+      "meanComplicationLevels": 0,
+      "counterShareAddedPct": 11.08,
+      "attackNoRemainderPct": 56.42,
+      "terminalExchange01Pct": 0,
+      "terminalExchange00Pct": 0,
+      "terminal00NeededForThresholdPct": 0,
+      "counterCrossedThresholdPct": 3.28,
+      "meanDisabledWounded": 11.269,
+      "meanDisabledStaggered": 0.766,
+      "meanByActor": {
+        "recoveryBy": [
+          0.417,
+          0.423
+        ],
+        "woundBy": [
+          6.216,
+          6.257
+        ],
+        "counterBy": [
+          0.778,
+          0.777
+        ],
+        "complicationBy": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "config": {
+        "bases": [
+          80,
+          20
+        ],
+        "policies": [
+          "recover-band",
+          "recover-band"
+        ],
+        "counters": "contact",
+        "complication": "staggered",
+        "dice": "ordinary"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 20000,
+        "B": 0,
+        "both": 0,
+        "censored": 0
+      },
+      "resolvedPct": 100,
+      "aWinPct": 100,
+      "bothDownPct": 0,
+      "medianResolvedRounds": 3,
+      "p90ResolvedRounds": 5,
+      "meanResolvedRounds": 3.529,
+      "restrictedMeanRounds": 3.529,
+      "byFivePct": 90.32,
+      "byTenPct": 99.93,
+      "meanActions": 6.558,
+      "meanRecoveryActions": 0.14,
+      "recoverySuccessPct": 8.28,
+      "recoveryImprovesBandPct": 7.81,
+      "meanStaggerRemoved": 0.012,
+      "meanWoundedAdded": 12.199,
+      "meanCounterStagger": 0.283,
+      "meanComplicationLevels": 0,
+      "counterShareAddedPct": 2.26,
+      "attackNoRemainderPct": 55.54,
+      "terminalExchange01Pct": 0,
+      "terminalExchange00Pct": 0,
+      "terminal00NeededForThresholdPct": 0,
+      "counterCrossedThresholdPct": 0.88,
+      "meanDisabledWounded": 12.082,
+      "meanDisabledStaggered": 0.254,
+      "meanByActor": {
+        "recoveryBy": [
+          0.001,
+          0.14
+        ],
+        "woundBy": [
+          0.117,
+          12.082
+        ],
+        "counterBy": [
+          0.017,
+          0.265
+        ],
+        "complicationBy": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "config": {
+        "bases": [
+          20,
+          20
+        ],
+        "policies": [
+          "recover-band",
+          "recover-band"
+        ],
+        "counters": "contact",
+        "complication": "staggered",
+        "dice": "ordinary"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 9986,
+        "B": 10014,
+        "both": 0,
+        "censored": 0
+      },
+      "resolvedPct": 100,
+      "aWinPct": 49.93,
+      "bothDownPct": 0,
+      "medianResolvedRounds": 38,
+      "p90ResolvedRounds": 71,
+      "meanResolvedRounds": 42.721,
+      "restrictedMeanRounds": 42.721,
+      "byFivePct": 0,
+      "byTenPct": 0.33,
+      "meanActions": 84.92,
+      "meanRecoveryActions": 1.844,
+      "recoverySuccessPct": 8.83,
+      "recoveryImprovesBandPct": 8.61,
+      "meanStaggerRemoved": 0.164,
+      "meanWoundedAdded": 13.528,
+      "meanCounterStagger": 0.361,
+      "meanComplicationLevels": 0,
+      "counterShareAddedPct": 2.6,
+      "attackNoRemainderPct": 87.68,
+      "terminalExchange01Pct": 0,
+      "terminalExchange00Pct": 0,
+      "terminal00NeededForThresholdPct": 0,
+      "counterCrossedThresholdPct": 0.95,
+      "meanDisabledWounded": 10.053,
+      "meanDisabledStaggered": 0.157,
+      "meanByActor": {
+        "recoveryBy": [
+          0.905,
+          0.939
+        ],
+        "woundBy": [
+          6.769,
+          6.759
+        ],
+        "counterBy": [
+          0.181,
+          0.18
+        ],
+        "complicationBy": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "config": {
+        "bases": [
+          80,
+          80
+        ],
+        "policies": [
+          "attack",
+          "attack"
+        ],
+        "counters": "contact",
+        "complication": "staggered",
+        "dice": "full",
+        "startA": {
+          "wounded": 2,
+          "staggered": 3
+        },
+        "firstChoice": "attack"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 2289,
+        "B": 17705,
+        "both": 6,
+        "censored": 0
+      },
+      "resolvedPct": 100,
+      "aWinPct": 11.45,
+      "bothDownPct": 0.03,
+      "medianResolvedRounds": 2,
+      "p90ResolvedRounds": 5,
+      "meanResolvedRounds": 2.672,
+      "restrictedMeanRounds": 2.672,
+      "byFivePct": 93.05,
+      "byTenPct": 99.44,
+      "meanActions": 5.189,
+      "meanRecoveryActions": 0,
+      "recoverySuccessPct": null,
+      "recoveryImprovesBandPct": null,
+      "meanStaggerRemoved": 0,
+      "meanWoundedAdded": 7.449,
+      "meanCounterStagger": 0.749,
+      "meanComplicationLevels": 0.909,
+      "counterShareAddedPct": 8.23,
+      "attackNoRemainderPct": 60.31,
+      "terminalExchange01Pct": 3.81,
+      "terminalExchange00Pct": 7.53,
+      "terminal00NeededForThresholdPct": 6.23,
+      "counterCrossedThresholdPct": 3.39,
+      "meanDisabledWounded": 8.349,
+      "meanDisabledStaggered": 4.085,
+      "meanByActor": {
+        "recoveryBy": [
+          0,
+          0
+        ],
+        "woundBy": [
+          5.648,
+          1.8
+        ],
+        "counterBy": [
+          0.524,
+          0.225
+        ],
+        "complicationBy": [
+          0.527,
+          0.382
+        ]
+      }
+    },
+    {
+      "config": {
+        "bases": [
+          80,
+          80
+        ],
+        "policies": [
+          "attack",
+          "attack"
+        ],
+        "counters": "contact",
+        "complication": "staggered",
+        "dice": "full",
+        "startA": {
+          "wounded": 2,
+          "staggered": 3
+        },
+        "firstChoice": "recover"
+      },
+      "trials": 20000,
+      "outcomes": {
+        "A": 3248,
+        "B": 16750,
+        "both": 2,
+        "censored": 0
+      },
+      "resolvedPct": 100,
+      "aWinPct": 16.24,
+      "bothDownPct": 0.01,
+      "medianResolvedRounds": 3,
+      "p90ResolvedRounds": 6,
+      "meanResolvedRounds": 3.334,
+      "restrictedMeanRounds": 3.334,
+      "byFivePct": 87.78,
+      "byTenPct": 99.2,
+      "meanActions": 6.464,
+      "meanRecoveryActions": 1,
+      "recoverySuccessPct": 59.63,
+      "recoveryImprovesBandPct": 39.67,
+      "meanStaggerRemoved": 1.49,
+      "meanWoundedAdded": 8.572,
+      "meanCounterStagger": 0.847,
+      "meanComplicationLevels": 0.987,
+      "counterShareAddedPct": 8.14,
+      "attackNoRemainderPct": 57.85,
+      "terminalExchange01Pct": 4.19,
+      "terminalExchange00Pct": 8.19,
+      "terminal00NeededForThresholdPct": 7.04,
+      "counterCrossedThresholdPct": 3.49,
+      "meanDisabledWounded": 9.57,
+      "meanDisabledStaggered": 2.899,
+      "meanByActor": {
+        "recoveryBy": [
+          1,
+          0
+        ],
+        "woundBy": [
+          6.552,
+          2.02
+        ],
+        "counterBy": [
+          0.427,
+          0.42
+        ],
+        "complicationBy": [
+          0.627,
+          0.36
+        ]
+      }
+    }
+  ]
+}

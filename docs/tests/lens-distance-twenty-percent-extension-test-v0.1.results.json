@@ -1,0 +1,6160 @@
+{
+  "status": "Comparison only; no distance conversion, ceiling, or range lookup adopted.",
+  "controls": "25/50/100 increment doubling references; inclusive upper bounds; identical doubling arithmetic reused from area. Full Function, matched Scale, defined Access, no equipment/context/spending in probability rows. Existing truncated natural-01 distribution retained. Intended endpoint and reliance on variable reach explicit, not concealed as a nearer target. Fictional opposition fixtures are not a universal ordering rule.",
+  "rows": [
+    {
+      "fixture": "Ordinary ratings 3, Axis 3",
+      "raw": "22.27758",
+      "sharedBands": 0,
+      "initial": 25,
+      "target": 30,
+      "spent": 1,
+      "smallDifficulty": 1,
+      "directDifficulty": 2,
+      "smallRating": 21,
+      "directRating": 13,
+      "expansion": {
+        "probability": 0.109999999999,
+        "expectedRemainingAtTarget": 0.1655453524590002,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.1299999999990001,
+        "expectedRemainingAtTarget": 0.20746455447900025,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 3, Axis 3",
+      "raw": "22.27758",
+      "sharedBands": 0,
+      "initial": 25,
+      "target": 50,
+      "spent": 5,
+      "smallDifficulty": 1,
+      "directDifficulty": 2,
+      "smallRating": 21,
+      "directRating": 13,
+      "expansion": {
+        "probability": 0.006999999999000003,
+        "expectedRemainingAtTarget": 0.028545352463,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.1299999999990001,
+        "expectedRemainingAtTarget": 0.20746455447900025,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 3, Axis 3",
+      "raw": "22.27758",
+      "sharedBands": 0,
+      "initial": 25,
+      "target": 100,
+      "spent": 15,
+      "smallDifficulty": 1,
+      "directDifficulty": 3,
+      "smallRating": 21,
+      "directRating": 7,
+      "expansion": {
+        "probability": 0.00006899999900000007,
+        "expectedRemainingAtTarget": 0.0002783524730000001,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.06999999999900003,
+        "expectedRemainingAtTarget": 0.12150494841899999,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 3, Axis 3",
+      "raw": "22.27758",
+      "sharedBands": 0,
+      "initial": 25,
+      "target": 200,
+      "spent": 35,
+      "smallDifficulty": 1,
+      "directDifficulty": 4,
+      "smallRating": 21,
+      "directRating": 4,
+      "expansion": {
+        "probability": 6.699000000000002e-9,
+        "expectedRemainingAtTarget": 2.639300000000001e-8,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.03999999999900006,
+        "expectedRemainingAtTarget": 0.08847464548999995,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 3, Axis 3",
+      "raw": "22.27758",
+      "sharedBands": 0,
+      "initial": 25,
+      "target": 400,
+      "spent": 75,
+      "smallDifficulty": 1,
+      "directDifficulty": 5,
+      "smallRating": 21,
+      "directRating": 2,
+      "expansion": {
+        "probability": 0,
+        "expectedRemainingAtTarget": 0,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.01999999999899999,
+        "expectedRemainingAtTarget": 0.06645545346999993,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 3, Axis 3",
+      "raw": "22.27758",
+      "sharedBands": 0,
+      "initial": 50,
+      "target": 60,
+      "spent": 1,
+      "smallDifficulty": 2,
+      "directDifficulty": 3,
+      "smallRating": 13,
+      "directRating": 7,
+      "expansion": {
+        "probability": 0.029999999999,
+        "expectedRemainingAtTarget": 0.07746455447999995,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.06999999999900003,
+        "expectedRemainingAtTarget": 0.12150494841899999,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 3, Axis 3",
+      "raw": "22.27758",
+      "sharedBands": 0,
+      "initial": 50,
+      "target": 100,
+      "spent": 5,
+      "smallDifficulty": 2,
+      "directDifficulty": 3,
+      "smallRating": 13,
+      "directRating": 7,
+      "expansion": {
+        "probability": 0.006199999999000003,
+        "expectedRemainingAtTarget": 0.022864554484000002,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.06999999999900003,
+        "expectedRemainingAtTarget": 0.12150494841899999,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 3, Axis 3",
+      "raw": "22.27758",
+      "sharedBands": 0,
+      "initial": 50,
+      "target": 200,
+      "spent": 15,
+      "smallDifficulty": 2,
+      "directDifficulty": 4,
+      "smallRating": 13,
+      "directRating": 4,
+      "expansion": {
+        "probability": 0.00006099999900000008,
+        "expectedRemainingAtTarget": 0.00022155449400000009,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.03999999999900006,
+        "expectedRemainingAtTarget": 0.08847464548999995,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 3, Axis 3",
+      "raw": "22.27758",
+      "sharedBands": 0,
+      "initial": 50,
+      "target": 400,
+      "spent": 35,
+      "smallDifficulty": 2,
+      "directDifficulty": 5,
+      "smallRating": 13,
+      "directRating": 2,
+      "expansion": {
+        "probability": 5.899e-9,
+        "expectedRemainingAtTarget": 2.091400000000001e-8,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.01999999999899999,
+        "expectedRemainingAtTarget": 0.06645545346999993,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 3, Axis 3",
+      "raw": "22.27758",
+      "sharedBands": 0,
+      "initial": 50,
+      "target": 800,
+      "spent": 75,
+      "smallDifficulty": 2,
+      "directDifficulty": 6,
+      "smallRating": 13,
+      "directRating": 1,
+      "expansion": {
+        "probability": 0,
+        "expectedRemainingAtTarget": 0,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999996,
+        "expectedRemainingAtTarget": 0.05554535246000002,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 3, Axis 3",
+      "raw": "22.27758",
+      "sharedBands": 0,
+      "initial": 100,
+      "target": 120,
+      "spent": 1,
+      "smallDifficulty": 3,
+      "directDifficulty": 4,
+      "smallRating": 7,
+      "directRating": 4,
+      "expansion": {
+        "probability": 0.009599999998999995,
+        "expectedRemainingAtTarget": 0.05150494842000003,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.03999999999900006,
+        "expectedRemainingAtTarget": 0.08847464548999995,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 3, Axis 3",
+      "raw": "22.27758",
+      "sharedBands": 0,
+      "initial": 100,
+      "target": 200,
+      "spent": 5,
+      "smallDifficulty": 3,
+      "directDifficulty": 4,
+      "smallRating": 7,
+      "directRating": 4,
+      "expansion": {
+        "probability": 0.005599999999000002,
+        "expectedRemainingAtTarget": 0.019104948424000002,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.03999999999900006,
+        "expectedRemainingAtTarget": 0.08847464548999995,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 3, Axis 3",
+      "raw": "22.27758",
+      "sharedBands": 0,
+      "initial": 100,
+      "target": 400,
+      "spent": 15,
+      "smallDifficulty": 3,
+      "directDifficulty": 5,
+      "smallRating": 7,
+      "directRating": 2,
+      "expansion": {
+        "probability": 0.00005499999900000008,
+        "expectedRemainingAtTarget": 0.00018494843400000005,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.01999999999899999,
+        "expectedRemainingAtTarget": 0.06645545346999993,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 3, Axis 3",
+      "raw": "22.27758",
+      "sharedBands": 0,
+      "initial": 100,
+      "target": 800,
+      "spent": 35,
+      "smallDifficulty": 3,
+      "directDifficulty": 6,
+      "smallRating": 7,
+      "directRating": 1,
+      "expansion": {
+        "probability": 5.299000000000001e-9,
+        "expectedRemainingAtTarget": 1.7254000000000007e-8,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999996,
+        "expectedRemainingAtTarget": 0.05554535246000002,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 3, Axis 3",
+      "raw": "22.27758",
+      "sharedBands": 0,
+      "initial": 100,
+      "target": 1600,
+      "spent": 75,
+      "smallDifficulty": 3,
+      "directDifficulty": 7,
+      "smallRating": 7,
+      "directRating": 1,
+      "expansion": {
+        "probability": 0,
+        "expectedRemainingAtTarget": 0,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999996,
+        "expectedRemainingAtTarget": 0.05554535246000002,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 3, Axis 3",
+      "raw": "22.27758",
+      "sharedBands": 3,
+      "initial": 25,
+      "target": 30,
+      "spent": 1,
+      "smallDifficulty": 4,
+      "directDifficulty": 5,
+      "smallRating": 4,
+      "directRating": 2,
+      "expansion": {
+        "probability": 0.009299999998999997,
+        "expectedRemainingAtTarget": 0.048474645491000036,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.01999999999899999,
+        "expectedRemainingAtTarget": 0.06645545346999993,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 3, Axis 3",
+      "raw": "22.27758",
+      "sharedBands": 3,
+      "initial": 25,
+      "target": 50,
+      "spent": 5,
+      "smallDifficulty": 4,
+      "directDifficulty": 5,
+      "smallRating": 4,
+      "directRating": 2,
+      "expansion": {
+        "probability": 0.005299999999000002,
+        "expectedRemainingAtTarget": 0.017274645495,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.01999999999899999,
+        "expectedRemainingAtTarget": 0.06645545346999993,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 3, Axis 3",
+      "raw": "22.27758",
+      "sharedBands": 3,
+      "initial": 25,
+      "target": 100,
+      "spent": 15,
+      "smallDifficulty": 4,
+      "directDifficulty": 6,
+      "smallRating": 4,
+      "directRating": 1,
+      "expansion": {
+        "probability": 0.000051999999000000075,
+        "expectedRemainingAtTarget": 0.00016664550500000006,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999996,
+        "expectedRemainingAtTarget": 0.05554535246000002,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 3, Axis 3",
+      "raw": "22.27758",
+      "sharedBands": 3,
+      "initial": 25,
+      "target": 200,
+      "spent": 35,
+      "smallDifficulty": 4,
+      "directDifficulty": 7,
+      "smallRating": 4,
+      "directRating": 1,
+      "expansion": {
+        "probability": 4.999000000000001e-9,
+        "expectedRemainingAtTarget": 1.5525000000000008e-8,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999996,
+        "expectedRemainingAtTarget": 0.05554535246000002,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 3, Axis 3",
+      "raw": "22.27758",
+      "sharedBands": 3,
+      "initial": 25,
+      "target": 400,
+      "spent": 75,
+      "smallDifficulty": 4,
+      "directDifficulty": 8,
+      "smallRating": 4,
+      "directRating": 0,
+      "expansion": {
+        "probability": 0,
+        "expectedRemainingAtTarget": 0,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999995,
+        "expectedRemainingAtTarget": 0.05463525145000003,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 3, Axis 3",
+      "raw": "22.27758",
+      "sharedBands": 3,
+      "initial": 50,
+      "target": 60,
+      "spent": 1,
+      "smallDifficulty": 5,
+      "directDifficulty": 6,
+      "smallRating": 2,
+      "directRating": 1,
+      "expansion": {
+        "probability": 0.009099999998999998,
+        "expectedRemainingAtTarget": 0.046455453471000024,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999996,
+        "expectedRemainingAtTarget": 0.05554535246000002,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 3, Axis 3",
+      "raw": "22.27758",
+      "sharedBands": 3,
+      "initial": 50,
+      "target": 100,
+      "spent": 5,
+      "smallDifficulty": 5,
+      "directDifficulty": 6,
+      "smallRating": 2,
+      "directRating": 1,
+      "expansion": {
+        "probability": 0.0050999999990000025,
+        "expectedRemainingAtTarget": 0.016055453475000005,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999996,
+        "expectedRemainingAtTarget": 0.05554535246000002,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 3, Axis 3",
+      "raw": "22.27758",
+      "sharedBands": 3,
+      "initial": 50,
+      "target": 200,
+      "spent": 15,
+      "smallDifficulty": 5,
+      "directDifficulty": 7,
+      "smallRating": 2,
+      "directRating": 1,
+      "expansion": {
+        "probability": 0.00004999999900000008,
+        "expectedRemainingAtTarget": 0.00015545348500000004,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999996,
+        "expectedRemainingAtTarget": 0.05554535246000002,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 3, Axis 3",
+      "raw": "22.27758",
+      "sharedBands": 3,
+      "initial": 50,
+      "target": 400,
+      "spent": 35,
+      "smallDifficulty": 5,
+      "directDifficulty": 8,
+      "smallRating": 2,
+      "directRating": 0,
+      "expansion": {
+        "probability": 4.7990000000000005e-9,
+        "expectedRemainingAtTarget": 1.4505000000000006e-8,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999995,
+        "expectedRemainingAtTarget": 0.05463525145000003,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 3, Axis 3",
+      "raw": "22.27758",
+      "sharedBands": 3,
+      "initial": 50,
+      "target": 800,
+      "spent": 75,
+      "smallDifficulty": 5,
+      "directDifficulty": 9,
+      "smallRating": 2,
+      "directRating": 0,
+      "expansion": {
+        "probability": 0,
+        "expectedRemainingAtTarget": 0,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999995,
+        "expectedRemainingAtTarget": 0.05463525145000003,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 3, Axis 3",
+      "raw": "22.27758",
+      "sharedBands": 3,
+      "initial": 100,
+      "target": 120,
+      "spent": 1,
+      "smallDifficulty": 6,
+      "directDifficulty": 7,
+      "smallRating": 1,
+      "directRating": 1,
+      "expansion": {
+        "probability": 0.008999999998999995,
+        "expectedRemainingAtTarget": 0.04554535246100003,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999996,
+        "expectedRemainingAtTarget": 0.05554535246000002,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 3, Axis 3",
+      "raw": "22.27758",
+      "sharedBands": 3,
+      "initial": 100,
+      "target": 200,
+      "spent": 5,
+      "smallDifficulty": 6,
+      "directDifficulty": 7,
+      "smallRating": 1,
+      "directRating": 1,
+      "expansion": {
+        "probability": 0.004999999999000003,
+        "expectedRemainingAtTarget": 0.015545352465,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999996,
+        "expectedRemainingAtTarget": 0.05554535246000002,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 3, Axis 3",
+      "raw": "22.27758",
+      "sharedBands": 3,
+      "initial": 100,
+      "target": 400,
+      "spent": 15,
+      "smallDifficulty": 6,
+      "directDifficulty": 8,
+      "smallRating": 1,
+      "directRating": 0,
+      "expansion": {
+        "probability": 0.00004899999900000007,
+        "expectedRemainingAtTarget": 0.00015035247500000003,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999995,
+        "expectedRemainingAtTarget": 0.05463525145000003,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 3, Axis 3",
+      "raw": "22.27758",
+      "sharedBands": 3,
+      "initial": 100,
+      "target": 800,
+      "spent": 35,
+      "smallDifficulty": 6,
+      "directDifficulty": 9,
+      "smallRating": 1,
+      "directRating": 0,
+      "expansion": {
+        "probability": 4.6990000000000004e-9,
+        "expectedRemainingAtTarget": 1.3995000000000006e-8,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999995,
+        "expectedRemainingAtTarget": 0.05463525145000003,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 3, Axis 3",
+      "raw": "22.27758",
+      "sharedBands": 3,
+      "initial": 100,
+      "target": 1600,
+      "spent": 75,
+      "smallDifficulty": 6,
+      "directDifficulty": 10,
+      "smallRating": 1,
+      "directRating": 0,
+      "expansion": {
+        "probability": 0,
+        "expectedRemainingAtTarget": 0,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999995,
+        "expectedRemainingAtTarget": 0.05463525145000003,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 3, Axis 3",
+      "raw": "22.27758",
+      "sharedBands": 4,
+      "initial": 25,
+      "target": 30,
+      "spent": 1,
+      "smallDifficulty": 5,
+      "directDifficulty": 6,
+      "smallRating": 2,
+      "directRating": 1,
+      "expansion": {
+        "probability": 0.009099999998999998,
+        "expectedRemainingAtTarget": 0.046455453471000024,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999996,
+        "expectedRemainingAtTarget": 0.05554535246000002,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 3, Axis 3",
+      "raw": "22.27758",
+      "sharedBands": 4,
+      "initial": 25,
+      "target": 50,
+      "spent": 5,
+      "smallDifficulty": 5,
+      "directDifficulty": 6,
+      "smallRating": 2,
+      "directRating": 1,
+      "expansion": {
+        "probability": 0.0050999999990000025,
+        "expectedRemainingAtTarget": 0.016055453475000005,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999996,
+        "expectedRemainingAtTarget": 0.05554535246000002,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 3, Axis 3",
+      "raw": "22.27758",
+      "sharedBands": 4,
+      "initial": 25,
+      "target": 100,
+      "spent": 15,
+      "smallDifficulty": 5,
+      "directDifficulty": 7,
+      "smallRating": 2,
+      "directRating": 1,
+      "expansion": {
+        "probability": 0.00004999999900000008,
+        "expectedRemainingAtTarget": 0.00015545348500000004,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999996,
+        "expectedRemainingAtTarget": 0.05554535246000002,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 3, Axis 3",
+      "raw": "22.27758",
+      "sharedBands": 4,
+      "initial": 25,
+      "target": 200,
+      "spent": 35,
+      "smallDifficulty": 5,
+      "directDifficulty": 8,
+      "smallRating": 2,
+      "directRating": 0,
+      "expansion": {
+        "probability": 4.7990000000000005e-9,
+        "expectedRemainingAtTarget": 1.4505000000000006e-8,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999995,
+        "expectedRemainingAtTarget": 0.05463525145000003,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 3, Axis 3",
+      "raw": "22.27758",
+      "sharedBands": 4,
+      "initial": 25,
+      "target": 400,
+      "spent": 75,
+      "smallDifficulty": 5,
+      "directDifficulty": 9,
+      "smallRating": 2,
+      "directRating": 0,
+      "expansion": {
+        "probability": 0,
+        "expectedRemainingAtTarget": 0,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999995,
+        "expectedRemainingAtTarget": 0.05463525145000003,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 3, Axis 3",
+      "raw": "22.27758",
+      "sharedBands": 4,
+      "initial": 50,
+      "target": 60,
+      "spent": 1,
+      "smallDifficulty": 6,
+      "directDifficulty": 7,
+      "smallRating": 1,
+      "directRating": 1,
+      "expansion": {
+        "probability": 0.008999999998999995,
+        "expectedRemainingAtTarget": 0.04554535246100003,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999996,
+        "expectedRemainingAtTarget": 0.05554535246000002,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 3, Axis 3",
+      "raw": "22.27758",
+      "sharedBands": 4,
+      "initial": 50,
+      "target": 100,
+      "spent": 5,
+      "smallDifficulty": 6,
+      "directDifficulty": 7,
+      "smallRating": 1,
+      "directRating": 1,
+      "expansion": {
+        "probability": 0.004999999999000003,
+        "expectedRemainingAtTarget": 0.015545352465,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999996,
+        "expectedRemainingAtTarget": 0.05554535246000002,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 3, Axis 3",
+      "raw": "22.27758",
+      "sharedBands": 4,
+      "initial": 50,
+      "target": 200,
+      "spent": 15,
+      "smallDifficulty": 6,
+      "directDifficulty": 8,
+      "smallRating": 1,
+      "directRating": 0,
+      "expansion": {
+        "probability": 0.00004899999900000007,
+        "expectedRemainingAtTarget": 0.00015035247500000003,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999995,
+        "expectedRemainingAtTarget": 0.05463525145000003,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 3, Axis 3",
+      "raw": "22.27758",
+      "sharedBands": 4,
+      "initial": 50,
+      "target": 400,
+      "spent": 35,
+      "smallDifficulty": 6,
+      "directDifficulty": 9,
+      "smallRating": 1,
+      "directRating": 0,
+      "expansion": {
+        "probability": 4.6990000000000004e-9,
+        "expectedRemainingAtTarget": 1.3995000000000006e-8,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999995,
+        "expectedRemainingAtTarget": 0.05463525145000003,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 3, Axis 3",
+      "raw": "22.27758",
+      "sharedBands": 4,
+      "initial": 50,
+      "target": 800,
+      "spent": 75,
+      "smallDifficulty": 6,
+      "directDifficulty": 10,
+      "smallRating": 1,
+      "directRating": 0,
+      "expansion": {
+        "probability": 0,
+        "expectedRemainingAtTarget": 0,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999995,
+        "expectedRemainingAtTarget": 0.05463525145000003,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 3, Axis 3",
+      "raw": "22.27758",
+      "sharedBands": 4,
+      "initial": 100,
+      "target": 120,
+      "spent": 1,
+      "smallDifficulty": 7,
+      "directDifficulty": 8,
+      "smallRating": 1,
+      "directRating": 0,
+      "expansion": {
+        "probability": 0.008999999998999995,
+        "expectedRemainingAtTarget": 0.04554535246100003,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999995,
+        "expectedRemainingAtTarget": 0.05463525145000003,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 3, Axis 3",
+      "raw": "22.27758",
+      "sharedBands": 4,
+      "initial": 100,
+      "target": 200,
+      "spent": 5,
+      "smallDifficulty": 7,
+      "directDifficulty": 8,
+      "smallRating": 1,
+      "directRating": 0,
+      "expansion": {
+        "probability": 0.004999999999000003,
+        "expectedRemainingAtTarget": 0.015545352465,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999995,
+        "expectedRemainingAtTarget": 0.05463525145000003,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 3, Axis 3",
+      "raw": "22.27758",
+      "sharedBands": 4,
+      "initial": 100,
+      "target": 400,
+      "spent": 15,
+      "smallDifficulty": 7,
+      "directDifficulty": 9,
+      "smallRating": 1,
+      "directRating": 0,
+      "expansion": {
+        "probability": 0.00004899999900000007,
+        "expectedRemainingAtTarget": 0.00015035247500000003,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999995,
+        "expectedRemainingAtTarget": 0.05463525145000003,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 3, Axis 3",
+      "raw": "22.27758",
+      "sharedBands": 4,
+      "initial": 100,
+      "target": 800,
+      "spent": 35,
+      "smallDifficulty": 7,
+      "directDifficulty": 10,
+      "smallRating": 1,
+      "directRating": 0,
+      "expansion": {
+        "probability": 4.6990000000000004e-9,
+        "expectedRemainingAtTarget": 1.3995000000000006e-8,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999995,
+        "expectedRemainingAtTarget": 0.05463525145000003,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 0",
+      "raw": "50.625",
+      "sharedBands": 0,
+      "initial": 25,
+      "target": 30,
+      "spent": 1,
+      "smallDifficulty": 1,
+      "directDifficulty": 2,
+      "smallRating": 49,
+      "directRating": 29,
+      "expansion": {
+        "probability": 0.38999999999900037,
+        "expectedRemainingAtTarget": 1.0135251504360003,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.2899999999990004,
+        "expectedRemainingAtTarget": 0.6235251504370005,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 0",
+      "raw": "50.625",
+      "sharedBands": 0,
+      "initial": 25,
+      "target": 50,
+      "spent": 5,
+      "smallDifficulty": 1,
+      "directDifficulty": 2,
+      "smallRating": 49,
+      "directRating": 29,
+      "expansion": {
+        "probability": 0.009799999998999994,
+        "expectedRemainingAtTarget": 0.05352515044000002,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.2899999999990004,
+        "expectedRemainingAtTarget": 0.6235251504370005,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 0",
+      "raw": "50.625",
+      "sharedBands": 0,
+      "initial": 25,
+      "target": 100,
+      "spent": 15,
+      "smallDifficulty": 1,
+      "directDifficulty": 3,
+      "smallRating": 49,
+      "directRating": 17,
+      "expansion": {
+        "probability": 0.00009699999900000007,
+        "expectedRemainingAtTarget": 0.0005251504500000002,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.16999999999900015,
+        "expectedRemainingAtTarget": 0.2915049484179999,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 0",
+      "raw": "50.625",
+      "sharedBands": 0,
+      "initial": 25,
+      "target": 200,
+      "spent": 35,
+      "smallDifficulty": 1,
+      "directDifficulty": 4,
+      "smallRating": 49,
+      "directRating": 10,
+      "expansion": {
+        "probability": 9.499000000000003e-9,
+        "expectedRemainingAtTarget": 5.047000000000002e-8,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.099999999999,
+        "expectedRemainingAtTarget": 0.15453525144900024,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 0",
+      "raw": "50.625",
+      "sharedBands": 0,
+      "initial": 25,
+      "target": 400,
+      "spent": 75,
+      "smallDifficulty": 1,
+      "directDifficulty": 5,
+      "smallRating": 49,
+      "directRating": 6,
+      "expansion": {
+        "probability": 0,
+        "expectedRemainingAtTarget": 0,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.05999999999900009,
+        "expectedRemainingAtTarget": 0.110494847409,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 0",
+      "raw": "50.625",
+      "sharedBands": 0,
+      "initial": 50,
+      "target": 60,
+      "spent": 1,
+      "smallDifficulty": 2,
+      "directDifficulty": 3,
+      "smallRating": 29,
+      "directRating": 17,
+      "expansion": {
+        "probability": 0.18999999999900014,
+        "expectedRemainingAtTarget": 0.33352515043799985,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.16999999999900015,
+        "expectedRemainingAtTarget": 0.2915049484179999,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 0",
+      "raw": "50.625",
+      "sharedBands": 0,
+      "initial": 50,
+      "target": 100,
+      "spent": 5,
+      "smallDifficulty": 2,
+      "directDifficulty": 3,
+      "smallRating": 29,
+      "directRating": 17,
+      "expansion": {
+        "probability": 0.007799999999000003,
+        "expectedRemainingAtTarget": 0.034925150442000015,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.16999999999900015,
+        "expectedRemainingAtTarget": 0.2915049484179999,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 0",
+      "raw": "50.625",
+      "sharedBands": 0,
+      "initial": 50,
+      "target": 200,
+      "spent": 15,
+      "smallDifficulty": 2,
+      "directDifficulty": 4,
+      "smallRating": 29,
+      "directRating": 10,
+      "expansion": {
+        "probability": 0.00007699999900000007,
+        "expectedRemainingAtTarget": 0.00034115045200000006,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.099999999999,
+        "expectedRemainingAtTarget": 0.15453525144900024,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 0",
+      "raw": "50.625",
+      "sharedBands": 0,
+      "initial": 50,
+      "target": 400,
+      "spent": 35,
+      "smallDifficulty": 2,
+      "directDifficulty": 5,
+      "smallRating": 29,
+      "directRating": 6,
+      "expansion": {
+        "probability": 7.499000000000003e-9,
+        "expectedRemainingAtTarget": 3.247200000000002e-8,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.05999999999900009,
+        "expectedRemainingAtTarget": 0.110494847409,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 0",
+      "raw": "50.625",
+      "sharedBands": 0,
+      "initial": 50,
+      "target": 800,
+      "spent": 75,
+      "smallDifficulty": 2,
+      "directDifficulty": 6,
+      "smallRating": 29,
+      "directRating": 3,
+      "expansion": {
+        "probability": 0,
+        "expectedRemainingAtTarget": 0,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.029999999999,
+        "expectedRemainingAtTarget": 0.07746455447999995,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 0",
+      "raw": "50.625",
+      "sharedBands": 0,
+      "initial": 100,
+      "target": 120,
+      "spent": 1,
+      "smallDifficulty": 3,
+      "directDifficulty": 4,
+      "smallRating": 17,
+      "directRating": 10,
+      "expansion": {
+        "probability": 0.06999999999900003,
+        "expectedRemainingAtTarget": 0.12150494841899999,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.099999999999,
+        "expectedRemainingAtTarget": 0.15453525144900024,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 0",
+      "raw": "50.625",
+      "sharedBands": 0,
+      "initial": 100,
+      "target": 200,
+      "spent": 5,
+      "smallDifficulty": 3,
+      "directDifficulty": 4,
+      "smallRating": 17,
+      "directRating": 10,
+      "expansion": {
+        "probability": 0.006599999999000002,
+        "expectedRemainingAtTarget": 0.025704948423000005,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.099999999999,
+        "expectedRemainingAtTarget": 0.15453525144900024,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 0",
+      "raw": "50.625",
+      "sharedBands": 0,
+      "initial": 100,
+      "target": 400,
+      "spent": 15,
+      "smallDifficulty": 3,
+      "directDifficulty": 5,
+      "smallRating": 17,
+      "directRating": 6,
+      "expansion": {
+        "probability": 0.00006499999900000008,
+        "expectedRemainingAtTarget": 0.00024994843300000017,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.05999999999900009,
+        "expectedRemainingAtTarget": 0.110494847409,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 0",
+      "raw": "50.625",
+      "sharedBands": 0,
+      "initial": 100,
+      "target": 800,
+      "spent": 35,
+      "smallDifficulty": 3,
+      "directDifficulty": 6,
+      "smallRating": 17,
+      "directRating": 3,
+      "expansion": {
+        "probability": 6.2990000000000015e-9,
+        "expectedRemainingAtTarget": 2.355300000000001e-8,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.029999999999,
+        "expectedRemainingAtTarget": 0.07746455447999995,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 0",
+      "raw": "50.625",
+      "sharedBands": 0,
+      "initial": 100,
+      "target": 1600,
+      "spent": 75,
+      "smallDifficulty": 3,
+      "directDifficulty": 7,
+      "smallRating": 17,
+      "directRating": 2,
+      "expansion": {
+        "probability": 0,
+        "expectedRemainingAtTarget": 0,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.01999999999899999,
+        "expectedRemainingAtTarget": 0.06645545346999993,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 0",
+      "raw": "50.625",
+      "sharedBands": 3,
+      "initial": 25,
+      "target": 30,
+      "spent": 1,
+      "smallDifficulty": 4,
+      "directDifficulty": 5,
+      "smallRating": 10,
+      "directRating": 6,
+      "expansion": {
+        "probability": 0.009899999998999995,
+        "expectedRemainingAtTarget": 0.05453525145000003,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.05999999999900009,
+        "expectedRemainingAtTarget": 0.110494847409,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 0",
+      "raw": "50.625",
+      "sharedBands": 3,
+      "initial": 25,
+      "target": 50,
+      "spent": 5,
+      "smallDifficulty": 4,
+      "directDifficulty": 5,
+      "smallRating": 10,
+      "directRating": 6,
+      "expansion": {
+        "probability": 0.005899999999000002,
+        "expectedRemainingAtTarget": 0.020935251454000003,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.05999999999900009,
+        "expectedRemainingAtTarget": 0.110494847409,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 0",
+      "raw": "50.625",
+      "sharedBands": 3,
+      "initial": 25,
+      "target": 100,
+      "spent": 15,
+      "smallDifficulty": 4,
+      "directDifficulty": 6,
+      "smallRating": 10,
+      "directRating": 3,
+      "expansion": {
+        "probability": 0.00005799999900000007,
+        "expectedRemainingAtTarget": 0.00020325146400000007,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.029999999999,
+        "expectedRemainingAtTarget": 0.07746455447999995,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 0",
+      "raw": "50.625",
+      "sharedBands": 3,
+      "initial": 25,
+      "target": 200,
+      "spent": 35,
+      "smallDifficulty": 4,
+      "directDifficulty": 7,
+      "smallRating": 10,
+      "directRating": 2,
+      "expansion": {
+        "probability": 5.599000000000001e-9,
+        "expectedRemainingAtTarget": 1.9084000000000007e-8,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.01999999999899999,
+        "expectedRemainingAtTarget": 0.06645545346999993,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 0",
+      "raw": "50.625",
+      "sharedBands": 3,
+      "initial": 25,
+      "target": 400,
+      "spent": 75,
+      "smallDifficulty": 4,
+      "directDifficulty": 8,
+      "smallRating": 10,
+      "directRating": 1,
+      "expansion": {
+        "probability": 0,
+        "expectedRemainingAtTarget": 0,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999996,
+        "expectedRemainingAtTarget": 0.05554535246000002,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 0",
+      "raw": "50.625",
+      "sharedBands": 3,
+      "initial": 50,
+      "target": 60,
+      "spent": 1,
+      "smallDifficulty": 5,
+      "directDifficulty": 6,
+      "smallRating": 6,
+      "directRating": 3,
+      "expansion": {
+        "probability": 0.009499999998999998,
+        "expectedRemainingAtTarget": 0.05049484741000003,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.029999999999,
+        "expectedRemainingAtTarget": 0.07746455447999995,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 0",
+      "raw": "50.625",
+      "sharedBands": 3,
+      "initial": 50,
+      "target": 100,
+      "spent": 5,
+      "smallDifficulty": 5,
+      "directDifficulty": 6,
+      "smallRating": 6,
+      "directRating": 3,
+      "expansion": {
+        "probability": 0.005499999999000003,
+        "expectedRemainingAtTarget": 0.018494847414000003,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.029999999999,
+        "expectedRemainingAtTarget": 0.07746455447999995,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 0",
+      "raw": "50.625",
+      "sharedBands": 3,
+      "initial": 50,
+      "target": 200,
+      "spent": 15,
+      "smallDifficulty": 5,
+      "directDifficulty": 7,
+      "smallRating": 6,
+      "directRating": 2,
+      "expansion": {
+        "probability": 0.00005399999900000007,
+        "expectedRemainingAtTarget": 0.00017884742400000006,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.01999999999899999,
+        "expectedRemainingAtTarget": 0.06645545346999993,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 0",
+      "raw": "50.625",
+      "sharedBands": 3,
+      "initial": 50,
+      "target": 400,
+      "spent": 35,
+      "smallDifficulty": 5,
+      "directDifficulty": 8,
+      "smallRating": 6,
+      "directRating": 1,
+      "expansion": {
+        "probability": 5.199000000000001e-9,
+        "expectedRemainingAtTarget": 1.6644000000000007e-8,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999996,
+        "expectedRemainingAtTarget": 0.05554535246000002,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 0",
+      "raw": "50.625",
+      "sharedBands": 3,
+      "initial": 50,
+      "target": 800,
+      "spent": 75,
+      "smallDifficulty": 5,
+      "directDifficulty": 9,
+      "smallRating": 6,
+      "directRating": 0,
+      "expansion": {
+        "probability": 0,
+        "expectedRemainingAtTarget": 0,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999995,
+        "expectedRemainingAtTarget": 0.05463525145000003,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 0",
+      "raw": "50.625",
+      "sharedBands": 3,
+      "initial": 100,
+      "target": 120,
+      "spent": 1,
+      "smallDifficulty": 6,
+      "directDifficulty": 7,
+      "smallRating": 3,
+      "directRating": 2,
+      "expansion": {
+        "probability": 0.009199999998999996,
+        "expectedRemainingAtTarget": 0.04746455448100003,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.01999999999899999,
+        "expectedRemainingAtTarget": 0.06645545346999993,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 0",
+      "raw": "50.625",
+      "sharedBands": 3,
+      "initial": 100,
+      "target": 200,
+      "spent": 5,
+      "smallDifficulty": 6,
+      "directDifficulty": 7,
+      "smallRating": 3,
+      "directRating": 2,
+      "expansion": {
+        "probability": 0.005199999999000003,
+        "expectedRemainingAtTarget": 0.016664554485000007,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.01999999999899999,
+        "expectedRemainingAtTarget": 0.06645545346999993,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 0",
+      "raw": "50.625",
+      "sharedBands": 3,
+      "initial": 100,
+      "target": 400,
+      "spent": 15,
+      "smallDifficulty": 6,
+      "directDifficulty": 8,
+      "smallRating": 3,
+      "directRating": 1,
+      "expansion": {
+        "probability": 0.00005099999900000007,
+        "expectedRemainingAtTarget": 0.00016055449500000006,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999996,
+        "expectedRemainingAtTarget": 0.05554535246000002,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 0",
+      "raw": "50.625",
+      "sharedBands": 3,
+      "initial": 100,
+      "target": 800,
+      "spent": 35,
+      "smallDifficulty": 6,
+      "directDifficulty": 9,
+      "smallRating": 3,
+      "directRating": 0,
+      "expansion": {
+        "probability": 4.899e-9,
+        "expectedRemainingAtTarget": 1.5015000000000006e-8,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999995,
+        "expectedRemainingAtTarget": 0.05463525145000003,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 0",
+      "raw": "50.625",
+      "sharedBands": 3,
+      "initial": 100,
+      "target": 1600,
+      "spent": 75,
+      "smallDifficulty": 6,
+      "directDifficulty": 10,
+      "smallRating": 3,
+      "directRating": 0,
+      "expansion": {
+        "probability": 0,
+        "expectedRemainingAtTarget": 0,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999995,
+        "expectedRemainingAtTarget": 0.05463525145000003,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 0",
+      "raw": "50.625",
+      "sharedBands": 4,
+      "initial": 25,
+      "target": 30,
+      "spent": 1,
+      "smallDifficulty": 5,
+      "directDifficulty": 6,
+      "smallRating": 6,
+      "directRating": 3,
+      "expansion": {
+        "probability": 0.009499999998999998,
+        "expectedRemainingAtTarget": 0.05049484741000003,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.029999999999,
+        "expectedRemainingAtTarget": 0.07746455447999995,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 0",
+      "raw": "50.625",
+      "sharedBands": 4,
+      "initial": 25,
+      "target": 50,
+      "spent": 5,
+      "smallDifficulty": 5,
+      "directDifficulty": 6,
+      "smallRating": 6,
+      "directRating": 3,
+      "expansion": {
+        "probability": 0.005499999999000003,
+        "expectedRemainingAtTarget": 0.018494847414000003,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.029999999999,
+        "expectedRemainingAtTarget": 0.07746455447999995,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 0",
+      "raw": "50.625",
+      "sharedBands": 4,
+      "initial": 25,
+      "target": 100,
+      "spent": 15,
+      "smallDifficulty": 5,
+      "directDifficulty": 7,
+      "smallRating": 6,
+      "directRating": 2,
+      "expansion": {
+        "probability": 0.00005399999900000007,
+        "expectedRemainingAtTarget": 0.00017884742400000006,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.01999999999899999,
+        "expectedRemainingAtTarget": 0.06645545346999993,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 0",
+      "raw": "50.625",
+      "sharedBands": 4,
+      "initial": 25,
+      "target": 200,
+      "spent": 35,
+      "smallDifficulty": 5,
+      "directDifficulty": 8,
+      "smallRating": 6,
+      "directRating": 1,
+      "expansion": {
+        "probability": 5.199000000000001e-9,
+        "expectedRemainingAtTarget": 1.6644000000000007e-8,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999996,
+        "expectedRemainingAtTarget": 0.05554535246000002,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 0",
+      "raw": "50.625",
+      "sharedBands": 4,
+      "initial": 25,
+      "target": 400,
+      "spent": 75,
+      "smallDifficulty": 5,
+      "directDifficulty": 9,
+      "smallRating": 6,
+      "directRating": 0,
+      "expansion": {
+        "probability": 0,
+        "expectedRemainingAtTarget": 0,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999995,
+        "expectedRemainingAtTarget": 0.05463525145000003,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 0",
+      "raw": "50.625",
+      "sharedBands": 4,
+      "initial": 50,
+      "target": 60,
+      "spent": 1,
+      "smallDifficulty": 6,
+      "directDifficulty": 7,
+      "smallRating": 3,
+      "directRating": 2,
+      "expansion": {
+        "probability": 0.009199999998999996,
+        "expectedRemainingAtTarget": 0.04746455448100003,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.01999999999899999,
+        "expectedRemainingAtTarget": 0.06645545346999993,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 0",
+      "raw": "50.625",
+      "sharedBands": 4,
+      "initial": 50,
+      "target": 100,
+      "spent": 5,
+      "smallDifficulty": 6,
+      "directDifficulty": 7,
+      "smallRating": 3,
+      "directRating": 2,
+      "expansion": {
+        "probability": 0.005199999999000003,
+        "expectedRemainingAtTarget": 0.016664554485000007,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.01999999999899999,
+        "expectedRemainingAtTarget": 0.06645545346999993,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 0",
+      "raw": "50.625",
+      "sharedBands": 4,
+      "initial": 50,
+      "target": 200,
+      "spent": 15,
+      "smallDifficulty": 6,
+      "directDifficulty": 8,
+      "smallRating": 3,
+      "directRating": 1,
+      "expansion": {
+        "probability": 0.00005099999900000007,
+        "expectedRemainingAtTarget": 0.00016055449500000006,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999996,
+        "expectedRemainingAtTarget": 0.05554535246000002,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 0",
+      "raw": "50.625",
+      "sharedBands": 4,
+      "initial": 50,
+      "target": 400,
+      "spent": 35,
+      "smallDifficulty": 6,
+      "directDifficulty": 9,
+      "smallRating": 3,
+      "directRating": 0,
+      "expansion": {
+        "probability": 4.899e-9,
+        "expectedRemainingAtTarget": 1.5015000000000006e-8,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999995,
+        "expectedRemainingAtTarget": 0.05463525145000003,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 0",
+      "raw": "50.625",
+      "sharedBands": 4,
+      "initial": 50,
+      "target": 800,
+      "spent": 75,
+      "smallDifficulty": 6,
+      "directDifficulty": 10,
+      "smallRating": 3,
+      "directRating": 0,
+      "expansion": {
+        "probability": 0,
+        "expectedRemainingAtTarget": 0,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999995,
+        "expectedRemainingAtTarget": 0.05463525145000003,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 0",
+      "raw": "50.625",
+      "sharedBands": 4,
+      "initial": 100,
+      "target": 120,
+      "spent": 1,
+      "smallDifficulty": 7,
+      "directDifficulty": 8,
+      "smallRating": 2,
+      "directRating": 1,
+      "expansion": {
+        "probability": 0.009099999998999998,
+        "expectedRemainingAtTarget": 0.046455453471000024,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999996,
+        "expectedRemainingAtTarget": 0.05554535246000002,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 0",
+      "raw": "50.625",
+      "sharedBands": 4,
+      "initial": 100,
+      "target": 200,
+      "spent": 5,
+      "smallDifficulty": 7,
+      "directDifficulty": 8,
+      "smallRating": 2,
+      "directRating": 1,
+      "expansion": {
+        "probability": 0.0050999999990000025,
+        "expectedRemainingAtTarget": 0.016055453475000005,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999996,
+        "expectedRemainingAtTarget": 0.05554535246000002,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 0",
+      "raw": "50.625",
+      "sharedBands": 4,
+      "initial": 100,
+      "target": 400,
+      "spent": 15,
+      "smallDifficulty": 7,
+      "directDifficulty": 9,
+      "smallRating": 2,
+      "directRating": 0,
+      "expansion": {
+        "probability": 0.00004999999900000008,
+        "expectedRemainingAtTarget": 0.00015545348500000004,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999995,
+        "expectedRemainingAtTarget": 0.05463525145000003,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 0",
+      "raw": "50.625",
+      "sharedBands": 4,
+      "initial": 100,
+      "target": 800,
+      "spent": 35,
+      "smallDifficulty": 7,
+      "directDifficulty": 10,
+      "smallRating": 2,
+      "directRating": 0,
+      "expansion": {
+        "probability": 4.7990000000000005e-9,
+        "expectedRemainingAtTarget": 1.4505000000000006e-8,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999995,
+        "expectedRemainingAtTarget": 0.05463525145000003,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 5",
+      "raw": "75.9375",
+      "sharedBands": 0,
+      "initial": 25,
+      "target": 30,
+      "spent": 1,
+      "smallDifficulty": 1,
+      "directDifficulty": 2,
+      "smallRating": 74,
+      "directRating": 44,
+      "expansion": {
+        "probability": 0.6399999999989989,
+        "expectedRemainingAtTarget": 2.428474645484,
+        "remainingAtRoll40": 3
+      },
+      "direct": {
+        "probability": 0.43999999999900025,
+        "expectedRemainingAtTarget": 1.248474645486,
+        "remainingAtRoll40": 1
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 5",
+      "raw": "75.9375",
+      "sharedBands": 0,
+      "initial": 25,
+      "target": 50,
+      "spent": 5,
+      "smallDifficulty": 1,
+      "directDifficulty": 2,
+      "smallRating": 74,
+      "directRating": 44,
+      "expansion": {
+        "probability": 0.2399999999990001,
+        "expectedRemainingAtTarget": 0.4684746454879998,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.43999999999900025,
+        "expectedRemainingAtTarget": 1.248474645486,
+        "remainingAtRoll40": 1
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 5",
+      "raw": "75.9375",
+      "sharedBands": 0,
+      "initial": 25,
+      "target": 100,
+      "spent": 15,
+      "smallDifficulty": 1,
+      "directDifficulty": 3,
+      "smallRating": 74,
+      "directRating": 26,
+      "expansion": {
+        "probability": 0.0022999999989999982,
+        "expectedRemainingAtTarget": 0.004374645498000003,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.25999999999900036,
+        "expectedRemainingAtTarget": 0.5304948474070004,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 5",
+      "raw": "75.9375",
+      "sharedBands": 0,
+      "initial": 25,
+      "target": 200,
+      "spent": 35,
+      "smallDifficulty": 1,
+      "directDifficulty": 4,
+      "smallRating": 74,
+      "directRating": 16,
+      "expansion": {
+        "probability": 2.0999900000000003e-7,
+        "expectedRemainingAtTarget": 3.75518e-7,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.15999999999900014,
+        "expectedRemainingAtTarget": 0.27049484740799984,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 5",
+      "raw": "75.9375",
+      "sharedBands": 0,
+      "initial": 25,
+      "target": 400,
+      "spent": 75,
+      "smallDifficulty": 1,
+      "directDifficulty": 5,
+      "smallRating": 74,
+      "directRating": 9,
+      "expansion": {
+        "probability": 0,
+        "expectedRemainingAtTarget": 0,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.089999999999,
+        "expectedRemainingAtTarget": 0.14352515043900024,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 5",
+      "raw": "75.9375",
+      "sharedBands": 0,
+      "initial": 50,
+      "target": 60,
+      "spent": 1,
+      "smallDifficulty": 2,
+      "directDifficulty": 3,
+      "smallRating": 44,
+      "directRating": 26,
+      "expansion": {
+        "probability": 0.33999999999900027,
+        "expectedRemainingAtTarget": 0.8084746454870003,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.25999999999900036,
+        "expectedRemainingAtTarget": 0.5304948474070004,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 5",
+      "raw": "75.9375",
+      "sharedBands": 0,
+      "initial": 50,
+      "target": 100,
+      "spent": 5,
+      "smallDifficulty": 2,
+      "directDifficulty": 3,
+      "smallRating": 44,
+      "directRating": 26,
+      "expansion": {
+        "probability": 0.009299999998999997,
+        "expectedRemainingAtTarget": 0.048474645491000036,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.25999999999900036,
+        "expectedRemainingAtTarget": 0.5304948474070004,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 5",
+      "raw": "75.9375",
+      "sharedBands": 0,
+      "initial": 50,
+      "target": 200,
+      "spent": 15,
+      "smallDifficulty": 2,
+      "directDifficulty": 4,
+      "smallRating": 44,
+      "directRating": 16,
+      "expansion": {
+        "probability": 0.00009199999900000007,
+        "expectedRemainingAtTarget": 0.0004746455010000001,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.15999999999900014,
+        "expectedRemainingAtTarget": 0.27049484740799984,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 5",
+      "raw": "75.9375",
+      "sharedBands": 0,
+      "initial": 50,
+      "target": 400,
+      "spent": 35,
+      "smallDifficulty": 2,
+      "directDifficulty": 5,
+      "smallRating": 44,
+      "directRating": 9,
+      "expansion": {
+        "probability": 8.999000000000003e-9,
+        "expectedRemainingAtTarget": 4.552100000000002e-8,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.089999999999,
+        "expectedRemainingAtTarget": 0.14352515043900024,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 5",
+      "raw": "75.9375",
+      "sharedBands": 0,
+      "initial": 50,
+      "target": 800,
+      "spent": 75,
+      "smallDifficulty": 2,
+      "directDifficulty": 6,
+      "smallRating": 44,
+      "directRating": 5,
+      "expansion": {
+        "probability": 0,
+        "expectedRemainingAtTarget": 0,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.04999999999900009,
+        "expectedRemainingAtTarget": 0.09948474639999999,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 5",
+      "raw": "75.9375",
+      "sharedBands": 0,
+      "initial": 100,
+      "target": 120,
+      "spent": 1,
+      "smallDifficulty": 3,
+      "directDifficulty": 4,
+      "smallRating": 26,
+      "directRating": 16,
+      "expansion": {
+        "probability": 0.15999999999900014,
+        "expectedRemainingAtTarget": 0.27049484740799984,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.15999999999900014,
+        "expectedRemainingAtTarget": 0.27049484740799984,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 5",
+      "raw": "75.9375",
+      "sharedBands": 0,
+      "initial": 100,
+      "target": 200,
+      "spent": 5,
+      "smallDifficulty": 3,
+      "directDifficulty": 4,
+      "smallRating": 26,
+      "directRating": 16,
+      "expansion": {
+        "probability": 0.007499999999000003,
+        "expectedRemainingAtTarget": 0.03249484741200002,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.15999999999900014,
+        "expectedRemainingAtTarget": 0.27049484740799984,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 5",
+      "raw": "75.9375",
+      "sharedBands": 0,
+      "initial": 100,
+      "target": 400,
+      "spent": 15,
+      "smallDifficulty": 3,
+      "directDifficulty": 5,
+      "smallRating": 26,
+      "directRating": 9,
+      "expansion": {
+        "probability": 0.00007399999900000008,
+        "expectedRemainingAtTarget": 0.00031684742200000003,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.089999999999,
+        "expectedRemainingAtTarget": 0.14352515043900024,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 5",
+      "raw": "75.9375",
+      "sharedBands": 0,
+      "initial": 100,
+      "target": 800,
+      "spent": 35,
+      "smallDifficulty": 3,
+      "directDifficulty": 6,
+      "smallRating": 26,
+      "directRating": 5,
+      "expansion": {
+        "probability": 7.199000000000002e-9,
+        "expectedRemainingAtTarget": 3.004200000000002e-8,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.04999999999900009,
+        "expectedRemainingAtTarget": 0.09948474639999999,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 5",
+      "raw": "75.9375",
+      "sharedBands": 0,
+      "initial": 100,
+      "target": 1600,
+      "spent": 75,
+      "smallDifficulty": 3,
+      "directDifficulty": 7,
+      "smallRating": 26,
+      "directRating": 3,
+      "expansion": {
+        "probability": 0,
+        "expectedRemainingAtTarget": 0,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.029999999999,
+        "expectedRemainingAtTarget": 0.07746455447999995,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 5",
+      "raw": "75.9375",
+      "sharedBands": 3,
+      "initial": 25,
+      "target": 30,
+      "spent": 1,
+      "smallDifficulty": 4,
+      "directDifficulty": 5,
+      "smallRating": 16,
+      "directRating": 9,
+      "expansion": {
+        "probability": 0.05999999999900009,
+        "expectedRemainingAtTarget": 0.110494847409,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.089999999999,
+        "expectedRemainingAtTarget": 0.14352515043900024,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 5",
+      "raw": "75.9375",
+      "sharedBands": 3,
+      "initial": 25,
+      "target": 50,
+      "spent": 5,
+      "smallDifficulty": 4,
+      "directDifficulty": 5,
+      "smallRating": 16,
+      "directRating": 9,
+      "expansion": {
+        "probability": 0.006499999999000003,
+        "expectedRemainingAtTarget": 0.024994847413000006,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.089999999999,
+        "expectedRemainingAtTarget": 0.14352515043900024,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 5",
+      "raw": "75.9375",
+      "sharedBands": 3,
+      "initial": 25,
+      "target": 100,
+      "spent": 15,
+      "smallDifficulty": 4,
+      "directDifficulty": 6,
+      "smallRating": 16,
+      "directRating": 5,
+      "expansion": {
+        "probability": 0.00006399999900000008,
+        "expectedRemainingAtTarget": 0.0002428474230000001,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.04999999999900009,
+        "expectedRemainingAtTarget": 0.09948474639999999,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 5",
+      "raw": "75.9375",
+      "sharedBands": 3,
+      "initial": 25,
+      "target": 200,
+      "spent": 35,
+      "smallDifficulty": 4,
+      "directDifficulty": 7,
+      "smallRating": 16,
+      "directRating": 3,
+      "expansion": {
+        "probability": 6.1990000000000014e-9,
+        "expectedRemainingAtTarget": 2.2843000000000008e-8,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.029999999999,
+        "expectedRemainingAtTarget": 0.07746455447999995,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 5",
+      "raw": "75.9375",
+      "sharedBands": 3,
+      "initial": 25,
+      "target": 400,
+      "spent": 75,
+      "smallDifficulty": 4,
+      "directDifficulty": 8,
+      "smallRating": 16,
+      "directRating": 2,
+      "expansion": {
+        "probability": 0,
+        "expectedRemainingAtTarget": 0,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.01999999999899999,
+        "expectedRemainingAtTarget": 0.06645545346999993,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 5",
+      "raw": "75.9375",
+      "sharedBands": 3,
+      "initial": 50,
+      "target": 60,
+      "spent": 1,
+      "smallDifficulty": 5,
+      "directDifficulty": 6,
+      "smallRating": 9,
+      "directRating": 5,
+      "expansion": {
+        "probability": 0.009799999998999994,
+        "expectedRemainingAtTarget": 0.05352515044000002,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.04999999999900009,
+        "expectedRemainingAtTarget": 0.09948474639999999,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 5",
+      "raw": "75.9375",
+      "sharedBands": 3,
+      "initial": 50,
+      "target": 100,
+      "spent": 5,
+      "smallDifficulty": 5,
+      "directDifficulty": 6,
+      "smallRating": 9,
+      "directRating": 5,
+      "expansion": {
+        "probability": 0.005799999999000003,
+        "expectedRemainingAtTarget": 0.020325150444000004,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.04999999999900009,
+        "expectedRemainingAtTarget": 0.09948474639999999,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 5",
+      "raw": "75.9375",
+      "sharedBands": 3,
+      "initial": 50,
+      "target": 200,
+      "spent": 15,
+      "smallDifficulty": 5,
+      "directDifficulty": 7,
+      "smallRating": 9,
+      "directRating": 3,
+      "expansion": {
+        "probability": 0.000056999999000000075,
+        "expectedRemainingAtTarget": 0.00019715045400000005,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.029999999999,
+        "expectedRemainingAtTarget": 0.07746455447999995,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 5",
+      "raw": "75.9375",
+      "sharedBands": 3,
+      "initial": 50,
+      "target": 400,
+      "spent": 35,
+      "smallDifficulty": 5,
+      "directDifficulty": 8,
+      "smallRating": 9,
+      "directRating": 2,
+      "expansion": {
+        "probability": 5.499000000000001e-9,
+        "expectedRemainingAtTarget": 1.8474000000000007e-8,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.01999999999899999,
+        "expectedRemainingAtTarget": 0.06645545346999993,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 5",
+      "raw": "75.9375",
+      "sharedBands": 3,
+      "initial": 50,
+      "target": 800,
+      "spent": 75,
+      "smallDifficulty": 5,
+      "directDifficulty": 9,
+      "smallRating": 9,
+      "directRating": 1,
+      "expansion": {
+        "probability": 0,
+        "expectedRemainingAtTarget": 0,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999996,
+        "expectedRemainingAtTarget": 0.05554535246000002,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 5",
+      "raw": "75.9375",
+      "sharedBands": 3,
+      "initial": 100,
+      "target": 120,
+      "spent": 1,
+      "smallDifficulty": 6,
+      "directDifficulty": 7,
+      "smallRating": 5,
+      "directRating": 3,
+      "expansion": {
+        "probability": 0.009399999998999996,
+        "expectedRemainingAtTarget": 0.04948474640100003,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.029999999999,
+        "expectedRemainingAtTarget": 0.07746455447999995,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 5",
+      "raw": "75.9375",
+      "sharedBands": 3,
+      "initial": 100,
+      "target": 200,
+      "spent": 5,
+      "smallDifficulty": 6,
+      "directDifficulty": 7,
+      "smallRating": 5,
+      "directRating": 3,
+      "expansion": {
+        "probability": 0.0053999999990000025,
+        "expectedRemainingAtTarget": 0.017884746405000002,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.029999999999,
+        "expectedRemainingAtTarget": 0.07746455447999995,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 5",
+      "raw": "75.9375",
+      "sharedBands": 3,
+      "initial": 100,
+      "target": 400,
+      "spent": 15,
+      "smallDifficulty": 6,
+      "directDifficulty": 8,
+      "smallRating": 5,
+      "directRating": 2,
+      "expansion": {
+        "probability": 0.000052999999000000066,
+        "expectedRemainingAtTarget": 0.000172746415,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.01999999999899999,
+        "expectedRemainingAtTarget": 0.06645545346999993,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 5",
+      "raw": "75.9375",
+      "sharedBands": 3,
+      "initial": 100,
+      "target": 800,
+      "spent": 35,
+      "smallDifficulty": 6,
+      "directDifficulty": 9,
+      "smallRating": 5,
+      "directRating": 1,
+      "expansion": {
+        "probability": 5.099000000000001e-9,
+        "expectedRemainingAtTarget": 1.6035000000000004e-8,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999996,
+        "expectedRemainingAtTarget": 0.05554535246000002,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 5",
+      "raw": "75.9375",
+      "sharedBands": 3,
+      "initial": 100,
+      "target": 1600,
+      "spent": 75,
+      "smallDifficulty": 6,
+      "directDifficulty": 10,
+      "smallRating": 5,
+      "directRating": 0,
+      "expansion": {
+        "probability": 0,
+        "expectedRemainingAtTarget": 0,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999995,
+        "expectedRemainingAtTarget": 0.05463525145000003,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 5",
+      "raw": "75.9375",
+      "sharedBands": 4,
+      "initial": 25,
+      "target": 30,
+      "spent": 1,
+      "smallDifficulty": 5,
+      "directDifficulty": 6,
+      "smallRating": 9,
+      "directRating": 5,
+      "expansion": {
+        "probability": 0.009799999998999994,
+        "expectedRemainingAtTarget": 0.05352515044000002,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.04999999999900009,
+        "expectedRemainingAtTarget": 0.09948474639999999,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 5",
+      "raw": "75.9375",
+      "sharedBands": 4,
+      "initial": 25,
+      "target": 50,
+      "spent": 5,
+      "smallDifficulty": 5,
+      "directDifficulty": 6,
+      "smallRating": 9,
+      "directRating": 5,
+      "expansion": {
+        "probability": 0.005799999999000003,
+        "expectedRemainingAtTarget": 0.020325150444000004,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.04999999999900009,
+        "expectedRemainingAtTarget": 0.09948474639999999,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 5",
+      "raw": "75.9375",
+      "sharedBands": 4,
+      "initial": 25,
+      "target": 100,
+      "spent": 15,
+      "smallDifficulty": 5,
+      "directDifficulty": 7,
+      "smallRating": 9,
+      "directRating": 3,
+      "expansion": {
+        "probability": 0.000056999999000000075,
+        "expectedRemainingAtTarget": 0.00019715045400000005,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.029999999999,
+        "expectedRemainingAtTarget": 0.07746455447999995,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 5",
+      "raw": "75.9375",
+      "sharedBands": 4,
+      "initial": 25,
+      "target": 200,
+      "spent": 35,
+      "smallDifficulty": 5,
+      "directDifficulty": 8,
+      "smallRating": 9,
+      "directRating": 2,
+      "expansion": {
+        "probability": 5.499000000000001e-9,
+        "expectedRemainingAtTarget": 1.8474000000000007e-8,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.01999999999899999,
+        "expectedRemainingAtTarget": 0.06645545346999993,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 5",
+      "raw": "75.9375",
+      "sharedBands": 4,
+      "initial": 25,
+      "target": 400,
+      "spent": 75,
+      "smallDifficulty": 5,
+      "directDifficulty": 9,
+      "smallRating": 9,
+      "directRating": 1,
+      "expansion": {
+        "probability": 0,
+        "expectedRemainingAtTarget": 0,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999996,
+        "expectedRemainingAtTarget": 0.05554535246000002,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 5",
+      "raw": "75.9375",
+      "sharedBands": 4,
+      "initial": 50,
+      "target": 60,
+      "spent": 1,
+      "smallDifficulty": 6,
+      "directDifficulty": 7,
+      "smallRating": 5,
+      "directRating": 3,
+      "expansion": {
+        "probability": 0.009399999998999996,
+        "expectedRemainingAtTarget": 0.04948474640100003,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.029999999999,
+        "expectedRemainingAtTarget": 0.07746455447999995,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 5",
+      "raw": "75.9375",
+      "sharedBands": 4,
+      "initial": 50,
+      "target": 100,
+      "spent": 5,
+      "smallDifficulty": 6,
+      "directDifficulty": 7,
+      "smallRating": 5,
+      "directRating": 3,
+      "expansion": {
+        "probability": 0.0053999999990000025,
+        "expectedRemainingAtTarget": 0.017884746405000002,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.029999999999,
+        "expectedRemainingAtTarget": 0.07746455447999995,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 5",
+      "raw": "75.9375",
+      "sharedBands": 4,
+      "initial": 50,
+      "target": 200,
+      "spent": 15,
+      "smallDifficulty": 6,
+      "directDifficulty": 8,
+      "smallRating": 5,
+      "directRating": 2,
+      "expansion": {
+        "probability": 0.000052999999000000066,
+        "expectedRemainingAtTarget": 0.000172746415,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.01999999999899999,
+        "expectedRemainingAtTarget": 0.06645545346999993,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 5",
+      "raw": "75.9375",
+      "sharedBands": 4,
+      "initial": 50,
+      "target": 400,
+      "spent": 35,
+      "smallDifficulty": 6,
+      "directDifficulty": 9,
+      "smallRating": 5,
+      "directRating": 1,
+      "expansion": {
+        "probability": 5.099000000000001e-9,
+        "expectedRemainingAtTarget": 1.6035000000000004e-8,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999996,
+        "expectedRemainingAtTarget": 0.05554535246000002,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 5",
+      "raw": "75.9375",
+      "sharedBands": 4,
+      "initial": 50,
+      "target": 800,
+      "spent": 75,
+      "smallDifficulty": 6,
+      "directDifficulty": 10,
+      "smallRating": 5,
+      "directRating": 0,
+      "expansion": {
+        "probability": 0,
+        "expectedRemainingAtTarget": 0,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999995,
+        "expectedRemainingAtTarget": 0.05463525145000003,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 5",
+      "raw": "75.9375",
+      "sharedBands": 4,
+      "initial": 100,
+      "target": 120,
+      "spent": 1,
+      "smallDifficulty": 7,
+      "directDifficulty": 8,
+      "smallRating": 3,
+      "directRating": 2,
+      "expansion": {
+        "probability": 0.009199999998999996,
+        "expectedRemainingAtTarget": 0.04746455448100003,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.01999999999899999,
+        "expectedRemainingAtTarget": 0.06645545346999993,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 5",
+      "raw": "75.9375",
+      "sharedBands": 4,
+      "initial": 100,
+      "target": 200,
+      "spent": 5,
+      "smallDifficulty": 7,
+      "directDifficulty": 8,
+      "smallRating": 3,
+      "directRating": 2,
+      "expansion": {
+        "probability": 0.005199999999000003,
+        "expectedRemainingAtTarget": 0.016664554485000007,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.01999999999899999,
+        "expectedRemainingAtTarget": 0.06645545346999993,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 5",
+      "raw": "75.9375",
+      "sharedBands": 4,
+      "initial": 100,
+      "target": 400,
+      "spent": 15,
+      "smallDifficulty": 7,
+      "directDifficulty": 9,
+      "smallRating": 3,
+      "directRating": 1,
+      "expansion": {
+        "probability": 0.00005099999900000007,
+        "expectedRemainingAtTarget": 0.00016055449500000006,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999996,
+        "expectedRemainingAtTarget": 0.05554535246000002,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 5, Axis 5",
+      "raw": "75.9375",
+      "sharedBands": 4,
+      "initial": 100,
+      "target": 800,
+      "spent": 35,
+      "smallDifficulty": 7,
+      "directDifficulty": 10,
+      "smallRating": 3,
+      "directRating": 0,
+      "expansion": {
+        "probability": 4.899e-9,
+        "expectedRemainingAtTarget": 1.5015000000000006e-8,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.009999999998999995,
+        "expectedRemainingAtTarget": 0.05463525145000003,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 8, Axis 8",
+      "raw": "302.33088",
+      "sharedBands": 0,
+      "initial": 25,
+      "target": 30,
+      "spent": 1,
+      "smallDifficulty": 1,
+      "directDifficulty": 2,
+      "smallRating": 296,
+      "directRating": 177,
+      "expansion": {
+        "probability": 0.9899999999989988,
+        "expectedRemainingAtTarget": 23.960494847380996,
+        "remainingAtRoll40": 25
+      },
+      "direct": {
+        "probability": 0.9899999999989987,
+        "expectedRemainingAtTarget": 13.171504948401992,
+        "remainingAtRoll40": 14
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 8, Axis 8",
+      "raw": "302.33088",
+      "sharedBands": 0,
+      "initial": 25,
+      "target": 50,
+      "spent": 5,
+      "smallDifficulty": 1,
+      "directDifficulty": 2,
+      "smallRating": 296,
+      "directRating": 177,
+      "expansion": {
+        "probability": 0.9899999999989988,
+        "expectedRemainingAtTarget": 20.000494847385006,
+        "remainingAtRoll40": 21
+      },
+      "direct": {
+        "probability": 0.9899999999989987,
+        "expectedRemainingAtTarget": 13.171504948401992,
+        "remainingAtRoll40": 14
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 8, Axis 8",
+      "raw": "302.33088",
+      "sharedBands": 0,
+      "initial": 25,
+      "target": 100,
+      "spent": 15,
+      "smallDifficulty": 1,
+      "directDifficulty": 3,
+      "smallRating": 296,
+      "directRating": 106,
+      "expansion": {
+        "probability": 0.9899999999989988,
+        "expectedRemainingAtTarget": 10.100494847394998,
+        "remainingAtRoll40": 11
+      },
+      "direct": {
+        "probability": 0.9899999999989988,
+        "expectedRemainingAtTarget": 6.140494847399001,
+        "remainingAtRoll40": 7
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 8, Axis 8",
+      "raw": "302.33088",
+      "sharedBands": 0,
+      "initial": 25,
+      "target": 200,
+      "spent": 35,
+      "smallDifficulty": 1,
+      "directDifficulty": 4,
+      "smallRating": 296,
+      "directRating": 63,
+      "expansion": {
+        "probability": 0.004499999999000003,
+        "expectedRemainingAtTarget": 0.012994847415000002,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.6299999999989988,
+        "expectedRemainingAtTarget": 2.3574645544740007,
+        "remainingAtRoll40": 3
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 8, Axis 8",
+      "raw": "302.33088",
+      "sharedBands": 0,
+      "initial": 25,
+      "target": 400,
+      "spent": 75,
+      "smallDifficulty": 1,
+      "directDifficulty": 5,
+      "smallRating": 296,
+      "directRating": 38,
+      "expansion": {
+        "probability": 4e-11,
+        "expectedRemainingAtTarget": 9.999999999999999e-11,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.3799999999990003,
+        "expectedRemainingAtTarget": 0.9725150494260005,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 8, Axis 8",
+      "raw": "302.33088",
+      "sharedBands": 0,
+      "initial": 50,
+      "target": 60,
+      "spent": 1,
+      "smallDifficulty": 2,
+      "directDifficulty": 3,
+      "smallRating": 177,
+      "directRating": 106,
+      "expansion": {
+        "probability": 0.9899999999989987,
+        "expectedRemainingAtTarget": 12.181504948403001,
+        "remainingAtRoll40": 13
+      },
+      "direct": {
+        "probability": 0.9899999999989988,
+        "expectedRemainingAtTarget": 6.140494847399001,
+        "remainingAtRoll40": 7
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 8, Axis 8",
+      "raw": "302.33088",
+      "sharedBands": 0,
+      "initial": 50,
+      "target": 100,
+      "spent": 5,
+      "smallDifficulty": 2,
+      "directDifficulty": 3,
+      "smallRating": 177,
+      "directRating": 106,
+      "expansion": {
+        "probability": 0.9899999999989987,
+        "expectedRemainingAtTarget": 8.221504948407004,
+        "remainingAtRoll40": 9
+      },
+      "direct": {
+        "probability": 0.9899999999989988,
+        "expectedRemainingAtTarget": 6.140494847399001,
+        "remainingAtRoll40": 7
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 8, Axis 8",
+      "raw": "302.33088",
+      "sharedBands": 0,
+      "initial": 50,
+      "target": 200,
+      "spent": 15,
+      "smallDifficulty": 2,
+      "directDifficulty": 4,
+      "smallRating": 177,
+      "directRating": 63,
+      "expansion": {
+        "probability": 0.2699999999990003,
+        "expectedRemainingAtTarget": 0.5615049484170005,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.6299999999989988,
+        "expectedRemainingAtTarget": 2.3574645544740007,
+        "remainingAtRoll40": 3
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 8, Axis 8",
+      "raw": "302.33088",
+      "sharedBands": 0,
+      "initial": 50,
+      "target": 400,
+      "spent": 35,
+      "smallDifficulty": 2,
+      "directDifficulty": 5,
+      "smallRating": 177,
+      "directRating": 38,
+      "expansion": {
+        "probability": 0.000024999998999999995,
+        "expectedRemainingAtTarget": 0.000049948437000000006,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.3799999999990003,
+        "expectedRemainingAtTarget": 0.9725150494260005,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 8, Axis 8",
+      "raw": "302.33088",
+      "sharedBands": 0,
+      "initial": 50,
+      "target": 800,
+      "spent": 75,
+      "smallDifficulty": 2,
+      "directDifficulty": 6,
+      "smallRating": 177,
+      "directRating": 23,
+      "expansion": {
+        "probability": 0,
+        "expectedRemainingAtTarget": 0,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.22999999999900012,
+        "expectedRemainingAtTarget": 0.4374645544779998,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 8, Axis 8",
+      "raw": "302.33088",
+      "sharedBands": 0,
+      "initial": 100,
+      "target": 120,
+      "spent": 1,
+      "smallDifficulty": 3,
+      "directDifficulty": 4,
+      "smallRating": 106,
+      "directRating": 63,
+      "expansion": {
+        "probability": 0.9599999999989988,
+        "expectedRemainingAtTarget": 5.1504948474,
+        "remainingAtRoll40": 6
+      },
+      "direct": {
+        "probability": 0.6299999999989988,
+        "expectedRemainingAtTarget": 2.3574645544740007,
+        "remainingAtRoll40": 3
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 8, Axis 8",
+      "raw": "302.33088",
+      "sharedBands": 0,
+      "initial": 100,
+      "target": 200,
+      "spent": 5,
+      "smallDifficulty": 3,
+      "directDifficulty": 4,
+      "smallRating": 106,
+      "directRating": 63,
+      "expansion": {
+        "probability": 0.5599999999989989,
+        "expectedRemainingAtTarget": 1.9104948474040004,
+        "remainingAtRoll40": 2
+      },
+      "direct": {
+        "probability": 0.6299999999989988,
+        "expectedRemainingAtTarget": 2.3574645544740007,
+        "remainingAtRoll40": 3
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 8, Axis 8",
+      "raw": "302.33088",
+      "sharedBands": 0,
+      "initial": 100,
+      "target": 400,
+      "spent": 15,
+      "smallDifficulty": 3,
+      "directDifficulty": 5,
+      "smallRating": 106,
+      "directRating": 38,
+      "expansion": {
+        "probability": 0.005499999999000003,
+        "expectedRemainingAtTarget": 0.018494847414000003,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.3799999999990003,
+        "expectedRemainingAtTarget": 0.9725150494260005,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 8, Axis 8",
+      "raw": "302.33088",
+      "sharedBands": 0,
+      "initial": 100,
+      "target": 800,
+      "spent": 35,
+      "smallDifficulty": 3,
+      "directDifficulty": 6,
+      "smallRating": 106,
+      "directRating": 23,
+      "expansion": {
+        "probability": 5.299989999999993e-7,
+        "expectedRemainingAtTarget": 0.0000017274339999999998,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.22999999999900012,
+        "expectedRemainingAtTarget": 0.4374645544779998,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 8, Axis 8",
+      "raw": "302.33088",
+      "sharedBands": 0,
+      "initial": 100,
+      "target": 1600,
+      "spent": 75,
+      "smallDifficulty": 3,
+      "directDifficulty": 7,
+      "smallRating": 106,
+      "directRating": 13,
+      "expansion": {
+        "probability": 0,
+        "expectedRemainingAtTarget": 0,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.1299999999990001,
+        "expectedRemainingAtTarget": 0.20746455447900025,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 8, Axis 8",
+      "raw": "302.33088",
+      "sharedBands": 3,
+      "initial": 25,
+      "target": 30,
+      "spent": 1,
+      "smallDifficulty": 4,
+      "directDifficulty": 5,
+      "smallRating": 63,
+      "directRating": 38,
+      "expansion": {
+        "probability": 0.5299999999989988,
+        "expectedRemainingAtTarget": 1.7274645544750002,
+        "remainingAtRoll40": 2
+      },
+      "direct": {
+        "probability": 0.3799999999990003,
+        "expectedRemainingAtTarget": 0.9725150494260005,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 8, Axis 8",
+      "raw": "302.33088",
+      "sharedBands": 3,
+      "initial": 25,
+      "target": 50,
+      "spent": 5,
+      "smallDifficulty": 4,
+      "directDifficulty": 5,
+      "smallRating": 63,
+      "directRating": 38,
+      "expansion": {
+        "probability": 0.1299999999990001,
+        "expectedRemainingAtTarget": 0.20746455447900025,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.3799999999990003,
+        "expectedRemainingAtTarget": 0.9725150494260005,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 8, Axis 8",
+      "raw": "302.33088",
+      "sharedBands": 3,
+      "initial": 25,
+      "target": 100,
+      "spent": 15,
+      "smallDifficulty": 4,
+      "directDifficulty": 6,
+      "smallRating": 63,
+      "directRating": 23,
+      "expansion": {
+        "probability": 0.0011999999989999997,
+        "expectedRemainingAtTarget": 0.001864554489,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.22999999999900012,
+        "expectedRemainingAtTarget": 0.4374645544779998,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 8, Axis 8",
+      "raw": "302.33088",
+      "sharedBands": 3,
+      "initial": 25,
+      "target": 200,
+      "spent": 35,
+      "smallDifficulty": 4,
+      "directDifficulty": 7,
+      "smallRating": 63,
+      "directRating": 13,
+      "expansion": {
+        "probability": 9.999899999999991e-8,
+        "expectedRemainingAtTarget": 1.5450900000000002e-7,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.1299999999990001,
+        "expectedRemainingAtTarget": 0.20746455447900025,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 8, Axis 8",
+      "raw": "302.33088",
+      "sharedBands": 3,
+      "initial": 25,
+      "target": 400,
+      "spent": 75,
+      "smallDifficulty": 4,
+      "directDifficulty": 8,
+      "smallRating": 63,
+      "directRating": 8,
+      "expansion": {
+        "probability": 0,
+        "expectedRemainingAtTarget": 0,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.07999999999900001,
+        "expectedRemainingAtTarget": 0.13251504942900025,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 8, Axis 8",
+      "raw": "302.33088",
+      "sharedBands": 3,
+      "initial": 50,
+      "target": 60,
+      "spent": 1,
+      "smallDifficulty": 5,
+      "directDifficulty": 6,
+      "smallRating": 38,
+      "directRating": 23,
+      "expansion": {
+        "probability": 0.2799999999990003,
+        "expectedRemainingAtTarget": 0.5925150494270004,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.22999999999900012,
+        "expectedRemainingAtTarget": 0.4374645544779998,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 8, Axis 8",
+      "raw": "302.33088",
+      "sharedBands": 3,
+      "initial": 50,
+      "target": 100,
+      "spent": 5,
+      "smallDifficulty": 5,
+      "directDifficulty": 6,
+      "smallRating": 38,
+      "directRating": 23,
+      "expansion": {
+        "probability": 0.008699999998999996,
+        "expectedRemainingAtTarget": 0.04281504943100002,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.22999999999900012,
+        "expectedRemainingAtTarget": 0.4374645544779998,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 8, Axis 8",
+      "raw": "302.33088",
+      "sharedBands": 3,
+      "initial": 50,
+      "target": 200,
+      "spent": 15,
+      "smallDifficulty": 5,
+      "directDifficulty": 7,
+      "smallRating": 38,
+      "directRating": 13,
+      "expansion": {
+        "probability": 0.00008599999900000008,
+        "expectedRemainingAtTarget": 0.0004190494410000001,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.1299999999990001,
+        "expectedRemainingAtTarget": 0.20746455447900025,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 8, Axis 8",
+      "raw": "302.33088",
+      "sharedBands": 3,
+      "initial": 50,
+      "target": 400,
+      "spent": 35,
+      "smallDifficulty": 5,
+      "directDifficulty": 8,
+      "smallRating": 38,
+      "directRating": 8,
+      "expansion": {
+        "probability": 8.399000000000003e-9,
+        "expectedRemainingAtTarget": 4.0061000000000004e-8,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.07999999999900001,
+        "expectedRemainingAtTarget": 0.13251504942900025,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 8, Axis 8",
+      "raw": "302.33088",
+      "sharedBands": 3,
+      "initial": 50,
+      "target": 800,
+      "spent": 75,
+      "smallDifficulty": 5,
+      "directDifficulty": 9,
+      "smallRating": 38,
+      "directRating": 4,
+      "expansion": {
+        "probability": 0,
+        "expectedRemainingAtTarget": 0,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.03999999999900006,
+        "expectedRemainingAtTarget": 0.08847464548999995,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 8, Axis 8",
+      "raw": "302.33088",
+      "sharedBands": 3,
+      "initial": 100,
+      "target": 120,
+      "spent": 1,
+      "smallDifficulty": 6,
+      "directDifficulty": 7,
+      "smallRating": 23,
+      "directRating": 13,
+      "expansion": {
+        "probability": 0.1299999999990001,
+        "expectedRemainingAtTarget": 0.20746455447900025,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.1299999999990001,
+        "expectedRemainingAtTarget": 0.20746455447900025,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 8, Axis 8",
+      "raw": "302.33088",
+      "sharedBands": 3,
+      "initial": 100,
+      "target": 200,
+      "spent": 5,
+      "smallDifficulty": 6,
+      "directDifficulty": 7,
+      "smallRating": 23,
+      "directRating": 13,
+      "expansion": {
+        "probability": 0.007199999999000003,
+        "expectedRemainingAtTarget": 0.030064554483000005,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.1299999999990001,
+        "expectedRemainingAtTarget": 0.20746455447900025,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 8, Axis 8",
+      "raw": "302.33088",
+      "sharedBands": 3,
+      "initial": 100,
+      "target": 400,
+      "spent": 15,
+      "smallDifficulty": 6,
+      "directDifficulty": 8,
+      "smallRating": 23,
+      "directRating": 8,
+      "expansion": {
+        "probability": 0.00007099999900000008,
+        "expectedRemainingAtTarget": 0.00029255449300000014,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.07999999999900001,
+        "expectedRemainingAtTarget": 0.13251504942900025,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 8, Axis 8",
+      "raw": "302.33088",
+      "sharedBands": 3,
+      "initial": 100,
+      "target": 800,
+      "spent": 35,
+      "smallDifficulty": 6,
+      "directDifficulty": 9,
+      "smallRating": 23,
+      "directRating": 4,
+      "expansion": {
+        "probability": 6.899000000000001e-9,
+        "expectedRemainingAtTarget": 2.781300000000001e-8,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.03999999999900006,
+        "expectedRemainingAtTarget": 0.08847464548999995,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 8, Axis 8",
+      "raw": "302.33088",
+      "sharedBands": 3,
+      "initial": 100,
+      "target": 1600,
+      "spent": 75,
+      "smallDifficulty": 6,
+      "directDifficulty": 10,
+      "smallRating": 23,
+      "directRating": 2,
+      "expansion": {
+        "probability": 0,
+        "expectedRemainingAtTarget": 0,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.01999999999899999,
+        "expectedRemainingAtTarget": 0.06645545346999993,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 8, Axis 8",
+      "raw": "302.33088",
+      "sharedBands": 4,
+      "initial": 25,
+      "target": 30,
+      "spent": 1,
+      "smallDifficulty": 5,
+      "directDifficulty": 6,
+      "smallRating": 38,
+      "directRating": 23,
+      "expansion": {
+        "probability": 0.2799999999990003,
+        "expectedRemainingAtTarget": 0.5925150494270004,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.22999999999900012,
+        "expectedRemainingAtTarget": 0.4374645544779998,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 8, Axis 8",
+      "raw": "302.33088",
+      "sharedBands": 4,
+      "initial": 25,
+      "target": 50,
+      "spent": 5,
+      "smallDifficulty": 5,
+      "directDifficulty": 6,
+      "smallRating": 38,
+      "directRating": 23,
+      "expansion": {
+        "probability": 0.008699999998999996,
+        "expectedRemainingAtTarget": 0.04281504943100002,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.22999999999900012,
+        "expectedRemainingAtTarget": 0.4374645544779998,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 8, Axis 8",
+      "raw": "302.33088",
+      "sharedBands": 4,
+      "initial": 25,
+      "target": 100,
+      "spent": 15,
+      "smallDifficulty": 5,
+      "directDifficulty": 7,
+      "smallRating": 38,
+      "directRating": 13,
+      "expansion": {
+        "probability": 0.00008599999900000008,
+        "expectedRemainingAtTarget": 0.0004190494410000001,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.1299999999990001,
+        "expectedRemainingAtTarget": 0.20746455447900025,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 8, Axis 8",
+      "raw": "302.33088",
+      "sharedBands": 4,
+      "initial": 25,
+      "target": 200,
+      "spent": 35,
+      "smallDifficulty": 5,
+      "directDifficulty": 8,
+      "smallRating": 38,
+      "directRating": 8,
+      "expansion": {
+        "probability": 8.399000000000003e-9,
+        "expectedRemainingAtTarget": 4.0061000000000004e-8,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.07999999999900001,
+        "expectedRemainingAtTarget": 0.13251504942900025,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 8, Axis 8",
+      "raw": "302.33088",
+      "sharedBands": 4,
+      "initial": 25,
+      "target": 400,
+      "spent": 75,
+      "smallDifficulty": 5,
+      "directDifficulty": 9,
+      "smallRating": 38,
+      "directRating": 4,
+      "expansion": {
+        "probability": 0,
+        "expectedRemainingAtTarget": 0,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.03999999999900006,
+        "expectedRemainingAtTarget": 0.08847464548999995,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 8, Axis 8",
+      "raw": "302.33088",
+      "sharedBands": 4,
+      "initial": 50,
+      "target": 60,
+      "spent": 1,
+      "smallDifficulty": 6,
+      "directDifficulty": 7,
+      "smallRating": 23,
+      "directRating": 13,
+      "expansion": {
+        "probability": 0.1299999999990001,
+        "expectedRemainingAtTarget": 0.20746455447900025,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.1299999999990001,
+        "expectedRemainingAtTarget": 0.20746455447900025,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 8, Axis 8",
+      "raw": "302.33088",
+      "sharedBands": 4,
+      "initial": 50,
+      "target": 100,
+      "spent": 5,
+      "smallDifficulty": 6,
+      "directDifficulty": 7,
+      "smallRating": 23,
+      "directRating": 13,
+      "expansion": {
+        "probability": 0.007199999999000003,
+        "expectedRemainingAtTarget": 0.030064554483000005,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.1299999999990001,
+        "expectedRemainingAtTarget": 0.20746455447900025,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 8, Axis 8",
+      "raw": "302.33088",
+      "sharedBands": 4,
+      "initial": 50,
+      "target": 200,
+      "spent": 15,
+      "smallDifficulty": 6,
+      "directDifficulty": 8,
+      "smallRating": 23,
+      "directRating": 8,
+      "expansion": {
+        "probability": 0.00007099999900000008,
+        "expectedRemainingAtTarget": 0.00029255449300000014,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.07999999999900001,
+        "expectedRemainingAtTarget": 0.13251504942900025,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 8, Axis 8",
+      "raw": "302.33088",
+      "sharedBands": 4,
+      "initial": 50,
+      "target": 400,
+      "spent": 35,
+      "smallDifficulty": 6,
+      "directDifficulty": 9,
+      "smallRating": 23,
+      "directRating": 4,
+      "expansion": {
+        "probability": 6.899000000000001e-9,
+        "expectedRemainingAtTarget": 2.781300000000001e-8,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.03999999999900006,
+        "expectedRemainingAtTarget": 0.08847464548999995,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 8, Axis 8",
+      "raw": "302.33088",
+      "sharedBands": 4,
+      "initial": 50,
+      "target": 800,
+      "spent": 75,
+      "smallDifficulty": 6,
+      "directDifficulty": 10,
+      "smallRating": 23,
+      "directRating": 2,
+      "expansion": {
+        "probability": 0,
+        "expectedRemainingAtTarget": 0,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.01999999999899999,
+        "expectedRemainingAtTarget": 0.06645545346999993,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 8, Axis 8",
+      "raw": "302.33088",
+      "sharedBands": 4,
+      "initial": 100,
+      "target": 120,
+      "spent": 1,
+      "smallDifficulty": 7,
+      "directDifficulty": 8,
+      "smallRating": 13,
+      "directRating": 8,
+      "expansion": {
+        "probability": 0.029999999999,
+        "expectedRemainingAtTarget": 0.07746455447999995,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.07999999999900001,
+        "expectedRemainingAtTarget": 0.13251504942900025,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 8, Axis 8",
+      "raw": "302.33088",
+      "sharedBands": 4,
+      "initial": 100,
+      "target": 200,
+      "spent": 5,
+      "smallDifficulty": 7,
+      "directDifficulty": 8,
+      "smallRating": 13,
+      "directRating": 8,
+      "expansion": {
+        "probability": 0.006199999999000003,
+        "expectedRemainingAtTarget": 0.022864554484000002,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.07999999999900001,
+        "expectedRemainingAtTarget": 0.13251504942900025,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 8, Axis 8",
+      "raw": "302.33088",
+      "sharedBands": 4,
+      "initial": 100,
+      "target": 400,
+      "spent": 15,
+      "smallDifficulty": 7,
+      "directDifficulty": 9,
+      "smallRating": 13,
+      "directRating": 4,
+      "expansion": {
+        "probability": 0.00006099999900000008,
+        "expectedRemainingAtTarget": 0.00022155449400000009,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.03999999999900006,
+        "expectedRemainingAtTarget": 0.08847464548999995,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 8, Axis 8",
+      "raw": "302.33088",
+      "sharedBands": 4,
+      "initial": 100,
+      "target": 800,
+      "spent": 35,
+      "smallDifficulty": 7,
+      "directDifficulty": 10,
+      "smallRating": 13,
+      "directRating": 2,
+      "expansion": {
+        "probability": 5.899e-9,
+        "expectedRemainingAtTarget": 2.091400000000001e-8,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.01999999999899999,
+        "expectedRemainingAtTarget": 0.06645545346999993,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 0",
+      "raw": "320",
+      "sharedBands": 0,
+      "initial": 25,
+      "target": 30,
+      "spent": 1,
+      "smallDifficulty": 1,
+      "directDifficulty": 2,
+      "smallRating": 313,
+      "directRating": 188,
+      "expansion": {
+        "probability": 0.9899999999989988,
+        "expectedRemainingAtTarget": 25.637464554449995,
+        "remainingAtRoll40": 27
+      },
+      "direct": {
+        "probability": 0.9899999999989987,
+        "expectedRemainingAtTarget": 14.262515049410993,
+        "remainingAtRoll40": 15
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 0",
+      "raw": "320",
+      "sharedBands": 0,
+      "initial": 25,
+      "target": 50,
+      "spent": 5,
+      "smallDifficulty": 1,
+      "directDifficulty": 2,
+      "smallRating": 313,
+      "directRating": 188,
+      "expansion": {
+        "probability": 0.9899999999989988,
+        "expectedRemainingAtTarget": 21.677464554454,
+        "remainingAtRoll40": 23
+      },
+      "direct": {
+        "probability": 0.9899999999989987,
+        "expectedRemainingAtTarget": 14.262515049410993,
+        "remainingAtRoll40": 15
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 0",
+      "raw": "320",
+      "sharedBands": 0,
+      "initial": 25,
+      "target": 100,
+      "spent": 15,
+      "smallDifficulty": 1,
+      "directDifficulty": 3,
+      "smallRating": 313,
+      "directRating": 112,
+      "expansion": {
+        "probability": 0.9899999999989988,
+        "expectedRemainingAtTarget": 11.777464554463998,
+        "remainingAtRoll40": 13
+      },
+      "direct": {
+        "probability": 0.9899999999989987,
+        "expectedRemainingAtTarget": 6.726455453459,
+        "remainingAtRoll40": 8
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 0",
+      "raw": "320",
+      "sharedBands": 0,
+      "initial": 25,
+      "target": 200,
+      "spent": 35,
+      "smallDifficulty": 1,
+      "directDifficulty": 4,
+      "smallRating": 313,
+      "directRating": 67,
+      "expansion": {
+        "probability": 0.006199999999000003,
+        "expectedRemainingAtTarget": 0.022864554484000002,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.6699999999989987,
+        "expectedRemainingAtTarget": 2.641504948413,
+        "remainingAtRoll40": 3
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 0",
+      "raw": "320",
+      "sharedBands": 0,
+      "initial": 25,
+      "target": 400,
+      "spent": 75,
+      "smallDifficulty": 1,
+      "directDifficulty": 5,
+      "smallRating": 313,
+      "directRating": 40,
+      "expansion": {
+        "probability": 5.699999999999999e-11,
+        "expectedRemainingAtTarget": 1.9199999999999998e-10,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.3999999999990004,
+        "expectedRemainingAtTarget": 1.0545352514460002,
+        "remainingAtRoll40": 1
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 0",
+      "raw": "320",
+      "sharedBands": 0,
+      "initial": 50,
+      "target": 60,
+      "spent": 1,
+      "smallDifficulty": 2,
+      "directDifficulty": 3,
+      "smallRating": 188,
+      "directRating": 112,
+      "expansion": {
+        "probability": 0.9899999999989987,
+        "expectedRemainingAtTarget": 13.272515049411993,
+        "remainingAtRoll40": 14
+      },
+      "direct": {
+        "probability": 0.9899999999989987,
+        "expectedRemainingAtTarget": 6.726455453459,
+        "remainingAtRoll40": 8
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 0",
+      "raw": "320",
+      "sharedBands": 0,
+      "initial": 50,
+      "target": 100,
+      "spent": 5,
+      "smallDifficulty": 2,
+      "directDifficulty": 3,
+      "smallRating": 188,
+      "directRating": 112,
+      "expansion": {
+        "probability": 0.9899999999989987,
+        "expectedRemainingAtTarget": 9.312515049416,
+        "remainingAtRoll40": 10
+      },
+      "direct": {
+        "probability": 0.9899999999989987,
+        "expectedRemainingAtTarget": 6.726455453459,
+        "remainingAtRoll40": 8
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 0",
+      "raw": "320",
+      "sharedBands": 0,
+      "initial": 50,
+      "target": 200,
+      "spent": 15,
+      "smallDifficulty": 2,
+      "directDifficulty": 4,
+      "smallRating": 188,
+      "directRating": 67,
+      "expansion": {
+        "probability": 0.3799999999990003,
+        "expectedRemainingAtTarget": 0.9725150494260005,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.6699999999989987,
+        "expectedRemainingAtTarget": 2.641504948413,
+        "remainingAtRoll40": 3
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 0",
+      "raw": "320",
+      "sharedBands": 0,
+      "initial": 50,
+      "target": 400,
+      "spent": 35,
+      "smallDifficulty": 2,
+      "directDifficulty": 5,
+      "smallRating": 188,
+      "directRating": 40,
+      "expansion": {
+        "probability": 0.00003599999900000006,
+        "expectedRemainingAtTarget": 0.00008904944600000003,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.3999999999990004,
+        "expectedRemainingAtTarget": 1.0545352514460002,
+        "remainingAtRoll40": 1
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 0",
+      "raw": "320",
+      "sharedBands": 0,
+      "initial": 50,
+      "target": 800,
+      "spent": 75,
+      "smallDifficulty": 2,
+      "directDifficulty": 6,
+      "smallRating": 188,
+      "directRating": 24,
+      "expansion": {
+        "probability": 0,
+        "expectedRemainingAtTarget": 0,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.2399999999990001,
+        "expectedRemainingAtTarget": 0.4684746454879998,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 0",
+      "raw": "320",
+      "sharedBands": 0,
+      "initial": 100,
+      "target": 120,
+      "spent": 1,
+      "smallDifficulty": 3,
+      "directDifficulty": 4,
+      "smallRating": 112,
+      "directRating": 67,
+      "expansion": {
+        "probability": 0.9899999999989987,
+        "expectedRemainingAtTarget": 5.736455453460001,
+        "remainingAtRoll40": 7
+      },
+      "direct": {
+        "probability": 0.6699999999989987,
+        "expectedRemainingAtTarget": 2.641504948413,
+        "remainingAtRoll40": 3
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 0",
+      "raw": "320",
+      "sharedBands": 0,
+      "initial": 100,
+      "target": 200,
+      "spent": 5,
+      "smallDifficulty": 3,
+      "directDifficulty": 4,
+      "smallRating": 112,
+      "directRating": 67,
+      "expansion": {
+        "probability": 0.6199999999989987,
+        "expectedRemainingAtTarget": 2.286455453464,
+        "remainingAtRoll40": 3
+      },
+      "direct": {
+        "probability": 0.6699999999989987,
+        "expectedRemainingAtTarget": 2.641504948413,
+        "remainingAtRoll40": 3
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 0",
+      "raw": "320",
+      "sharedBands": 0,
+      "initial": 100,
+      "target": 400,
+      "spent": 15,
+      "smallDifficulty": 3,
+      "directDifficulty": 5,
+      "smallRating": 112,
+      "directRating": 40,
+      "expansion": {
+        "probability": 0.0060999999990000026,
+        "expectedRemainingAtTarget": 0.022155453474000008,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.3999999999990004,
+        "expectedRemainingAtTarget": 1.0545352514460002,
+        "remainingAtRoll40": 1
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 0",
+      "raw": "320",
+      "sharedBands": 0,
+      "initial": 100,
+      "target": 800,
+      "spent": 35,
+      "smallDifficulty": 3,
+      "directDifficulty": 6,
+      "smallRating": 112,
+      "directRating": 24,
+      "expansion": {
+        "probability": 5.899989999999992e-7,
+        "expectedRemainingAtTarget": 0.0000020934939999999998,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.2399999999990001,
+        "expectedRemainingAtTarget": 0.4684746454879998,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 0",
+      "raw": "320",
+      "sharedBands": 0,
+      "initial": 100,
+      "target": 1600,
+      "spent": 75,
+      "smallDifficulty": 3,
+      "directDifficulty": 7,
+      "smallRating": 112,
+      "directRating": 14,
+      "expansion": {
+        "probability": 0,
+        "expectedRemainingAtTarget": 0,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.13999999999900012,
+        "expectedRemainingAtTarget": 0.22847464548900023,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 0",
+      "raw": "320",
+      "sharedBands": 3,
+      "initial": 25,
+      "target": 30,
+      "spent": 1,
+      "smallDifficulty": 4,
+      "directDifficulty": 5,
+      "smallRating": 67,
+      "directRating": 40,
+      "expansion": {
+        "probability": 0.5699999999989988,
+        "expectedRemainingAtTarget": 1.9715049484140001,
+        "remainingAtRoll40": 2
+      },
+      "direct": {
+        "probability": 0.3999999999990004,
+        "expectedRemainingAtTarget": 1.0545352514460002,
+        "remainingAtRoll40": 1
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 0",
+      "raw": "320",
+      "sharedBands": 3,
+      "initial": 25,
+      "target": 50,
+      "spent": 5,
+      "smallDifficulty": 4,
+      "directDifficulty": 5,
+      "smallRating": 67,
+      "directRating": 40,
+      "expansion": {
+        "probability": 0.16999999999900015,
+        "expectedRemainingAtTarget": 0.2915049484179999,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.3999999999990004,
+        "expectedRemainingAtTarget": 1.0545352514460002,
+        "remainingAtRoll40": 1
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 0",
+      "raw": "320",
+      "sharedBands": 3,
+      "initial": 25,
+      "target": 100,
+      "spent": 15,
+      "smallDifficulty": 4,
+      "directDifficulty": 6,
+      "smallRating": 67,
+      "directRating": 24,
+      "expansion": {
+        "probability": 0.0015999999989999999,
+        "expectedRemainingAtTarget": 0.0027049484280000013,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.2399999999990001,
+        "expectedRemainingAtTarget": 0.4684746454879998,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 0",
+      "raw": "320",
+      "sharedBands": 3,
+      "initial": 25,
+      "target": 200,
+      "spent": 35,
+      "smallDifficulty": 4,
+      "directDifficulty": 7,
+      "smallRating": 67,
+      "directRating": 14,
+      "expansion": {
+        "probability": 1.3999900000000006e-7,
+        "expectedRemainingAtTarget": 2.2844800000000003e-7,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.13999999999900012,
+        "expectedRemainingAtTarget": 0.22847464548900023,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 0",
+      "raw": "320",
+      "sharedBands": 3,
+      "initial": 25,
+      "target": 400,
+      "spent": 75,
+      "smallDifficulty": 4,
+      "directDifficulty": 8,
+      "smallRating": 67,
+      "directRating": 8,
+      "expansion": {
+        "probability": 0,
+        "expectedRemainingAtTarget": 0,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.07999999999900001,
+        "expectedRemainingAtTarget": 0.13251504942900025,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 0",
+      "raw": "320",
+      "sharedBands": 3,
+      "initial": 50,
+      "target": 60,
+      "spent": 1,
+      "smallDifficulty": 5,
+      "directDifficulty": 6,
+      "smallRating": 40,
+      "directRating": 24,
+      "expansion": {
+        "probability": 0.2999999999990004,
+        "expectedRemainingAtTarget": 0.6545352514470004,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.2399999999990001,
+        "expectedRemainingAtTarget": 0.4684746454879998,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 0",
+      "raw": "320",
+      "sharedBands": 3,
+      "initial": 50,
+      "target": 100,
+      "spent": 5,
+      "smallDifficulty": 5,
+      "directDifficulty": 6,
+      "smallRating": 40,
+      "directRating": 24,
+      "expansion": {
+        "probability": 0.008899999998999994,
+        "expectedRemainingAtTarget": 0.04463525145100003,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.2399999999990001,
+        "expectedRemainingAtTarget": 0.4684746454879998,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 0",
+      "raw": "320",
+      "sharedBands": 3,
+      "initial": 50,
+      "target": 200,
+      "spent": 15,
+      "smallDifficulty": 5,
+      "directDifficulty": 7,
+      "smallRating": 40,
+      "directRating": 14,
+      "expansion": {
+        "probability": 0.00008799999900000007,
+        "expectedRemainingAtTarget": 0.0004372514610000001,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.13999999999900012,
+        "expectedRemainingAtTarget": 0.22847464548900023,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 0",
+      "raw": "320",
+      "sharedBands": 3,
+      "initial": 50,
+      "target": 400,
+      "spent": 35,
+      "smallDifficulty": 5,
+      "directDifficulty": 8,
+      "smallRating": 40,
+      "directRating": 8,
+      "expansion": {
+        "probability": 8.599000000000001e-9,
+        "expectedRemainingAtTarget": 4.1881000000000016e-8,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.07999999999900001,
+        "expectedRemainingAtTarget": 0.13251504942900025,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 0",
+      "raw": "320",
+      "sharedBands": 3,
+      "initial": 50,
+      "target": 800,
+      "spent": 75,
+      "smallDifficulty": 5,
+      "directDifficulty": 9,
+      "smallRating": 40,
+      "directRating": 5,
+      "expansion": {
+        "probability": 0,
+        "expectedRemainingAtTarget": 0,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.04999999999900009,
+        "expectedRemainingAtTarget": 0.09948474639999999,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 0",
+      "raw": "320",
+      "sharedBands": 3,
+      "initial": 100,
+      "target": 120,
+      "spent": 1,
+      "smallDifficulty": 6,
+      "directDifficulty": 7,
+      "smallRating": 24,
+      "directRating": 14,
+      "expansion": {
+        "probability": 0.13999999999900012,
+        "expectedRemainingAtTarget": 0.22847464548900023,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.13999999999900012,
+        "expectedRemainingAtTarget": 0.22847464548900023,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 0",
+      "raw": "320",
+      "sharedBands": 3,
+      "initial": 100,
+      "target": 200,
+      "spent": 5,
+      "smallDifficulty": 6,
+      "directDifficulty": 7,
+      "smallRating": 24,
+      "directRating": 14,
+      "expansion": {
+        "probability": 0.007299999999000002,
+        "expectedRemainingAtTarget": 0.030874645493000008,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.13999999999900012,
+        "expectedRemainingAtTarget": 0.22847464548900023,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 0",
+      "raw": "320",
+      "sharedBands": 3,
+      "initial": 100,
+      "target": 400,
+      "spent": 15,
+      "smallDifficulty": 6,
+      "directDifficulty": 8,
+      "smallRating": 24,
+      "directRating": 8,
+      "expansion": {
+        "probability": 0.00007199999900000007,
+        "expectedRemainingAtTarget": 0.0003006455030000001,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.07999999999900001,
+        "expectedRemainingAtTarget": 0.13251504942900025,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 0",
+      "raw": "320",
+      "sharedBands": 3,
+      "initial": 100,
+      "target": 800,
+      "spent": 35,
+      "smallDifficulty": 6,
+      "directDifficulty": 9,
+      "smallRating": 24,
+      "directRating": 5,
+      "expansion": {
+        "probability": 6.999000000000002e-9,
+        "expectedRemainingAtTarget": 2.852300000000001e-8,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.04999999999900009,
+        "expectedRemainingAtTarget": 0.09948474639999999,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 0",
+      "raw": "320",
+      "sharedBands": 3,
+      "initial": 100,
+      "target": 1600,
+      "spent": 75,
+      "smallDifficulty": 6,
+      "directDifficulty": 10,
+      "smallRating": 24,
+      "directRating": 3,
+      "expansion": {
+        "probability": 0,
+        "expectedRemainingAtTarget": 0,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.029999999999,
+        "expectedRemainingAtTarget": 0.07746455447999995,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 0",
+      "raw": "320",
+      "sharedBands": 4,
+      "initial": 25,
+      "target": 30,
+      "spent": 1,
+      "smallDifficulty": 5,
+      "directDifficulty": 6,
+      "smallRating": 40,
+      "directRating": 24,
+      "expansion": {
+        "probability": 0.2999999999990004,
+        "expectedRemainingAtTarget": 0.6545352514470004,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.2399999999990001,
+        "expectedRemainingAtTarget": 0.4684746454879998,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 0",
+      "raw": "320",
+      "sharedBands": 4,
+      "initial": 25,
+      "target": 50,
+      "spent": 5,
+      "smallDifficulty": 5,
+      "directDifficulty": 6,
+      "smallRating": 40,
+      "directRating": 24,
+      "expansion": {
+        "probability": 0.008899999998999994,
+        "expectedRemainingAtTarget": 0.04463525145100003,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.2399999999990001,
+        "expectedRemainingAtTarget": 0.4684746454879998,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 0",
+      "raw": "320",
+      "sharedBands": 4,
+      "initial": 25,
+      "target": 100,
+      "spent": 15,
+      "smallDifficulty": 5,
+      "directDifficulty": 7,
+      "smallRating": 40,
+      "directRating": 14,
+      "expansion": {
+        "probability": 0.00008799999900000007,
+        "expectedRemainingAtTarget": 0.0004372514610000001,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.13999999999900012,
+        "expectedRemainingAtTarget": 0.22847464548900023,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 0",
+      "raw": "320",
+      "sharedBands": 4,
+      "initial": 25,
+      "target": 200,
+      "spent": 35,
+      "smallDifficulty": 5,
+      "directDifficulty": 8,
+      "smallRating": 40,
+      "directRating": 8,
+      "expansion": {
+        "probability": 8.599000000000001e-9,
+        "expectedRemainingAtTarget": 4.1881000000000016e-8,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.07999999999900001,
+        "expectedRemainingAtTarget": 0.13251504942900025,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 0",
+      "raw": "320",
+      "sharedBands": 4,
+      "initial": 25,
+      "target": 400,
+      "spent": 75,
+      "smallDifficulty": 5,
+      "directDifficulty": 9,
+      "smallRating": 40,
+      "directRating": 5,
+      "expansion": {
+        "probability": 0,
+        "expectedRemainingAtTarget": 0,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.04999999999900009,
+        "expectedRemainingAtTarget": 0.09948474639999999,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 0",
+      "raw": "320",
+      "sharedBands": 4,
+      "initial": 50,
+      "target": 60,
+      "spent": 1,
+      "smallDifficulty": 6,
+      "directDifficulty": 7,
+      "smallRating": 24,
+      "directRating": 14,
+      "expansion": {
+        "probability": 0.13999999999900012,
+        "expectedRemainingAtTarget": 0.22847464548900023,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.13999999999900012,
+        "expectedRemainingAtTarget": 0.22847464548900023,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 0",
+      "raw": "320",
+      "sharedBands": 4,
+      "initial": 50,
+      "target": 100,
+      "spent": 5,
+      "smallDifficulty": 6,
+      "directDifficulty": 7,
+      "smallRating": 24,
+      "directRating": 14,
+      "expansion": {
+        "probability": 0.007299999999000002,
+        "expectedRemainingAtTarget": 0.030874645493000008,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.13999999999900012,
+        "expectedRemainingAtTarget": 0.22847464548900023,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 0",
+      "raw": "320",
+      "sharedBands": 4,
+      "initial": 50,
+      "target": 200,
+      "spent": 15,
+      "smallDifficulty": 6,
+      "directDifficulty": 8,
+      "smallRating": 24,
+      "directRating": 8,
+      "expansion": {
+        "probability": 0.00007199999900000007,
+        "expectedRemainingAtTarget": 0.0003006455030000001,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.07999999999900001,
+        "expectedRemainingAtTarget": 0.13251504942900025,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 0",
+      "raw": "320",
+      "sharedBands": 4,
+      "initial": 50,
+      "target": 400,
+      "spent": 35,
+      "smallDifficulty": 6,
+      "directDifficulty": 9,
+      "smallRating": 24,
+      "directRating": 5,
+      "expansion": {
+        "probability": 6.999000000000002e-9,
+        "expectedRemainingAtTarget": 2.852300000000001e-8,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.04999999999900009,
+        "expectedRemainingAtTarget": 0.09948474639999999,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 0",
+      "raw": "320",
+      "sharedBands": 4,
+      "initial": 50,
+      "target": 800,
+      "spent": 75,
+      "smallDifficulty": 6,
+      "directDifficulty": 10,
+      "smallRating": 24,
+      "directRating": 3,
+      "expansion": {
+        "probability": 0,
+        "expectedRemainingAtTarget": 0,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.029999999999,
+        "expectedRemainingAtTarget": 0.07746455447999995,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 0",
+      "raw": "320",
+      "sharedBands": 4,
+      "initial": 100,
+      "target": 120,
+      "spent": 1,
+      "smallDifficulty": 7,
+      "directDifficulty": 8,
+      "smallRating": 14,
+      "directRating": 8,
+      "expansion": {
+        "probability": 0.03999999999900006,
+        "expectedRemainingAtTarget": 0.08847464548999995,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.07999999999900001,
+        "expectedRemainingAtTarget": 0.13251504942900025,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 0",
+      "raw": "320",
+      "sharedBands": 4,
+      "initial": 100,
+      "target": 200,
+      "spent": 5,
+      "smallDifficulty": 7,
+      "directDifficulty": 8,
+      "smallRating": 14,
+      "directRating": 8,
+      "expansion": {
+        "probability": 0.006299999999000002,
+        "expectedRemainingAtTarget": 0.023574645494,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.07999999999900001,
+        "expectedRemainingAtTarget": 0.13251504942900025,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 0",
+      "raw": "320",
+      "sharedBands": 4,
+      "initial": 100,
+      "target": 400,
+      "spent": 15,
+      "smallDifficulty": 7,
+      "directDifficulty": 9,
+      "smallRating": 14,
+      "directRating": 5,
+      "expansion": {
+        "probability": 0.00006199999900000007,
+        "expectedRemainingAtTarget": 0.00022864550400000005,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.04999999999900009,
+        "expectedRemainingAtTarget": 0.09948474639999999,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 0",
+      "raw": "320",
+      "sharedBands": 4,
+      "initial": 100,
+      "target": 800,
+      "spent": 35,
+      "smallDifficulty": 7,
+      "directDifficulty": 10,
+      "smallRating": 14,
+      "directRating": 3,
+      "expansion": {
+        "probability": 5.999000000000001e-9,
+        "expectedRemainingAtTarget": 2.1524000000000008e-8,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.029999999999,
+        "expectedRemainingAtTarget": 0.07746455447999995,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 10",
+      "raw": "640",
+      "sharedBands": 0,
+      "initial": 25,
+      "target": 30,
+      "spent": 1,
+      "smallDifficulty": 1,
+      "directDifficulty": 2,
+      "smallRating": 627,
+      "directRating": 376,
+      "expansion": {
+        "probability": 0.9899999999989987,
+        "expectedRemainingAtTarget": 56.73150494835799,
+        "remainingAtRoll40": 58
+      },
+      "direct": {
+        "probability": 0.9899999999989988,
+        "expectedRemainingAtTarget": 32.87049484737201,
+        "remainingAtRoll40": 34
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 10",
+      "raw": "640",
+      "sharedBands": 0,
+      "initial": 25,
+      "target": 50,
+      "spent": 5,
+      "smallDifficulty": 1,
+      "directDifficulty": 2,
+      "smallRating": 627,
+      "directRating": 376,
+      "expansion": {
+        "probability": 0.9899999999989987,
+        "expectedRemainingAtTarget": 52.77150494836199,
+        "remainingAtRoll40": 54
+      },
+      "direct": {
+        "probability": 0.9899999999989988,
+        "expectedRemainingAtTarget": 32.87049484737201,
+        "remainingAtRoll40": 34
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 10",
+      "raw": "640",
+      "sharedBands": 0,
+      "initial": 25,
+      "target": 100,
+      "spent": 15,
+      "smallDifficulty": 1,
+      "directDifficulty": 3,
+      "smallRating": 627,
+      "directRating": 225,
+      "expansion": {
+        "probability": 0.9899999999989987,
+        "expectedRemainingAtTarget": 42.871504948372,
+        "remainingAtRoll40": 44
+      },
+      "direct": {
+        "probability": 0.9899999999989988,
+        "expectedRemainingAtTarget": 17.919484746378007,
+        "remainingAtRoll40": 19
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 10",
+      "raw": "640",
+      "sharedBands": 0,
+      "initial": 25,
+      "target": 200,
+      "spent": 35,
+      "smallDifficulty": 1,
+      "directDifficulty": 4,
+      "smallRating": 627,
+      "directRating": 135,
+      "expansion": {
+        "probability": 0.9899999999989987,
+        "expectedRemainingAtTarget": 23.071504948392,
+        "remainingAtRoll40": 24
+      },
+      "direct": {
+        "probability": 0.9899999999989988,
+        "expectedRemainingAtTarget": 9.009484746387004,
+        "remainingAtRoll40": 10
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 10",
+      "raw": "640",
+      "sharedBands": 0,
+      "initial": 25,
+      "target": 400,
+      "spent": 75,
+      "smallDifficulty": 1,
+      "directDifficulty": 5,
+      "smallRating": 627,
+      "directRating": 81,
+      "expansion": {
+        "probability": 0.00007499999900000008,
+        "expectedRemainingAtTarget": 0.00032494843200000004,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.8099999999989989,
+        "expectedRemainingAtTarget": 3.7355453524519997,
+        "remainingAtRoll40": 5
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 10",
+      "raw": "640",
+      "sharedBands": 0,
+      "initial": 50,
+      "target": 60,
+      "spent": 1,
+      "smallDifficulty": 2,
+      "directDifficulty": 3,
+      "smallRating": 376,
+      "directRating": 225,
+      "expansion": {
+        "probability": 0.9899999999989988,
+        "expectedRemainingAtTarget": 31.88049484737299,
+        "remainingAtRoll40": 33
+      },
+      "direct": {
+        "probability": 0.9899999999989988,
+        "expectedRemainingAtTarget": 17.919484746378007,
+        "remainingAtRoll40": 19
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 10",
+      "raw": "640",
+      "sharedBands": 0,
+      "initial": 50,
+      "target": 100,
+      "spent": 5,
+      "smallDifficulty": 2,
+      "directDifficulty": 3,
+      "smallRating": 376,
+      "directRating": 225,
+      "expansion": {
+        "probability": 0.9899999999989988,
+        "expectedRemainingAtTarget": 27.920494847376986,
+        "remainingAtRoll40": 29
+      },
+      "direct": {
+        "probability": 0.9899999999989988,
+        "expectedRemainingAtTarget": 17.919484746378007,
+        "remainingAtRoll40": 19
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 10",
+      "raw": "640",
+      "sharedBands": 0,
+      "initial": 50,
+      "target": 200,
+      "spent": 15,
+      "smallDifficulty": 2,
+      "directDifficulty": 4,
+      "smallRating": 376,
+      "directRating": 135,
+      "expansion": {
+        "probability": 0.9899999999989988,
+        "expectedRemainingAtTarget": 18.02049484738701,
+        "remainingAtRoll40": 19
+      },
+      "direct": {
+        "probability": 0.9899999999989988,
+        "expectedRemainingAtTarget": 9.009484746387004,
+        "remainingAtRoll40": 10
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 10",
+      "raw": "640",
+      "sharedBands": 0,
+      "initial": 50,
+      "target": 400,
+      "spent": 35,
+      "smallDifficulty": 2,
+      "directDifficulty": 5,
+      "smallRating": 376,
+      "directRating": 81,
+      "expansion": {
+        "probability": 0.25999999999900036,
+        "expectedRemainingAtTarget": 0.5304948474070004,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.8099999999989989,
+        "expectedRemainingAtTarget": 3.7355453524519997,
+        "remainingAtRoll40": 5
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 10",
+      "raw": "640",
+      "sharedBands": 0,
+      "initial": 50,
+      "target": 800,
+      "spent": 75,
+      "smallDifficulty": 2,
+      "directDifficulty": 6,
+      "smallRating": 376,
+      "directRating": 48,
+      "expansion": {
+        "probability": 2.1990000000000024e-9,
+        "expectedRemainingAtTarget": 4.047000000000001e-9,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.4799999999990003,
+        "expectedRemainingAtTarget": 1.4525150494250003,
+        "remainingAtRoll40": 1
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 10",
+      "raw": "640",
+      "sharedBands": 0,
+      "initial": 100,
+      "target": 120,
+      "spent": 1,
+      "smallDifficulty": 3,
+      "directDifficulty": 4,
+      "smallRating": 225,
+      "directRating": 135,
+      "expansion": {
+        "probability": 0.9899999999989988,
+        "expectedRemainingAtTarget": 16.92948474637901,
+        "remainingAtRoll40": 18
+      },
+      "direct": {
+        "probability": 0.9899999999989988,
+        "expectedRemainingAtTarget": 9.009484746387004,
+        "remainingAtRoll40": 10
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 10",
+      "raw": "640",
+      "sharedBands": 0,
+      "initial": 100,
+      "target": 200,
+      "spent": 5,
+      "smallDifficulty": 3,
+      "directDifficulty": 4,
+      "smallRating": 225,
+      "directRating": 135,
+      "expansion": {
+        "probability": 0.9899999999989988,
+        "expectedRemainingAtTarget": 12.969484746382994,
+        "remainingAtRoll40": 14
+      },
+      "direct": {
+        "probability": 0.9899999999989988,
+        "expectedRemainingAtTarget": 9.009484746387004,
+        "remainingAtRoll40": 10
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 10",
+      "raw": "640",
+      "sharedBands": 0,
+      "initial": 100,
+      "target": 400,
+      "spent": 15,
+      "smallDifficulty": 3,
+      "directDifficulty": 5,
+      "smallRating": 225,
+      "directRating": 81,
+      "expansion": {
+        "probability": 0.7499999999989988,
+        "expectedRemainingAtTarget": 3.249484746393,
+        "remainingAtRoll40": 4
+      },
+      "direct": {
+        "probability": 0.8099999999989989,
+        "expectedRemainingAtTarget": 3.7355453524519997,
+        "remainingAtRoll40": 5
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 10",
+      "raw": "640",
+      "sharedBands": 0,
+      "initial": 100,
+      "target": 800,
+      "spent": 35,
+      "smallDifficulty": 3,
+      "directDifficulty": 6,
+      "smallRating": 225,
+      "directRating": 48,
+      "expansion": {
+        "probability": 0.00007299999900000008,
+        "expectedRemainingAtTarget": 0.0003087464130000001,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.4799999999990003,
+        "expectedRemainingAtTarget": 1.4525150494250003,
+        "remainingAtRoll40": 1
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 10",
+      "raw": "640",
+      "sharedBands": 0,
+      "initial": 100,
+      "target": 1600,
+      "spent": 75,
+      "smallDifficulty": 3,
+      "directDifficulty": 7,
+      "smallRating": 225,
+      "directRating": 29,
+      "expansion": {
+        "probability": 0,
+        "expectedRemainingAtTarget": 0,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.2899999999990004,
+        "expectedRemainingAtTarget": 0.6235251504370005,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "none"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 10",
+      "raw": "640",
+      "sharedBands": 3,
+      "initial": 25,
+      "target": 30,
+      "spent": 1,
+      "smallDifficulty": 4,
+      "directDifficulty": 5,
+      "smallRating": 135,
+      "directRating": 81,
+      "expansion": {
+        "probability": 0.9899999999989988,
+        "expectedRemainingAtTarget": 8.019484746388,
+        "remainingAtRoll40": 9
+      },
+      "direct": {
+        "probability": 0.8099999999989989,
+        "expectedRemainingAtTarget": 3.7355453524519997,
+        "remainingAtRoll40": 5
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 10",
+      "raw": "640",
+      "sharedBands": 3,
+      "initial": 25,
+      "target": 50,
+      "spent": 5,
+      "smallDifficulty": 4,
+      "directDifficulty": 5,
+      "smallRating": 135,
+      "directRating": 81,
+      "expansion": {
+        "probability": 0.8499999999989988,
+        "expectedRemainingAtTarget": 4.099484746392002,
+        "remainingAtRoll40": 5
+      },
+      "direct": {
+        "probability": 0.8099999999989989,
+        "expectedRemainingAtTarget": 3.7355453524519997,
+        "remainingAtRoll40": 5
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 10",
+      "raw": "640",
+      "sharedBands": 3,
+      "initial": 25,
+      "target": 100,
+      "spent": 15,
+      "smallDifficulty": 4,
+      "directDifficulty": 6,
+      "smallRating": 135,
+      "directRating": 48,
+      "expansion": {
+        "probability": 0.008399999998999996,
+        "expectedRemainingAtTarget": 0.04008474640200002,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.4799999999990003,
+        "expectedRemainingAtTarget": 1.4525150494250003,
+        "remainingAtRoll40": 1
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 10",
+      "raw": "640",
+      "sharedBands": 3,
+      "initial": 25,
+      "target": 200,
+      "spent": 35,
+      "smallDifficulty": 4,
+      "directDifficulty": 7,
+      "smallRating": 135,
+      "directRating": 29,
+      "expansion": {
+        "probability": 8.199989999999993e-7,
+        "expectedRemainingAtTarget": 0.000003826422,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.2899999999990004,
+        "expectedRemainingAtTarget": 0.6235251504370005,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 10",
+      "raw": "640",
+      "sharedBands": 3,
+      "initial": 25,
+      "target": 400,
+      "spent": 75,
+      "smallDifficulty": 4,
+      "directDifficulty": 8,
+      "smallRating": 135,
+      "directRating": 17,
+      "expansion": {
+        "probability": 0,
+        "expectedRemainingAtTarget": 0,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.16999999999900015,
+        "expectedRemainingAtTarget": 0.2915049484179999,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 10",
+      "raw": "640",
+      "sharedBands": 3,
+      "initial": 50,
+      "target": 60,
+      "spent": 1,
+      "smallDifficulty": 5,
+      "directDifficulty": 6,
+      "smallRating": 81,
+      "directRating": 48,
+      "expansion": {
+        "probability": 0.7099999999989989,
+        "expectedRemainingAtTarget": 2.9255453524529993,
+        "remainingAtRoll40": 4
+      },
+      "direct": {
+        "probability": 0.4799999999990003,
+        "expectedRemainingAtTarget": 1.4525150494250003,
+        "remainingAtRoll40": 1
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 10",
+      "raw": "640",
+      "sharedBands": 3,
+      "initial": 50,
+      "target": 100,
+      "spent": 5,
+      "smallDifficulty": 5,
+      "directDifficulty": 6,
+      "smallRating": 81,
+      "directRating": 48,
+      "expansion": {
+        "probability": 0.30999999999900035,
+        "expectedRemainingAtTarget": 0.6855453524570004,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.4799999999990003,
+        "expectedRemainingAtTarget": 1.4525150494250003,
+        "remainingAtRoll40": 1
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 10",
+      "raw": "640",
+      "sharedBands": 3,
+      "initial": 50,
+      "target": 200,
+      "spent": 15,
+      "smallDifficulty": 5,
+      "directDifficulty": 7,
+      "smallRating": 81,
+      "directRating": 29,
+      "expansion": {
+        "probability": 0.0029999999989999988,
+        "expectedRemainingAtTarget": 0.006545352467000003,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.2899999999990004,
+        "expectedRemainingAtTarget": 0.6235251504370005,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 10",
+      "raw": "640",
+      "sharedBands": 3,
+      "initial": 50,
+      "target": 400,
+      "spent": 35,
+      "smallDifficulty": 5,
+      "directDifficulty": 8,
+      "smallRating": 81,
+      "directRating": 17,
+      "expansion": {
+        "probability": 2.799990000000002e-7,
+        "expectedRemainingAtTarget": 5.924869999999999e-7,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.16999999999900015,
+        "expectedRemainingAtTarget": 0.2915049484179999,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 10",
+      "raw": "640",
+      "sharedBands": 3,
+      "initial": 50,
+      "target": 800,
+      "spent": 75,
+      "smallDifficulty": 5,
+      "directDifficulty": 9,
+      "smallRating": 81,
+      "directRating": 10,
+      "expansion": {
+        "probability": 0,
+        "expectedRemainingAtTarget": 0,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.099999999999,
+        "expectedRemainingAtTarget": 0.15453525144900024,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 10",
+      "raw": "640",
+      "sharedBands": 3,
+      "initial": 100,
+      "target": 120,
+      "spent": 1,
+      "smallDifficulty": 6,
+      "directDifficulty": 7,
+      "smallRating": 48,
+      "directRating": 29,
+      "expansion": {
+        "probability": 0.3799999999990003,
+        "expectedRemainingAtTarget": 0.9725150494260005,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.2899999999990004,
+        "expectedRemainingAtTarget": 0.6235251504370005,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 10",
+      "raw": "640",
+      "sharedBands": 3,
+      "initial": 100,
+      "target": 200,
+      "spent": 5,
+      "smallDifficulty": 6,
+      "directDifficulty": 7,
+      "smallRating": 48,
+      "directRating": 29,
+      "expansion": {
+        "probability": 0.009699999998999996,
+        "expectedRemainingAtTarget": 0.05251504943000002,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.2899999999990004,
+        "expectedRemainingAtTarget": 0.6235251504370005,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 10",
+      "raw": "640",
+      "sharedBands": 3,
+      "initial": 100,
+      "target": 400,
+      "spent": 15,
+      "smallDifficulty": 6,
+      "directDifficulty": 8,
+      "smallRating": 48,
+      "directRating": 17,
+      "expansion": {
+        "probability": 0.00009599999900000007,
+        "expectedRemainingAtTarget": 0.0005150494400000003,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.16999999999900015,
+        "expectedRemainingAtTarget": 0.2915049484179999,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 10",
+      "raw": "640",
+      "sharedBands": 3,
+      "initial": 100,
+      "target": 800,
+      "spent": 35,
+      "smallDifficulty": 6,
+      "directDifficulty": 9,
+      "smallRating": 48,
+      "directRating": 10,
+      "expansion": {
+        "probability": 9.399000000000004e-9,
+        "expectedRemainingAtTarget": 4.9460000000000014e-8,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.099999999999,
+        "expectedRemainingAtTarget": 0.15453525144900024,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 10",
+      "raw": "640",
+      "sharedBands": 3,
+      "initial": 100,
+      "target": 1600,
+      "spent": 75,
+      "smallDifficulty": 6,
+      "directDifficulty": 10,
+      "smallRating": 48,
+      "directRating": 6,
+      "expansion": {
+        "probability": 0,
+        "expectedRemainingAtTarget": 0,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.05999999999900009,
+        "expectedRemainingAtTarget": 0.110494847409,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 10",
+      "raw": "640",
+      "sharedBands": 4,
+      "initial": 25,
+      "target": 30,
+      "spent": 1,
+      "smallDifficulty": 5,
+      "directDifficulty": 6,
+      "smallRating": 81,
+      "directRating": 48,
+      "expansion": {
+        "probability": 0.7099999999989989,
+        "expectedRemainingAtTarget": 2.9255453524529993,
+        "remainingAtRoll40": 4
+      },
+      "direct": {
+        "probability": 0.4799999999990003,
+        "expectedRemainingAtTarget": 1.4525150494250003,
+        "remainingAtRoll40": 1
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 10",
+      "raw": "640",
+      "sharedBands": 4,
+      "initial": 25,
+      "target": 50,
+      "spent": 5,
+      "smallDifficulty": 5,
+      "directDifficulty": 6,
+      "smallRating": 81,
+      "directRating": 48,
+      "expansion": {
+        "probability": 0.30999999999900035,
+        "expectedRemainingAtTarget": 0.6855453524570004,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.4799999999990003,
+        "expectedRemainingAtTarget": 1.4525150494250003,
+        "remainingAtRoll40": 1
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 10",
+      "raw": "640",
+      "sharedBands": 4,
+      "initial": 25,
+      "target": 100,
+      "spent": 15,
+      "smallDifficulty": 5,
+      "directDifficulty": 7,
+      "smallRating": 81,
+      "directRating": 29,
+      "expansion": {
+        "probability": 0.0029999999989999988,
+        "expectedRemainingAtTarget": 0.006545352467000003,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.2899999999990004,
+        "expectedRemainingAtTarget": 0.6235251504370005,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 10",
+      "raw": "640",
+      "sharedBands": 4,
+      "initial": 25,
+      "target": 200,
+      "spent": 35,
+      "smallDifficulty": 5,
+      "directDifficulty": 8,
+      "smallRating": 81,
+      "directRating": 17,
+      "expansion": {
+        "probability": 2.799990000000002e-7,
+        "expectedRemainingAtTarget": 5.924869999999999e-7,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.16999999999900015,
+        "expectedRemainingAtTarget": 0.2915049484179999,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 10",
+      "raw": "640",
+      "sharedBands": 4,
+      "initial": 25,
+      "target": 400,
+      "spent": 75,
+      "smallDifficulty": 5,
+      "directDifficulty": 9,
+      "smallRating": 81,
+      "directRating": 10,
+      "expansion": {
+        "probability": 0,
+        "expectedRemainingAtTarget": 0,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.099999999999,
+        "expectedRemainingAtTarget": 0.15453525144900024,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 10",
+      "raw": "640",
+      "sharedBands": 4,
+      "initial": 50,
+      "target": 60,
+      "spent": 1,
+      "smallDifficulty": 6,
+      "directDifficulty": 7,
+      "smallRating": 48,
+      "directRating": 29,
+      "expansion": {
+        "probability": 0.3799999999990003,
+        "expectedRemainingAtTarget": 0.9725150494260005,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.2899999999990004,
+        "expectedRemainingAtTarget": 0.6235251504370005,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 10",
+      "raw": "640",
+      "sharedBands": 4,
+      "initial": 50,
+      "target": 100,
+      "spent": 5,
+      "smallDifficulty": 6,
+      "directDifficulty": 7,
+      "smallRating": 48,
+      "directRating": 29,
+      "expansion": {
+        "probability": 0.009699999998999996,
+        "expectedRemainingAtTarget": 0.05251504943000002,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.2899999999990004,
+        "expectedRemainingAtTarget": 0.6235251504370005,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 10",
+      "raw": "640",
+      "sharedBands": 4,
+      "initial": 50,
+      "target": 200,
+      "spent": 15,
+      "smallDifficulty": 6,
+      "directDifficulty": 8,
+      "smallRating": 48,
+      "directRating": 17,
+      "expansion": {
+        "probability": 0.00009599999900000007,
+        "expectedRemainingAtTarget": 0.0005150494400000003,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.16999999999900015,
+        "expectedRemainingAtTarget": 0.2915049484179999,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 10",
+      "raw": "640",
+      "sharedBands": 4,
+      "initial": 50,
+      "target": 400,
+      "spent": 35,
+      "smallDifficulty": 6,
+      "directDifficulty": 9,
+      "smallRating": 48,
+      "directRating": 10,
+      "expansion": {
+        "probability": 9.399000000000004e-9,
+        "expectedRemainingAtTarget": 4.9460000000000014e-8,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.099999999999,
+        "expectedRemainingAtTarget": 0.15453525144900024,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 10",
+      "raw": "640",
+      "sharedBands": 4,
+      "initial": 50,
+      "target": 800,
+      "spent": 75,
+      "smallDifficulty": 6,
+      "directDifficulty": 10,
+      "smallRating": 48,
+      "directRating": 6,
+      "expansion": {
+        "probability": 0,
+        "expectedRemainingAtTarget": 0,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.05999999999900009,
+        "expectedRemainingAtTarget": 0.110494847409,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 10",
+      "raw": "640",
+      "sharedBands": 4,
+      "initial": 100,
+      "target": 120,
+      "spent": 1,
+      "smallDifficulty": 7,
+      "directDifficulty": 8,
+      "smallRating": 29,
+      "directRating": 17,
+      "expansion": {
+        "probability": 0.18999999999900014,
+        "expectedRemainingAtTarget": 0.33352515043799985,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.16999999999900015,
+        "expectedRemainingAtTarget": 0.2915049484179999,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 10",
+      "raw": "640",
+      "sharedBands": 4,
+      "initial": 100,
+      "target": 200,
+      "spent": 5,
+      "smallDifficulty": 7,
+      "directDifficulty": 8,
+      "smallRating": 29,
+      "directRating": 17,
+      "expansion": {
+        "probability": 0.007799999999000003,
+        "expectedRemainingAtTarget": 0.034925150442000015,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.16999999999900015,
+        "expectedRemainingAtTarget": 0.2915049484179999,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 10",
+      "raw": "640",
+      "sharedBands": 4,
+      "initial": 100,
+      "target": 400,
+      "spent": 15,
+      "smallDifficulty": 7,
+      "directDifficulty": 9,
+      "smallRating": 29,
+      "directRating": 10,
+      "expansion": {
+        "probability": 0.00007699999900000007,
+        "expectedRemainingAtTarget": 0.00034115045200000006,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.099999999999,
+        "expectedRemainingAtTarget": 0.15453525144900024,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    },
+    {
+      "fixture": "Ordinary ratings 10, Axis 10",
+      "raw": "640",
+      "sharedBands": 4,
+      "initial": 100,
+      "target": 800,
+      "spent": 35,
+      "smallDifficulty": 7,
+      "directDifficulty": 10,
+      "smallRating": 29,
+      "directRating": 6,
+      "expansion": {
+        "probability": 7.499000000000003e-9,
+        "expectedRemainingAtTarget": 3.247200000000002e-8,
+        "remainingAtRoll40": null
+      },
+      "direct": {
+        "probability": 0.05999999999900009,
+        "expectedRemainingAtTarget": 0.110494847409,
+        "remainingAtRoll40": null
+      },
+      "sharedDemand": "area D3 plus independent duration D1"
+    }
+  ],
+  "fixtures": {
+    "sixEffects": {
+      "available": 6,
+      "needed": 5,
+      "reached": true,
+      "impactBeforeDefense": 1,
+      "netImpact": 1,
+      "payloadArrives": 0
+    },
+    "fiveEffects": {
+      "available": 5,
+      "needed": 5,
+      "reached": false,
+      "impactBeforeDefense": 0,
+      "netImpact": 0,
+      "payloadArrives": 0
+    },
+    "blockedAtTarget": {
+      "available": 6,
+      "needed": 5,
+      "reached": true,
+      "impactBeforeDefense": 1,
+      "netImpact": 0,
+      "payloadArrives": 0
+    },
+    "earlyCarrierCancellation": {
+      "available": 4,
+      "needed": 5,
+      "reached": false,
+      "impactBeforeDefense": 0,
+      "netImpact": 0,
+      "payloadArrives": 0
+    },
+    "brokenCarrier": {
+      "available": 20,
+      "needed": 5,
+      "reached": false,
+      "impactBeforeDefense": 0,
+      "netImpact": 0,
+      "payloadArrives": 0
+    },
+    "hardReachLimit": {
+      "available": 20,
+      "needed": 5,
+      "reached": false,
+      "impactBeforeDefense": 0,
+      "netImpact": 0,
+      "payloadArrives": 0
+    },
+    "absentAccess": {
+      "available": 20,
+      "needed": 5,
+      "reached": false,
+      "impactBeforeDefense": 0,
+      "netImpact": 0,
+      "payloadArrives": 0
+    },
+    "sameFormOpposition": {
+      "available": 8,
+      "needed": 5,
+      "reached": true,
+      "impactBeforeDefense": 3,
+      "netImpact": 1,
+      "payloadArrives": 0
+    },
+    "successfulCarrier": {
+      "available": 6,
+      "needed": 5,
+      "reached": true,
+      "impactBeforeDefense": 1,
+      "netImpact": 1,
+      "payloadArrives": 4
+    },
+    "compatibleSharedCarrier": {
+      "available": 6,
+      "needed": 5,
+      "reached": true,
+      "impactBeforeDefense": 1,
+      "netImpact": 1,
+      "payloadArrives": 0
+    }
+  }
+}

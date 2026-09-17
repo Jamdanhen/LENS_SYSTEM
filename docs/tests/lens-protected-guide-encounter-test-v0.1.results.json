@@ -1,0 +1,3418 @@
+{
+  "status": "Protection sensitivity, no new rules or valuations adopted",
+  "sourceHash": "8bfe4c4f83bf1395b8ca7b15a24019a6e623b2cbd4a29c4bf4f5f7c0950c8265",
+  "trialsPerScenario": 20000,
+  "totalEncounters": 960000,
+  "maxRounds": 1000,
+  "seed": "Shared engine seed; fixture 1 for exposed regression, fixture index +20 otherwise",
+  "results": [
+    {
+      "config": {
+        "id": "exposed",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0,
+            "mitigation": 0,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0,
+            "mitigation": 0,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "attack"
+      },
+      "opening": [
+        {
+          "attacker": 0,
+          "attackRating": 180,
+          "opposingDefenseRating": 29,
+          "mitigation": 0,
+          "offensiveFirstShotDownPct": 83.86578963836796,
+          "anyWoundPct": 98.8609925596523,
+          "meanWounded": 12.849346572800142
+        },
+        {
+          "attacker": 1,
+          "attackRating": 180,
+          "opposingDefenseRating": 29,
+          "mitigation": 0,
+          "offensiveFirstShotDownPct": 83.86578963836796,
+          "anyWoundPct": 98.8609925596523,
+          "meanWounded": 12.849346572800142
+        }
+      ],
+      "trials": 20000,
+      "outcomes": {
+        "A": 10021,
+        "B": 9978,
+        "both": 1,
+        "censored": 0
+      },
+      "median": 1,
+      "p90": 2,
+      "meanResolved": 1.147,
+      "firstMoverWinPct": 97.98,
+      "aWinPct": 50.11,
+      "compNeededPct": 0.41,
+      "noWoundPct": 7.35,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanWounded": 15.007
+    },
+    {
+      "config": {
+        "id": "exposed",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0,
+            "mitigation": 0,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0,
+            "mitigation": 0,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "recover-band"
+      },
+      "opening": [
+        {
+          "attacker": 0,
+          "attackRating": 180,
+          "opposingDefenseRating": 29,
+          "mitigation": 0,
+          "offensiveFirstShotDownPct": 83.86578963836796,
+          "anyWoundPct": 98.8609925596523,
+          "meanWounded": 12.849346572800142
+        },
+        {
+          "attacker": 1,
+          "attackRating": 180,
+          "opposingDefenseRating": 29,
+          "mitigation": 0,
+          "offensiveFirstShotDownPct": 83.86578963836796,
+          "anyWoundPct": 98.8609925596523,
+          "meanWounded": 12.849346572800142
+        }
+      ],
+      "trials": 20000,
+      "outcomes": {
+        "A": 10020,
+        "B": 9979,
+        "both": 1,
+        "censored": 0
+      },
+      "median": 1,
+      "p90": 2,
+      "meanResolved": 1.147,
+      "firstMoverWinPct": 97.97,
+      "aWinPct": 50.1,
+      "compNeededPct": 0.42,
+      "noWoundPct": 7.36,
+      "meanRecoveryActions": 0.001,
+      "recoveryBandGainPct": 0,
+      "meanRecovered": 0,
+      "meanWounded": 15.006
+    },
+    {
+      "config": {
+        "id": "exposed",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0,
+            "mitigation": 0,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0,
+            "mitigation": 0,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          }
+        ],
+        "complication": "output-only-control",
+        "policy": "attack"
+      },
+      "opening": [
+        {
+          "attacker": 0,
+          "attackRating": 180,
+          "opposingDefenseRating": 29,
+          "mitigation": 0,
+          "offensiveFirstShotDownPct": 83.86578963836796,
+          "anyWoundPct": 98.8609925596523,
+          "meanWounded": 12.849346572800142
+        },
+        {
+          "attacker": 1,
+          "attackRating": 180,
+          "opposingDefenseRating": 29,
+          "mitigation": 0,
+          "offensiveFirstShotDownPct": 83.86578963836796,
+          "anyWoundPct": 98.8609925596523,
+          "meanWounded": 12.849346572800142
+        }
+      ],
+      "trials": 20000,
+      "outcomes": {
+        "A": 10022,
+        "B": 9978,
+        "both": 0,
+        "censored": 0
+      },
+      "median": 1,
+      "p90": 2,
+      "meanResolved": 1.151,
+      "firstMoverWinPct": 98.09,
+      "aWinPct": 50.11,
+      "compNeededPct": 0,
+      "noWoundPct": 7.35,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanWounded": 15.059
+    },
+    {
+      "config": {
+        "id": "mitigation-1",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0,
+            "mitigation": 1,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0,
+            "mitigation": 1,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "attack"
+      },
+      "opening": [
+        {
+          "attacker": 0,
+          "attackRating": 180,
+          "opposingDefenseRating": 29,
+          "mitigation": 1,
+          "offensiveFirstShotDownPct": 73.91430448985308,
+          "anyWoundPct": 98.80456681707805,
+          "meanWounded": 11.8607366472036
+        },
+        {
+          "attacker": 1,
+          "attackRating": 180,
+          "opposingDefenseRating": 29,
+          "mitigation": 1,
+          "offensiveFirstShotDownPct": 73.91430448985308,
+          "anyWoundPct": 98.80456681707805,
+          "meanWounded": 11.8607366472036
+        }
+      ],
+      "trials": 20000,
+      "outcomes": {
+        "A": 9973,
+        "B": 10026,
+        "both": 1,
+        "censored": 0
+      },
+      "median": 1,
+      "p90": 2,
+      "meanResolved": 1.248,
+      "firstMoverWinPct": 97.01,
+      "aWinPct": 49.87,
+      "compNeededPct": 0.62,
+      "noWoundPct": 11.84,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanWounded": 15.124
+    },
+    {
+      "config": {
+        "id": "mitigation-1",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0,
+            "mitigation": 1,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0,
+            "mitigation": 1,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "recover-band"
+      },
+      "opening": [
+        {
+          "attacker": 0,
+          "attackRating": 180,
+          "opposingDefenseRating": 29,
+          "mitigation": 1,
+          "offensiveFirstShotDownPct": 73.91430448985308,
+          "anyWoundPct": 98.80456681707805,
+          "meanWounded": 11.8607366472036
+        },
+        {
+          "attacker": 1,
+          "attackRating": 180,
+          "opposingDefenseRating": 29,
+          "mitigation": 1,
+          "offensiveFirstShotDownPct": 73.91430448985308,
+          "anyWoundPct": 98.80456681707805,
+          "meanWounded": 11.8607366472036
+        }
+      ],
+      "trials": 20000,
+      "outcomes": {
+        "A": 9972,
+        "B": 10027,
+        "both": 1,
+        "censored": 0
+      },
+      "median": 1,
+      "p90": 2,
+      "meanResolved": 1.248,
+      "firstMoverWinPct": 96.98,
+      "aWinPct": 49.86,
+      "compNeededPct": 0.62,
+      "noWoundPct": 11.83,
+      "meanRecoveryActions": 0.001,
+      "recoveryBandGainPct": 0,
+      "meanRecovered": 0,
+      "meanWounded": 15.123
+    },
+    {
+      "config": {
+        "id": "mitigation-1",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0,
+            "mitigation": 1,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0,
+            "mitigation": 1,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          }
+        ],
+        "complication": "output-only-control",
+        "policy": "attack"
+      },
+      "opening": [
+        {
+          "attacker": 0,
+          "attackRating": 180,
+          "opposingDefenseRating": 29,
+          "mitigation": 1,
+          "offensiveFirstShotDownPct": 73.91430448985308,
+          "anyWoundPct": 98.80456681707805,
+          "meanWounded": 11.8607366472036
+        },
+        {
+          "attacker": 1,
+          "attackRating": 180,
+          "opposingDefenseRating": 29,
+          "mitigation": 1,
+          "offensiveFirstShotDownPct": 73.91430448985308,
+          "anyWoundPct": 98.80456681707805,
+          "meanWounded": 11.8607366472036
+        }
+      ],
+      "trials": 20000,
+      "outcomes": {
+        "A": 9980,
+        "B": 10020,
+        "both": 0,
+        "censored": 0
+      },
+      "median": 1,
+      "p90": 2,
+      "meanResolved": 1.254,
+      "firstMoverWinPct": 97.19,
+      "aWinPct": 49.9,
+      "compNeededPct": 0,
+      "noWoundPct": 11.87,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanWounded": 15.194
+    },
+    {
+      "config": {
+        "id": "mitigation-2",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0,
+            "mitigation": 2,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0,
+            "mitigation": 2,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "attack"
+      },
+      "opening": [
+        {
+          "attacker": 0,
+          "attackRating": 180,
+          "opposingDefenseRating": 29,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 63.972720331437195,
+          "anyWoundPct": 98.73824008440478,
+          "meanWounded": 10.872690979032825
+        },
+        {
+          "attacker": 1,
+          "attackRating": 180,
+          "opposingDefenseRating": 29,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 63.972720331437195,
+          "anyWoundPct": 98.73824008440478,
+          "meanWounded": 10.872690979032825
+        }
+      ],
+      "trials": 20000,
+      "outcomes": {
+        "A": 9951,
+        "B": 10046,
+        "both": 3,
+        "censored": 0
+      },
+      "median": 1,
+      "p90": 2,
+      "meanResolved": 1.358,
+      "firstMoverWinPct": 96.13,
+      "aWinPct": 49.76,
+      "compNeededPct": 1,
+      "noWoundPct": 14.72,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanWounded": 15.039
+    },
+    {
+      "config": {
+        "id": "mitigation-2",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0,
+            "mitigation": 2,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0,
+            "mitigation": 2,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "recover-band"
+      },
+      "opening": [
+        {
+          "attacker": 0,
+          "attackRating": 180,
+          "opposingDefenseRating": 29,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 63.972720331437195,
+          "anyWoundPct": 98.73824008440478,
+          "meanWounded": 10.872690979032825
+        },
+        {
+          "attacker": 1,
+          "attackRating": 180,
+          "opposingDefenseRating": 29,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 63.972720331437195,
+          "anyWoundPct": 98.73824008440478,
+          "meanWounded": 10.872690979032825
+        }
+      ],
+      "trials": 20000,
+      "outcomes": {
+        "A": 9950,
+        "B": 10047,
+        "both": 3,
+        "censored": 0
+      },
+      "median": 1,
+      "p90": 2,
+      "meanResolved": 1.358,
+      "firstMoverWinPct": 96.08,
+      "aWinPct": 49.75,
+      "compNeededPct": 1,
+      "noWoundPct": 14.69,
+      "meanRecoveryActions": 0.002,
+      "recoveryBandGainPct": 0,
+      "meanRecovered": 0,
+      "meanWounded": 15.039
+    },
+    {
+      "config": {
+        "id": "mitigation-2",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0,
+            "mitigation": 2,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0,
+            "mitigation": 2,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          }
+        ],
+        "complication": "output-only-control",
+        "policy": "attack"
+      },
+      "opening": [
+        {
+          "attacker": 0,
+          "attackRating": 180,
+          "opposingDefenseRating": 29,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 63.972720331437195,
+          "anyWoundPct": 98.73824008440478,
+          "meanWounded": 10.872690979032825
+        },
+        {
+          "attacker": 1,
+          "attackRating": 180,
+          "opposingDefenseRating": 29,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 63.972720331437195,
+          "anyWoundPct": 98.73824008440478,
+          "meanWounded": 10.872690979032825
+        }
+      ],
+      "trials": 20000,
+      "outcomes": {
+        "A": 9957,
+        "B": 10043,
+        "both": 0,
+        "censored": 0
+      },
+      "median": 1,
+      "p90": 2,
+      "meanResolved": 1.37,
+      "firstMoverWinPct": 96.44,
+      "aWinPct": 49.79,
+      "compNeededPct": 0,
+      "noWoundPct": 14.9,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanWounded": 15.148
+    },
+    {
+      "config": {
+        "id": "defense-preparation-20",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0,
+            "mitigation": 0,
+            "defenseResonance": 0.2,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0,
+            "mitigation": 0,
+            "defenseResonance": 0.2,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "attack"
+      },
+      "opening": [
+        {
+          "attacker": 0,
+          "attackRating": 180,
+          "opposingDefenseRating": 35,
+          "mitigation": 0,
+          "offensiveFirstShotDownPct": 81.63411043084356,
+          "anyWoundPct": 98.82832527252793,
+          "meanWounded": 12.626420825204388
+        },
+        {
+          "attacker": 1,
+          "attackRating": 180,
+          "opposingDefenseRating": 35,
+          "mitigation": 0,
+          "offensiveFirstShotDownPct": 81.63411043084356,
+          "anyWoundPct": 98.82832527252793,
+          "meanWounded": 12.626420825204388
+        }
+      ],
+      "trials": 20000,
+      "outcomes": {
+        "A": 9954,
+        "B": 10045,
+        "both": 1,
+        "censored": 0
+      },
+      "median": 1,
+      "p90": 2,
+      "meanResolved": 1.17,
+      "firstMoverWinPct": 97.76,
+      "aWinPct": 49.77,
+      "compNeededPct": 0.47,
+      "noWoundPct": 8.02,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanWounded": 15.071
+    },
+    {
+      "config": {
+        "id": "defense-preparation-20",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0,
+            "mitigation": 0,
+            "defenseResonance": 0.2,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0,
+            "mitigation": 0,
+            "defenseResonance": 0.2,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "recover-band"
+      },
+      "opening": [
+        {
+          "attacker": 0,
+          "attackRating": 180,
+          "opposingDefenseRating": 35,
+          "mitigation": 0,
+          "offensiveFirstShotDownPct": 81.63411043084356,
+          "anyWoundPct": 98.82832527252793,
+          "meanWounded": 12.626420825204388
+        },
+        {
+          "attacker": 1,
+          "attackRating": 180,
+          "opposingDefenseRating": 35,
+          "mitigation": 0,
+          "offensiveFirstShotDownPct": 81.63411043084356,
+          "anyWoundPct": 98.82832527252793,
+          "meanWounded": 12.626420825204388
+        }
+      ],
+      "trials": 20000,
+      "outcomes": {
+        "A": 9957,
+        "B": 10042,
+        "both": 1,
+        "censored": 0
+      },
+      "median": 1,
+      "p90": 2,
+      "meanResolved": 1.171,
+      "firstMoverWinPct": 97.72,
+      "aWinPct": 49.79,
+      "compNeededPct": 0.47,
+      "noWoundPct": 8.08,
+      "meanRecoveryActions": 0.002,
+      "recoveryBandGainPct": 0,
+      "meanRecovered": 0,
+      "meanWounded": 15.071
+    },
+    {
+      "config": {
+        "id": "defense-preparation-20",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0,
+            "mitigation": 0,
+            "defenseResonance": 0.2,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0,
+            "mitigation": 0,
+            "defenseResonance": 0.2,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          }
+        ],
+        "complication": "output-only-control",
+        "policy": "attack"
+      },
+      "opening": [
+        {
+          "attacker": 0,
+          "attackRating": 180,
+          "opposingDefenseRating": 35,
+          "mitigation": 0,
+          "offensiveFirstShotDownPct": 81.63411043084356,
+          "anyWoundPct": 98.82832527252793,
+          "meanWounded": 12.626420825204388
+        },
+        {
+          "attacker": 1,
+          "attackRating": 180,
+          "opposingDefenseRating": 35,
+          "mitigation": 0,
+          "offensiveFirstShotDownPct": 81.63411043084356,
+          "anyWoundPct": 98.82832527252793,
+          "meanWounded": 12.626420825204388
+        }
+      ],
+      "trials": 20000,
+      "outcomes": {
+        "A": 9964,
+        "B": 10036,
+        "both": 0,
+        "censored": 0
+      },
+      "median": 1,
+      "p90": 2,
+      "meanResolved": 1.174,
+      "firstMoverWinPct": 97.89,
+      "aWinPct": 49.82,
+      "compNeededPct": 0,
+      "noWoundPct": 8.06,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanWounded": 15.133
+    },
+    {
+      "config": {
+        "id": "cover-20",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.2,
+            "mitigation": 0,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.2,
+            "mitigation": 0,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "attack"
+      },
+      "opening": [
+        {
+          "attacker": 0,
+          "attackRating": 144,
+          "opposingDefenseRating": 29,
+          "mitigation": 0,
+          "offensiveFirstShotDownPct": 48.08737373737125,
+          "anyWoundPct": 98.6107291927216,
+          "meanWounded": 9.291245214941533
+        },
+        {
+          "attacker": 1,
+          "attackRating": 144,
+          "opposingDefenseRating": 29,
+          "mitigation": 0,
+          "offensiveFirstShotDownPct": 48.08737373737125,
+          "anyWoundPct": 98.6107291927216,
+          "meanWounded": 9.291245214941533
+        }
+      ],
+      "trials": 20000,
+      "outcomes": {
+        "A": 9947,
+        "B": 10052,
+        "both": 1,
+        "censored": 0
+      },
+      "median": 1,
+      "p90": 2,
+      "meanResolved": 1.542,
+      "firstMoverWinPct": 91.53,
+      "aWinPct": 49.74,
+      "compNeededPct": 1.73,
+      "noWoundPct": 15.18,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanWounded": 14.931
+    },
+    {
+      "config": {
+        "id": "cover-20",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.2,
+            "mitigation": 0,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.2,
+            "mitigation": 0,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "recover-band"
+      },
+      "opening": [
+        {
+          "attacker": 0,
+          "attackRating": 144,
+          "opposingDefenseRating": 29,
+          "mitigation": 0,
+          "offensiveFirstShotDownPct": 48.08737373737125,
+          "anyWoundPct": 98.6107291927216,
+          "meanWounded": 9.291245214941533
+        },
+        {
+          "attacker": 1,
+          "attackRating": 144,
+          "opposingDefenseRating": 29,
+          "mitigation": 0,
+          "offensiveFirstShotDownPct": 48.08737373737125,
+          "anyWoundPct": 98.6107291927216,
+          "meanWounded": 9.291245214941533
+        }
+      ],
+      "trials": 20000,
+      "outcomes": {
+        "A": 9956,
+        "B": 10043,
+        "both": 1,
+        "censored": 0
+      },
+      "median": 1,
+      "p90": 2,
+      "meanResolved": 1.547,
+      "firstMoverWinPct": 91.37,
+      "aWinPct": 49.78,
+      "compNeededPct": 1.75,
+      "noWoundPct": 15.27,
+      "meanRecoveryActions": 0.01,
+      "recoveryBandGainPct": 2,
+      "meanRecovered": 0.001,
+      "meanWounded": 14.931
+    },
+    {
+      "config": {
+        "id": "cover-20",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.2,
+            "mitigation": 0,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.2,
+            "mitigation": 0,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          }
+        ],
+        "complication": "output-only-control",
+        "policy": "attack"
+      },
+      "opening": [
+        {
+          "attacker": 0,
+          "attackRating": 144,
+          "opposingDefenseRating": 29,
+          "mitigation": 0,
+          "offensiveFirstShotDownPct": 48.08737373737125,
+          "anyWoundPct": 98.6107291927216,
+          "meanWounded": 9.291245214941533
+        },
+        {
+          "attacker": 1,
+          "attackRating": 144,
+          "opposingDefenseRating": 29,
+          "mitigation": 0,
+          "offensiveFirstShotDownPct": 48.08737373737125,
+          "anyWoundPct": 98.6107291927216,
+          "meanWounded": 9.291245214941533
+        }
+      ],
+      "trials": 20000,
+      "outcomes": {
+        "A": 9940,
+        "B": 10060,
+        "both": 0,
+        "censored": 0
+      },
+      "median": 1,
+      "p90": 2,
+      "meanResolved": 1.561,
+      "firstMoverWinPct": 91.92,
+      "aWinPct": 49.7,
+      "compNeededPct": 0,
+      "noWoundPct": 15.25,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanWounded": 15.117
+    },
+    {
+      "config": {
+        "id": "cover-30",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.3,
+            "mitigation": 0,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.3,
+            "mitigation": 0,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "attack"
+      },
+      "opening": [
+        {
+          "attacker": 0,
+          "attackRating": 126,
+          "opposingDefenseRating": 29,
+          "mitigation": 0,
+          "offensiveFirstShotDownPct": 30.246185638363343,
+          "anyWoundPct": 98.20390841064146,
+          "meanWounded": 7.5209114220652085
+        },
+        {
+          "attacker": 1,
+          "attackRating": 126,
+          "opposingDefenseRating": 29,
+          "mitigation": 0,
+          "offensiveFirstShotDownPct": 30.246185638363343,
+          "anyWoundPct": 98.20390841064146,
+          "meanWounded": 7.5209114220652085
+        }
+      ],
+      "trials": 20000,
+      "outcomes": {
+        "A": 9933,
+        "B": 10062,
+        "both": 5,
+        "censored": 0
+      },
+      "median": 2,
+      "p90": 3,
+      "meanResolved": 1.838,
+      "firstMoverWinPct": 84.99,
+      "aWinPct": 49.67,
+      "compNeededPct": 2.79,
+      "noWoundPct": 19.42,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanWounded": 14.78
+    },
+    {
+      "config": {
+        "id": "cover-30",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.3,
+            "mitigation": 0,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.3,
+            "mitigation": 0,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "recover-band"
+      },
+      "opening": [
+        {
+          "attacker": 0,
+          "attackRating": 126,
+          "opposingDefenseRating": 29,
+          "mitigation": 0,
+          "offensiveFirstShotDownPct": 30.246185638363343,
+          "anyWoundPct": 98.20390841064146,
+          "meanWounded": 7.5209114220652085
+        },
+        {
+          "attacker": 1,
+          "attackRating": 126,
+          "opposingDefenseRating": 29,
+          "mitigation": 0,
+          "offensiveFirstShotDownPct": 30.246185638363343,
+          "anyWoundPct": 98.20390841064146,
+          "meanWounded": 7.5209114220652085
+        }
+      ],
+      "trials": 20000,
+      "outcomes": {
+        "A": 9934,
+        "B": 10061,
+        "both": 5,
+        "censored": 0
+      },
+      "median": 2,
+      "p90": 3,
+      "meanResolved": 1.844,
+      "firstMoverWinPct": 84.87,
+      "aWinPct": 49.67,
+      "compNeededPct": 2.81,
+      "noWoundPct": 19.46,
+      "meanRecoveryActions": 0.012,
+      "recoveryBandGainPct": 1.63,
+      "meanRecovered": 0.001,
+      "meanWounded": 14.782
+    },
+    {
+      "config": {
+        "id": "cover-30",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.3,
+            "mitigation": 0,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.3,
+            "mitigation": 0,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          }
+        ],
+        "complication": "output-only-control",
+        "policy": "attack"
+      },
+      "opening": [
+        {
+          "attacker": 0,
+          "attackRating": 126,
+          "opposingDefenseRating": 29,
+          "mitigation": 0,
+          "offensiveFirstShotDownPct": 30.246185638363343,
+          "anyWoundPct": 98.20390841064146,
+          "meanWounded": 7.5209114220652085
+        },
+        {
+          "attacker": 1,
+          "attackRating": 126,
+          "opposingDefenseRating": 29,
+          "mitigation": 0,
+          "offensiveFirstShotDownPct": 30.246185638363343,
+          "anyWoundPct": 98.20390841064146,
+          "meanWounded": 7.5209114220652085
+        }
+      ],
+      "trials": 20000,
+      "outcomes": {
+        "A": 9938,
+        "B": 10062,
+        "both": 0,
+        "censored": 0
+      },
+      "median": 2,
+      "p90": 3,
+      "meanResolved": 1.876,
+      "firstMoverWinPct": 85.42,
+      "aWinPct": 49.69,
+      "compNeededPct": 0,
+      "noWoundPct": 19.72,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanWounded": 15.032
+    },
+    {
+      "config": {
+        "id": "cover-50",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.5,
+            "mitigation": 0,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.5,
+            "mitigation": 0,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "attack"
+      },
+      "opening": [
+        {
+          "attacker": 0,
+          "attackRating": 90,
+          "opposingDefenseRating": 29,
+          "mitigation": 0,
+          "offensiveFirstShotDownPct": 0.9283093813342027,
+          "anyWoundPct": 83.86578963836796,
+          "meanWounded": 4.06137131967881
+        },
+        {
+          "attacker": 1,
+          "attackRating": 90,
+          "opposingDefenseRating": 29,
+          "mitigation": 0,
+          "offensiveFirstShotDownPct": 0.9283093813342027,
+          "anyWoundPct": 83.86578963836796,
+          "meanWounded": 4.06137131967881
+        }
+      ],
+      "trials": 20000,
+      "outcomes": {
+        "A": 9919,
+        "B": 10073,
+        "both": 8,
+        "censored": 0
+      },
+      "median": 3,
+      "p90": 5,
+      "meanResolved": 2.923,
+      "firstMoverWinPct": 67.84,
+      "aWinPct": 49.6,
+      "compNeededPct": 6.75,
+      "noWoundPct": 36.66,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanWounded": 14.163
+    },
+    {
+      "config": {
+        "id": "cover-50",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.5,
+            "mitigation": 0,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.5,
+            "mitigation": 0,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "recover-band"
+      },
+      "opening": [
+        {
+          "attacker": 0,
+          "attackRating": 90,
+          "opposingDefenseRating": 29,
+          "mitigation": 0,
+          "offensiveFirstShotDownPct": 0.9283093813342027,
+          "anyWoundPct": 83.86578963836796,
+          "meanWounded": 4.06137131967881
+        },
+        {
+          "attacker": 1,
+          "attackRating": 90,
+          "opposingDefenseRating": 29,
+          "mitigation": 0,
+          "offensiveFirstShotDownPct": 0.9283093813342027,
+          "anyWoundPct": 83.86578963836796,
+          "meanWounded": 4.06137131967881
+        }
+      ],
+      "trials": 20000,
+      "outcomes": {
+        "A": 9923,
+        "B": 10069,
+        "both": 8,
+        "censored": 0
+      },
+      "median": 3,
+      "p90": 5,
+      "meanResolved": 2.945,
+      "firstMoverWinPct": 67.62,
+      "aWinPct": 49.62,
+      "compNeededPct": 6.78,
+      "noWoundPct": 36.62,
+      "meanRecoveryActions": 0.053,
+      "recoveryBandGainPct": 1.52,
+      "meanRecovered": 0.003,
+      "meanWounded": 14.16
+    },
+    {
+      "config": {
+        "id": "cover-50",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.5,
+            "mitigation": 0,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.5,
+            "mitigation": 0,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          }
+        ],
+        "complication": "output-only-control",
+        "policy": "attack"
+      },
+      "opening": [
+        {
+          "attacker": 0,
+          "attackRating": 90,
+          "opposingDefenseRating": 29,
+          "mitigation": 0,
+          "offensiveFirstShotDownPct": 0.9283093813342027,
+          "anyWoundPct": 83.86578963836796,
+          "meanWounded": 4.06137131967881
+        },
+        {
+          "attacker": 1,
+          "attackRating": 90,
+          "opposingDefenseRating": 29,
+          "mitigation": 0,
+          "offensiveFirstShotDownPct": 0.9283093813342027,
+          "anyWoundPct": 83.86578963836796,
+          "meanWounded": 4.06137131967881
+        }
+      ],
+      "trials": 20000,
+      "outcomes": {
+        "A": 9903,
+        "B": 10097,
+        "both": 0,
+        "censored": 0
+      },
+      "median": 3,
+      "p90": 5,
+      "meanResolved": 3.072,
+      "firstMoverWinPct": 68.89,
+      "aWinPct": 49.52,
+      "compNeededPct": 0,
+      "noWoundPct": 37.14,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanWounded": 14.77
+    },
+    {
+      "config": {
+        "id": "cover-30-armor-2",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.3,
+            "mitigation": 2,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.3,
+            "mitigation": 2,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "attack"
+      },
+      "opening": [
+        {
+          "attacker": 0,
+          "attackRating": 126,
+          "opposingDefenseRating": 29,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 12.126385618561908,
+          "anyWoundPct": 94.83955197499786,
+          "meanWounded": 5.568704540981099
+        },
+        {
+          "attacker": 1,
+          "attackRating": 126,
+          "opposingDefenseRating": 29,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 12.126385618561908,
+          "anyWoundPct": 94.83955197499786,
+          "meanWounded": 5.568704540981099
+        }
+      ],
+      "trials": 20000,
+      "outcomes": {
+        "A": 9933,
+        "B": 10066,
+        "both": 1,
+        "censored": 0
+      },
+      "median": 2,
+      "p90": 4,
+      "meanResolved": 2.353,
+      "firstMoverWinPct": 77.25,
+      "aWinPct": 49.67,
+      "compNeededPct": 4.3,
+      "noWoundPct": 31.31,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanWounded": 14.121
+    },
+    {
+      "config": {
+        "id": "cover-30-armor-2",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.3,
+            "mitigation": 2,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.3,
+            "mitigation": 2,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "recover-band"
+      },
+      "opening": [
+        {
+          "attacker": 0,
+          "attackRating": 126,
+          "opposingDefenseRating": 29,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 12.126385618561908,
+          "anyWoundPct": 94.83955197499786,
+          "meanWounded": 5.568704540981099
+        },
+        {
+          "attacker": 1,
+          "attackRating": 126,
+          "opposingDefenseRating": 29,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 12.126385618561908,
+          "anyWoundPct": 94.83955197499786,
+          "meanWounded": 5.568704540981099
+        }
+      ],
+      "trials": 20000,
+      "outcomes": {
+        "A": 9926,
+        "B": 10073,
+        "both": 1,
+        "censored": 0
+      },
+      "median": 2,
+      "p90": 4,
+      "meanResolved": 2.373,
+      "firstMoverWinPct": 77.08,
+      "aWinPct": 49.63,
+      "compNeededPct": 4.36,
+      "noWoundPct": 31.34,
+      "meanRecoveryActions": 0.042,
+      "recoveryBandGainPct": 0.72,
+      "meanRecovered": 0.001,
+      "meanWounded": 14.118
+    },
+    {
+      "config": {
+        "id": "cover-30-armor-2",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.3,
+            "mitigation": 2,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.3,
+            "mitigation": 2,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          }
+        ],
+        "complication": "output-only-control",
+        "policy": "attack"
+      },
+      "opening": [
+        {
+          "attacker": 0,
+          "attackRating": 126,
+          "opposingDefenseRating": 29,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 12.126385618561908,
+          "anyWoundPct": 94.83955197499786,
+          "meanWounded": 5.568704540981099
+        },
+        {
+          "attacker": 1,
+          "attackRating": 126,
+          "opposingDefenseRating": 29,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 12.126385618561908,
+          "anyWoundPct": 94.83955197499786,
+          "meanWounded": 5.568704540981099
+        }
+      ],
+      "trials": 20000,
+      "outcomes": {
+        "A": 9950,
+        "B": 10050,
+        "both": 0,
+        "censored": 0
+      },
+      "median": 2,
+      "p90": 4,
+      "meanResolved": 2.437,
+      "firstMoverWinPct": 77.87,
+      "aWinPct": 49.75,
+      "compNeededPct": 0,
+      "noWoundPct": 32,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanWounded": 14.488
+    },
+    {
+      "config": {
+        "id": "cover-30-armor-2-prepared",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.3,
+            "mitigation": 2,
+            "defenseResonance": 0.2,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.3,
+            "mitigation": 2,
+            "defenseResonance": 0.2,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "attack"
+      },
+      "opening": [
+        {
+          "attacker": 0,
+          "attackRating": 126,
+          "opposingDefenseRating": 35,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 11.212920311635163,
+          "anyWoundPct": 93.01836781697837,
+          "meanWounded": 5.368027320247962
+        },
+        {
+          "attacker": 1,
+          "attackRating": 126,
+          "opposingDefenseRating": 35,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 11.212920311635163,
+          "anyWoundPct": 93.01836781697837,
+          "meanWounded": 5.368027320247962
+        }
+      ],
+      "trials": 20000,
+      "outcomes": {
+        "A": 9998,
+        "B": 9999,
+        "both": 3,
+        "censored": 0
+      },
+      "median": 2,
+      "p90": 4,
+      "meanResolved": 2.398,
+      "firstMoverWinPct": 75.75,
+      "aWinPct": 49.99,
+      "compNeededPct": 4.24,
+      "noWoundPct": 32.08,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanWounded": 14.17
+    },
+    {
+      "config": {
+        "id": "cover-30-armor-2-prepared",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.3,
+            "mitigation": 2,
+            "defenseResonance": 0.2,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.3,
+            "mitigation": 2,
+            "defenseResonance": 0.2,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "recover-band"
+      },
+      "opening": [
+        {
+          "attacker": 0,
+          "attackRating": 126,
+          "opposingDefenseRating": 35,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 11.212920311635163,
+          "anyWoundPct": 93.01836781697837,
+          "meanWounded": 5.368027320247962
+        },
+        {
+          "attacker": 1,
+          "attackRating": 126,
+          "opposingDefenseRating": 35,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 11.212920311635163,
+          "anyWoundPct": 93.01836781697837,
+          "meanWounded": 5.368027320247962
+        }
+      ],
+      "trials": 20000,
+      "outcomes": {
+        "A": 10001,
+        "B": 9996,
+        "both": 3,
+        "censored": 0
+      },
+      "median": 2,
+      "p90": 4,
+      "meanResolved": 2.44,
+      "firstMoverWinPct": 75.52,
+      "aWinPct": 50.01,
+      "compNeededPct": 4.36,
+      "noWoundPct": 32.43,
+      "meanRecoveryActions": 0.066,
+      "recoveryBandGainPct": 1.52,
+      "meanRecovered": 0.004,
+      "meanWounded": 14.169
+    },
+    {
+      "config": {
+        "id": "cover-30-armor-2-prepared",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.3,
+            "mitigation": 2,
+            "defenseResonance": 0.2,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.3,
+            "mitigation": 2,
+            "defenseResonance": 0.2,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          }
+        ],
+        "complication": "output-only-control",
+        "policy": "attack"
+      },
+      "opening": [
+        {
+          "attacker": 0,
+          "attackRating": 126,
+          "opposingDefenseRating": 35,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 11.212920311635163,
+          "anyWoundPct": 93.01836781697837,
+          "meanWounded": 5.368027320247962
+        },
+        {
+          "attacker": 1,
+          "attackRating": 126,
+          "opposingDefenseRating": 35,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 11.212920311635163,
+          "anyWoundPct": 93.01836781697837,
+          "meanWounded": 5.368027320247962
+        }
+      ],
+      "trials": 20000,
+      "outcomes": {
+        "A": 9998,
+        "B": 10002,
+        "both": 0,
+        "censored": 0
+      },
+      "median": 2,
+      "p90": 4,
+      "meanResolved": 2.475,
+      "firstMoverWinPct": 76.21,
+      "aWinPct": 49.99,
+      "compNeededPct": 0,
+      "noWoundPct": 32.63,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanWounded": 14.53
+    },
+    {
+      "config": {
+        "id": "cover-50-armor-2-prepared",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.5,
+            "mitigation": 2,
+            "defenseResonance": 0.2,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.5,
+            "mitigation": 2,
+            "defenseResonance": 0.2,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "attack"
+      },
+      "opening": [
+        {
+          "attacker": 0,
+          "attackRating": 90,
+          "opposingDefenseRating": 35,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 0.706949024902485,
+          "anyWoundPct": 61.75292231203162,
+          "meanWounded": 2.3591025197877893
+        },
+        {
+          "attacker": 1,
+          "attackRating": 90,
+          "opposingDefenseRating": 35,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 0.706949024902485,
+          "anyWoundPct": 61.75292231203162,
+          "meanWounded": 2.3591025197877893
+        }
+      ],
+      "trials": 20000,
+      "outcomes": {
+        "A": 10023,
+        "B": 9963,
+        "both": 14,
+        "censored": 0
+      },
+      "median": 4,
+      "p90": 8,
+      "meanResolved": 4.436,
+      "firstMoverWinPct": 60.8,
+      "aWinPct": 50.12,
+      "compNeededPct": 11.39,
+      "noWoundPct": 56.2,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanWounded": 12.741
+    },
+    {
+      "config": {
+        "id": "cover-50-armor-2-prepared",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.5,
+            "mitigation": 2,
+            "defenseResonance": 0.2,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.5,
+            "mitigation": 2,
+            "defenseResonance": 0.2,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "recover-band"
+      },
+      "opening": [
+        {
+          "attacker": 0,
+          "attackRating": 90,
+          "opposingDefenseRating": 35,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 0.706949024902485,
+          "anyWoundPct": 61.75292231203162,
+          "meanWounded": 2.3591025197877893
+        },
+        {
+          "attacker": 1,
+          "attackRating": 90,
+          "opposingDefenseRating": 35,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 0.706949024902485,
+          "anyWoundPct": 61.75292231203162,
+          "meanWounded": 2.3591025197877893
+        }
+      ],
+      "trials": 20000,
+      "outcomes": {
+        "A": 10042,
+        "B": 9944,
+        "both": 14,
+        "censored": 0
+      },
+      "median": 4,
+      "p90": 8,
+      "meanResolved": 4.514,
+      "firstMoverWinPct": 60.65,
+      "aWinPct": 50.21,
+      "compNeededPct": 11.42,
+      "noWoundPct": 56.04,
+      "meanRecoveryActions": 0.196,
+      "recoveryBandGainPct": 1.76,
+      "meanRecovered": 0.013,
+      "meanWounded": 12.74
+    },
+    {
+      "config": {
+        "id": "cover-50-armor-2-prepared",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.5,
+            "mitigation": 2,
+            "defenseResonance": 0.2,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.5,
+            "mitigation": 2,
+            "defenseResonance": 0.2,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          }
+        ],
+        "complication": "output-only-control",
+        "policy": "attack"
+      },
+      "opening": [
+        {
+          "attacker": 0,
+          "attackRating": 90,
+          "opposingDefenseRating": 35,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 0.706949024902485,
+          "anyWoundPct": 61.75292231203162,
+          "meanWounded": 2.3591025197877893
+        },
+        {
+          "attacker": 1,
+          "attackRating": 90,
+          "opposingDefenseRating": 35,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 0.706949024902485,
+          "anyWoundPct": 61.75292231203162,
+          "meanWounded": 2.3591025197877893
+        }
+      ],
+      "trials": 20000,
+      "outcomes": {
+        "A": 10037,
+        "B": 9963,
+        "both": 0,
+        "censored": 0
+      },
+      "median": 4,
+      "p90": 8,
+      "meanResolved": 4.859,
+      "firstMoverWinPct": 61.55,
+      "aWinPct": 50.19,
+      "compNeededPct": 0,
+      "noWoundPct": 57.04,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanWounded": 13.687
+    },
+    {
+      "config": {
+        "id": "cover-30-armor-2-both-preparations",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.3,
+            "mitigation": 2,
+            "defenseResonance": 0.2,
+            "attackResonance": 0.2,
+            "disruptPreparation": true
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.3,
+            "mitigation": 2,
+            "defenseResonance": 0.2,
+            "attackResonance": 0.2,
+            "disruptPreparation": true
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "attack"
+      },
+      "opening": [
+        {
+          "attacker": 0,
+          "attackRating": 162,
+          "opposingDefenseRating": 35,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 43.89371431203257,
+          "anyWoundPct": 98.53805992520232,
+          "meanWounded": 8.86855301941582
+        },
+        {
+          "attacker": 1,
+          "attackRating": 162,
+          "opposingDefenseRating": 35,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 43.89371431203257,
+          "anyWoundPct": 98.53805992520232,
+          "meanWounded": 8.86855301941582
+        }
+      ],
+      "trials": 20000,
+      "outcomes": {
+        "A": 10021,
+        "B": 9977,
+        "both": 2,
+        "censored": 0
+      },
+      "median": 2,
+      "p90": 2,
+      "meanResolved": 1.607,
+      "firstMoverWinPct": 90.92,
+      "aWinPct": 50.11,
+      "compNeededPct": 1.85,
+      "noWoundPct": 19.04,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanWounded": 14.838
+    },
+    {
+      "config": {
+        "id": "cover-30-armor-2-both-preparations",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.3,
+            "mitigation": 2,
+            "defenseResonance": 0.2,
+            "attackResonance": 0.2,
+            "disruptPreparation": true
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.3,
+            "mitigation": 2,
+            "defenseResonance": 0.2,
+            "attackResonance": 0.2,
+            "disruptPreparation": true
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "recover-band"
+      },
+      "opening": [
+        {
+          "attacker": 0,
+          "attackRating": 162,
+          "opposingDefenseRating": 35,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 43.89371431203257,
+          "anyWoundPct": 98.53805992520232,
+          "meanWounded": 8.86855301941582
+        },
+        {
+          "attacker": 1,
+          "attackRating": 162,
+          "opposingDefenseRating": 35,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 43.89371431203257,
+          "anyWoundPct": 98.53805992520232,
+          "meanWounded": 8.86855301941582
+        }
+      ],
+      "trials": 20000,
+      "outcomes": {
+        "A": 10025,
+        "B": 9973,
+        "both": 2,
+        "censored": 0
+      },
+      "median": 2,
+      "p90": 2,
+      "meanResolved": 1.61,
+      "firstMoverWinPct": 90.87,
+      "aWinPct": 50.13,
+      "compNeededPct": 1.86,
+      "noWoundPct": 18.96,
+      "meanRecoveryActions": 0.009,
+      "recoveryBandGainPct": 3.76,
+      "meanRecovered": 0.001,
+      "meanWounded": 14.841
+    },
+    {
+      "config": {
+        "id": "cover-30-armor-2-both-preparations",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.3,
+            "mitigation": 2,
+            "defenseResonance": 0.2,
+            "attackResonance": 0.2,
+            "disruptPreparation": true
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.3,
+            "mitigation": 2,
+            "defenseResonance": 0.2,
+            "attackResonance": 0.2,
+            "disruptPreparation": true
+          }
+        ],
+        "complication": "output-only-control",
+        "policy": "attack"
+      },
+      "opening": [
+        {
+          "attacker": 0,
+          "attackRating": 162,
+          "opposingDefenseRating": 35,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 43.89371431203257,
+          "anyWoundPct": 98.53805992520232,
+          "meanWounded": 8.86855301941582
+        },
+        {
+          "attacker": 1,
+          "attackRating": 162,
+          "opposingDefenseRating": 35,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 43.89371431203257,
+          "anyWoundPct": 98.53805992520232,
+          "meanWounded": 8.86855301941582
+        }
+      ],
+      "trials": 20000,
+      "outcomes": {
+        "A": 10022,
+        "B": 9978,
+        "both": 0,
+        "censored": 0
+      },
+      "median": 2,
+      "p90": 2,
+      "meanResolved": 1.626,
+      "firstMoverWinPct": 91.3,
+      "aWinPct": 50.11,
+      "compNeededPct": 0,
+      "noWoundPct": 19.04,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanWounded": 15.02
+    },
+    {
+      "config": {
+        "id": "cover-50-armor-2-both-preparations",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.5,
+            "mitigation": 2,
+            "defenseResonance": 0.2,
+            "attackResonance": 0.2,
+            "disruptPreparation": true
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.5,
+            "mitigation": 2,
+            "defenseResonance": 0.2,
+            "attackResonance": 0.2,
+            "disruptPreparation": true
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "attack"
+      },
+      "opening": [
+        {
+          "attacker": 0,
+          "attackRating": 126,
+          "opposingDefenseRating": 35,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 11.212920311635163,
+          "anyWoundPct": 93.01836781697837,
+          "meanWounded": 5.368027320247962
+        },
+        {
+          "attacker": 1,
+          "attackRating": 126,
+          "opposingDefenseRating": 35,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 11.212920311635163,
+          "anyWoundPct": 93.01836781697837,
+          "meanWounded": 5.368027320247962
+        }
+      ],
+      "trials": 20000,
+      "outcomes": {
+        "A": 9952,
+        "B": 10046,
+        "both": 2,
+        "censored": 0
+      },
+      "median": 2,
+      "p90": 4,
+      "meanResolved": 2.399,
+      "firstMoverWinPct": 75.49,
+      "aWinPct": 49.76,
+      "compNeededPct": 4.29,
+      "noWoundPct": 32.15,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanWounded": 14.158
+    },
+    {
+      "config": {
+        "id": "cover-50-armor-2-both-preparations",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.5,
+            "mitigation": 2,
+            "defenseResonance": 0.2,
+            "attackResonance": 0.2,
+            "disruptPreparation": true
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.5,
+            "mitigation": 2,
+            "defenseResonance": 0.2,
+            "attackResonance": 0.2,
+            "disruptPreparation": true
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "recover-band"
+      },
+      "opening": [
+        {
+          "attacker": 0,
+          "attackRating": 126,
+          "opposingDefenseRating": 35,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 11.212920311635163,
+          "anyWoundPct": 93.01836781697837,
+          "meanWounded": 5.368027320247962
+        },
+        {
+          "attacker": 1,
+          "attackRating": 126,
+          "opposingDefenseRating": 35,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 11.212920311635163,
+          "anyWoundPct": 93.01836781697837,
+          "meanWounded": 5.368027320247962
+        }
+      ],
+      "trials": 20000,
+      "outcomes": {
+        "A": 9963,
+        "B": 10035,
+        "both": 2,
+        "censored": 0
+      },
+      "median": 2,
+      "p90": 4,
+      "meanResolved": 2.42,
+      "firstMoverWinPct": 75.39,
+      "aWinPct": 49.82,
+      "compNeededPct": 4.32,
+      "noWoundPct": 32.04,
+      "meanRecoveryActions": 0.051,
+      "recoveryBandGainPct": 1.27,
+      "meanRecovered": 0.002,
+      "meanWounded": 14.155
+    },
+    {
+      "config": {
+        "id": "cover-50-armor-2-both-preparations",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.5,
+            "mitigation": 2,
+            "defenseResonance": 0.2,
+            "attackResonance": 0.2,
+            "disruptPreparation": true
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.5,
+            "mitigation": 2,
+            "defenseResonance": 0.2,
+            "attackResonance": 0.2,
+            "disruptPreparation": true
+          }
+        ],
+        "complication": "output-only-control",
+        "policy": "attack"
+      },
+      "opening": [
+        {
+          "attacker": 0,
+          "attackRating": 126,
+          "opposingDefenseRating": 35,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 11.212920311635163,
+          "anyWoundPct": 93.01836781697837,
+          "meanWounded": 5.368027320247962
+        },
+        {
+          "attacker": 1,
+          "attackRating": 126,
+          "opposingDefenseRating": 35,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 11.212920311635163,
+          "anyWoundPct": 93.01836781697837,
+          "meanWounded": 5.368027320247962
+        }
+      ],
+      "trials": 20000,
+      "outcomes": {
+        "A": 9985,
+        "B": 10015,
+        "both": 0,
+        "censored": 0
+      },
+      "median": 2,
+      "p90": 4,
+      "meanResolved": 2.464,
+      "firstMoverWinPct": 76.13,
+      "aWinPct": 49.93,
+      "compNeededPct": 0,
+      "noWoundPct": 32.19,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanWounded": 14.539
+    },
+    {
+      "config": {
+        "id": "narrow-defense-cover-30-armor-2",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 91.16351999999999,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.3,
+            "mitigation": 2,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 91.16351999999999,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.3,
+            "mitigation": 2,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "attack"
+      },
+      "opening": [
+        {
+          "attacker": 0,
+          "attackRating": 126,
+          "opposingDefenseRating": 91,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 2.5202469848965183,
+          "anyWoundPct": 59.32093613321591,
+          "meanWounded": 2.5723966294159886
+        },
+        {
+          "attacker": 1,
+          "attackRating": 126,
+          "opposingDefenseRating": 91,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 2.5202469848965183,
+          "anyWoundPct": 59.32093613321591,
+          "meanWounded": 2.5723966294159886
+        }
+      ],
+      "trials": 20000,
+      "outcomes": {
+        "A": 9877,
+        "B": 10123,
+        "both": 0,
+        "censored": 0
+      },
+      "median": 3,
+      "p90": 5,
+      "meanResolved": 3.229,
+      "firstMoverWinPct": 61.86,
+      "aWinPct": 49.39,
+      "compNeededPct": 4.22,
+      "noWoundPct": 47.91,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanWounded": 13.842
+    },
+    {
+      "config": {
+        "id": "narrow-defense-cover-30-armor-2",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 91.16351999999999,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.3,
+            "mitigation": 2,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 91.16351999999999,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.3,
+            "mitigation": 2,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "recover-band"
+      },
+      "opening": [
+        {
+          "attacker": 0,
+          "attackRating": 126,
+          "opposingDefenseRating": 91,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 2.5202469848965183,
+          "anyWoundPct": 59.32093613321591,
+          "meanWounded": 2.5723966294159886
+        },
+        {
+          "attacker": 1,
+          "attackRating": 126,
+          "opposingDefenseRating": 91,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 2.5202469848965183,
+          "anyWoundPct": 59.32093613321591,
+          "meanWounded": 2.5723966294159886
+        }
+      ],
+      "trials": 20000,
+      "outcomes": {
+        "A": 9883,
+        "B": 10117,
+        "both": 0,
+        "censored": 0
+      },
+      "median": 3,
+      "p90": 5,
+      "meanResolved": 3.314,
+      "firstMoverWinPct": 61.71,
+      "aWinPct": 49.42,
+      "compNeededPct": 4.4,
+      "noWoundPct": 48.05,
+      "meanRecoveryActions": 0.158,
+      "recoveryBandGainPct": 1.17,
+      "meanRecovered": 0.007,
+      "meanWounded": 13.837
+    },
+    {
+      "config": {
+        "id": "narrow-defense-cover-30-armor-2",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 91.16351999999999,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.3,
+            "mitigation": 2,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 91.16351999999999,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.3,
+            "mitigation": 2,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          }
+        ],
+        "complication": "output-only-control",
+        "policy": "attack"
+      },
+      "opening": [
+        {
+          "attacker": 0,
+          "attackRating": 126,
+          "opposingDefenseRating": 91,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 2.5202469848965183,
+          "anyWoundPct": 59.32093613321591,
+          "meanWounded": 2.5723966294159886
+        },
+        {
+          "attacker": 1,
+          "attackRating": 126,
+          "opposingDefenseRating": 91,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 2.5202469848965183,
+          "anyWoundPct": 59.32093613321591,
+          "meanWounded": 2.5723966294159886
+        }
+      ],
+      "trials": 20000,
+      "outcomes": {
+        "A": 9865,
+        "B": 10135,
+        "both": 0,
+        "censored": 0
+      },
+      "median": 3,
+      "p90": 5,
+      "meanResolved": 3.315,
+      "firstMoverWinPct": 62.03,
+      "aWinPct": 49.33,
+      "compNeededPct": 0,
+      "noWoundPct": 47.89,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanWounded": 14.259
+    },
+    {
+      "config": {
+        "id": "broad-D3-armor-2",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 58.91519999999999,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 0.3528,
+            "cover": 0,
+            "mitigation": 2,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          },
+          {
+            "id": "B",
+            "attack": 58.91519999999999,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 0.3528,
+            "cover": 0,
+            "mitigation": 2,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "attack"
+      },
+      "opening": [
+        {
+          "attacker": 0,
+          "attackRating": 20,
+          "opposingDefenseRating": 29,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 0.0664124006440451,
+          "anyWoundPct": 0.9283093813342027,
+          "meanWounded": 0.049048095580259646
+        },
+        {
+          "attacker": 1,
+          "attackRating": 20,
+          "opposingDefenseRating": 29,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 0.0664124006440451,
+          "anyWoundPct": 0.9283093813342027,
+          "meanWounded": 0.049048095580259646
+        }
+      ],
+      "trials": 20000,
+      "outcomes": {
+        "A": 10023,
+        "B": 9895,
+        "both": 82,
+        "censored": 0
+      },
+      "median": 21,
+      "p90": 62,
+      "meanResolved": 28.017,
+      "firstMoverWinPct": 49.33,
+      "aWinPct": 50.12,
+      "compNeededPct": 89.56,
+      "noWoundPct": 99.09,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanWounded": 2.638
+    },
+    {
+      "config": {
+        "id": "broad-D3-armor-2",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 58.91519999999999,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 0.3528,
+            "cover": 0,
+            "mitigation": 2,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          },
+          {
+            "id": "B",
+            "attack": 58.91519999999999,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 0.3528,
+            "cover": 0,
+            "mitigation": 2,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "recover-band"
+      },
+      "opening": [
+        {
+          "attacker": 0,
+          "attackRating": 20,
+          "opposingDefenseRating": 29,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 0.0664124006440451,
+          "anyWoundPct": 0.9283093813342027,
+          "meanWounded": 0.049048095580259646
+        },
+        {
+          "attacker": 1,
+          "attackRating": 20,
+          "opposingDefenseRating": 29,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 0.0664124006440451,
+          "anyWoundPct": 0.9283093813342027,
+          "meanWounded": 0.049048095580259646
+        }
+      ],
+      "trials": 20000,
+      "outcomes": {
+        "A": 9970,
+        "B": 9947,
+        "both": 83,
+        "censored": 0
+      },
+      "median": 21,
+      "p90": 66,
+      "meanResolved": 29.19,
+      "firstMoverWinPct": 49.35,
+      "aWinPct": 49.85,
+      "compNeededPct": 89.65,
+      "noWoundPct": 99.09,
+      "meanRecoveryActions": 4.891,
+      "recoveryBandGainPct": 1.08,
+      "meanRecovered": 0.262,
+      "meanWounded": 2.559
+    },
+    {
+      "config": {
+        "id": "broad-D3-armor-2",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 58.91519999999999,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 0.3528,
+            "cover": 0,
+            "mitigation": 2,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          },
+          {
+            "id": "B",
+            "attack": 58.91519999999999,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 0.3528,
+            "cover": 0,
+            "mitigation": 2,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          }
+        ],
+        "complication": "output-only-control",
+        "policy": "attack"
+      },
+      "opening": [
+        {
+          "attacker": 0,
+          "attackRating": 20,
+          "opposingDefenseRating": 29,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 0.0664124006440451,
+          "anyWoundPct": 0.9283093813342027,
+          "meanWounded": 0.049048095580259646
+        },
+        {
+          "attacker": 1,
+          "attackRating": 20,
+          "opposingDefenseRating": 29,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 0.0664124006440451,
+          "anyWoundPct": 0.9283093813342027,
+          "meanWounded": 0.049048095580259646
+        }
+      ],
+      "trials": 20000,
+      "outcomes": {
+        "A": 9921,
+        "B": 10079,
+        "both": 0,
+        "censored": 0
+      },
+      "median": 145,
+      "p90": 333,
+      "meanResolved": 170.438,
+      "firstMoverWinPct": 49.79,
+      "aWinPct": 49.61,
+      "compNeededPct": 0,
+      "noWoundPct": 99.1,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanWounded": 15.7
+    },
+    {
+      "config": {
+        "id": "broad-D3-cover-30-armor-2",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 58.91519999999999,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 0.3528,
+            "cover": 0.3,
+            "mitigation": 2,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          },
+          {
+            "id": "B",
+            "attack": 58.91519999999999,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 0.3528,
+            "cover": 0.3,
+            "mitigation": 2,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "attack"
+      },
+      "opening": [
+        {
+          "attacker": 0,
+          "attackRating": 14,
+          "opposingDefenseRating": 29,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 0.02364006400444101,
+          "anyWoundPct": 0.8685351233143414,
+          "meanWounded": 0.043358084838597176
+        },
+        {
+          "attacker": 1,
+          "attackRating": 14,
+          "opposingDefenseRating": 29,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 0.02364006400444101,
+          "anyWoundPct": 0.8685351233143414,
+          "meanWounded": 0.043358084838597176
+        }
+      ],
+      "trials": 20000,
+      "outcomes": {
+        "A": 9854,
+        "B": 10080,
+        "both": 66,
+        "censored": 0
+      },
+      "median": 20,
+      "p90": 62,
+      "meanResolved": 27.89,
+      "firstMoverWinPct": 50.01,
+      "aWinPct": 49.27,
+      "compNeededPct": 91.91,
+      "noWoundPct": 99.13,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanWounded": 2.375
+    },
+    {
+      "config": {
+        "id": "broad-D3-cover-30-armor-2",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 58.91519999999999,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 0.3528,
+            "cover": 0.3,
+            "mitigation": 2,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          },
+          {
+            "id": "B",
+            "attack": 58.91519999999999,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 0.3528,
+            "cover": 0.3,
+            "mitigation": 2,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "recover-band"
+      },
+      "opening": [
+        {
+          "attacker": 0,
+          "attackRating": 14,
+          "opposingDefenseRating": 29,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 0.02364006400444101,
+          "anyWoundPct": 0.8685351233143414,
+          "meanWounded": 0.043358084838597176
+        },
+        {
+          "attacker": 1,
+          "attackRating": 14,
+          "opposingDefenseRating": 29,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 0.02364006400444101,
+          "anyWoundPct": 0.8685351233143414,
+          "meanWounded": 0.043358084838597176
+        }
+      ],
+      "trials": 20000,
+      "outcomes": {
+        "A": 9940,
+        "B": 9996,
+        "both": 64,
+        "censored": 0
+      },
+      "median": 21,
+      "p90": 65,
+      "meanResolved": 28.966,
+      "firstMoverWinPct": 49.82,
+      "aWinPct": 49.7,
+      "compNeededPct": 91.97,
+      "noWoundPct": 99.12,
+      "meanRecoveryActions": 4.359,
+      "recoveryBandGainPct": 1.1,
+      "meanRecovered": 0.241,
+      "meanWounded": 2.322
+    },
+    {
+      "config": {
+        "id": "broad-D3-cover-30-armor-2",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 58.91519999999999,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 0.3528,
+            "cover": 0.3,
+            "mitigation": 2,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          },
+          {
+            "id": "B",
+            "attack": 58.91519999999999,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 0.3528,
+            "cover": 0.3,
+            "mitigation": 2,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          }
+        ],
+        "complication": "output-only-control",
+        "policy": "attack"
+      },
+      "opening": [
+        {
+          "attacker": 0,
+          "attackRating": 14,
+          "opposingDefenseRating": 29,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 0.02364006400444101,
+          "anyWoundPct": 0.8685351233143414,
+          "meanWounded": 0.043358084838597176
+        },
+        {
+          "attacker": 1,
+          "attackRating": 14,
+          "opposingDefenseRating": 29,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 0.02364006400444101,
+          "anyWoundPct": 0.8685351233143414,
+          "meanWounded": 0.043358084838597176
+        }
+      ],
+      "trials": 20000,
+      "outcomes": {
+        "A": 9885,
+        "B": 10114,
+        "both": 0,
+        "censored": 1
+      },
+      "median": 165,
+      "p90": 362,
+      "meanResolved": 190.001,
+      "firstMoverWinPct": 50.62,
+      "aWinPct": 49.43,
+      "compNeededPct": 0,
+      "noWoundPct": 99.14,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanWounded": 15.959
+    },
+    {
+      "config": {
+        "id": "exposed-v-protected",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0,
+            "mitigation": 0,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.3,
+            "mitigation": 2,
+            "defenseResonance": 0.2,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "attack"
+      },
+      "opening": [
+        {
+          "attacker": 0,
+          "attackRating": 126,
+          "opposingDefenseRating": 35,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 11.212920311635163,
+          "anyWoundPct": 93.01836781697837,
+          "meanWounded": 5.368027320247962
+        },
+        {
+          "attacker": 1,
+          "attackRating": 180,
+          "opposingDefenseRating": 29,
+          "mitigation": 0,
+          "offensiveFirstShotDownPct": 83.86578963836796,
+          "anyWoundPct": 98.8609925596523,
+          "meanWounded": 12.849346572800142
+        }
+      ],
+      "trials": 20000,
+      "outcomes": {
+        "A": 4405,
+        "B": 15594,
+        "both": 1,
+        "censored": 0
+      },
+      "median": 1,
+      "p90": 2,
+      "meanResolved": 1.44,
+      "firstMoverWinPct": 71.3,
+      "aWinPct": 22.03,
+      "compNeededPct": 1.67,
+      "noWoundPct": 17.24,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanWounded": 15.479
+    },
+    {
+      "config": {
+        "id": "exposed-v-protected",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0,
+            "mitigation": 0,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.3,
+            "mitigation": 2,
+            "defenseResonance": 0.2,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          }
+        ],
+        "complication": "recoverable-load",
+        "policy": "recover-band"
+      },
+      "opening": [
+        {
+          "attacker": 0,
+          "attackRating": 126,
+          "opposingDefenseRating": 35,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 11.212920311635163,
+          "anyWoundPct": 93.01836781697837,
+          "meanWounded": 5.368027320247962
+        },
+        {
+          "attacker": 1,
+          "attackRating": 180,
+          "opposingDefenseRating": 29,
+          "mitigation": 0,
+          "offensiveFirstShotDownPct": 83.86578963836796,
+          "anyWoundPct": 98.8609925596523,
+          "meanWounded": 12.849346572800142
+        }
+      ],
+      "trials": 20000,
+      "outcomes": {
+        "A": 4408,
+        "B": 15591,
+        "both": 1,
+        "censored": 0
+      },
+      "median": 1,
+      "p90": 2,
+      "meanResolved": 1.441,
+      "firstMoverWinPct": 71.27,
+      "aWinPct": 22.04,
+      "compNeededPct": 1.67,
+      "noWoundPct": 17.2,
+      "meanRecoveryActions": 0.004,
+      "recoveryBandGainPct": 0,
+      "meanRecovered": 0,
+      "meanWounded": 15.48
+    },
+    {
+      "config": {
+        "id": "exposed-v-protected",
+        "pair": [
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0,
+            "mitigation": 0,
+            "defenseResonance": 0,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          },
+          {
+            "id": "B",
+            "attack": 180.280512,
+            "defense": 29.791999999999994,
+            "recovery": 6,
+            "difficulty": 1,
+            "cover": 0.3,
+            "mitigation": 2,
+            "defenseResonance": 0.2,
+            "attackResonance": 0,
+            "disruptPreparation": true
+          }
+        ],
+        "complication": "output-only-control",
+        "policy": "attack"
+      },
+      "opening": [
+        {
+          "attacker": 0,
+          "attackRating": 126,
+          "opposingDefenseRating": 35,
+          "mitigation": 2,
+          "offensiveFirstShotDownPct": 11.212920311635163,
+          "anyWoundPct": 93.01836781697837,
+          "meanWounded": 5.368027320247962
+        },
+        {
+          "attacker": 1,
+          "attackRating": 180,
+          "opposingDefenseRating": 29,
+          "mitigation": 0,
+          "offensiveFirstShotDownPct": 83.86578963836796,
+          "anyWoundPct": 98.8609925596523,
+          "meanWounded": 12.849346572800142
+        }
+      ],
+      "trials": 20000,
+      "outcomes": {
+        "A": 4333,
+        "B": 15667,
+        "both": 0,
+        "censored": 0
+      },
+      "median": 1,
+      "p90": 2,
+      "meanResolved": 1.457,
+      "firstMoverWinPct": 71.04,
+      "aWinPct": 21.67,
+      "compNeededPct": 0,
+      "noWoundPct": 17.47,
+      "meanRecoveryActions": 0,
+      "recoveryBandGainPct": null,
+      "meanRecovered": 0,
+      "meanWounded": 15.645
+    }
+  ]
+}

@@ -1,0 +1,1888 @@
+{
+  "status": "Package 2 independent and factorial review; no adoption, refunds, repricing or award changes.",
+  "input": "lens-additive-foundation-review-v0.1.results.json",
+  "hash": "b83d59d1dde4e96639d5de511750db1c31512d640c0a5e7005c1a16cd441a4d2",
+  "costRows": [
+    {
+      "axes": [
+        0
+      ],
+      "current": 40,
+      "candidate": 40,
+      "savings": 0,
+      "currentSessions14": 3,
+      "candidateSessions14": 3
+    },
+    {
+      "axes": [
+        1
+      ],
+      "current": 55,
+      "candidate": 55,
+      "savings": 0,
+      "currentSessions14": 4,
+      "candidateSessions14": 4
+    },
+    {
+      "axes": [
+        5
+      ],
+      "current": 275,
+      "candidate": 115,
+      "savings": 160,
+      "currentSessions14": 20,
+      "candidateSessions14": 9
+    },
+    {
+      "axes": [
+        10
+      ],
+      "current": 550,
+      "candidate": 190,
+      "savings": 360,
+      "currentSessions14": 40,
+      "candidateSessions14": 14
+    },
+    {
+      "axes": [
+        5,
+        5,
+        5
+      ],
+      "current": 425,
+      "candidate": 265,
+      "savings": 160,
+      "currentSessions14": 31,
+      "candidateSessions14": 19
+    },
+    {
+      "axes": [
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "current": 575,
+      "candidate": 415,
+      "savings": 160,
+      "currentSessions14": 42,
+      "candidateSessions14": 30
+    },
+    {
+      "axes": [
+        10,
+        10,
+        10,
+        10,
+        10
+      ],
+      "current": 1150,
+      "candidate": 790,
+      "savings": 360,
+      "currentSessions14": 83,
+      "candidateSessions14": 57
+    },
+    {
+      "axes": [
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10
+      ],
+      "current": 3400,
+      "candidate": 3040,
+      "savings": 360,
+      "currentSessions14": 243,
+      "candidateSessions14": 218
+    }
+  ],
+  "budgetRows": [
+    {
+      "budget": 40,
+      "current": {
+        "rank": 0,
+        "spent": 40,
+        "remaining": 0,
+        "multiplier": 1
+      },
+      "candidate": {
+        "rank": 0,
+        "spent": 40,
+        "remaining": 0,
+        "multiplier": 1
+      }
+    },
+    {
+      "budget": 55,
+      "current": {
+        "rank": 1,
+        "spent": 55,
+        "remaining": 0,
+        "multiplier": 1.1
+      },
+      "candidate": {
+        "rank": 1,
+        "spent": 55,
+        "remaining": 0,
+        "multiplier": 1.1
+      }
+    },
+    {
+      "budget": 80,
+      "current": {
+        "rank": 1,
+        "spent": 55,
+        "remaining": 25,
+        "multiplier": 1.1
+      },
+      "candidate": {
+        "rank": 2,
+        "spent": 70,
+        "remaining": 10,
+        "multiplier": 1.2
+      }
+    },
+    {
+      "budget": 110,
+      "current": {
+        "rank": 2,
+        "spent": 110,
+        "remaining": 0,
+        "multiplier": 1.2
+      },
+      "candidate": {
+        "rank": 4,
+        "spent": 100,
+        "remaining": 10,
+        "multiplier": 1.4
+      }
+    },
+    {
+      "budget": 115,
+      "current": {
+        "rank": 2,
+        "spent": 110,
+        "remaining": 5,
+        "multiplier": 1.2
+      },
+      "candidate": {
+        "rank": 5,
+        "spent": 115,
+        "remaining": 0,
+        "multiplier": 1.5
+      }
+    },
+    {
+      "budget": 125,
+      "current": {
+        "rank": 2,
+        "spent": 110,
+        "remaining": 15,
+        "multiplier": 1.2
+      },
+      "candidate": {
+        "rank": 5,
+        "spent": 115,
+        "remaining": 10,
+        "multiplier": 1.5
+      }
+    },
+    {
+      "budget": 190,
+      "current": {
+        "rank": 3,
+        "spent": 165,
+        "remaining": 25,
+        "multiplier": 1.3
+      },
+      "candidate": {
+        "rank": 10,
+        "spent": 190,
+        "remaining": 0,
+        "multiplier": 2
+      }
+    },
+    {
+      "budget": 275,
+      "current": {
+        "rank": 5,
+        "spent": 275,
+        "remaining": 0,
+        "multiplier": 1.5
+      },
+      "candidate": {
+        "rank": 10,
+        "spent": 190,
+        "remaining": 85,
+        "multiplier": 2
+      }
+    },
+    {
+      "budget": 550,
+      "current": {
+        "rank": 10,
+        "spent": 550,
+        "remaining": 0,
+        "multiplier": 2
+      },
+      "candidate": {
+        "rank": 10,
+        "spent": 190,
+        "remaining": 360,
+        "multiplier": 2
+      }
+    }
+  ],
+  "factorial": [
+    {
+      "id": "low",
+      "ranks": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "equipment": 10,
+      "variants": [
+        {
+          "id": "current",
+          "axis": 2,
+          "raw": 13.366548,
+          "difficulties": [
+            {
+              "difficulty": 1,
+              "rating": 13,
+              "chance": 13,
+              "meanEffects": 0.20746455447900025
+            },
+            {
+              "difficulty": 2,
+              "rating": 7,
+              "chance": 7,
+              "meanEffects": 0.12150494841899999
+            },
+            {
+              "difficulty": 3,
+              "rating": 4,
+              "chance": 4,
+              "meanEffects": 0.08847464548999995
+            }
+          ]
+        },
+        {
+          "id": "package1Only",
+          "axis": 2,
+          "raw": 20.56392,
+          "difficulties": [
+            {
+              "difficulty": 1,
+              "rating": 20,
+              "chance": 20,
+              "meanEffects": 0.35453525144799986
+            },
+            {
+              "difficulty": 2,
+              "rating": 12,
+              "chance": 12,
+              "meanEffects": 0.18645545346900022
+            },
+            {
+              "difficulty": 3,
+              "rating": 7,
+              "chance": 7,
+              "meanEffects": 0.12150494841899999
+            }
+          ]
+        },
+        {
+          "id": "package2Only",
+          "axis": 5,
+          "raw": 16.708185,
+          "difficulties": [
+            {
+              "difficulty": 1,
+              "rating": 16,
+              "chance": 16,
+              "meanEffects": 0.27049484740799984
+            },
+            {
+              "difficulty": 2,
+              "rating": 9,
+              "chance": 9,
+              "meanEffects": 0.14352515043900024
+            },
+            {
+              "difficulty": 3,
+              "rating": 5,
+              "chance": 5,
+              "meanEffects": 0.09948474639999999
+            }
+          ]
+        },
+        {
+          "id": "both",
+          "axis": 5,
+          "raw": 25.7049,
+          "difficulties": [
+            {
+              "difficulty": 1,
+              "rating": 25,
+              "chance": 25,
+              "meanEffects": 0.4994847463979999
+            },
+            {
+              "difficulty": 2,
+              "rating": 15,
+              "chance": 15,
+              "meanEffects": 0.24948474639900026
+            },
+            {
+              "difficulty": 3,
+              "rating": 9,
+              "chance": 9,
+              "meanEffects": 0.14352515043900024
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "middle",
+      "ranks": [
+        5,
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "equipment": 10,
+      "variants": [
+        {
+          "id": "current",
+          "axis": 2,
+          "raw": 45.5625,
+          "difficulties": [
+            {
+              "difficulty": 1,
+              "rating": 44,
+              "chance": 44,
+              "meanEffects": 1.248474645486
+            },
+            {
+              "difficulty": 2,
+              "rating": 26,
+              "chance": 26,
+              "meanEffects": 0.5304948474070004
+            },
+            {
+              "difficulty": 3,
+              "rating": 16,
+              "chance": 16,
+              "meanEffects": 0.27049484740799984
+            }
+          ]
+        },
+        {
+          "id": "package1Only",
+          "axis": 2,
+          "raw": 60.75,
+          "difficulties": [
+            {
+              "difficulty": 1,
+              "rating": 59,
+              "chance": 59,
+              "meanEffects": 2.0935251504339996
+            },
+            {
+              "difficulty": 2,
+              "rating": 35,
+              "chance": 35,
+              "meanEffects": 0.8494847463970004
+            },
+            {
+              "difficulty": 3,
+              "rating": 21,
+              "chance": 21,
+              "meanEffects": 0.37554535245799986
+            }
+          ]
+        },
+        {
+          "id": "package2Only",
+          "axis": 5,
+          "raw": 56.953125,
+          "difficulties": [
+            {
+              "difficulty": 1,
+              "rating": 55,
+              "chance": 55,
+              "meanEffects": 1.8494847463950002
+            },
+            {
+              "difficulty": 2,
+              "rating": 33,
+              "chance": 33,
+              "meanEffects": 0.7674645544770002
+            },
+            {
+              "difficulty": 3,
+              "rating": 20,
+              "chance": 20,
+              "meanEffects": 0.35453525144799986
+            }
+          ]
+        },
+        {
+          "id": "both",
+          "axis": 5,
+          "raw": 75.9375,
+          "difficulties": [
+            {
+              "difficulty": 1,
+              "rating": 74,
+              "chance": 74,
+              "meanEffects": 3.1684746454830006
+            },
+            {
+              "difficulty": 2,
+              "rating": 44,
+              "chance": 44,
+              "meanEffects": 1.248474645486
+            },
+            {
+              "difficulty": 3,
+              "rating": 26,
+              "chance": 26,
+              "meanEffects": 0.5304948474070004
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "middle-broad",
+      "ranks": [
+        5,
+        5,
+        5,
+        5,
+        0,
+        0
+      ],
+      "equipment": 10,
+      "variants": [
+        {
+          "id": "current",
+          "axis": 2,
+          "raw": 20.25,
+          "difficulties": [
+            {
+              "difficulty": 1,
+              "rating": 19,
+              "chance": 19,
+              "meanEffects": 0.33352515043799985
+            },
+            {
+              "difficulty": 2,
+              "rating": 11,
+              "chance": 11,
+              "meanEffects": 0.1655453524590002
+            },
+            {
+              "difficulty": 3,
+              "rating": 7,
+              "chance": 7,
+              "meanEffects": 0.12150494841899999
+            }
+          ]
+        },
+        {
+          "id": "package1Only",
+          "axis": 2,
+          "raw": 27,
+          "difficulties": [
+            {
+              "difficulty": 1,
+              "rating": 26,
+              "chance": 26,
+              "meanEffects": 0.5304948474070004
+            },
+            {
+              "difficulty": 2,
+              "rating": 15,
+              "chance": 15,
+              "meanEffects": 0.24948474639900026
+            },
+            {
+              "difficulty": 3,
+              "rating": 9,
+              "chance": 9,
+              "meanEffects": 0.14352515043900024
+            }
+          ]
+        },
+        {
+          "id": "package2Only",
+          "axis": 5,
+          "raw": 25.3125,
+          "difficulties": [
+            {
+              "difficulty": 1,
+              "rating": 24,
+              "chance": 24,
+              "meanEffects": 0.4684746454879998
+            },
+            {
+              "difficulty": 2,
+              "rating": 14,
+              "chance": 14,
+              "meanEffects": 0.22847464548900023
+            },
+            {
+              "difficulty": 3,
+              "rating": 8,
+              "chance": 8,
+              "meanEffects": 0.13251504942900025
+            }
+          ]
+        },
+        {
+          "id": "both",
+          "axis": 5,
+          "raw": 33.75,
+          "difficulties": [
+            {
+              "difficulty": 1,
+              "rating": 33,
+              "chance": 33,
+              "meanEffects": 0.7674645544770002
+            },
+            {
+              "difficulty": 2,
+              "rating": 19,
+              "chance": 19,
+              "meanEffects": 0.33352515043799985
+            },
+            {
+              "difficulty": 3,
+              "rating": 11,
+              "chance": 11,
+              "meanEffects": 0.1655453524590002
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shop-ledger",
+      "ranks": [
+        6,
+        6,
+        9,
+        9,
+        0,
+        0
+      ],
+      "equipment": 11,
+      "variants": [
+        {
+          "id": "current",
+          "axis": 2,
+          "raw": 45.74592,
+          "difficulties": [
+            {
+              "difficulty": 1,
+              "rating": 44,
+              "chance": 44,
+              "meanEffects": 1.248474645486
+            },
+            {
+              "difficulty": 2,
+              "rating": 26,
+              "chance": 26,
+              "meanEffects": 0.5304948474070004
+            },
+            {
+              "difficulty": 3,
+              "rating": 16,
+              "chance": 16,
+              "meanEffects": 0.27049484740799984
+            }
+          ]
+        },
+        {
+          "id": "package1Only",
+          "axis": 2,
+          "raw": 57.1824,
+          "difficulties": [
+            {
+              "difficulty": 1,
+              "rating": 56,
+              "chance": 56,
+              "meanEffects": 1.9104948474040004
+            },
+            {
+              "difficulty": 2,
+              "rating": 33,
+              "chance": 33,
+              "meanEffects": 0.7674645544770002
+            },
+            {
+              "difficulty": 3,
+              "rating": 20,
+              "chance": 20,
+              "meanEffects": 0.35453525144799986
+            }
+          ]
+        },
+        {
+          "id": "package2Only",
+          "axis": 5,
+          "raw": 57.1824,
+          "difficulties": [
+            {
+              "difficulty": 1,
+              "rating": 56,
+              "chance": 56,
+              "meanEffects": 1.9104948474040004
+            },
+            {
+              "difficulty": 2,
+              "rating": 33,
+              "chance": 33,
+              "meanEffects": 0.7674645544770002
+            },
+            {
+              "difficulty": 3,
+              "rating": 20,
+              "chance": 20,
+              "meanEffects": 0.35453525144799986
+            }
+          ]
+        },
+        {
+          "id": "both",
+          "axis": 5,
+          "raw": 71.478,
+          "difficulties": [
+            {
+              "difficulty": 1,
+              "rating": 70,
+              "chance": 70,
+              "meanEffects": 2.8545352514430005
+            },
+            {
+              "difficulty": 2,
+              "rating": 42,
+              "chance": 42,
+              "meanEffects": 1.146455453466
+            },
+            {
+              "difficulty": 3,
+              "rating": 25,
+              "chance": 25,
+              "meanEffects": 0.4994847463979999
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "guide-signature",
+      "ranks": [
+        8,
+        7,
+        9,
+        9,
+        7,
+        8
+      ],
+      "equipment": 12,
+      "variants": [
+        {
+          "id": "current",
+          "axis": 2,
+          "raw": 216.3366144,
+          "difficulties": [
+            {
+              "difficulty": 1,
+              "rating": 212,
+              "chance": 99,
+              "meanEffects": 16.626455453449008
+            },
+            {
+              "difficulty": 2,
+              "rating": 127,
+              "chance": 99,
+              "meanEffects": 8.221504948407004
+            },
+            {
+              "difficulty": 3,
+              "rating": 76,
+              "chance": 76,
+              "meanEffects": 3.3304948474020004
+            }
+          ]
+        },
+        {
+          "id": "package1Only",
+          "axis": 2,
+          "raw": 238.60656,
+          "difficulties": [
+            {
+              "difficulty": 1,
+              "rating": 233,
+              "chance": 99,
+              "meanEffects": 18.70746455445701
+            },
+            {
+              "difficulty": 2,
+              "rating": 140,
+              "chance": 99,
+              "meanEffects": 9.504535251436
+            },
+            {
+              "difficulty": 3,
+              "rating": 84,
+              "chance": 84,
+              "meanEffects": 4.008474645482001
+            }
+          ]
+        },
+        {
+          "id": "package2Only",
+          "axis": 5,
+          "raw": 270.420768,
+          "difficulties": [
+            {
+              "difficulty": 1,
+              "rating": 265,
+              "chance": 99,
+              "meanEffects": 21.879484746374
+            },
+            {
+              "difficulty": 2,
+              "rating": 159,
+              "chance": 99,
+              "meanEffects": 11.393525150423997
+            },
+            {
+              "difficulty": 3,
+              "rating": 95,
+              "chance": 95,
+              "meanEffects": 5.049484746391001
+            }
+          ]
+        },
+        {
+          "id": "both",
+          "axis": 5,
+          "raw": 298.2582,
+          "difficulties": [
+            {
+              "difficulty": 1,
+              "rating": 292,
+              "chance": 99,
+              "meanEffects": 24.546455453441
+            },
+            {
+              "difficulty": 2,
+              "rating": 175,
+              "chance": 99,
+              "meanEffects": 12.969484746382994
+            },
+            {
+              "difficulty": 3,
+              "rating": 105,
+              "chance": 99,
+              "meanEffects": 6.039484746389999
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "guide-broad",
+      "ranks": [
+        8,
+        7,
+        9,
+        9,
+        0,
+        0
+      ],
+      "equipment": 12,
+      "variants": [
+        {
+          "id": "current",
+          "axis": 2,
+          "raw": 70.69824,
+          "difficulties": [
+            {
+              "difficulty": 1,
+              "rating": 69,
+              "chance": 69,
+              "meanEffects": 2.783525150433
+            },
+            {
+              "difficulty": 2,
+              "rating": 41,
+              "chance": 41,
+              "meanEffects": 1.0955453524559997
+            },
+            {
+              "difficulty": 3,
+              "rating": 24,
+              "chance": 24,
+              "meanEffects": 0.4684746454879998
+            }
+          ]
+        },
+        {
+          "id": "package1Only",
+          "axis": 2,
+          "raw": 77.976,
+          "difficulties": [
+            {
+              "difficulty": 1,
+              "rating": 76,
+              "chance": 76,
+              "meanEffects": 3.3304948474020004
+            },
+            {
+              "difficulty": 2,
+              "rating": 45,
+              "chance": 45,
+              "meanEffects": 1.299484746396
+            },
+            {
+              "difficulty": 3,
+              "rating": 27,
+              "chance": 27,
+              "meanEffects": 0.5615049484170005
+            }
+          ]
+        },
+        {
+          "id": "package2Only",
+          "axis": 5,
+          "raw": 88.3728,
+          "difficulties": [
+            {
+              "difficulty": 1,
+              "rating": 86,
+              "chance": 86,
+              "meanEffects": 4.190494847401001
+            },
+            {
+              "difficulty": 2,
+              "rating": 51,
+              "chance": 51,
+              "meanEffects": 1.605545352455
+            },
+            {
+              "difficulty": 3,
+              "rating": 31,
+              "chance": 31,
+              "meanEffects": 0.6855453524570004
+            }
+          ]
+        },
+        {
+          "id": "both",
+          "axis": 5,
+          "raw": 97.47,
+          "difficulties": [
+            {
+              "difficulty": 1,
+              "rating": 95,
+              "chance": 95,
+              "meanEffects": 5.049484746391001
+            },
+            {
+              "difficulty": 2,
+              "rating": 57,
+              "chance": 57,
+              "meanEffects": 1.9715049484140001
+            },
+            {
+              "difficulty": 3,
+              "rating": 34,
+              "chance": 34,
+              "meanEffects": 0.8084746454870003
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "medical-narrow",
+      "ranks": [
+        7,
+        7,
+        9,
+        10,
+        10,
+        10
+      ],
+      "equipment": 12,
+      "variants": [
+        {
+          "id": "current",
+          "axis": 2,
+          "raw": 260.4672,
+          "difficulties": [
+            {
+              "difficulty": 1,
+              "rating": 255,
+              "chance": 99,
+              "meanEffects": 20.88948474637501
+            },
+            {
+              "difficulty": 2,
+              "rating": 153,
+              "chance": 99,
+              "meanEffects": 10.787464554464997
+            },
+            {
+              "difficulty": 3,
+              "rating": 91,
+              "chance": 91,
+              "meanEffects": 4.645545352451001
+            }
+          ]
+        },
+        {
+          "id": "package1Only",
+          "axis": 2,
+          "raw": 306.432,
+          "difficulties": [
+            {
+              "difficulty": 1,
+              "rating": 300,
+              "chance": 99,
+              "meanEffects": 25.344535251419995
+            },
+            {
+              "difficulty": 2,
+              "rating": 180,
+              "chance": 99,
+              "meanEffects": 13.464535251431993
+            },
+            {
+              "difficulty": 3,
+              "rating": 108,
+              "chance": 99,
+              "meanEffects": 6.342515049419001
+            }
+          ]
+        },
+        {
+          "id": "package2Only",
+          "axis": 5,
+          "raw": 325.584,
+          "difficulties": [
+            {
+              "difficulty": 1,
+              "rating": 319,
+              "chance": 99,
+              "meanEffects": 27.233525150407992
+            },
+            {
+              "difficulty": 2,
+              "rating": 191,
+              "chance": 99,
+              "meanEffects": 14.545545352440994
+            },
+            {
+              "difficulty": 3,
+              "rating": 114,
+              "chance": 99,
+              "meanEffects": 6.928474645479001
+            }
+          ]
+        },
+        {
+          "id": "both",
+          "axis": 5,
+          "raw": 383.04,
+          "difficulties": [
+            {
+              "difficulty": 1,
+              "rating": 375,
+              "chance": 99,
+              "meanEffects": 32.76948474636298
+            },
+            {
+              "difficulty": 2,
+              "rating": 225,
+              "chance": 99,
+              "meanEffects": 17.919484746378007
+            },
+            {
+              "difficulty": 3,
+              "rating": 135,
+              "chance": 99,
+              "meanEffects": 9.009484746387004
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "optimization": [
+    {
+      "id": "middle",
+      "initial": [
+        5,
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "budget": 125,
+      "narrowLayersAvailable": true,
+      "variants": [
+        {
+          "additive": false,
+          "mode": "ordinaryOnly",
+          "best": {
+            "ranks": [
+              5,
+              5,
+              9,
+              9,
+              9,
+              10
+            ],
+            "axis": 0,
+            "spent": 125,
+            "remaining": 0,
+            "raw": 102.885,
+            "d1": {
+              "rating": 100,
+              "chance": 99,
+              "meanEffects": 5.544535251440002
+            },
+            "d3": {
+              "rating": 36,
+              "chance": 36,
+              "meanEffects": 0.8904948474060004
+            }
+          },
+          "alternatives": 1995
+        },
+        {
+          "additive": false,
+          "mode": "current",
+          "best": {
+            "ranks": [
+              5,
+              5,
+              6,
+              6,
+              10,
+              10
+            ],
+            "axis": 1,
+            "spent": 125,
+            "remaining": 0,
+            "raw": 84.48,
+            "d1": {
+              "rating": 82,
+              "chance": 82,
+              "meanEffects": 3.8264554534619997
+            },
+            "d3": {
+              "rating": 29,
+              "chance": 29,
+              "meanEffects": 0.6235251504370005
+            }
+          },
+          "alternatives": 1548
+        },
+        {
+          "additive": false,
+          "mode": "accessOnly",
+          "best": {
+            "ranks": [
+              5,
+              5,
+              6,
+              6,
+              10,
+              10
+            ],
+            "axis": 1,
+            "spent": 125,
+            "remaining": 0,
+            "raw": 84.48,
+            "d1": {
+              "rating": 82,
+              "chance": 82,
+              "meanEffects": 3.8264554534619997
+            },
+            "d3": {
+              "rating": 29,
+              "chance": 29,
+              "meanEffects": 0.6235251504370005
+            }
+          },
+          "alternatives": 2097
+        },
+        {
+          "additive": true,
+          "mode": "ordinaryOnly",
+          "best": {
+            "ranks": [
+              5,
+              5,
+              9,
+              9,
+              9,
+              10
+            ],
+            "axis": 0,
+            "spent": 125,
+            "remaining": 0,
+            "raw": 137.18,
+            "d1": {
+              "rating": 134,
+              "chance": 99,
+              "meanEffects": 8.908474645477002
+            },
+            "d3": {
+              "rating": 48,
+              "chance": 48,
+              "meanEffects": 1.4525150494250003
+            }
+          },
+          "alternatives": 1995
+        },
+        {
+          "additive": true,
+          "mode": "current",
+          "best": {
+            "ranks": [
+              5,
+              5,
+              6,
+              6,
+              10,
+              10
+            ],
+            "axis": 1,
+            "spent": 125,
+            "remaining": 0,
+            "raw": 112.64,
+            "d1": {
+              "rating": 110,
+              "chance": 99,
+              "meanEffects": 6.534535251438999
+            },
+            "d3": {
+              "rating": 39,
+              "chance": 39,
+              "meanEffects": 1.0135251504360003
+            }
+          },
+          "alternatives": 1548
+        },
+        {
+          "additive": true,
+          "mode": "accessOnly",
+          "best": {
+            "ranks": [
+              5,
+              5,
+              6,
+              6,
+              10,
+              10
+            ],
+            "axis": 1,
+            "spent": 125,
+            "remaining": 0,
+            "raw": 112.64,
+            "d1": {
+              "rating": 110,
+              "chance": 99,
+              "meanEffects": 6.534535251438999
+            },
+            "d3": {
+              "rating": 39,
+              "chance": 39,
+              "meanEffects": 1.0135251504360003
+            }
+          },
+          "alternatives": 2097
+        }
+      ]
+    },
+    {
+      "id": "guide-signature",
+      "initial": [
+        8,
+        7,
+        9,
+        9,
+        7,
+        8
+      ],
+      "budget": 125,
+      "narrowLayersAvailable": true,
+      "variants": [
+        {
+          "additive": false,
+          "mode": "ordinaryOnly",
+          "best": {
+            "ranks": [
+              9,
+              8,
+              10,
+              10,
+              10,
+              10
+            ],
+            "axis": 0,
+            "spent": 125,
+            "remaining": 0,
+            "raw": 311.04,
+            "d1": {
+              "rating": 304,
+              "chance": 99,
+              "meanEffects": 25.73847464545999
+            },
+            "d3": {
+              "rating": 109,
+              "chance": 99,
+              "meanEffects": 6.443525150429
+            }
+          },
+          "alternatives": 228
+        },
+        {
+          "additive": false,
+          "mode": "current",
+          "best": {
+            "ranks": [
+              8,
+              8,
+              10,
+              10,
+              10,
+              10
+            ],
+            "axis": 1,
+            "spent": 120,
+            "remaining": 5,
+            "raw": 304.128,
+            "d1": {
+              "rating": 298,
+              "chance": 99,
+              "meanEffects": 25.152515049399994
+            },
+            "d3": {
+              "rating": 107,
+              "chance": 99,
+              "meanEffects": 6.241504948409
+            }
+          },
+          "alternatives": 251
+        },
+        {
+          "additive": false,
+          "mode": "accessOnly",
+          "best": {
+            "ranks": [
+              8,
+              7,
+              9,
+              9,
+              10,
+              10
+            ],
+            "axis": 4,
+            "spent": 125,
+            "remaining": 0,
+            "raw": 329.92512,
+            "d1": {
+              "rating": 323,
+              "chance": 99,
+              "meanEffects": 27.61746455444799
+            },
+            "d3": {
+              "rating": 116,
+              "chance": 99,
+              "meanEffects": 7.130494847398
+            }
+          },
+          "alternatives": 444
+        },
+        {
+          "additive": true,
+          "mode": "ordinaryOnly",
+          "best": {
+            "ranks": [
+              9,
+              8,
+              10,
+              10,
+              10,
+              10
+            ],
+            "axis": 0,
+            "spent": 125,
+            "remaining": 0,
+            "raw": 326.4,
+            "d1": {
+              "rating": 319,
+              "chance": 99,
+              "meanEffects": 27.233525150407992
+            },
+            "d3": {
+              "rating": 115,
+              "chance": 99,
+              "meanEffects": 7.0294847463890004
+            }
+          },
+          "alternatives": 228
+        },
+        {
+          "additive": true,
+          "mode": "current",
+          "best": {
+            "ranks": [
+              8,
+              8,
+              10,
+              10,
+              10,
+              10
+            ],
+            "axis": 1,
+            "spent": 120,
+            "remaining": 5,
+            "raw": 337.92,
+            "d1": {
+              "rating": 331,
+              "chance": 99,
+              "meanEffects": 28.405545352426994
+            },
+            "d3": {
+              "rating": 119,
+              "chance": 99,
+              "meanEffects": 7.433525150428001
+            }
+          },
+          "alternatives": 251
+        },
+        {
+          "additive": true,
+          "mode": "accessOnly",
+          "best": {
+            "ranks": [
+              8,
+              7,
+              9,
+              9,
+              10,
+              10
+            ],
+            "axis": 4,
+            "spent": 125,
+            "remaining": 0,
+            "raw": 363.888,
+            "d1": {
+              "rating": 356,
+              "chance": 99,
+              "meanEffects": 30.89049484737399
+            },
+            "d3": {
+              "rating": 128,
+              "chance": 99,
+              "meanEffects": 8.322515049417003
+            }
+          },
+          "alternatives": 444
+        }
+      ]
+    },
+    {
+      "id": "guide-broad",
+      "initial": [
+        8,
+        7,
+        9,
+        9,
+        0,
+        0
+      ],
+      "budget": 125,
+      "narrowLayersAvailable": false,
+      "variants": [
+        {
+          "additive": false,
+          "mode": "ordinaryOnly",
+          "best": {
+            "ranks": [
+              9,
+              9,
+              10,
+              10,
+              0,
+              0
+            ],
+            "axis": 0,
+            "spent": 120,
+            "remaining": 5,
+            "raw": 82.08,
+            "d1": {
+              "rating": 80,
+              "chance": 80,
+              "meanEffects": 3.6545352514419998
+            },
+            "d3": {
+              "rating": 28,
+              "chance": 28,
+              "meanEffects": 0.5925150494270004
+            }
+          },
+          "alternatives": 21
+        },
+        {
+          "additive": false,
+          "mode": "current",
+          "best": {
+            "ranks": [
+              9,
+              7,
+              9,
+              10,
+              0,
+              0
+            ],
+            "axis": 1,
+            "spent": 125,
+            "remaining": 0,
+            "raw": 76.7448,
+            "d1": {
+              "rating": 75,
+              "chance": 75,
+              "meanEffects": 3.249484746393
+            },
+            "d3": {
+              "rating": 27,
+              "chance": 27,
+              "meanEffects": 0.5615049484170005
+            }
+          },
+          "alternatives": 27
+        },
+        {
+          "additive": false,
+          "mode": "accessOnly",
+          "best": {
+            "ranks": [
+              8,
+              7,
+              9,
+              10,
+              0,
+              0
+            ],
+            "axis": 5,
+            "spent": 125,
+            "remaining": 0,
+            "raw": 93.024,
+            "d1": {
+              "rating": 91,
+              "chance": 91,
+              "meanEffects": 4.645545352451001
+            },
+            "d3": {
+              "rating": 32,
+              "chance": 32,
+              "meanEffects": 0.7264554534670004
+            }
+          },
+          "alternatives": 48
+        },
+        {
+          "additive": true,
+          "mode": "ordinaryOnly",
+          "best": {
+            "ranks": [
+              9,
+              9,
+              10,
+              10,
+              0,
+              0
+            ],
+            "axis": 0,
+            "spent": 120,
+            "remaining": 5,
+            "raw": 86.4,
+            "d1": {
+              "rating": 84,
+              "chance": 84,
+              "meanEffects": 4.008474645482001
+            },
+            "d3": {
+              "rating": 30,
+              "chance": 30,
+              "meanEffects": 0.6545352514470004
+            }
+          },
+          "alternatives": 21
+        },
+        {
+          "additive": true,
+          "mode": "current",
+          "best": {
+            "ranks": [
+              8,
+              8,
+              10,
+              10,
+              0,
+              0
+            ],
+            "axis": 1,
+            "spent": 95,
+            "remaining": 30,
+            "raw": 84.48,
+            "d1": {
+              "rating": 82,
+              "chance": 82,
+              "meanEffects": 3.8264554534619997
+            },
+            "d3": {
+              "rating": 29,
+              "chance": 29,
+              "meanEffects": 0.6235251504370005
+            }
+          },
+          "alternatives": 27
+        },
+        {
+          "additive": true,
+          "mode": "accessOnly",
+          "best": {
+            "ranks": [
+              8,
+              7,
+              9,
+              10,
+              0,
+              0
+            ],
+            "axis": 5,
+            "spent": 125,
+            "remaining": 0,
+            "raw": 102.6,
+            "d1": {
+              "rating": 100,
+              "chance": 99,
+              "meanEffects": 5.544535251440002
+            },
+            "d3": {
+              "rating": 36,
+              "chance": 36,
+              "meanEffects": 0.8904948474060004
+            }
+          },
+          "alternatives": 48
+        }
+      ]
+    }
+  ],
+  "compounds": [
+    {
+      "model": "current",
+      "maximum": 1.15,
+      "ties": [
+        {
+          "axes": [
+            1,
+            2
+          ],
+          "spent": 125,
+          "mean": 1.15
+        },
+        {
+          "axes": [
+            2,
+            1
+          ],
+          "spent": 125,
+          "mean": 1.15
+        }
+      ]
+    },
+    {
+      "model": "accessOnly",
+      "maximum": 1.25,
+      "ties": [
+        {
+          "axes": [
+            0,
+            5
+          ],
+          "spent": 115,
+          "mean": 1.25
+        },
+        {
+          "axes": [
+            1,
+            4
+          ],
+          "spent": 115,
+          "mean": 1.25
+        },
+        {
+          "axes": [
+            2,
+            3
+          ],
+          "spent": 115,
+          "mean": 1.25
+        },
+        {
+          "axes": [
+            3,
+            2
+          ],
+          "spent": 115,
+          "mean": 1.25
+        },
+        {
+          "axes": [
+            4,
+            1
+          ],
+          "spent": 115,
+          "mean": 1.25
+        },
+        {
+          "axes": [
+            5,
+            0
+          ],
+          "spent": 115,
+          "mean": 1.25
+        }
+      ]
+    }
+  ],
+  "limitations": [
+    {
+      "acquisition": 40,
+      "current": {
+        "rank": 2,
+        "spent": 110,
+        "remaining": 15,
+        "multiplier": 1.2
+      },
+      "candidate": {
+        "rank": 5,
+        "spent": 115,
+        "remaining": 10,
+        "multiplier": 1.5
+      },
+      "buyoffToUnrestricted": 0
+    },
+    {
+      "acquisition": 30,
+      "current": {
+        "rank": 2,
+        "spent": 100,
+        "remaining": 25,
+        "multiplier": 1.2
+      },
+      "candidate": {
+        "rank": 6,
+        "spent": 120,
+        "remaining": 5,
+        "multiplier": 1.6
+      },
+      "buyoffToUnrestricted": 10
+    },
+    {
+      "acquisition": 20,
+      "current": {
+        "rank": 2,
+        "spent": 90,
+        "remaining": 35,
+        "multiplier": 1.2
+      },
+      "candidate": {
+        "rank": 7,
+        "spent": 125,
+        "remaining": 0,
+        "multiplier": 1.7
+      },
+      "buyoffToUnrestricted": 20
+    },
+    {
+      "acquisition": 10,
+      "current": {
+        "rank": 2,
+        "spent": 80,
+        "remaining": 45,
+        "multiplier": 1.2
+      },
+      "candidate": {
+        "rank": 7,
+        "spent": 115,
+        "remaining": 10,
+        "multiplier": 1.7
+      },
+      "buyoffToUnrestricted": 30
+    }
+  ],
+  "replacementPrices": [
+    {
+      "axes": 1,
+      "atRank5": 47,
+      "atRank10": 51
+    },
+    {
+      "axes": 3,
+      "atRank5": 25.666666666666664,
+      "atRank10": 27
+    },
+    {
+      "axes": 5,
+      "atRank5": 21.4,
+      "atRank10": 22.2
+    },
+    {
+      "axes": 20,
+      "atRank5": 16.6,
+      "atRank10": 16.8
+    }
+  ],
+  "opposition": [
+    {
+      "id": "current",
+      "attack": 76,
+      "defense": 29,
+      "hitPct": 69.93727474727501,
+      "tenEffectsPct": 0.7888955195519847,
+      "mean": 2.923038773810366
+    },
+    {
+      "id": "package1Only",
+      "attack": 84,
+      "defense": 31,
+      "hitPct": 77.28360938073865,
+      "tenEffectsPct": 0.8624103510351329,
+      "mean": 3.5073902192541606
+    },
+    {
+      "id": "package2Only",
+      "attack": 95,
+      "defense": 29,
+      "hitPct": 88.84598760866015,
+      "tenEffectsPct": 3.7897509649974412,
+      "mean": 4.525475507177752
+    },
+    {
+      "id": "both",
+      "attack": 105,
+      "defense": 31,
+      "hitPct": 94.0574707767793,
+      "tenEffectsPct": 11.031137083807446,
+      "mean": 5.41455512684293
+    }
+  ],
+  "impairment": [
+    {
+      "fn": 100,
+      "current": {
+        "rating": 16,
+        "chance": 16,
+        "meanEffects": 0.27049484740799984
+      },
+      "both": {
+        "rating": 26,
+        "chance": 26,
+        "meanEffects": 0.5304948474070004
+      }
+    },
+    {
+      "fn": 75,
+      "current": {
+        "rating": 12,
+        "chance": 12,
+        "meanEffects": 0.18645545346900022
+      },
+      "both": {
+        "rating": 20,
+        "chance": 20,
+        "meanEffects": 0.35453525144799986
+      }
+    },
+    {
+      "fn": 50,
+      "current": {
+        "rating": 8,
+        "chance": 8,
+        "meanEffects": 0.13251504942900025
+      },
+      "both": {
+        "rating": 13,
+        "chance": 13,
+        "meanEffects": 0.20746455447900025
+      }
+    },
+    {
+      "fn": 25,
+      "current": {
+        "rating": 4,
+        "chance": 4,
+        "meanEffects": 0.08847464548999995
+      },
+      "both": {
+        "rating": 6,
+        "chance": 6,
+        "meanEffects": 0.110494847409
+      }
+    }
+  ],
+  "assumptions": [
+    "Default baseline horizon 10. Acquisition 40, Axis ranks 15. No discount except labelled limitation controls.",
+    "125 is additional HOLT-eligible funding; protected creation points are never spent on HOLTs.",
+    "Axis development is on a defined Open route. It grants no new permission, automatic Scale or duration change.",
+    "Synthetic and existing routes assume the HOLT actually applies; no universal theme or automatic Field applicability is adopted.",
+    "Factorial comparison spends only on acquisition and one Axis; optimization separately permits ordinary upgrades from the same 125.",
+    "Optimization maximizes one known applicable route, not whole-character value; new themes and other routes are not assigned artificial numerical utility.",
+    "The broad-firearm optimization excludes Specialty and Precision, preserving coverage outside narrower expertise rather than turning it into another specialized shot.",
+    "Counter output and complication consequences are not encounter-simulated here. Initial 00 contributes zero successful output; 01 distribution tail omission is 1e-12 per actor.",
+    "D3 is a distinct challenge fixture, not an extra charge for active opposition.",
+    "No Scope prices, compensation credits, paid rerolls, or invented training requirements are used."
+  ]
+}

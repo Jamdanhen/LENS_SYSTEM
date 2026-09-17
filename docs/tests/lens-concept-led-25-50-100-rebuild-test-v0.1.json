@@ -1,0 +1,622 @@
+{
+  "status": "Diagnostic concept-led rebuilds; not adopted character tiers",
+  "budgets": {
+    "attributes": 25,
+    "derived": 50,
+    "training": 100
+  },
+  "parents": {
+    "Might": [
+      "Strength",
+      "Toughness",
+      "Resistance",
+      "Vigor",
+      "Resilience"
+    ],
+    "Mobility": [
+      "Movement",
+      "Maneuverability",
+      "Stability",
+      "Coordination",
+      "Responsiveness"
+    ],
+    "Psyche": [
+      "Cognition",
+      "Learning",
+      "Awareness",
+      "Insight",
+      "Resolve"
+    ],
+    "Influence": [
+      "Presence",
+      "Projection",
+      "Connection",
+      "Manipulation",
+      "Control"
+    ],
+    "Leverage": [
+      "Assets",
+      "Network",
+      "Authority",
+      "Reputation",
+      "Background"
+    ]
+  },
+  "builds": [
+    {
+      "id": "A",
+      "name": "Experienced local shopkeeper",
+      "attributes": {
+        "Might": 3,
+        "Mobility": 4,
+        "Psyche": 6,
+        "Influence": 6,
+        "Leverage": 6
+      },
+      "derived": {
+        "Strength": 1,
+        "Toughness": 1,
+        "Resistance": 2,
+        "Vigor": 2,
+        "Resilience": 1,
+        "Movement": 2,
+        "Maneuverability": 1,
+        "Stability": 1,
+        "Coordination": 3,
+        "Responsiveness": 2,
+        "Cognition": 6,
+        "Learning": 3,
+        "Awareness": 3,
+        "Insight": 3,
+        "Resolve": 2,
+        "Presence": 2,
+        "Projection": 3,
+        "Connection": 3,
+        "Manipulation": 1,
+        "Control": 1,
+        "Assets": 2,
+        "Network": 2,
+        "Authority": 1,
+        "Reputation": 1,
+        "Background": 1
+      },
+      "tasks": {
+        "Planning": 9,
+        "Inference": 9,
+        "Observation": 5,
+        "Create": 5,
+        "Repair": 3,
+        "Pilot": 3,
+        "Navigate": 2,
+        "Traverse": 2,
+        "Exert": 1,
+        "Research": 3,
+        "Teaching": 2,
+        "Convey": 6,
+        "Persuade": 6,
+        "Perform": 3,
+        "Conceal": 1
+      },
+      "fields": {
+        "Retail commerce": 9,
+        "Bookkeeping": 9,
+        "Cooking": 5,
+        "Passenger vehicles": 4,
+        "Local geography": 3,
+        "English": 5,
+        "Music": 3,
+        "Gardening": 2
+      },
+      "specialties": [],
+      "precisions": [],
+      "totals": {
+        "attributes": 25,
+        "derived": 50,
+        "tasks": 60,
+        "fields": 40,
+        "specialties": 0,
+        "precision": 0,
+        "training": 100
+      }
+    },
+    {
+      "id": "B",
+      "name": "Expedition security guide",
+      "attributes": {
+        "Might": 5,
+        "Mobility": 7,
+        "Psyche": 5,
+        "Influence": 4,
+        "Leverage": 4
+      },
+      "derived": {
+        "Strength": 1,
+        "Toughness": 2,
+        "Resistance": 3,
+        "Vigor": 3,
+        "Resilience": 2,
+        "Movement": 3,
+        "Maneuverability": 1,
+        "Stability": 3,
+        "Coordination": 6,
+        "Responsiveness": 4,
+        "Cognition": 2,
+        "Learning": 1,
+        "Awareness": 4,
+        "Insight": 2,
+        "Resolve": 3,
+        "Presence": 1,
+        "Projection": 1,
+        "Connection": 1,
+        "Manipulation": 1,
+        "Control": 1,
+        "Assets": 1,
+        "Network": 1,
+        "Authority": 1,
+        "Reputation": 1,
+        "Background": 1
+      },
+      "tasks": {
+        "Discharge": 8,
+        "Navigate": 5,
+        "Observation": 6,
+        "Planning": 5,
+        "Command": 4,
+        "Traverse": 4,
+        "Pilot": 3,
+        "Withstand": 4,
+        "Dodge": 4,
+        "Block": 3,
+        "Exert": 2,
+        "Treat": 2
+      },
+      "fields": {
+        "Firearms": 8,
+        "Survival": 7,
+        "Logistics": 4,
+        "Passenger vehicles": 4,
+        "Local geography": 4,
+        "Medicine": 3
+      },
+      "specialties": [
+        {
+          "name": "Handguns",
+          "field": "Firearms",
+          "rank": 6
+        },
+        {
+          "name": "Arctic",
+          "field": "Survival",
+          "rank": 6
+        }
+      ],
+      "precisions": [
+        {
+          "name": "Revolvers",
+          "field": "Firearms",
+          "specialty": "Handguns",
+          "rank": 8
+        }
+      ],
+      "totals": {
+        "attributes": 25,
+        "derived": 50,
+        "tasks": 50,
+        "fields": 30,
+        "specialties": 12,
+        "precision": 8,
+        "training": 100
+      }
+    },
+    {
+      "id": "C",
+      "name": "Medical specialist",
+      "attributes": {
+        "Might": 3,
+        "Mobility": 6,
+        "Psyche": 8,
+        "Influence": 4,
+        "Leverage": 4
+      },
+      "derived": {
+        "Strength": 1,
+        "Toughness": 1,
+        "Resistance": 1,
+        "Vigor": 2,
+        "Resilience": 1,
+        "Movement": 1,
+        "Maneuverability": 1,
+        "Stability": 3,
+        "Coordination": 6,
+        "Responsiveness": 2,
+        "Cognition": 4,
+        "Learning": 4,
+        "Awareness": 3,
+        "Insight": 4,
+        "Resolve": 4,
+        "Presence": 1,
+        "Projection": 2,
+        "Connection": 2,
+        "Manipulation": 1,
+        "Control": 1,
+        "Assets": 1,
+        "Network": 1,
+        "Authority": 1,
+        "Reputation": 1,
+        "Background": 1
+      },
+      "tasks": {
+        "Treat": 8,
+        "Inference": 6,
+        "Research": 7,
+        "Teaching": 5,
+        "Observation": 5,
+        "Planning": 4,
+        "Convey": 4,
+        "Pilot": 2,
+        "Create": 2,
+        "Persuade": 2
+      },
+      "fields": {
+        "Medicine": 9,
+        "Biology": 7,
+        "English": 5,
+        "Passenger vehicles": 3,
+        "Cooking": 3
+      },
+      "specialties": [
+        {
+          "name": "Surgery",
+          "field": "Medicine",
+          "rank": 9
+        },
+        {
+          "name": "Emergency medicine",
+          "field": "Medicine",
+          "rank": 4
+        },
+        {
+          "name": "Diagnostic medicine",
+          "field": "Medicine",
+          "rank": 5
+        }
+      ],
+      "precisions": [
+        {
+          "name": "Neurosurgery",
+          "field": "Medicine",
+          "specialty": "Surgery",
+          "rank": 10
+        }
+      ],
+      "totals": {
+        "attributes": 25,
+        "derived": 50,
+        "tasks": 45,
+        "fields": 27,
+        "specialties": 18,
+        "precision": 10,
+        "training": 100
+      }
+    }
+  ],
+  "results": [
+    {
+      "id": "A1",
+      "build": "A",
+      "parent": "Psyche",
+      "derived": "Cognition",
+      "task": "Inference",
+      "field": "Bookkeeping",
+      "specialty": null,
+      "precision": null,
+      "ranks": {
+        "attribute": 6,
+        "derived": 6,
+        "task": 9,
+        "field": 9,
+        "specialty": 0,
+        "precision": 0
+      },
+      "factors": [
+        6,
+        1.6,
+        1.9,
+        1.9,
+        1,
+        1,
+        1.1,
+        0.98
+      ],
+      "previous": 13.5828,
+      "final": 37.359168,
+      "successPercent": 37,
+      "D2": 22.4155008,
+      "D3": 13.44930048,
+      "effectsOn20": 2,
+      "averageEffectsPerAttempt": 0.88
+    },
+    {
+      "id": "A2",
+      "build": "A",
+      "parent": "Psyche",
+      "derived": "Cognition",
+      "task": "Planning",
+      "field": "Retail commerce",
+      "specialty": null,
+      "precision": null,
+      "ranks": {
+        "attribute": 6,
+        "derived": 6,
+        "task": 9,
+        "field": 9,
+        "specialty": 0,
+        "precision": 0
+      },
+      "factors": [
+        6,
+        1.6,
+        1.9,
+        1.9,
+        1,
+        1,
+        1.1,
+        0.98
+      ],
+      "previous": 13.5828,
+      "final": 37.359168,
+      "successPercent": 37,
+      "D2": 22.4155008,
+      "D3": 13.44930048,
+      "effectsOn20": 2,
+      "averageEffectsPerAttempt": 0.88
+    },
+    {
+      "id": "A3",
+      "build": "A",
+      "parent": "Psyche",
+      "derived": "Awareness",
+      "task": "Observation",
+      "field": null,
+      "specialty": null,
+      "precision": null,
+      "ranks": {
+        "attribute": 6,
+        "derived": 3,
+        "task": 5,
+        "field": 0,
+        "specialty": 0,
+        "precision": 0
+      },
+      "factors": [
+        6,
+        1.3,
+        1.5,
+        1,
+        1,
+        1,
+        1.1,
+        0.98
+      ],
+      "previous": 9.0552,
+      "final": 12.6126,
+      "successPercent": 12,
+      "D2": 7.56756,
+      "D3": 4.540536,
+      "effectsOn20": 0,
+      "averageEffectsPerAttempt": 0.14
+    },
+    {
+      "id": "B1",
+      "build": "B",
+      "parent": "Mobility",
+      "derived": "Coordination",
+      "task": "Discharge",
+      "field": "Firearms",
+      "specialty": "Handguns",
+      "precision": "Revolvers",
+      "ranks": {
+        "attribute": 7,
+        "derived": 6,
+        "task": 8,
+        "field": 8,
+        "specialty": 6,
+        "precision": 8
+      },
+      "factors": [
+        7,
+        1.6,
+        1.8,
+        1.8,
+        1.6,
+        1.8,
+        1.2,
+        0.98
+      ],
+      "previous": 37.933056,
+      "final": 122.90310144,
+      "successPercent": 98,
+      "D2": 73.741860864,
+      "D3": 44.245116518,
+      "effectsOn20": 11,
+      "averageEffectsPerAttempt": 7.64
+    },
+    {
+      "id": "B2",
+      "build": "B",
+      "parent": "Mobility",
+      "derived": "Coordination",
+      "task": "Discharge",
+      "field": "Firearms",
+      "specialty": "Handguns",
+      "precision": null,
+      "ranks": {
+        "attribute": 7,
+        "derived": 6,
+        "task": 8,
+        "field": 8,
+        "specialty": 6,
+        "precision": 0
+      },
+      "factors": [
+        7,
+        1.6,
+        1.8,
+        1.8,
+        1.6,
+        1,
+        1.2,
+        0.98
+      ],
+      "previous": 23.70816,
+      "final": 68.2795008,
+      "successPercent": 68,
+      "D2": 40.96770048,
+      "D3": 24.580620288,
+      "effectsOn20": 5,
+      "averageEffectsPerAttempt": 2.66
+    },
+    {
+      "id": "B3",
+      "build": "B",
+      "parent": "Psyche",
+      "derived": "Learning",
+      "task": "Research",
+      "field": null,
+      "specialty": null,
+      "precision": null,
+      "ranks": {
+        "attribute": 5,
+        "derived": 1,
+        "task": 0,
+        "field": 0,
+        "specialty": 0,
+        "precision": 0
+      },
+      "factors": [
+        5,
+        1.1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0.98
+      ],
+      "previous": 5.88,
+      "final": 5.39,
+      "successPercent": 5,
+      "D2": 3.234,
+      "D3": 1.9404,
+      "effectsOn20": 0,
+      "averageEffectsPerAttempt": 0.05
+    },
+    {
+      "id": "C1",
+      "build": "C",
+      "parent": "Mobility",
+      "derived": "Coordination",
+      "task": "Treat",
+      "field": "Medicine",
+      "specialty": "Surgery",
+      "precision": "Neurosurgery",
+      "ranks": {
+        "attribute": 6,
+        "derived": 6,
+        "task": 8,
+        "field": 9,
+        "specialty": 9,
+        "precision": 10
+      },
+      "factors": [
+        6,
+        1.6,
+        1.8,
+        1.9,
+        1.9,
+        2,
+        1.2,
+        0.98
+      ],
+      "previous": 58.70592,
+      "final": 146.7196416,
+      "successPercent": 98,
+      "D2": 88.03178496,
+      "D3": 52.819070976,
+      "effectsOn20": 13,
+      "averageEffectsPerAttempt": 10
+    },
+    {
+      "id": "C2",
+      "build": "C",
+      "parent": "Mobility",
+      "derived": "Coordination",
+      "task": "Treat",
+      "field": "Medicine",
+      "specialty": "Surgery",
+      "precision": null,
+      "ranks": {
+        "attribute": 6,
+        "derived": 6,
+        "task": 8,
+        "field": 9,
+        "specialty": 9,
+        "precision": 0
+      },
+      "factors": [
+        6,
+        1.6,
+        1.8,
+        1.9,
+        1.9,
+        1,
+        1.2,
+        0.98
+      ],
+      "previous": 29.35296,
+      "final": 73.3598208,
+      "successPercent": 73,
+      "D2": 44.01589248,
+      "D3": 26.409535488,
+      "effectsOn20": 6,
+      "averageEffectsPerAttempt": 3.04
+    },
+    {
+      "id": "C3",
+      "build": "C",
+      "parent": "Mobility",
+      "derived": "Coordination",
+      "task": "Discharge",
+      "field": null,
+      "specialty": null,
+      "precision": null,
+      "ranks": {
+        "attribute": 6,
+        "derived": 6,
+        "task": 0,
+        "field": 0,
+        "specialty": 0,
+        "precision": 0
+      },
+      "factors": [
+        6,
+        1.6,
+        1,
+        1,
+        1,
+        1,
+        1.2,
+        0.98
+      ],
+      "previous": 7.056,
+      "final": 11.2896,
+      "successPercent": 11,
+      "D2": 6.77376,
+      "D3": 4.064256,
+      "effectsOn20": 0,
+      "averageEffectsPerAttempt": 0.12
+    }
+  ],
+  "shopkeeperFixedCoreTwoLayerCeiling": 41.3952
+}
+

@@ -1,0 +1,1319 @@
+{
+  "status": "Diagnostic only; no changes to rules, allocations, permissions, or Field applicability",
+  "source": "C:/Users/MrJam/.codex/worktrees/628d/LENS-SYSTEM/docs/tests/lens-five-group-starting-band-experiment-v0.1.json",
+  "sourceHash": "4b32680dadb391e7717f01c14da972f7bca46f67491aa3624812bfdfda0a7d75",
+  "inputRows": [
+    {
+      "Core": "A150",
+      "Group": 1,
+      "Band": 175,
+      "Strategy": "Ordinary",
+      "ProtectedCost": {
+        "Attributes": 240,
+        "Derived": 200,
+        "Training": 150,
+        "Total": 590
+      },
+      "Funding": {
+        "Group": 1,
+        "Name": "Ordinary only",
+        "Band": 175,
+        "ProtectedTraining": 150,
+        "OrdinaryOnly": 25,
+        "HOLTEligible": 0
+      },
+      "OrdinaryAdded": 24,
+      "HOLTAdded": 0,
+      "Unallocated": 1,
+      "OrdinaryOnlyUsed": 24,
+      "EligibleOrdinaryUsed": 0,
+      "OrdinaryOnlyUnused": 1,
+      "EligibleUnused": 0,
+      "OrdinaryLedger": [
+        {
+          "Layer": "attributes",
+          "Name": "Leverage",
+          "From": 6,
+          "To": 7,
+          "Cost": 12
+        },
+        {
+          "Layer": "derived",
+          "Name": "Assets",
+          "From": 2,
+          "To": 3,
+          "Cost": 4
+        },
+        {
+          "Layer": "derived",
+          "Name": "Network",
+          "From": 2,
+          "To": 3,
+          "Cost": 4
+        },
+        {
+          "Layer": "tasks",
+          "Name": "Persuade",
+          "From": 5,
+          "To": 6,
+          "Cost": 2
+        },
+        {
+          "Layer": "fields",
+          "Name": "Retail commerce",
+          "From": 9,
+          "To": 10,
+          "Cost": 2
+        }
+      ],
+      "HOLTLedger": [],
+      "FinalOrdinaryCost": {
+        "Attributes": 252,
+        "Derived": 208,
+        "Training": 154,
+        "Total": 614
+      },
+      "TotalAllocated": 614,
+      "TotalAvailable": 615,
+      "Character": {
+        "id": "A",
+        "name": "Experienced local shopkeeper",
+        "attributes": {
+          "Might": 3,
+          "Mobility": 4,
+          "Psyche": 6,
+          "Influence": 6,
+          "Leverage": 7
+        },
+        "derived": {
+          "Strength": 1,
+          "Toughness": 1,
+          "Resistance": 2,
+          "Vigor": 2,
+          "Resilience": 1,
+          "Movement": 2,
+          "Maneuverability": 1,
+          "Stability": 1,
+          "Coordination": 3,
+          "Responsiveness": 2,
+          "Cognition": 6,
+          "Learning": 3,
+          "Awareness": 3,
+          "Insight": 3,
+          "Resolve": 2,
+          "Presence": 2,
+          "Projection": 3,
+          "Connection": 3,
+          "Manipulation": 1,
+          "Control": 1,
+          "Assets": 3,
+          "Network": 3,
+          "Authority": 1,
+          "Reputation": 1,
+          "Background": 1
+        },
+        "tasks": {
+          "Planning": 9,
+          "Inference": 9,
+          "Observation": 4,
+          "Create": 4,
+          "Repair": 2,
+          "Pilot": 2,
+          "Navigate": 1,
+          "Traverse": 1,
+          "Exert": 1,
+          "Research": 2,
+          "Teaching": 1,
+          "Convey": 5,
+          "Persuade": 6,
+          "Perform": 1,
+          "Conceal": 0
+        },
+        "fields": {
+          "Retail commerce": 10,
+          "Bookkeeping": 9,
+          "Cooking": 3,
+          "Passenger vehicles": 2,
+          "Local geography": 2,
+          "English": 2,
+          "Music": 1,
+          "Gardening": 0
+        },
+        "specialties": [],
+        "precisions": []
+      },
+      "HOLTs": [],
+      "HOLTRecipe": "",
+      "OrdinaryProbes": [
+        {
+          "Id": "A1",
+          "Rating": 37.359168,
+          "D3Rating": 13.449300479999998,
+          "D3SuccessPercent": 13
+        },
+        {
+          "Id": "A2",
+          "Rating": 39.32544000000001,
+          "D3Rating": 14.157158400000002,
+          "D3SuccessPercent": 14
+        },
+        {
+          "Id": "A3",
+          "Rating": 11.77176,
+          "D3Rating": 4.2378336,
+          "D3SuccessPercent": 4
+        }
+      ],
+      "SupportProbes": [
+        {
+          "Id": "A-support",
+          "Description": "Persuading in a retail negotiation",
+          "PreDifficulty": 21.120000000000005
+        },
+        {
+          "Id": "A-assets",
+          "Description": "Plan retail commitments through controlled resources",
+          "PreDifficulty": 34.58
+        }
+      ],
+      "HOLTProbes": [
+        {
+          "Id": "Sea-travel",
+          "Description": "Travel over open water supported by Sea",
+          "Theme": "Sea",
+          "Open": false,
+          "AxisRank": 0,
+          "UnderlyingContribution": 5.28,
+          "ProfileAxisMultiplier": 1,
+          "PreDifficulty": null
+        },
+        {
+          "Id": "Sea-sense",
+          "Description": "Sense through water via Sea",
+          "Theme": "Sea",
+          "Open": false,
+          "AxisRank": 0,
+          "UnderlyingContribution": 10.92,
+          "ProfileAxisMultiplier": 1,
+          "PreDifficulty": null
+        },
+        {
+          "Id": "Strength-force",
+          "Description": "Apply beyond-ordinary bodily force through Strength",
+          "Theme": "Strength",
+          "Open": false,
+          "AxisRank": 0,
+          "UnderlyingContribution": 3.630000000000001,
+          "ProfileAxisMultiplier": 1,
+          "PreDifficulty": null
+        },
+        {
+          "Id": "Fire-release",
+          "Description": "Release conjured flame through Fire",
+          "Theme": "Fire",
+          "Open": false,
+          "AxisRank": 0,
+          "UnderlyingContribution": 7.800000000000001,
+          "ProfileAxisMultiplier": 1,
+          "PreDifficulty": null
+        }
+      ],
+      "QueriedPermissions": 0
+    },
+    {
+      "Core": "B150",
+      "Group": 1,
+      "Band": 175,
+      "Strategy": "Ordinary",
+      "ProtectedCost": {
+        "Attributes": 240,
+        "Derived": 200,
+        "Training": 150,
+        "Total": 590
+      },
+      "Funding": {
+        "Group": 1,
+        "Name": "Ordinary only",
+        "Band": 175,
+        "ProtectedTraining": 150,
+        "OrdinaryOnly": 25,
+        "HOLTEligible": 0
+      },
+      "OrdinaryAdded": 25,
+      "HOLTAdded": 0,
+      "Unallocated": 0,
+      "OrdinaryOnlyUsed": 25,
+      "EligibleOrdinaryUsed": 0,
+      "OrdinaryOnlyUnused": 0,
+      "EligibleUnused": 0,
+      "OrdinaryLedger": [
+        {
+          "Layer": "attributes",
+          "Name": "Mobility",
+          "From": 7,
+          "To": 8,
+          "Cost": 12
+        },
+        {
+          "Layer": "derived",
+          "Name": "Coordination",
+          "From": 6,
+          "To": 7,
+          "Cost": 4
+        },
+        {
+          "Layer": "derived",
+          "Name": "Awareness",
+          "From": 4,
+          "To": 5,
+          "Cost": 4
+        },
+        {
+          "Layer": "tasks",
+          "Name": "Discharge",
+          "From": 8,
+          "To": 9,
+          "Cost": 2
+        },
+        {
+          "Layer": "fields",
+          "Name": "Firearms",
+          "From": 8,
+          "To": 9,
+          "Cost": 2
+        },
+        {
+          "Layer": "specialties",
+          "Name": "Handguns",
+          "From": 6,
+          "To": 7,
+          "Cost": 1
+        }
+      ],
+      "HOLTLedger": [],
+      "FinalOrdinaryCost": {
+        "Attributes": 252,
+        "Derived": 208,
+        "Training": 155,
+        "Total": 615
+      },
+      "TotalAllocated": 615,
+      "TotalAvailable": 615,
+      "Character": {
+        "id": "B",
+        "name": "Expedition security guide",
+        "attributes": {
+          "Might": 5,
+          "Mobility": 8,
+          "Psyche": 5,
+          "Influence": 4,
+          "Leverage": 4
+        },
+        "derived": {
+          "Strength": 1,
+          "Toughness": 2,
+          "Resistance": 3,
+          "Vigor": 3,
+          "Resilience": 2,
+          "Movement": 3,
+          "Maneuverability": 1,
+          "Stability": 3,
+          "Coordination": 7,
+          "Responsiveness": 4,
+          "Cognition": 2,
+          "Learning": 1,
+          "Awareness": 5,
+          "Insight": 2,
+          "Resolve": 3,
+          "Presence": 1,
+          "Projection": 1,
+          "Connection": 1,
+          "Manipulation": 1,
+          "Control": 1,
+          "Assets": 1,
+          "Network": 1,
+          "Authority": 1,
+          "Reputation": 1,
+          "Background": 1
+        },
+        "tasks": {
+          "Discharge": 9,
+          "Navigate": 5,
+          "Observation": 5,
+          "Planning": 3,
+          "Command": 2,
+          "Traverse": 4,
+          "Pilot": 2,
+          "Withstand": 3,
+          "Dodge": 4,
+          "Block": 2,
+          "Exert": 1,
+          "Treat": 1
+        },
+        "fields": {
+          "Firearms": 9,
+          "Survival": 7,
+          "Logistics": 3,
+          "Passenger vehicles": 2,
+          "Local geography": 3,
+          "Medicine": 2
+        },
+        "specialties": [
+          {
+            "name": "Handguns",
+            "field": "Firearms",
+            "rank": 7
+          },
+          {
+            "name": "Arctic",
+            "field": "Survival",
+            "rank": 6
+          }
+        ],
+        "precisions": [
+          {
+            "name": "Revolvers",
+            "field": "Firearms",
+            "specialty": "Handguns",
+            "rank": 8
+          }
+        ]
+      },
+      "HOLTs": [],
+      "HOLTRecipe": "",
+      "OrdinaryProbes": [
+        {
+          "Id": "B1",
+          "Rating": 176.67490175999998,
+          "D3Rating": 63.60296463359999,
+          "D3SuccessPercent": 63
+        },
+        {
+          "Id": "B2",
+          "Rating": 98.15272319999998,
+          "D3Rating": 35.334980351999995,
+          "D3SuccessPercent": 35
+        },
+        {
+          "Id": "B3",
+          "Rating": 5.39,
+          "D3Rating": 1.9404,
+          "D3SuccessPercent": 1
+        }
+      ],
+      "SupportProbes": [
+        {
+          "Id": "B-treat",
+          "Description": "Providing treatment within available ordinary permission",
+          "PreDifficulty": 17.952
+        },
+        {
+          "Id": "B-plan",
+          "Description": "Planning expedition supply allocation",
+          "PreDifficulty": 10.14
+        },
+        {
+          "Id": "B-traverse",
+          "Description": "Crossing difficult Arctic terrain",
+          "PreDifficulty": 39.6032
+        },
+        {
+          "Id": "B-command",
+          "Description": "Coordinate expedition logistics through direct command",
+          "PreDifficulty": 6.864000000000001
+        }
+      ],
+      "HOLTProbes": [
+        {
+          "Id": "Sea-travel",
+          "Description": "Travel over open water supported by Sea",
+          "Theme": "Sea",
+          "Open": false,
+          "AxisRank": 0,
+          "UnderlyingContribution": 24.752,
+          "ProfileAxisMultiplier": 1,
+          "PreDifficulty": null
+        },
+        {
+          "Id": "Sea-sense",
+          "Description": "Sense through water via Sea",
+          "Theme": "Sea",
+          "Open": false,
+          "AxisRank": 0,
+          "UnderlyingContribution": 19.125,
+          "ProfileAxisMultiplier": 1,
+          "PreDifficulty": null
+        },
+        {
+          "Id": "Strength-force",
+          "Description": "Apply beyond-ordinary bodily force through Strength",
+          "Theme": "Strength",
+          "Open": false,
+          "AxisRank": 0,
+          "UnderlyingContribution": 6.050000000000001,
+          "ProfileAxisMultiplier": 1,
+          "PreDifficulty": null
+        },
+        {
+          "Id": "Fire-release",
+          "Description": "Release conjured flame through Fire",
+          "Theme": "Fire",
+          "Open": false,
+          "AxisRank": 0,
+          "UnderlyingContribution": 8.36,
+          "ProfileAxisMultiplier": 1,
+          "PreDifficulty": null
+        }
+      ],
+      "QueriedPermissions": 0
+    },
+    {
+      "Core": "C150",
+      "Group": 1,
+      "Band": 175,
+      "Strategy": "Ordinary",
+      "ProtectedCost": {
+        "Attributes": 240,
+        "Derived": 200,
+        "Training": 150,
+        "Total": 590
+      },
+      "Funding": {
+        "Group": 1,
+        "Name": "Ordinary only",
+        "Band": 175,
+        "ProtectedTraining": 150,
+        "OrdinaryOnly": 25,
+        "HOLTEligible": 0
+      },
+      "OrdinaryAdded": 25,
+      "HOLTAdded": 0,
+      "Unallocated": 0,
+      "OrdinaryOnlyUsed": 25,
+      "EligibleOrdinaryUsed": 0,
+      "OrdinaryOnlyUnused": 0,
+      "EligibleUnused": 0,
+      "OrdinaryLedger": [
+        {
+          "Layer": "attributes",
+          "Name": "Mobility",
+          "From": 6,
+          "To": 7,
+          "Cost": 12
+        },
+        {
+          "Layer": "derived",
+          "Name": "Coordination",
+          "From": 6,
+          "To": 7,
+          "Cost": 4
+        },
+        {
+          "Layer": "derived",
+          "Name": "Stability",
+          "From": 3,
+          "To": 4,
+          "Cost": 4
+        },
+        {
+          "Layer": "tasks",
+          "Name": "Treat",
+          "From": 8,
+          "To": 9,
+          "Cost": 2
+        },
+        {
+          "Layer": "fields",
+          "Name": "Medicine",
+          "From": 9,
+          "To": 10,
+          "Cost": 2
+        },
+        {
+          "Layer": "specialties",
+          "Name": "Surgery",
+          "From": 9,
+          "To": 10,
+          "Cost": 1
+        }
+      ],
+      "HOLTLedger": [],
+      "FinalOrdinaryCost": {
+        "Attributes": 252,
+        "Derived": 208,
+        "Training": 155,
+        "Total": 615
+      },
+      "TotalAllocated": 615,
+      "TotalAvailable": 615,
+      "Character": {
+        "id": "C",
+        "name": "Medical specialist",
+        "attributes": {
+          "Might": 3,
+          "Mobility": 7,
+          "Psyche": 8,
+          "Influence": 4,
+          "Leverage": 4
+        },
+        "derived": {
+          "Strength": 1,
+          "Toughness": 1,
+          "Resistance": 1,
+          "Vigor": 2,
+          "Resilience": 1,
+          "Movement": 1,
+          "Maneuverability": 1,
+          "Stability": 4,
+          "Coordination": 7,
+          "Responsiveness": 2,
+          "Cognition": 4,
+          "Learning": 4,
+          "Awareness": 3,
+          "Insight": 4,
+          "Resolve": 4,
+          "Presence": 1,
+          "Projection": 2,
+          "Connection": 2,
+          "Manipulation": 1,
+          "Control": 1,
+          "Assets": 1,
+          "Network": 1,
+          "Authority": 1,
+          "Reputation": 1,
+          "Background": 1
+        },
+        "tasks": {
+          "Treat": 9,
+          "Inference": 6,
+          "Research": 6,
+          "Teaching": 3,
+          "Observation": 4,
+          "Planning": 2,
+          "Convey": 3,
+          "Pilot": 1,
+          "Create": 1,
+          "Persuade": 1
+        },
+        "fields": {
+          "Medicine": 10,
+          "Biology": 7,
+          "English": 4,
+          "Passenger vehicles": 3,
+          "Cooking": 3
+        },
+        "specialties": [
+          {
+            "name": "Surgery",
+            "field": "Medicine",
+            "rank": 10
+          },
+          {
+            "name": "Emergency medicine",
+            "field": "Medicine",
+            "rank": 4
+          },
+          {
+            "name": "Diagnostic medicine",
+            "field": "Medicine",
+            "rank": 5
+          }
+        ],
+        "precisions": [
+          {
+            "name": "Neurosurgery",
+            "field": "Medicine",
+            "specialty": "Surgery",
+            "rank": 10
+          }
+        ]
+      },
+      "HOLTs": [],
+      "HOLTRecipe": "",
+      "OrdinaryProbes": [
+        {
+          "Id": "C1",
+          "Rating": 212.71488,
+          "D3Rating": 76.57735679999999,
+          "D3SuccessPercent": 76
+        },
+        {
+          "Id": "C2",
+          "Rating": 106.35744,
+          "D3Rating": 38.288678399999995,
+          "D3SuccessPercent": 38
+        },
+        {
+          "Id": "C3",
+          "Rating": 13.994399999999999,
+          "D3Rating": 5.037984,
+          "D3SuccessPercent": 5
+        }
+      ],
+      "SupportProbes": [
+        {
+          "Id": "C-teach",
+          "Description": "Teaching general medical material",
+          "PreDifficulty": 29.119999999999997
+        },
+        {
+          "Id": "C-diagnose",
+          "Description": "Inferring a diagnosis from clinical findings",
+          "PreDifficulty": 53.75999999999999
+        },
+        {
+          "Id": "C-withstand",
+          "Description": "Withstand a bodily impact using the ordinary unranked Task default",
+          "PreDifficulty": 3.3000000000000003
+        }
+      ],
+      "HOLTProbes": [
+        {
+          "Id": "Sea-travel",
+          "Description": "Travel over open water supported by Sea",
+          "Theme": "Sea",
+          "Open": false,
+          "AxisRank": 0,
+          "UnderlyingContribution": 7.700000000000001,
+          "ProfileAxisMultiplier": 1,
+          "PreDifficulty": null
+        },
+        {
+          "Id": "Sea-sense",
+          "Description": "Sense through water via Sea",
+          "Theme": "Sea",
+          "Open": false,
+          "AxisRank": 0,
+          "UnderlyingContribution": 14.559999999999999,
+          "ProfileAxisMultiplier": 1,
+          "PreDifficulty": null
+        },
+        {
+          "Id": "Strength-force",
+          "Description": "Apply beyond-ordinary bodily force through Strength",
+          "Theme": "Strength",
+          "Open": false,
+          "AxisRank": 0,
+          "UnderlyingContribution": 3.3000000000000003,
+          "ProfileAxisMultiplier": 1,
+          "PreDifficulty": null
+        },
+        {
+          "Id": "Fire-release",
+          "Description": "Release conjured flame through Fire",
+          "Theme": "Fire",
+          "Open": false,
+          "AxisRank": 0,
+          "UnderlyingContribution": 4.8,
+          "ProfileAxisMultiplier": 1,
+          "PreDifficulty": null
+        }
+      ],
+      "QueriedPermissions": 0
+    }
+  ],
+  "builds": [
+    {
+      "id": "A",
+      "name": "Experienced local shopkeeper",
+      "cost": {
+        "attributes": 1260,
+        "derived": 1040,
+        "training": 770,
+        "total": 3070
+      },
+      "unusedFlexible": 5,
+      "familiarHandgun": {
+        "route": {
+          "attribute": "Mobility",
+          "derived": "Coordination",
+          "task": "Discharge",
+          "field": "Firearms",
+          "specialty": "Handguns",
+          "precision": "Revolvers"
+        },
+        "factors": {
+          "attribute": 4,
+          "derived": 1.3,
+          "task": 1,
+          "field": 1,
+          "specialty": 1,
+          "precision": 1,
+          "equipment": 1.2,
+          "scale": 1,
+          "difficulty": 1,
+          "context": 1,
+          "functionBand": 1,
+          "actions": 1
+        },
+        "exact": 6.24,
+        "final": 6
+      },
+      "dodgeWithoutApplicableField": {
+        "route": {
+          "attribute": "Mobility",
+          "derived": "Responsiveness",
+          "task": "Dodge",
+          "field": null,
+          "specialty": null,
+          "precision": null
+        },
+        "factors": {
+          "attribute": 4,
+          "derived": 1.2,
+          "task": 1,
+          "field": 1,
+          "specialty": 1,
+          "precision": 1,
+          "equipment": 1,
+          "scale": 1,
+          "difficulty": 1,
+          "context": 1,
+          "functionBand": 1,
+          "actions": 1
+        },
+        "exact": 4.8,
+        "final": 4
+      },
+      "recoverPhysicalFunctionWithoutApplicableField": {
+        "route": {
+          "attribute": "Might",
+          "derived": "Resilience",
+          "task": "Recover",
+          "field": null,
+          "specialty": null,
+          "precision": null
+        },
+        "factors": {
+          "attribute": 3,
+          "derived": 1.1,
+          "task": 1,
+          "field": 1,
+          "specialty": 1,
+          "precision": 1,
+          "equipment": 1,
+          "scale": 1,
+          "difficulty": 1,
+          "context": 1,
+          "functionBand": 1,
+          "actions": 1
+        },
+        "exact": 3.3000000000000003,
+        "final": 3
+      }
+    },
+    {
+      "id": "B",
+      "name": "Expedition security guide",
+      "cost": {
+        "attributes": 1260,
+        "derived": 1040,
+        "training": 775,
+        "total": 3075
+      },
+      "unusedFlexible": 0,
+      "familiarHandgun": {
+        "route": {
+          "attribute": "Mobility",
+          "derived": "Coordination",
+          "task": "Discharge",
+          "field": "Firearms",
+          "specialty": "Handguns",
+          "precision": "Revolvers"
+        },
+        "factors": {
+          "attribute": 8,
+          "derived": 1.7,
+          "task": 1.9,
+          "field": 1.9,
+          "specialty": 1.7,
+          "precision": 1.8,
+          "equipment": 1.2,
+          "scale": 1,
+          "difficulty": 1,
+          "context": 1,
+          "functionBand": 1,
+          "actions": 1
+        },
+        "exact": 180.280512,
+        "final": 180
+      },
+      "dodgeWithoutApplicableField": {
+        "route": {
+          "attribute": "Mobility",
+          "derived": "Responsiveness",
+          "task": "Dodge",
+          "field": null,
+          "specialty": null,
+          "precision": null
+        },
+        "factors": {
+          "attribute": 8,
+          "derived": 1.4,
+          "task": 1.4,
+          "field": 1,
+          "specialty": 1,
+          "precision": 1,
+          "equipment": 1,
+          "scale": 1,
+          "difficulty": 1,
+          "context": 1,
+          "functionBand": 1,
+          "actions": 1
+        },
+        "exact": 15.679999999999998,
+        "final": 15
+      },
+      "recoverPhysicalFunctionWithoutApplicableField": {
+        "route": {
+          "attribute": "Might",
+          "derived": "Resilience",
+          "task": "Recover",
+          "field": null,
+          "specialty": null,
+          "precision": null
+        },
+        "factors": {
+          "attribute": 5,
+          "derived": 1.2,
+          "task": 1,
+          "field": 1,
+          "specialty": 1,
+          "precision": 1,
+          "equipment": 1,
+          "scale": 1,
+          "difficulty": 1,
+          "context": 1,
+          "functionBand": 1,
+          "actions": 1
+        },
+        "exact": 6,
+        "final": 6
+      }
+    },
+    {
+      "id": "C",
+      "name": "Medical specialist",
+      "cost": {
+        "attributes": 1260,
+        "derived": 1040,
+        "training": 775,
+        "total": 3075
+      },
+      "unusedFlexible": 0,
+      "familiarHandgun": {
+        "route": {
+          "attribute": "Mobility",
+          "derived": "Coordination",
+          "task": "Discharge",
+          "field": "Firearms",
+          "specialty": "Handguns",
+          "precision": "Revolvers"
+        },
+        "factors": {
+          "attribute": 7,
+          "derived": 1.7,
+          "task": 1,
+          "field": 1,
+          "specialty": 1,
+          "precision": 1,
+          "equipment": 1.2,
+          "scale": 1,
+          "difficulty": 1,
+          "context": 1,
+          "functionBand": 1,
+          "actions": 1
+        },
+        "exact": 14.28,
+        "final": 14
+      },
+      "dodgeWithoutApplicableField": {
+        "route": {
+          "attribute": "Mobility",
+          "derived": "Responsiveness",
+          "task": "Dodge",
+          "field": null,
+          "specialty": null,
+          "precision": null
+        },
+        "factors": {
+          "attribute": 7,
+          "derived": 1.2,
+          "task": 1,
+          "field": 1,
+          "specialty": 1,
+          "precision": 1,
+          "equipment": 1,
+          "scale": 1,
+          "difficulty": 1,
+          "context": 1,
+          "functionBand": 1,
+          "actions": 1
+        },
+        "exact": 8.4,
+        "final": 8
+      },
+      "recoverPhysicalFunctionWithoutApplicableField": {
+        "route": {
+          "attribute": "Might",
+          "derived": "Resilience",
+          "task": "Recover",
+          "field": null,
+          "specialty": null,
+          "precision": null
+        },
+        "factors": {
+          "attribute": 3,
+          "derived": 1.1,
+          "task": 1,
+          "field": 1,
+          "specialty": 1,
+          "precision": 1,
+          "equipment": 1,
+          "scale": 1,
+          "difficulty": 1,
+          "context": 1,
+          "functionBand": 1,
+          "actions": 1
+        },
+        "exact": 3.3000000000000003,
+        "final": 3
+      }
+    }
+  ],
+  "guideOtherHandgun": {
+    "route": {
+      "attribute": "Mobility",
+      "derived": "Coordination",
+      "task": "Discharge",
+      "field": "Firearms",
+      "specialty": "Handguns",
+      "precision": null
+    },
+    "factors": {
+      "attribute": 8,
+      "derived": 1.7,
+      "task": 1.9,
+      "field": 1.9,
+      "specialty": 1.7,
+      "precision": 1,
+      "equipment": 1.2,
+      "scale": 1,
+      "difficulty": 1,
+      "context": 1,
+      "functionBand": 1,
+      "actions": 1
+    },
+    "exact": 100.15583999999998,
+    "final": 100
+  },
+  "guideBroadFirearm": {
+    "route": {
+      "attribute": "Mobility",
+      "derived": "Coordination",
+      "task": "Discharge",
+      "field": "Firearms",
+      "specialty": null,
+      "precision": null
+    },
+    "factors": {
+      "attribute": 8,
+      "derived": 1.7,
+      "task": 1.9,
+      "field": 1.9,
+      "specialty": 1,
+      "precision": 1,
+      "equipment": 1.2,
+      "scale": 1,
+      "difficulty": 1,
+      "context": 1,
+      "functionBand": 1,
+      "actions": 1
+    },
+    "exact": 58.91519999999999,
+    "final": 58
+  },
+  "conditionalDodgeWithFirearms": {
+    "route": {
+      "attribute": "Mobility",
+      "derived": "Responsiveness",
+      "task": "Dodge",
+      "field": "Firearms",
+      "specialty": null,
+      "precision": null
+    },
+    "factors": {
+      "attribute": 8,
+      "derived": 1.4,
+      "task": 1.4,
+      "field": 1.9,
+      "specialty": 1,
+      "precision": 1,
+      "equipment": 1,
+      "scale": 1,
+      "difficulty": 1,
+      "context": 1,
+      "functionBand": 1,
+      "actions": 1
+    },
+    "exact": 29.791999999999994,
+    "final": 29
+  },
+  "sensitivity": [
+    {
+      "label": "signature revolver",
+      "condition": "neutral opposition",
+      "difficulty": 1,
+      "context": 1,
+      "functionBand": 1,
+      "actions": 1,
+      "exact": 180.280512,
+      "final": 180
+    },
+    {
+      "label": "signature revolver",
+      "condition": "distinct D1",
+      "difficulty": 0.98,
+      "context": 1,
+      "functionBand": 1,
+      "actions": 1,
+      "exact": 176.67490175999998,
+      "final": 176
+    },
+    {
+      "label": "signature revolver",
+      "condition": "distinct D2",
+      "difficulty": 0.588,
+      "context": 1,
+      "functionBand": 1,
+      "actions": 1,
+      "exact": 106.00494105599999,
+      "final": 106
+    },
+    {
+      "label": "signature revolver",
+      "condition": "distinct D3",
+      "difficulty": 0.3528,
+      "context": 1,
+      "functionBand": 1,
+      "actions": 1,
+      "exact": 63.602964633599996,
+      "final": 63
+    },
+    {
+      "label": "signature revolver",
+      "condition": "two actions only",
+      "difficulty": 1,
+      "context": 1,
+      "functionBand": 1,
+      "actions": 2,
+      "exact": 90.140256,
+      "final": 90
+    },
+    {
+      "label": "signature revolver",
+      "condition": "50% Function Band only",
+      "difficulty": 1,
+      "context": 1,
+      "functionBand": 0.5,
+      "actions": 1,
+      "exact": 90.140256,
+      "final": 90
+    },
+    {
+      "label": "signature revolver",
+      "condition": "distinct D3 and two actions",
+      "difficulty": 0.3528,
+      "context": 1,
+      "functionBand": 1,
+      "actions": 2,
+      "exact": 31.801482316799998,
+      "final": 31
+    },
+    {
+      "label": "signature revolver",
+      "condition": "distinct D3 and 50% Function Band",
+      "difficulty": 0.3528,
+      "context": 1,
+      "functionBand": 0.5,
+      "actions": 1,
+      "exact": 31.801482316799998,
+      "final": 31
+    },
+    {
+      "label": "other handgun",
+      "condition": "neutral opposition",
+      "difficulty": 1,
+      "context": 1,
+      "functionBand": 1,
+      "actions": 1,
+      "exact": 100.15583999999998,
+      "final": 100
+    },
+    {
+      "label": "other handgun",
+      "condition": "distinct D1",
+      "difficulty": 0.98,
+      "context": 1,
+      "functionBand": 1,
+      "actions": 1,
+      "exact": 98.15272319999998,
+      "final": 98
+    },
+    {
+      "label": "other handgun",
+      "condition": "distinct D2",
+      "difficulty": 0.588,
+      "context": 1,
+      "functionBand": 1,
+      "actions": 1,
+      "exact": 58.89163391999999,
+      "final": 58
+    },
+    {
+      "label": "other handgun",
+      "condition": "distinct D3",
+      "difficulty": 0.3528,
+      "context": 1,
+      "functionBand": 1,
+      "actions": 1,
+      "exact": 35.334980351999995,
+      "final": 35
+    },
+    {
+      "label": "other handgun",
+      "condition": "two actions only",
+      "difficulty": 1,
+      "context": 1,
+      "functionBand": 1,
+      "actions": 2,
+      "exact": 50.07791999999999,
+      "final": 50
+    },
+    {
+      "label": "other handgun",
+      "condition": "50% Function Band only",
+      "difficulty": 1,
+      "context": 1,
+      "functionBand": 0.5,
+      "actions": 1,
+      "exact": 50.07791999999999,
+      "final": 50
+    },
+    {
+      "label": "other handgun",
+      "condition": "distinct D3 and two actions",
+      "difficulty": 0.3528,
+      "context": 1,
+      "functionBand": 1,
+      "actions": 2,
+      "exact": 17.667490175999998,
+      "final": 17
+    },
+    {
+      "label": "other handgun",
+      "condition": "distinct D3 and 50% Function Band",
+      "difficulty": 0.3528,
+      "context": 1,
+      "functionBand": 0.5,
+      "actions": 1,
+      "exact": 17.667490175999998,
+      "final": 17
+    },
+    {
+      "label": "broad firearm",
+      "condition": "neutral opposition",
+      "difficulty": 1,
+      "context": 1,
+      "functionBand": 1,
+      "actions": 1,
+      "exact": 58.91519999999999,
+      "final": 58
+    },
+    {
+      "label": "broad firearm",
+      "condition": "distinct D1",
+      "difficulty": 0.98,
+      "context": 1,
+      "functionBand": 1,
+      "actions": 1,
+      "exact": 57.73689599999999,
+      "final": 57
+    },
+    {
+      "label": "broad firearm",
+      "condition": "distinct D2",
+      "difficulty": 0.588,
+      "context": 1,
+      "functionBand": 1,
+      "actions": 1,
+      "exact": 34.64213759999999,
+      "final": 34
+    },
+    {
+      "label": "broad firearm",
+      "condition": "distinct D3",
+      "difficulty": 0.3528,
+      "context": 1,
+      "functionBand": 1,
+      "actions": 1,
+      "exact": 20.78528256,
+      "final": 20
+    },
+    {
+      "label": "broad firearm",
+      "condition": "two actions only",
+      "difficulty": 1,
+      "context": 1,
+      "functionBand": 1,
+      "actions": 2,
+      "exact": 29.457599999999996,
+      "final": 29
+    },
+    {
+      "label": "broad firearm",
+      "condition": "50% Function Band only",
+      "difficulty": 1,
+      "context": 1,
+      "functionBand": 0.5,
+      "actions": 1,
+      "exact": 29.457599999999996,
+      "final": 29
+    },
+    {
+      "label": "broad firearm",
+      "condition": "distinct D3 and two actions",
+      "difficulty": 0.3528,
+      "context": 1,
+      "functionBand": 1,
+      "actions": 2,
+      "exact": 10.39264128,
+      "final": 10
+    },
+    {
+      "label": "broad firearm",
+      "condition": "distinct D3 and 50% Function Band",
+      "difficulty": 0.3528,
+      "context": 1,
+      "functionBand": 0.5,
+      "actions": 1,
+      "exact": 10.39264128,
+      "final": 10
+    }
+  ],
+  "rankFiveBroadExample": {
+    "status": "Illustrative route, not a replacement character allocation",
+    "factors": [
+      5,
+      1.5,
+      1.5,
+      1.5,
+      1,
+      1,
+      1.2
+    ],
+    "exact": 20.25
+  },
+  "legacyMaximum": 80,
+  "expandedTrainingMaximumBeforeEquipment": 320
+}

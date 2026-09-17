@@ -59,7 +59,7 @@ implementation substance.
 
 ## Current Records
 
-Current system reference:
+Earlier working reference, preserved with a subsequent-adoption notice:
 
 ```text
 docs\system\lens-system-working-reference-v0.2.md
@@ -77,8 +77,42 @@ Current source extraction record:
 docs\extraction\lens-source-extraction-record-v0.1.md
 ```
 
-The baseline draft is not yet a replacement for the working reference. It is
-the current consolidation artifact for evaluating the standalone system.
+The baseline and terminology Markdown reference carry the current core rules.
+The earlier working reference retains dated development material where superseded.
+
+Current terminology reference:
+
+```text
+docs\system\lens-terminology-quick-reference-v0.1.md
+```
+
+The 2026-09-13 core adoption uses Attribute plus Derived, Access-only HOLTs
+with direct Axis development, and Participation 10 with discretionary 0/3/5.
+Prices, protected starting allocations, and reserved conversion decisions are
+recorded in `docs/design/lens-core-three-package-adoption-v0.1.md`.
+
+The 2026-09-15 working pricing revision is recorded in
+`docs/design/lens-uniform-holt-pricing-adoption-v0.1.md`: HOLT Access 20 once,
+Axis ranks 20 each, and negotiated ten-percent reductions on affected purchases.
+It supersedes the earlier 40/15 prices and acquisition-only discount schedule;
+other development prices, awards, and protected allocations are unchanged.
+
+The 2026-09-17 core adoption of lasting Character Aspects is recorded in
+`docs/design/lens-character-aspects-working-package-v0.1.md`. Selection is
+optional; one applicable Aspect supplies an independent factor and develops
+through play. Baseline, Markdown terminology, and construction references are
+updated without changing prices, awards, or existing character records.
+Temporary enhancement and other expressly deferred extensions remain unadopted.
+
+The Benefits and Drawbacks framework was also adopted as working core rules
+on 2026-09-17, in `docs/design/lens-benefits-and-drawbacks-working-package-v0.1.md`.
+Starting compensation is capped at forty actual points; the flexible base
+remains 125. Actual credit supports existing buyoff logic. Catalogue values
+remain provisional, and HOLD/species balancing stays deferred.
+
+The existing terminology `.docx` is an older export and is not synchronized with
+the current Markdown. Use the `.md` reference for current rules. Word-export
+refresh and visual verification remain pending an available document renderer.
 
 Current Scale math record:
 
@@ -89,8 +123,15 @@ docs\math\lens-scale-x1.6-test-record-v0.1.md
 Current waypoint:
 
 ```text
-waypoints\lens-current-development-waypoint-v0.3.md
+waypoints\lens-current-development-waypoint-v0.4.md
 ```
+
+First playable packet and companion records:
+
+[Playtest package](docs/playtest/README.md), including printable rules and
+character sheet, two costed rank builds, the River Archive scenario, and
+app-facing data requirements. This is ready for table feedback; the app has
+not been implemented or modified by that deliverable.
 
 Current Derived Attribute research record:
 

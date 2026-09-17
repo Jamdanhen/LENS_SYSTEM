@@ -5,6 +5,20 @@ Status: Working reference, not final rules
 Date: 2026-06-30
 Source: LENS extraction map, MOTURPG working mechanics doctrine, Resonance / Dissonance documents, Scale waypoints, math test waypoints, and current design discussion
 
+## Subsequent Core Adoption
+
+Updated authority notice, 2026-09-13: the user adopted the additive Attribute
+plus Derived foundation, Access-only HOLTs with purchased Axis development,
+and Participation 10 with discretionary 0/3/5 awards. For those rules and
+subsequent core decisions, use `lens-system-baseline-draft-v0.1.md` and
+`lens-terminology-quick-reference-v0.1.md`. The adoption record is
+`../design/lens-core-three-package-adoption-v0.1.md`.
+
+The older wording and calculations below are preserved as a dated development
+reference where superseded. They are not an alternative current formula, HOLT
+parent-rank structure, or award schedule. Historical character and test numbers
+have not been silently converted.
+
 ---
 
 ## Purpose

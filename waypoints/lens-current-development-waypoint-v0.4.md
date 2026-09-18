@@ -214,8 +214,8 @@ Expressions, recognizing Aspects, applying consequences, and using the sheet.
 Fixed-roll demonstrations and automated arithmetic are not observed playtests.
 
 Open/deferred items remain explicit: Profile/Lens range, area and time references;
-final Scale calibration; other movement forms; initial initiative formula not
-verified in the packet; setting recovery and loss consequences; indefinite
+final Scale calibration; other movement forms; remaining initiative presentation
+and modifier questions; setting recovery and loss consequences; indefinite
 imposed duration; unresolved compound cases; extreme limitation reductions and
 legacy conversion; species balancing; catalogue prices; milestone recipients
 and absent-player awards; deferred Aspect extensions and higher ranks.
@@ -224,6 +224,16 @@ Character-sheet ergonomics and app interface work should follow actual table
 findings. App implementation, live sharing, and migration require their own
 authorization. Do not reopen adopted packages merely because their historical
 tests or prior waypoint describe an earlier model.
+
+## Initiative Correction
+
+The initial packet mistakenly omitted an existing initiative formula and described
+it as unverified. The terminology reference already defines Initiative Base as
+`(Awareness Final Rating + Responsiveness Final Rating) / 2`, and Initiative Result
+as that Base minus the opening percentile roll, with persistent order changed
+through Delay or the fiction. The packet, printable extract, and app requirements
+now include it. Its recorded working-candidate status is preserved; this is an
+omission correction, not a new formula or an initiative redesign.
 
 ## Synchronization
 

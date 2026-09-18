@@ -11,7 +11,7 @@ Version 0.1 | 2026-09-17 | Approved artifact-building lane
 
 For the shortest first session, use the characters directly from packet pages 7-8 and copy only the Expression/session sheet page as needed. The full blank sheet supports constructing or carrying a character beyond the scene; it need not be recopied before this test.
 
-Use actual dice for the scenario and keep fixed-roll rehearsals separate. The ordinary scenario needs no universal range/area lookup, HOLT starting grant, or species valuation. If extending it to those cases, record the relevant GM/Profile assumption rather than promoting it into core. Initial initiative generation is not supplied by this extract; establish a local order if needed, retaining adopted Delay behavior.
+Use actual dice for the scenario and keep fixed-roll rehearsals separate. The ordinary scenario needs no universal range/area lookup, HOLT starting grant, or species valuation. If extending it to those cases, record the relevant GM/Profile assumption rather than promoting it into core. Use the established working initiative formula: average Awareness and Responsiveness Final Ratings, then subtract the opening percentile roll. Retain persistent order and adopted Delay behavior. The formula exists in the terminology reference; remaining presentation and modifier questions do not mean initiative has yet to be designed.
 
 ## Authority and Scope
 

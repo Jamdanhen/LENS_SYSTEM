@@ -161,7 +161,7 @@ Establish the request and stakes, then resolve persuasion. On success, the playe
 
 One ordinary action per round; a combat round is three shared seconds. One unit is approximately one meter, whether using hexes, squares, or no grid. Other movement forms and Profiles may differ.
 
-If an initiative sequence is needed, record the table's starting-order assumption first. This extract has no verified initial-initiative formula; its Delay procedure does not supply one.
+The established working Initiative Base is `(Awareness Final Rating + Responsiveness Final Rating) / 2`. Subtract the opening percentile roll to obtain the Initiative Result; the opening order persists until Delay or the fiction changes it. The terminology reference records this formula as a working candidate, not a missing rule. Its remaining presentation and modifier questions are not settled by this extract.
 
 | Allocation on ordinary clear ground | Allowance |
 | --- | --- |

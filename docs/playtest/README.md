@@ -4,6 +4,21 @@ Version 0.1 | 2026-09-17 | Approved artifact-building lane
 
 ## Use at the Table
 
+Newest layout alternative: [v0.3 blank sheet](../../output/pdf/lens-character-sheet-v0.3.pdf)
+and [Mara v0.3 example](../../output/pdf/lens-character-sheet-mara-example-v0.3.pdf).
+Page 2 groups related expertise and shows common-Expression arithmetic; page 3
+applies the current adjustments and resolves the attempt. See the
+[v0.3 review](lens-character-sheet-v0.3-review.md). All prior drafts remain available.
+
+Current character-sheet design for review: [v0.2 blank sheet](../../output/pdf/lens-character-sheet-v0.2.pdf)
+and [filled Mara Vale example](../../output/pdf/lens-character-sheet-mara-example-v0.2.pdf).
+These retain the accepted visual concept with actual Load trackers and separated
+supporting sections. The blank set has seven modules, including an optional
+HOLT sheet; Mara uses six. See the [design and desk rehearsal](lens-character-sheet-v0.2-review.md)
+for source facts, staged changes, verification, and remaining table-use questions.
+Both are handwriting PDFs. The original five-page draft below is retained as
+an earlier artifact, not the current visual direction.
+
 - [Printable packet](../../output/pdf/lens-first-playable-packet-v0.1.pdf): twelve pages of working rules, two costed ordinary rank builds with scene provisions, a 60-90-minute scenario, worked checks, feedback procedure, and open-value boundaries.
 - [Draft printable character sheet](../../output/pdf/lens-draft-character-sheet-v0.1.pdf): five reusable pages covering all 25 Derived Attributes, open training, Access and Aspects, actual compensation, and Expression/session records. This draft is for handwriting, not an interactive PDF form. Printed rows are not game limits.
 - [App-facing data requirements](lens-app-data-requirements-v0.1.md): character and resolution records, validation, permissions, funding traceability, and acceptance examples. No app code, framework, sharing model, or migration is adopted.

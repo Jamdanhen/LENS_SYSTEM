@@ -2,12 +2,28 @@
 
 This document records the current decision queue for LENS System.
 
+## Parent-Paired Foundations Retained - 2026-09-20
+
+User-approved: retain original parent Attribute + Derived Rank foundations.
+Mixed Attribute-Derived foundations are parked as exploratory; the record is
+`docs/tests/lens-mixed-foundation-test-v0.1.md`. Preserve fiction-supported Task,
+Field, and established Lens flexibility without new cross-parent foundation
+rules. The proposed mixed-foundation Function follow-up is no longer active.
+No prices, caps, protected allocations, or character records change. Return
+to existing project work; reopen mixing only with new user direction.
+
 Current synchronization waypoint:
-`waypoints/lens-current-development-waypoint-v0.4.md` (2026-09-17). Resume with
+`waypoints/lens-current-development-waypoint-v0.5.md` (2026-09-22). Resume with
 table use of the packet below. The v0.3 compound-construction queue is historical;
 the new waypoint preserves subsequent adoptions and names local-only exclusions.
 
 ## First Playable Packet - 2026-09-17
+
+Character-sheet follow-up: the user approved extending the accepted visual
+concept into a complete draft and filled example. The v0.2 blank sheet and Mara
+Vale desk rehearsal are linked in `docs/playtest/lens-character-sheet-v0.2-review.md`.
+Next is user layout review and actual table use. Art and the app/module composer
+remain deferred; existing character records and core rules are unchanged.
 
 User-approved artifact lane: produce the first playable packet, draft character
 sheet, app-facing data requirements, and short playtest procedure using adopted

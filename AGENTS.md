@@ -122,6 +122,7 @@ Known waypoints:
 - `lens-current-development-waypoint-v0.2.md`
 - `lens-current-development-waypoint-v0.3.md`
 - `lens-current-development-waypoint-v0.4.md`
+- `lens-current-development-waypoint-v0.5.md`
 
 When the user says `establish waypoint` or `create a waypoint`, follow the
 Crucible Registry Project Waypoint Synchronization Rule and do not stop at local
@@ -206,11 +207,18 @@ C:\LENS-System\docs\math\lens-scale-x1.6-test-record-v0.1.md
 Current active development waypoint:
 
 ```text
-C:\LENS-System\waypoints\lens-current-development-waypoint-v0.4.md
+C:\LENS-System\waypoints\lens-current-development-waypoint-v0.5.md
 ```
 
+Retained 2026-09-20: foundations remain parent-paired. Mixed Attribute-Derived
+foundations are parked as exploratory; Task, Field, and established Lens
+flexibility is preserved. Do not resume the mixed-foundation Function follow-up
+without new user direction. The baseline and terminology also retain the
+working D1-D10 Difficulty titles without changing the curve or Access rules.
+
 First playable packet: `docs/playtest/README.md`, with printable outputs under
-`output/pdf/`, a draft five-page character sheet, and app-facing data requirements.
+`output/pdf/`, v0.2/v0.3 character-sheet drafts and Mara examples, the retained
+original five-page sheet, and app-facing data requirements.
 The next validation is actual table use. Do not infer app-implementation
 authorization or new core values from the packet's scenario fixtures.
 
@@ -286,3 +294,26 @@ Attribute, Derived Attribute, Skill, Specialization, and Expression.
 
 Preserve LENS terminology, local guidance, substantive content, and local
 overrides.
+
+
+## Phone Image Display
+
+Adopted by Jamie on 2026-09-22. For an image requested on a phone, including
+the in-chat phone preview, follow:
+C:\CRUCIBLE_REGISTRY\PHONE_IMAGE_DISPLAY_PROTOCOL.MD
+
+Complete necessary prose and authorized file work first. Reuse the requested
+local image; generate or edit only when actually requested. Call native
+tools.view_image with its actual absolute path, then emit the returned image
+with image(preview.image_url). Leave that native preview as the final output,
+ending with an empty final response where supported. Do not append a Markdown
+image embed, filesystem link, caption, success announcement, continuation block,
+or further tool work after the preview. Tool success alone is not proof that
+the phone displayed the image. Respect higher-level tool requirements.
+
+This is display guidance only. Preserve the project's style, canon, character
+and scale rules, creative workflow, privacy, participant access, and local
+authority. In Comics it does not authorize ANY drawing-style, color, realism,
+character, canon, reference, or creative-workflow change. It grants no new
+permission for file moves, publication, mirrors, sandbox resets, or permission
+changes. Ordinary non-image output rules remain unchanged.

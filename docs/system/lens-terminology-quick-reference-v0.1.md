@@ -159,6 +159,12 @@ User-approved core rule, 2026-09-13:
 
 Ordinary foundation = Attribute Rating + Derived Attribute Rank
 
+Parent-paired foundation, retained by user decision 2026-09-20: use the Derived
+Attribute's own parent in this addition. Mixed foundations are parked as
+exploratory, not adopted. Tasks and Fields remain applicable across appropriate
+routes; other Lenses retain their established support functions. No new
+cross-parent foundation rule or mandatory extra roll is introduced.
+
 Ordinary six-layer Expression =
 (A + D) x (1 + T/10) x (1 + F/10) x (1 + S/10) x (1 + P/10)
 
@@ -695,6 +701,27 @@ frame.
 Difficulty Rank
 
 The current 1-10 benchmark position on the Difficulty Curve.
+
+Working Difficulty Titles
+
+User-approved carry-forward, 2026-09-20:
+
+```text
+D1   Easy
+D2   Familiar
+D3   Standard
+D4   Challenging
+D5   Difficult
+D6   Hard
+D7   Very Hard
+D8   Extreme
+D9   Nearly Impossible
+D10  Impossible
+```
+
+These are working names, not changes to the current curve or Access rules.
+Automatic and Trivial remain outside the ladder. The D10 title does not
+override the resolution of a permitted attempt.
 
 Combined Difficulty
 

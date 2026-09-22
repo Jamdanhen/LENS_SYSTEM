@@ -1323,6 +1323,17 @@ no free first Derived rank is granted. Applicable unranked Training contributes
 x1.0; inapplicable layers supply no bonus. Ordinary attempts do not require
 purchasing every layer.
 
+User-confirmed retention, 2026-09-20: foundations remain parent-paired. The
+Attribute added to a Derived Rank is that Derived Attribute's own parent, not
+a freely selected Attribute. Mixed Attribute-Derived foundations are parked as
+exploratory material, not adopted or an active core-completion requirement.
+Preserve fiction-supported Task and Field applicability across existing routes
+and the established support functions of other Lenses. This does not assign
+Tasks or Fields exclusively to one Attribute family, remove legitimate support,
+or require separate rolls merely because several capabilities matter in a scene.
+No new cross-parent exception, Function rule, price, or development cap follows.
+Test record: `../tests/lens-mixed-foundation-test-v0.1.md`.
+
 Scale, applicable Axis development, Character Aspect, equipment, context, Difficulty, Function,
 Access, and resolution procedures retain their established roles. Add the
 foundation before applying those factors and floor only the final result.
@@ -3116,6 +3127,29 @@ D10 = 0
 Difficulty Rank is rated 1-10.
 
 Automatic and Trivial sit outside this benchmark ladder.
+
+### Working Difficulty Titles
+
+User-approved carry-forward, 2026-09-20: retain the earlier descriptive titles
+as working names for the ten Difficulty bands.
+
+| Difficulty | Working title |
+|---|---|
+| D1 | Easy |
+| D2 | Familiar |
+| D3 | Standard |
+| D4 | Challenging |
+| D5 | Difficult |
+| D6 | Hard |
+| D7 | Very Hard |
+| D8 | Extreme |
+| D9 | Nearly Impossible |
+| D10 | Impossible |
+
+This restores the names, not an earlier mathematical interpretation. The
+current curve, final-only rounding, Scale, Access, and natural-result rules
+are unchanged. "Impossible" names the upper Difficulty band; it does not
+itself close Access or override a permitted attempt's resolution.
 
 ### Combining Challenge Components
 
